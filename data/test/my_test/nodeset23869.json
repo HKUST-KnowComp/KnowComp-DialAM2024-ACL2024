@@ -1,0 +1,678 @@
+{
+    "nodes": [
+        {
+            "nodeID": "830644",
+            "text": "John Bercow : Hugh is right",
+            "type": "L",
+            "timestamp": "2022-01-07 11:27:21"
+        },
+        {
+            "nodeID": "830646",
+            "text": "Hugh Osmond is right",
+            "type": "I",
+            "timestamp": "2022-01-07 11:27:21"
+        },
+        {
+            "nodeID": "830647",
+            "text": "Nicole: John Bercow : Hugh is right",
+            "type": "L",
+            "timestamp": "2022-01-07 11:27:22"
+        },
+        {
+            "nodeID": "830648",
+            "text": "John Bercow : the sector deserves relief and support",
+            "type": "L",
+            "timestamp": "2022-01-07 11:27:23"
+        },
+        {
+            "nodeID": "830650",
+            "text": "the sector deserves relief and support",
+            "type": "I",
+            "timestamp": "2022-01-07 11:27:23"
+        },
+        {
+            "nodeID": "830651",
+            "text": "Nicole: John Bercow : the sector deserves relief and support",
+            "type": "L",
+            "timestamp": "2022-01-07 11:27:24"
+        },
+        {
+            "nodeID": "830653",
+            "text": "Robert Jenrick : The reason to stick to the dates that we've talked about and why that doesn't conflict with the data not dates point, is that it takes talks five weeks to gather the correct data",
+            "type": "L",
+            "timestamp": "2022-01-07 11:27:24"
+        },
+        {
+            "nodeID": "830655",
+            "text": "the reason to stick to the dates that we've talked about and why that doesn't conflict with the data not dates point, is that it takes five weeks to gather the correct data",
+            "type": "I",
+            "timestamp": "2022-01-07 11:27:25"
+        },
+        {
+            "nodeID": "830656",
+            "text": "Nicole: Robert Jenrick : The reason to stick to the dates that we've talked about and why that doesn't conflict with the data not dates point, is that it takes talks five weeks to gather the correct data",
+            "type": "L",
+            "timestamp": "2022-01-07 11:27:25"
+        },
+        {
+            "nodeID": "830658",
+            "text": "Robert Jenrick : you can make the most informed decision",
+            "type": "L",
+            "timestamp": "2022-01-07 11:27:26"
+        },
+        {
+            "nodeID": "830660",
+            "text": "you can make the most informed decision",
+            "type": "I",
+            "timestamp": "2022-01-07 11:27:27"
+        },
+        {
+            "nodeID": "830661",
+            "text": "Nicole: Robert Jenrick : you can make the most informed decision",
+            "type": "L",
+            "timestamp": "2022-01-07 11:27:27"
+        },
+        {
+            "nodeID": "830665",
+            "text": "Robert Jenrick : That's the point that the minister, Chris Witty, our experts, review the data in the knowledge of all the facts, make a decision, then provide sufficient time for the sector to provide for whatever the outcome is",
+            "type": "L",
+            "timestamp": "2022-01-07 11:27:28"
+        },
+        {
+            "nodeID": "830667",
+            "text": "that's the point that the minister, Chris Witty, our experts, review the data in the knowledge of all the facts, make a decision, then provide sufficient time for the sector to provide for whatever the outcome is",
+            "type": "I",
+            "timestamp": "2022-01-07 11:27:28"
+        },
+        {
+            "nodeID": "830668",
+            "text": "Nicole: Robert Jenrick : That's the point that the minister, Chris Witty, our experts, review the data in the knowledge of all the facts, make a decision, then provide sufficient time for the sector to provide for whatever the outcome is",
+            "type": "L",
+            "timestamp": "2022-01-07 11:27:29"
+        },
+        {
+            "nodeID": "830672",
+            "text": "Robert Jenrick : it is better not to rush and make a decision before you're armed with all the information",
+            "type": "L",
+            "timestamp": "2022-01-07 11:27:29"
+        },
+        {
+            "nodeID": "830674",
+            "text": "it is better not to rush and make a decision before you're armed with all the information",
+            "type": "I",
+            "timestamp": "2022-01-07 11:27:30"
+        },
+        {
+            "nodeID": "830675",
+            "text": "Nicole: Robert Jenrick : it is better not to rush and make a decision before you're armed with all the information",
+            "type": "L",
+            "timestamp": "2022-01-07 11:27:31"
+        },
+        {
+            "nodeID": "830679",
+            "text": "Hugh Osmond : I'm afraid that's incorrect",
+            "type": "L",
+            "timestamp": "2022-01-07 11:27:31"
+        },
+        {
+            "nodeID": "830681",
+            "text": "Hugh Osmond is afraid the reason to stick to the dates that we've talked about and why that doesn't conflict with the data not dates point, is that it takes five weeks to gather the correct data is incorrect",
+            "type": "I",
+            "timestamp": "2022-01-07 11:27:32"
+        },
+        {
+            "nodeID": "830682",
+            "text": "Nicole: Hugh Osmond : I'm afraid that's incorrect",
+            "type": "L",
+            "timestamp": "2022-01-07 11:27:32"
+        },
+        {
+            "nodeID": "830683",
+            "text": "Hugh Osmond : Contrary to what was said earlier, we do have access for the data",
+            "type": "L",
+            "timestamp": "2022-01-07 11:27:33"
+        },
+        {
+            "nodeID": "830685",
+            "text": "contrary to what was said earlier, we do have access for the data",
+            "type": "I",
+            "timestamp": "2022-01-07 11:27:33"
+        },
+        {
+            "nodeID": "830686",
+            "text": "Nicole: Hugh Osmond : Contrary to what was said earlier, we do have access for the data",
+            "type": "L",
+            "timestamp": "2022-01-07 11:27:34"
+        },
+        {
+            "nodeID": "830692",
+            "text": "Hugh Osmond : The roadmap, the way out of lockdown, was based on three models, three principal models",
+            "type": "L",
+            "timestamp": "2022-01-07 11:27:35"
+        },
+        {
+            "nodeID": "830694",
+            "text": "the roadmap, the way out of lockdown, was based on three models, three principal models",
+            "type": "I",
+            "timestamp": "2022-01-07 11:27:35"
+        },
+        {
+            "nodeID": "830695",
+            "text": "Nicole: Hugh Osmond : The roadmap, the way out of lockdown, was based on three models, three principal models",
+            "type": "L",
+            "timestamp": "2022-01-07 11:27:36"
+        },
+        {
+            "nodeID": "830697",
+            "text": "Hugh Osmond : The assumptions behind the models were published, I'm pleased to say",
+            "type": "L",
+            "timestamp": "2022-01-07 11:27:36"
+        },
+        {
+            "nodeID": "830699",
+            "text": "the assumptions behind the models were published, Hugh Osmond is pleased to say",
+            "type": "I",
+            "timestamp": "2022-01-07 11:27:37"
+        },
+        {
+            "nodeID": "830700",
+            "text": "Nicole: Hugh Osmond : The assumptions behind the models were published, I'm pleased to say",
+            "type": "L",
+            "timestamp": "2022-01-07 11:27:38"
+        },
+        {
+            "nodeID": "830701",
+            "text": "Hugh Osmond : What we can actually see is that in all respects the data has consistently, from the end of January, been better than those models",
+            "type": "L",
+            "timestamp": "2022-01-07 11:27:38"
+        },
+        {
+            "nodeID": "830703",
+            "text": "what we can actually see is that in all respects the data has consistently, from the end of January, been better than those models",
+            "type": "I",
+            "timestamp": "2022-01-07 11:27:39"
+        },
+        {
+            "nodeID": "830704",
+            "text": "Nicole: Hugh Osmond : What we can actually see is that in all respects the data has consistently, from the end of January, been better than those models",
+            "type": "L",
+            "timestamp": "2022-01-07 11:27:39"
+        },
+        {
+            "nodeID": "830705",
+            "text": "Hugh Osmond : we take vaccines themselves, which has been a tremendous achievement by the country",
+            "type": "L",
+            "timestamp": "2022-01-07 11:27:40"
+        },
+        {
+            "nodeID": "830707",
+            "text": "we take vaccines themselves, which has been a tremendous achievement by the country",
+            "type": "I",
+            "timestamp": "2022-01-07 11:27:40"
+        },
+        {
+            "nodeID": "830708",
+            "text": "Nicole: Hugh Osmond : we take vaccines themselves, which has been a tremendous achievement by the country",
+            "type": "L",
+            "timestamp": "2022-01-07 11:27:41"
+        },
+        {
+            "nodeID": "830710",
+            "text": "Hugh Osmond : which is now being squandered",
+            "type": "L",
+            "timestamp": "2022-01-07 11:27:42"
+        },
+        {
+            "nodeID": "830712",
+            "text": "vaccines are now being squandered",
+            "type": "I",
+            "timestamp": "2022-01-07 11:27:42"
+        },
+        {
+            "nodeID": "830713",
+            "text": "Nicole: Hugh Osmond : which is now being squandered",
+            "type": "L",
+            "timestamp": "2022-01-07 11:27:43"
+        },
+        {
+            "nodeID": "830715",
+            "text": "Hugh Osmond : we can see the assumptions that we used in those models",
+            "type": "L",
+            "timestamp": "2022-01-07 11:27:43"
+        },
+        {
+            "nodeID": "830717",
+            "text": "we can see the assumptions that we used in those models",
+            "type": "I",
+            "timestamp": "2022-01-07 11:27:44"
+        },
+        {
+            "nodeID": "830718",
+            "text": "Nicole: Hugh Osmond : we can see the assumptions that we used in those models",
+            "type": "L",
+            "timestamp": "2022-01-07 11:27:44"
+        },
+        {
+            "nodeID": "830720",
+            "text": "Hugh Osmond : we can see the uptake amongst the vulnerable was much greater than the models assumed",
+            "type": "L",
+            "timestamp": "2022-01-07 11:27:45"
+        },
+        {
+            "nodeID": "830722",
+            "text": "we can see the uptake of vaccines amongst the vulnerable was much greater than the models assumed",
+            "type": "I",
+            "timestamp": "2022-01-07 11:27:46"
+        },
+        {
+            "nodeID": "830723",
+            "text": "Nicole: Hugh Osmond : we can see the uptake amongst the vulnerable was much greater than the models assumed",
+            "type": "L",
+            "timestamp": "2022-01-07 11:27:46"
+        },
+        {
+            "nodeID": "869669",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 17:56:16",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "869671",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 17:56:21",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "869673",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 17:56:26",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "869677",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 17:56:30",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "869681",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 17:56:35",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "869686",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 17:56:46",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "869688",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 17:56:46",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "869692",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 17:56:50",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "869696",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 17:57:02",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "869698",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 17:57:06",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "869700",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 17:57:09",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "869702",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 17:57:10",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "869703",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 17:57:10",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "869705",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 17:57:10",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "1087746",
+            "fromID": "830644",
+            "toID": "869669",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1087747",
+            "fromID": "869669",
+            "toID": "830648",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1087750",
+            "fromID": "830648",
+            "toID": "869671",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1087751",
+            "fromID": "869671",
+            "toID": "830653",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1087754",
+            "fromID": "830653",
+            "toID": "869673",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1087755",
+            "fromID": "869673",
+            "toID": "830658",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1087762",
+            "fromID": "830658",
+            "toID": "869677",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1087763",
+            "fromID": "869677",
+            "toID": "830665",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1087770",
+            "fromID": "830665",
+            "toID": "869681",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1087771",
+            "fromID": "869681",
+            "toID": "830672",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1087780",
+            "fromID": "830679",
+            "toID": "869686",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1087781",
+            "fromID": "869686",
+            "toID": "830683",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1087784",
+            "fromID": "830653",
+            "toID": "869688",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1087785",
+            "fromID": "869688",
+            "toID": "830679",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1087792",
+            "fromID": "830683",
+            "toID": "869692",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1087793",
+            "fromID": "869692",
+            "toID": "830692",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1087800",
+            "fromID": "830701",
+            "toID": "869696",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1087801",
+            "fromID": "869696",
+            "toID": "830705",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1087804",
+            "fromID": "830705",
+            "toID": "869698",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1087805",
+            "fromID": "869698",
+            "toID": "830710",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1087808",
+            "fromID": "830710",
+            "toID": "869700",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1087809",
+            "fromID": "869700",
+            "toID": "830715",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1087813",
+            "fromID": "830692",
+            "toID": "869702",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1087814",
+            "fromID": "869702",
+            "toID": "830697",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1087815",
+            "fromID": "830679",
+            "toID": "869703",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1087816",
+            "fromID": "869703",
+            "toID": "830701",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1087819",
+            "fromID": "830715",
+            "toID": "869705",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1087820",
+            "fromID": "869705",
+            "toID": "830720",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "830644",
+            "personID": "3733",
+            "timestamp": "2022-01-14 17:57:11",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "830648",
+            "personID": "3733",
+            "timestamp": "2022-01-14 17:57:11",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "830653",
+            "personID": "3734",
+            "timestamp": "2022-01-14 17:57:11",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "830658",
+            "personID": "3734",
+            "timestamp": "2022-01-14 17:57:11",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "830665",
+            "personID": "3734",
+            "timestamp": "2022-01-14 17:57:11",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "830672",
+            "personID": "3734",
+            "timestamp": "2022-01-14 17:57:11",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "830679",
+            "personID": "3732",
+            "timestamp": "2022-01-14 17:57:11",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "830683",
+            "personID": "3732",
+            "timestamp": "2022-01-14 17:57:11",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "830692",
+            "personID": "3732",
+            "timestamp": "2022-01-14 17:57:11",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "830697",
+            "personID": "3732",
+            "timestamp": "2022-01-14 17:57:11",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "830701",
+            "personID": "3732",
+            "timestamp": "2022-01-14 17:57:11",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "830705",
+            "personID": "3732",
+            "timestamp": "2022-01-14 17:57:11",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "830710",
+            "personID": "3732",
+            "timestamp": "2022-01-14 17:57:11",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "830715",
+            "personID": "3732",
+            "timestamp": "2022-01-14 17:57:11",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "830720",
+            "personID": "3732",
+            "timestamp": "2022-01-14 17:57:11",
+            "start": null,
+            "end": null,
+            "source": null
+        }
+    ]
+}

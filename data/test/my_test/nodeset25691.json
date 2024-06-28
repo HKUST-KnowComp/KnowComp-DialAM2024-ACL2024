@@ -1,0 +1,898 @@
+{
+    "nodes": [
+        {
+            "nodeID": "775927",
+            "text": "Tim Stanley : No, that particular term is totally unacceptable",
+            "type": "L",
+            "timestamp": "2021-11-11 20:57:54"
+        },
+        {
+            "nodeID": "775933",
+            "text": "Tim Stanley : The answer is no",
+            "type": "L",
+            "timestamp": "2021-11-11 20:57:57"
+        },
+        {
+            "nodeID": "775939",
+            "text": "AudienceMember 20211111QT22 : Can a racist term ever be defined as banter",
+            "type": "L",
+            "timestamp": "2021-11-11 20:57:59"
+        },
+        {
+            "nodeID": "798248",
+            "text": "Abbie: Fiona Bruce : I'm going to explain what the term is",
+            "type": "L",
+            "timestamp": "2022-01-06 10:38:45"
+        },
+        {
+            "nodeID": "1027382",
+            "text": "If the government look at it holistically",
+            "type": "L",
+            "timestamp": "2022-07-11 10:09:46"
+        },
+        {
+            "nodeID": "1027383",
+            "text": "Xiyuan: Paul Polman : If the government look at it holistically",
+            "type": "L",
+            "timestamp": "2022-07-11 10:09:47"
+        },
+        {
+            "nodeID": "1027384",
+            "text": "Paul Polman : If the government look at it holistically, 90 or 100 percent of these can be solved",
+            "type": "L",
+            "timestamp": "2022-07-11 10:09:48"
+        },
+        {
+            "nodeID": "1027386",
+            "text": "if the government look at the energy issue holistically, 90 or 100 percent of these can be solved",
+            "type": "I",
+            "timestamp": "2022-07-11 10:09:49"
+        },
+        {
+            "nodeID": "1027387",
+            "text": "Xiyuan: Paul Polman : If the government look at it holistically, 90 or 100 percent of these can be solved",
+            "type": "L",
+            "timestamp": "2022-07-11 10:09:50"
+        },
+        {
+            "nodeID": "1027388",
+            "text": "Paul Polman : It is the same for business",
+            "type": "L",
+            "timestamp": "2022-07-11 10:09:51"
+        },
+        {
+            "nodeID": "1027390",
+            "text": "it is the same for business",
+            "type": "I",
+            "timestamp": "2022-07-11 10:09:51"
+        },
+        {
+            "nodeID": "1027391",
+            "text": "Xiyuan: Paul Polman : It is the same for business",
+            "type": "L",
+            "timestamp": "2022-07-11 10:09:52"
+        },
+        {
+            "nodeID": "1027392",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-11 10:09:52",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1027393",
+            "text": "Paul Polman : We should stop competing with each other on the future of humanity, include in politics",
+            "type": "L",
+            "timestamp": "2022-07-11 10:09:53"
+        },
+        {
+            "nodeID": "1027395",
+            "text": "we should stop competing with each other on the future of humanity, including in politics",
+            "type": "I",
+            "timestamp": "2022-07-11 10:09:53"
+        },
+        {
+            "nodeID": "1027396",
+            "text": "Xiyuan: Paul Polman : We should stop competing with each other on the future of humanity, include in politics",
+            "type": "L",
+            "timestamp": "2022-07-11 10:09:54"
+        },
+        {
+            "nodeID": "1027397",
+            "text": "Paul Polman : start working together like adults on these things for the benefit of mankind",
+            "type": "L",
+            "timestamp": "2022-07-11 10:09:55"
+        },
+        {
+            "nodeID": "1027399",
+            "text": "we should start working together like adults on these things for the benefit of mankind",
+            "type": "I",
+            "timestamp": "2022-07-11 10:09:56"
+        },
+        {
+            "nodeID": "1027400",
+            "text": "Xiyuan: Paul Polman : start working together like adults on these things for the benefit of mankind",
+            "type": "L",
+            "timestamp": "2022-07-11 10:09:56"
+        },
+        {
+            "nodeID": "1027402",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-11 10:09:56",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1027404",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-11 10:09:56",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1027406",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-11 10:09:56",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1027407",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-11 10:09:56",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1027409",
+            "text": "Paul Polman : We have the technology",
+            "type": "L",
+            "timestamp": "2022-07-11 10:09:57"
+        },
+        {
+            "nodeID": "1027411",
+            "text": "we have the technology",
+            "type": "I",
+            "timestamp": "2022-07-11 10:09:58"
+        },
+        {
+            "nodeID": "1027412",
+            "text": "Xiyuan: Paul Polman : We have the technology",
+            "type": "L",
+            "timestamp": "2022-07-11 10:09:59"
+        },
+        {
+            "nodeID": "1027413",
+            "text": "Paul Polman : We know what we have to do, and we don't have time",
+            "type": "L",
+            "timestamp": "2022-07-11 10:09:59"
+        },
+        {
+            "nodeID": "1027415",
+            "text": "we know what we have to do, and we don't have time",
+            "type": "I",
+            "timestamp": "2022-07-11 10:10:00"
+        },
+        {
+            "nodeID": "1027416",
+            "text": "Xiyuan: Paul Polman : We know what we have to do, and we don't have time",
+            "type": "L",
+            "timestamp": "2022-07-11 10:10:01"
+        },
+        {
+            "nodeID": "1027417",
+            "text": "Fiona Bruce : We could talk about climate change all evening",
+            "type": "L",
+            "timestamp": "2022-07-11 10:10:02"
+        },
+        {
+            "nodeID": "1027419",
+            "text": "we could talk about climate change all evening",
+            "type": "I",
+            "timestamp": "2022-07-11 10:10:03"
+        },
+        {
+            "nodeID": "1027420",
+            "text": "Xiyuan: Fiona Bruce : We could talk about climate change all evening",
+            "type": "L",
+            "timestamp": "2022-07-11 10:10:04"
+        },
+        {
+            "nodeID": "1027421",
+            "text": "Fiona Bruce : it is a massive topic, hugely important",
+            "type": "L",
+            "timestamp": "2022-07-11 10:10:04"
+        },
+        {
+            "nodeID": "1027423",
+            "text": "climate change is a massive topic, hugely important",
+            "type": "I",
+            "timestamp": "2022-07-11 10:10:05"
+        },
+        {
+            "nodeID": "1027424",
+            "text": "Xiyuan: Fiona Bruce : it is a massive topic, hugely important",
+            "type": "L",
+            "timestamp": "2022-07-11 10:10:06"
+        },
+        {
+            "nodeID": "1027426",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-11 10:10:06",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1027428",
+            "text": "Xiyuan: Fiona Bruce : There's another question a lot of you submitted this evening",
+            "type": "L",
+            "timestamp": "2022-07-11 10:10:07"
+        },
+        {
+            "nodeID": "1027429",
+            "text": "Xiyuan: Fiona Bruce : I'm going to move on",
+            "type": "L",
+            "timestamp": "2022-07-11 10:10:08"
+        },
+        {
+            "nodeID": "1027430",
+            "text": "Xiyuan: Fiona Bruce : Can a racist term ever be defined as banter",
+            "type": "L",
+            "timestamp": "2022-07-11 10:10:08"
+        },
+        {
+            "nodeID": "1027431",
+            "text": "Xiyuan: Fiona Bruce : I'm just picking one of them.",
+            "type": "L",
+            "timestamp": "2022-07-11 10:10:09"
+        },
+        {
+            "nodeID": "1027433",
+            "text": "a racist term can or can not ever be defined as banter",
+            "type": "I",
+            "timestamp": "2022-07-11 10:10:11"
+        },
+        {
+            "nodeID": "1027434",
+            "text": "Xiyuan: AudienceMember 20211111QT22 : Can a racist term ever be defined as banter",
+            "type": "L",
+            "timestamp": "2022-07-11 10:10:11"
+        },
+        {
+            "nodeID": "1027435",
+            "text": "Xiyuan: Fiona Bruce : What you are talking about here is the furore there's been over Azeem Rafiq who claims he was subjected to institutional racism at his club, and he clearly feels that this has not been handled properly and Yorkshire has carried out its own investigation, ruled no disciplinary action would take place, called it banter",
+            "type": "L",
+            "timestamp": "2022-07-11 10:10:12"
+        },
+        {
+            "nodeID": "1027436",
+            "text": "Fiona Bruce : the furore there's been over Azeem Rafiq who claims he was subjected to institutional racism at his club, and he clearly feels that this has not been handled properly",
+            "type": "L",
+            "timestamp": "2022-07-11 10:10:13"
+        },
+        {
+            "nodeID": "1027438",
+            "text": "Azeem Rafiq who claims he was subjected to institutional racism at his club, and he clearly feels that this has not been handled properly",
+            "type": "I",
+            "timestamp": "2022-07-11 10:10:14"
+        },
+        {
+            "nodeID": "1027439",
+            "text": "Xiyuan: Fiona Bruce : the furore there's been over Azeem Rafiq who claims he was subjected to institutional racism at his club, and he clearly feels that this has not been handled properly",
+            "type": "L",
+            "timestamp": "2022-07-11 10:10:14"
+        },
+        {
+            "nodeID": "1027440",
+            "text": "Fiona Bruce : Yorkshire has carried out its own investigation, ruled no disciplinary action would take place, called it banter",
+            "type": "L",
+            "timestamp": "2022-07-11 10:10:15"
+        },
+        {
+            "nodeID": "1027442",
+            "text": "Yorkshire has carried out its own investigation, ruled no disciplinary action would take place, called it banter",
+            "type": "I",
+            "timestamp": "2022-07-11 10:10:16"
+        },
+        {
+            "nodeID": "1027443",
+            "text": "Xiyuan: Fiona Bruce : Yorkshire has carried out its own investigation, ruled no disciplinary action would take place, called it banter",
+            "type": "L",
+            "timestamp": "2022-07-11 10:10:17"
+        },
+        {
+            "nodeID": "1027445",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-11 10:10:17",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1027447",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-11 10:10:17",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1027451",
+            "text": "a racist term can not ever be defined as banter",
+            "type": "I",
+            "timestamp": "2022-07-11 10:10:18"
+        },
+        {
+            "nodeID": "1027452",
+            "text": "Xiyuan: Tim Stanley : The answer is no",
+            "type": "L",
+            "timestamp": "2022-07-11 10:10:19"
+        },
+        {
+            "nodeID": "1027453",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-11 10:10:19",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1027455",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-11 10:10:19",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1027457",
+            "text": "Tim Stanley : There's nothing else to say",
+            "type": "L",
+            "timestamp": "2022-07-11 10:10:20"
+        },
+        {
+            "nodeID": "1027459",
+            "text": "there's nothing else to say",
+            "type": "I",
+            "timestamp": "2022-07-11 10:10:20"
+        },
+        {
+            "nodeID": "1027460",
+            "text": "Xiyuan: Tim Stanley : There's nothing else to say",
+            "type": "L",
+            "timestamp": "2022-07-11 10:10:21"
+        },
+        {
+            "nodeID": "1027461",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-11 10:10:21",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1027462",
+            "text": "Tim Stanley : I don't see how the club can explain its decision to not take further action other than, I suppose, hypothetically, perhaps, there was a reluctance to do something that might damage the career of a star player",
+            "type": "L",
+            "timestamp": "2022-07-11 10:10:22"
+        },
+        {
+            "nodeID": "1027464",
+            "text": "Tim Stanley does not see how the club can explain its decision to not take further action other than, there was a reluctance to do something that might damage the career of a star player",
+            "type": "I",
+            "timestamp": "2022-07-11 10:10:22"
+        },
+        {
+            "nodeID": "1027465",
+            "text": "Xiyuan: Tim Stanley : I don't see how the club can explain its decision to not take further action other than, I suppose, hypothetically, perhaps, there was a reluctance to do something that might damage the career of a star player",
+            "type": "L",
+            "timestamp": "2022-07-11 10:10:23"
+        },
+        {
+            "nodeID": "1027466",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-11 10:10:23",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1027467",
+            "text": "Tim Stanley : I don't know",
+            "type": "L",
+            "timestamp": "2022-07-11 10:10:24"
+        },
+        {
+            "nodeID": "1027469",
+            "text": "Tim Stanley does not know if there was a reluctance to do something that might damage the career of a star player",
+            "type": "I",
+            "timestamp": "2022-07-11 10:10:25"
+        },
+        {
+            "nodeID": "1027470",
+            "text": "Xiyuan: Tim Stanley : I don't know",
+            "type": "L",
+            "timestamp": "2022-07-11 10:10:26"
+        },
+        {
+            "nodeID": "1027472",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-11 10:10:26",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1027474",
+            "text": "Tim Stanley : that's purely speculative",
+            "type": "L",
+            "timestamp": "2022-07-11 10:10:26"
+        },
+        {
+            "nodeID": "1027476",
+            "text": "that's purely speculative that there was a reluctance to do something that might damage the career of a star player",
+            "type": "I",
+            "timestamp": "2022-07-11 10:10:27"
+        },
+        {
+            "nodeID": "1027477",
+            "text": "Xiyuan: Tim Stanley : that's purely speculative",
+            "type": "L",
+            "timestamp": "2022-07-11 10:10:28"
+        },
+        {
+            "nodeID": "1027479",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-11 10:10:28",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1027482",
+            "text": "no, that particular term is totally unacceptable",
+            "type": "I",
+            "timestamp": "2022-07-11 10:10:29"
+        },
+        {
+            "nodeID": "1027483",
+            "text": "Xiyuan: Tim Stanley : No, that particular term is totally unacceptable",
+            "type": "L",
+            "timestamp": "2022-07-11 10:10:30"
+        },
+        {
+            "nodeID": "1027484",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-11 10:10:30",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1027486",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-11 10:10:30",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1027488",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-11 10:10:30",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1027489",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-11 10:10:30",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1027490",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-11 10:10:30",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1027491",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-11 10:10:30",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "1359302",
+            "fromID": "1027384",
+            "toID": "1027392",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359303",
+            "fromID": "1027392",
+            "toID": "1027388",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359310",
+            "fromID": "1027384",
+            "toID": "1027402",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359311",
+            "fromID": "1027402",
+            "toID": "1027393",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359314",
+            "fromID": "1027384",
+            "toID": "1027404",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359315",
+            "fromID": "1027404",
+            "toID": "1027397",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359320",
+            "fromID": "1027388",
+            "toID": "1027406",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359321",
+            "fromID": "1027406",
+            "toID": "1027393",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359322",
+            "fromID": "1027393",
+            "toID": "1027407",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359323",
+            "fromID": "1027407",
+            "toID": "1027397",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359336",
+            "fromID": "1027417",
+            "toID": "1027426",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359337",
+            "fromID": "1027426",
+            "toID": "1027421",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359348",
+            "fromID": "775939",
+            "toID": "1027445",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359349",
+            "fromID": "1027445",
+            "toID": "1027436",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359352",
+            "fromID": "775939",
+            "toID": "1027447",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359353",
+            "fromID": "1027447",
+            "toID": "1027440",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359360",
+            "fromID": "1027440",
+            "toID": "1027453",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359361",
+            "fromID": "1027453",
+            "toID": "775933",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359364",
+            "fromID": "775939",
+            "toID": "1027455",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359365",
+            "fromID": "1027455",
+            "toID": "775933",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359370",
+            "fromID": "775933",
+            "toID": "1027461",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359371",
+            "fromID": "1027461",
+            "toID": "1027457",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359374",
+            "fromID": "1027457",
+            "toID": "1027466",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359375",
+            "fromID": "1027466",
+            "toID": "1027462",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359380",
+            "fromID": "1027462",
+            "toID": "1027472",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359381",
+            "fromID": "1027472",
+            "toID": "1027467",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359388",
+            "fromID": "1027467",
+            "toID": "1027479",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359389",
+            "fromID": "1027479",
+            "toID": "1027474",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359394",
+            "fromID": "1027474",
+            "toID": "1027484",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359395",
+            "fromID": "1027484",
+            "toID": "775927",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359398",
+            "fromID": "775927",
+            "toID": "1027486",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359399",
+            "fromID": "1027486",
+            "toID": "775933",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359402",
+            "fromID": "1027397",
+            "toID": "1027488",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359403",
+            "fromID": "1027488",
+            "toID": "1027409",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359404",
+            "fromID": "1027409",
+            "toID": "1027489",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359405",
+            "fromID": "1027489",
+            "toID": "1027413",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359406",
+            "fromID": "1027413",
+            "toID": "1027490",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359407",
+            "fromID": "1027490",
+            "toID": "1027417",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359408",
+            "fromID": "1027421",
+            "toID": "1027491",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1359409",
+            "fromID": "1027491",
+            "toID": "775939",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "1027384",
+            "personID": "5636",
+            "timestamp": "2022-07-11 10:10:30",
+            "start": "2020-10-15 23:49:22",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "1027388",
+            "personID": "5636",
+            "timestamp": "2022-07-11 10:10:30",
+            "start": "2020-10-15 23:49:28",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "1027393",
+            "personID": "5636",
+            "timestamp": "2022-07-11 10:10:30",
+            "start": "2020-10-15 23:49:33",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "1027397",
+            "personID": "5636",
+            "timestamp": "2022-07-11 10:10:30",
+            "start": "2020-10-15 23:49:41",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "1027409",
+            "personID": "5636",
+            "timestamp": "2022-07-11 10:10:30",
+            "start": "2020-10-15 23:49:44",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "1027413",
+            "personID": "5636",
+            "timestamp": "2022-07-11 10:10:30",
+            "start": "2020-10-15 23:49:48",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "1027417",
+            "personID": "3812",
+            "timestamp": "2022-07-11 10:10:30",
+            "start": "2020-10-15 23:49:53",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "1027421",
+            "personID": "3812",
+            "timestamp": "2022-07-11 10:10:30",
+            "start": "2020-10-15 23:49:56",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "775939",
+            "personID": "5659",
+            "timestamp": "2022-07-11 10:10:30",
+            "start": "2020-10-15 23:50:06",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "1027436",
+            "personID": "3812",
+            "timestamp": "2022-07-11 10:10:30",
+            "start": "2020-10-15 23:50:17",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "1027440",
+            "personID": "3812",
+            "timestamp": "2022-07-11 10:10:30",
+            "start": "2020-10-15 23:50:40",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "775933",
+            "personID": "3721",
+            "timestamp": "2022-07-11 10:10:30",
+            "start": "2020-10-15 23:50:44",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "1027457",
+            "personID": "3721",
+            "timestamp": "2022-07-11 10:10:30",
+            "start": "2020-10-15 23:50:46",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "1027462",
+            "personID": "3721",
+            "timestamp": "2022-07-11 10:10:30",
+            "start": "2020-10-15 23:50:48",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "1027467",
+            "personID": "3721",
+            "timestamp": "2022-07-11 10:10:30",
+            "start": "2020-10-15 23:51:10",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "1027474",
+            "personID": "3721",
+            "timestamp": "2022-07-11 10:10:30",
+            "start": "2020-10-15 23:51:11",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "775927",
+            "personID": "3721",
+            "timestamp": "2022-07-11 10:10:30",
+            "start": "2020-10-15 23:51:14",
+            "end": null,
+            "source": null
+        }
+    ]
+}

@@ -1,0 +1,460 @@
+{
+    "nodes": [
+        {
+            "nodeID": "718987",
+            "text": "Fiona Bruce : Is now the time",
+            "type": "L",
+            "timestamp": "2021-06-10 20:15:15"
+        },
+        {
+            "nodeID": "718989",
+            "text": "the time is or is not now to lift the eviction ban",
+            "type": "I",
+            "timestamp": "2021-06-10 20:15:15"
+        },
+        {
+            "nodeID": "718990",
+            "text": "Mascha: Fiona Bruce : Is now the time",
+            "type": "L",
+            "timestamp": "2021-06-10 20:15:16"
+        },
+        {
+            "nodeID": "718991",
+            "text": "Heather McGregor : There hasn't been a ban on evictions",
+            "type": "L",
+            "timestamp": "2021-06-10 20:15:16"
+        },
+        {
+            "nodeID": "718993",
+            "text": "there hasn't been a ban on evictions",
+            "type": "I",
+            "timestamp": "2021-06-10 20:15:17"
+        },
+        {
+            "nodeID": "718994",
+            "text": "Mascha: Heather McGregor : There hasn't been a ban on evictions",
+            "type": "L",
+            "timestamp": "2021-06-10 20:15:18"
+        },
+        {
+            "nodeID": "718995",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 20:15:18",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "718996",
+            "text": "Heather McGregor : Evictions have been possible throughout the pandemic",
+            "type": "L",
+            "timestamp": "2021-06-10 20:15:18"
+        },
+        {
+            "nodeID": "718998",
+            "text": "evictions have been possible throughout the pandemic",
+            "type": "I",
+            "timestamp": "2021-06-10 20:15:19"
+        },
+        {
+            "nodeID": "718999",
+            "text": "Mascha: Heather McGregor : Evictions have been possible throughout the pandemic",
+            "type": "L",
+            "timestamp": "2021-06-10 20:15:19"
+        },
+        {
+            "nodeID": "719000",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 20:15:19",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "719003",
+            "text": "Heather McGregor :  it is the length of notice period that has been given",
+            "type": "L",
+            "timestamp": "2021-06-10 20:15:20"
+        },
+        {
+            "nodeID": "719005",
+            "text": "what has changed is the length of notice period that has been given",
+            "type": "I",
+            "timestamp": "2021-06-10 20:15:20"
+        },
+        {
+            "nodeID": "719006",
+            "text": "Mascha: Heather McGregor :  it is the length of notice period that has been given",
+            "type": "L",
+            "timestamp": "2021-06-10 20:15:21"
+        },
+        {
+            "nodeID": "719007",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 20:15:21",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "719010",
+            "text": "Fiona Bruce : evictions were not being enforced unless in very particular circumstances",
+            "type": "L",
+            "timestamp": "2021-06-10 20:15:21"
+        },
+        {
+            "nodeID": "719012",
+            "text": "evictions were not being enforced unless in very particular circumstances",
+            "type": "I",
+            "timestamp": "2021-06-10 20:15:22"
+        },
+        {
+            "nodeID": "719013",
+            "text": "Mascha: Fiona Bruce : evictions were not being enforced unless in very particular circumstances",
+            "type": "L",
+            "timestamp": "2021-06-10 20:15:22"
+        },
+        {
+            "nodeID": "719014",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 20:15:22",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "719017",
+            "text": "Fiona Bruce : which effectively was a ban",
+            "type": "L",
+            "timestamp": "2021-06-10 20:15:23"
+        },
+        {
+            "nodeID": "719019",
+            "text": "not enforcing evictions unless in very particular circumstances effectively was a ban",
+            "type": "I",
+            "timestamp": "2021-06-10 20:15:23"
+        },
+        {
+            "nodeID": "719020",
+            "text": "Mascha: Fiona Bruce : which effectively was a ban",
+            "type": "L",
+            "timestamp": "2021-06-10 20:15:24"
+        },
+        {
+            "nodeID": "719021",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 20:15:24",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "719024",
+            "text": "Mascha: Fiona Bruce : . Do you think the time has come to lift that ban now",
+            "type": "L",
+            "timestamp": "2021-06-10 20:15:24"
+        },
+        {
+            "nodeID": "719025",
+            "text": "Fiona Bruce : Do you think the time has come to lift that ban now",
+            "type": "L",
+            "timestamp": "2021-06-10 20:15:25"
+        },
+        {
+            "nodeID": "719027",
+            "text": "the time has or has not come to lift the eviction ban now",
+            "type": "I",
+            "timestamp": "2021-06-10 20:15:26"
+        },
+        {
+            "nodeID": "719028",
+            "text": "Mascha: Fiona Bruce : Do you think the time has come to lift that ban now",
+            "type": "L",
+            "timestamp": "2021-06-10 20:15:26"
+        },
+        {
+            "nodeID": "719029",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 20:15:26",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "719032",
+            "text": "Heather McGregor :  I do",
+            "type": "L",
+            "timestamp": "2021-06-10 20:15:27"
+        },
+        {
+            "nodeID": "719034",
+            "text": "the time has come to lift the eviction ban",
+            "type": "I",
+            "timestamp": "2021-06-10 20:15:28"
+        },
+        {
+            "nodeID": "719035",
+            "text": "Mascha: Heather McGregor :  I do",
+            "type": "L",
+            "timestamp": "2021-06-10 20:15:28"
+        },
+        {
+            "nodeID": "719036",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 20:15:28",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "719039",
+            "text": "Heather McGregor :  In order to have a properly functioning rental sector",
+            "type": "L",
+            "timestamp": "2021-06-10 20:15:29"
+        },
+        {
+            "nodeID": "719041",
+            "text": "in order to have a properly functioning rental sector",
+            "type": "I",
+            "timestamp": "2021-06-10 20:15:30"
+        },
+        {
+            "nodeID": "719042",
+            "text": "Mascha: Heather McGregor :  In order to have a properly functioning rental sector",
+            "type": "L",
+            "timestamp": "2021-06-10 20:15:31"
+        },
+        {
+            "nodeID": "719043",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 20:15:31",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "719046",
+            "text": "Mascha: Heather McGregor : why we need a properly functioning rental sector",
+            "type": "L",
+            "timestamp": "2021-06-10 20:15:31"
+        },
+        {
+            "nodeID": "719047",
+            "text": "Heather McGregor :  house prices have gone up so much now that it is almost impossible for anybody to get on the housing ladder in an early stage",
+            "type": "L",
+            "timestamp": "2021-06-10 20:15:32"
+        },
+        {
+            "nodeID": "719049",
+            "text": "house prices have gone up so much now that it is almost impossible for anybody to get on the housing ladder in an early stage",
+            "type": "I",
+            "timestamp": "2021-06-10 20:15:33"
+        },
+        {
+            "nodeID": "719050",
+            "text": "Mascha: Heather McGregor :  house prices have gone up so much now that it is almost impossible for anybody to get on the housing ladder in an early stage",
+            "type": "L",
+            "timestamp": "2021-06-10 20:15:34"
+        },
+        {
+            "nodeID": "719051",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 20:15:34",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "924508",
+            "fromID": "718987",
+            "toID": "718995",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "924509",
+            "fromID": "718995",
+            "toID": "718991",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "924512",
+            "fromID": "718991",
+            "toID": "719000",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "924513",
+            "fromID": "719000",
+            "toID": "718996",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "924520",
+            "fromID": "718996",
+            "toID": "719007",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "924521",
+            "fromID": "719007",
+            "toID": "719003",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "924528",
+            "fromID": "719003",
+            "toID": "719014",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "924529",
+            "fromID": "719014",
+            "toID": "719010",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "924536",
+            "fromID": "719010",
+            "toID": "719021",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "924537",
+            "fromID": "719021",
+            "toID": "719017",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "924544",
+            "fromID": "718987",
+            "toID": "719029",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "924545",
+            "fromID": "719029",
+            "toID": "719025",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "924552",
+            "fromID": "719025",
+            "toID": "719036",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "924553",
+            "fromID": "719036",
+            "toID": "719032",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "924560",
+            "fromID": "719032",
+            "toID": "719043",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "924561",
+            "fromID": "719043",
+            "toID": "719039",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "924568",
+            "fromID": "719039",
+            "toID": "719051",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "924569",
+            "fromID": "719051",
+            "toID": "719047",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "718987",
+            "personID": "3812",
+            "timestamp": "2021-06-10 20:15:34",
+            "start": "2020-10-15 22:50:01",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "718991",
+            "personID": "4766",
+            "timestamp": "2021-06-10 20:15:34",
+            "start": "2020-10-15 22:50:09",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "718996",
+            "personID": "4766",
+            "timestamp": "2021-06-10 20:15:34",
+            "start": "2020-10-15 22:50:13",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "719003",
+            "personID": "4766",
+            "timestamp": "2021-06-10 20:15:34",
+            "start": "2020-10-15 22:50:18",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "719010",
+            "personID": "3812",
+            "timestamp": "2021-06-10 20:15:34",
+            "start": "2020-10-15 22:50:34",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "719017",
+            "personID": "3812",
+            "timestamp": "2021-06-10 20:15:34",
+            "start": "2020-10-15 22:50:41",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "719025",
+            "personID": "3812",
+            "timestamp": "2021-06-10 20:15:34",
+            "start": "2020-10-15 22:50:44",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "719032",
+            "personID": "4766",
+            "timestamp": "2021-06-10 20:15:34",
+            "start": "2020-10-15 22:50:52",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "719039",
+            "personID": "4766",
+            "timestamp": "2021-06-10 20:15:34",
+            "start": "2020-10-15 22:50:52",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "719047",
+            "personID": "4766",
+            "timestamp": "2021-06-10 20:15:34",
+            "start": "2020-10-15 22:51:05",
+            "end": null,
+            "source": null
+        }
+    ]
+}

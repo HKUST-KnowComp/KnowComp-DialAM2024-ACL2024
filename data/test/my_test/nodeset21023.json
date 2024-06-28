@@ -1,0 +1,646 @@
+{
+    "nodes": [
+        {
+            "nodeID": "22328",
+            "text": "no",
+            "type": "I",
+            "timestamp": "2013-03-20 12:21:59"
+        },
+        {
+            "nodeID": "691976",
+            "text": "Anas Sarwar : No",
+            "type": "L",
+            "timestamp": "2021-04-29 20:24:25"
+        },
+        {
+            "nodeID": "691978",
+            "text": "xiyuan: Anas Sarwar : No",
+            "type": "L",
+            "timestamp": "2021-04-29 20:24:26"
+        },
+        {
+            "nodeID": "691979",
+            "text": "Anas Sarwar : what we're saying is that we have a national recovery plan",
+            "type": "L",
+            "timestamp": "2021-04-29 20:24:27"
+        },
+        {
+            "nodeID": "691981",
+            "text": "what we're saying is that we have a national recovery plan",
+            "type": "I",
+            "timestamp": "2021-04-29 20:24:28"
+        },
+        {
+            "nodeID": "691982",
+            "text": "xiyuan: Anas Sarwar : what we're saying is that we have a national recovery plan",
+            "type": "L",
+            "timestamp": "2021-04-29 20:24:28"
+        },
+        {
+            "nodeID": "691983",
+            "text": "Anas Sarwar : we've deliberately slitched our manifesto into two parts and made it a recovery plan rather than a party manifesto",
+            "type": "L",
+            "timestamp": "2021-04-29 20:24:29"
+        },
+        {
+            "nodeID": "691985",
+            "text": "we've deliberately slitched our manifesto into two parts and made it a recovery plan rather than a party manifesto",
+            "type": "I",
+            "timestamp": "2021-04-29 20:24:30"
+        },
+        {
+            "nodeID": "691986",
+            "text": "xiyuan: Anas Sarwar : we've deliberately slitched our manifesto into two parts and made it a recovery plan rather than a party manifesto",
+            "type": "L",
+            "timestamp": "2021-04-29 20:24:30"
+        },
+        {
+            "nodeID": "691988",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 20:24:30",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "691989",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 20:24:30",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "691991",
+            "text": "Anas Sarwar : it's a recovery plan for our country",
+            "type": "L",
+            "timestamp": "2021-04-29 20:24:31"
+        },
+        {
+            "nodeID": "691993",
+            "text": "it's a recovery plan for our country",
+            "type": "I",
+            "timestamp": "2021-04-29 20:24:32"
+        },
+        {
+            "nodeID": "691994",
+            "text": "xiyuan: Anas Sarwar : it's a recovery plan for our country",
+            "type": "L",
+            "timestamp": "2021-04-29 20:24:32"
+        },
+        {
+            "nodeID": "691996",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 20:24:33",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "691998",
+            "text": "Fiona Bruce : you've only provided costings for the first year",
+            "type": "L",
+            "timestamp": "2021-04-29 20:24:33"
+        },
+        {
+            "nodeID": "692000",
+            "text": "Anas Sarwar has only provided costings for the first year",
+            "type": "I",
+            "timestamp": "2021-04-29 20:24:34"
+        },
+        {
+            "nodeID": "692001",
+            "text": "xiyuan: Fiona Bruce : you've only provided costings for the first year",
+            "type": "L",
+            "timestamp": "2021-04-29 20:24:35"
+        },
+        {
+            "nodeID": "692002",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 20:24:35",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "692003",
+            "text": "Fiona Bruce : how can anyone actually work out how you're going to find the money for the whole term",
+            "type": "L",
+            "timestamp": "2021-04-29 20:24:36"
+        },
+        {
+            "nodeID": "692005",
+            "text": "the way that anyone actually works out how Anas Sarwar is going to find the money for the whole term is xxx",
+            "type": "I",
+            "timestamp": "2021-04-29 20:24:36"
+        },
+        {
+            "nodeID": "692006",
+            "text": "xiyuan: Fiona Bruce : how can anyone actually work out how you're going to find the money for the whole term",
+            "type": "L",
+            "timestamp": "2021-04-29 20:24:37"
+        },
+        {
+            "nodeID": "692008",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 20:24:37",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "692010",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 20:24:38",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "692011",
+            "text": "Anas Sarwar : what we're saying is that the investment we need to make immediately in the economy, and immediately around our public services, needs to happen on day one",
+            "type": "L",
+            "timestamp": "2021-04-29 20:24:39"
+        },
+        {
+            "nodeID": "692013",
+            "text": "what we're saying is that the investment we need to make immediately in the economy, and immediately around our public services, needs to happen on day one",
+            "type": "I",
+            "timestamp": "2021-04-29 20:24:40"
+        },
+        {
+            "nodeID": "692014",
+            "text": "xiyuan: Anas Sarwar : what we're saying is that the investment we need to make immediately in the economy, and immediately around our public services, needs to happen on day one",
+            "type": "L",
+            "timestamp": "2021-04-29 20:24:41"
+        },
+        {
+            "nodeID": "692015",
+            "text": "Anas Sarwar : We can't wait for the virus to disappear before we start planning for our national recovery",
+            "type": "L",
+            "timestamp": "2021-04-29 20:24:41"
+        },
+        {
+            "nodeID": "692017",
+            "text": "we can't wait for the virus to disappear before we start planning for our national recovery",
+            "type": "I",
+            "timestamp": "2021-04-29 20:24:42"
+        },
+        {
+            "nodeID": "692020",
+            "text": "xiyuan: Anas Sarwar : We can't wait for the virus to disappear before we start planning for our national recovery",
+            "type": "L",
+            "timestamp": "2021-04-29 20:24:43"
+        },
+        {
+            "nodeID": "692022",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 20:24:43",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "692025",
+            "text": "Fiona Bruce : saying that there's no sense of how much your manifesto would eventually cost and how you pay for it",
+            "type": "L",
+            "timestamp": "2021-04-29 20:24:44"
+        },
+        {
+            "nodeID": "692027",
+            "text": "there's no sense of how much your manifesto would eventually cost and how you pay for it",
+            "type": "I",
+            "timestamp": "2021-04-29 20:24:45"
+        },
+        {
+            "nodeID": "692030",
+            "text": "xiyuan: Fiona Bruce : saying that there's no sense of how much your manifesto would eventually cost and how you pay for it",
+            "type": "L",
+            "timestamp": "2021-04-29 20:24:46"
+        },
+        {
+            "nodeID": "692033",
+            "text": "the Institute for Fiscal Studies : there's no sense of how much your manifesto would eventually cost and how you pay for it",
+            "type": "L",
+            "timestamp": "2021-04-29 20:24:47"
+        },
+        {
+            "nodeID": "692035",
+            "text": "xiyuan: the Institute for Fiscal Studies : there's no sense of how much your manifesto would eventually cost and how you pay for it",
+            "type": "L",
+            "timestamp": "2021-04-29 20:24:48"
+        },
+        {
+            "nodeID": "692038",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 20:24:48",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "692040",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 20:24:48",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "692041",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 20:24:48",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "692044",
+            "text": "Fiona Bruce : what's your answer to that",
+            "type": "L",
+            "timestamp": "2021-04-29 20:24:49"
+        },
+        {
+            "nodeID": "692047",
+            "text": "Anas Sarwar's answer to the statement that there's no sense of how much your manifesto would eventually cost and how you pay for it is xxx",
+            "type": "I",
+            "timestamp": "2021-04-29 20:24:50"
+        },
+        {
+            "nodeID": "692049",
+            "text": "xiyuan: Fiona Bruce : what's your answer to that",
+            "type": "L",
+            "timestamp": "2021-04-29 20:24:51"
+        },
+        {
+            "nodeID": "692050",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 20:24:51",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "692053",
+            "text": "Anas Sarwar : we've been very clear about what we do in terms of the immediate in terms of our national recovery",
+            "type": "L",
+            "timestamp": "2021-04-29 20:24:52"
+        },
+        {
+            "nodeID": "692056",
+            "text": "we've been very clear about what we do in terms of our national recovery",
+            "type": "I",
+            "timestamp": "2021-04-29 20:24:53"
+        },
+        {
+            "nodeID": "692061",
+            "text": "xiyuan: Anas Sarwar : we've been very clear about what we do in terms of the immediate in terms of our national recovery",
+            "type": "L",
+            "timestamp": "2021-04-29 20:24:54"
+        },
+        {
+            "nodeID": "692062",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 20:24:54",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "692066",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 20:24:54",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "893944",
+            "fromID": "691979",
+            "toID": "691988",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "893945",
+            "fromID": "691988",
+            "toID": "691983",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "893946",
+            "fromID": "691976",
+            "toID": "691989",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "893947",
+            "fromID": "691989",
+            "toID": "691979",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "893955",
+            "fromID": "691979",
+            "toID": "691996",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "893956",
+            "fromID": "691996",
+            "toID": "691991",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "893961",
+            "fromID": "691991",
+            "toID": "692002",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "893962",
+            "fromID": "692002",
+            "toID": "691998",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "893967",
+            "fromID": "691998",
+            "toID": "692008",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "893968",
+            "fromID": "692008",
+            "toID": "692003",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "893971",
+            "fromID": "692003",
+            "toID": "692010",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "893972",
+            "fromID": "692010",
+            "toID": "691976",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "893979",
+            "fromID": "692011",
+            "toID": "692022",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "893980",
+            "fromID": "692022",
+            "toID": "692015",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "893989",
+            "fromID": "691979",
+            "toID": "692038",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "893990",
+            "fromID": "692038",
+            "toID": "692025",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "893993",
+            "fromID": "692015",
+            "toID": "692040",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "893994",
+            "fromID": "692040",
+            "toID": "692025",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "893995",
+            "fromID": "691976",
+            "toID": "692041",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "893996",
+            "fromID": "692041",
+            "toID": "692011",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "893999",
+            "fromID": "692025",
+            "toID": "692050",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "894000",
+            "fromID": "692050",
+            "toID": "692044",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "894003",
+            "fromID": "692044",
+            "toID": "692062",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "894004",
+            "fromID": "692062",
+            "toID": "692053",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "894011",
+            "fromID": "691998",
+            "toID": "692066",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "894012",
+            "fromID": "692066",
+            "toID": "692011",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "691976",
+            "personID": "4481",
+            "timestamp": "2021-04-29 20:24:54",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "691979",
+            "personID": "4481",
+            "timestamp": "2021-04-29 20:24:54",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "691983",
+            "personID": "4481",
+            "timestamp": "2021-04-29 20:24:54",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "691991",
+            "personID": "4481",
+            "timestamp": "2021-04-29 20:24:54",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "691998",
+            "personID": "3812",
+            "timestamp": "2021-04-29 20:24:54",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692003",
+            "personID": "3812",
+            "timestamp": "2021-04-29 20:24:54",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692011",
+            "personID": "4481",
+            "timestamp": "2021-04-29 20:24:54",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692015",
+            "personID": "4481",
+            "timestamp": "2021-04-29 20:24:54",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692025",
+            "personID": "3812",
+            "timestamp": "2021-04-29 20:24:54",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692033",
+            "personID": "4524",
+            "timestamp": "2021-04-29 20:24:54",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692044",
+            "personID": "3812",
+            "timestamp": "2021-04-29 20:24:54",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692053",
+            "personID": "4481",
+            "timestamp": "2021-04-29 20:24:54",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "691976",
+            "personID": "4481",
+            "timestamp": "2021-05-03 10:47:53",
+            "start": "2020-10-15 23:41:27",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "691976",
+            "personID": "3730",
+            "timestamp": "2022-01-13 15:57:14",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "691976",
+            "personID": "4481",
+            "timestamp": "2022-11-11 14:28:47",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "691979",
+            "personID": "4481",
+            "timestamp": "2022-11-11 14:28:47",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "691983",
+            "personID": "4481",
+            "timestamp": "2022-11-11 14:28:47",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692011",
+            "personID": "4481",
+            "timestamp": "2022-11-11 14:28:47",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692015",
+            "personID": "4481",
+            "timestamp": "2022-11-11 14:28:47",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692044",
+            "personID": "3812",
+            "timestamp": "2022-11-11 14:28:47",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692053",
+            "personID": "4481",
+            "timestamp": "2022-11-11 14:28:47",
+            "start": null,
+            "end": null,
+            "source": null
+        }
+    ]
+}

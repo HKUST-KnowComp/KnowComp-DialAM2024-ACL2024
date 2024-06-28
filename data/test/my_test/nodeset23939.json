@@ -1,0 +1,906 @@
+{
+    "nodes": [
+        {
+            "nodeID": "838424",
+            "text": "Manos: AudienceMember 20210722QT11 : The vaccination programme has really done a fantastic job in reducing deaths",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:21"
+        },
+        {
+            "nodeID": "838425",
+            "text": "AudienceMember 20210722QT11 : The vaccination programme has really done a fantastic job in reducing deaths",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:21"
+        },
+        {
+            "nodeID": "838427",
+            "text": "the vaccination programme has really done a fantastic job in reducing deaths",
+            "type": "I",
+            "timestamp": "2022-01-07 13:29:22"
+        },
+        {
+            "nodeID": "838428",
+            "text": "AudienceMember 20210722QT11 : there are 20-30-year-olds who are getting the disease",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:23"
+        },
+        {
+            "nodeID": "838430",
+            "text": "there are 20-30-year-olds who are getting the disease",
+            "type": "I",
+            "timestamp": "2022-01-07 13:29:24"
+        },
+        {
+            "nodeID": "838431",
+            "text": "Manos: AudienceMember 20210722QT11 : there are 20-30-year-olds who are getting the disease",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:24"
+        },
+        {
+            "nodeID": "838432",
+            "text": "AudienceMember 20210722QT11 : it's going to teenagers, and it will go round",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:25"
+        },
+        {
+            "nodeID": "838434",
+            "text": "the disease is going to teenagers, and it will go round",
+            "type": "I",
+            "timestamp": "2022-01-07 13:29:25"
+        },
+        {
+            "nodeID": "838435",
+            "text": "Manos: AudienceMember 20210722QT11 : it's going to teenagers, and it will go round",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:26"
+        },
+        {
+            "nodeID": "838436",
+            "text": "Manos: AudienceMember 20210722QT11 : It's not killing people to much any more, it's not doing that",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:26"
+        },
+        {
+            "nodeID": "838437",
+            "text": "AudienceMember 20210722QT11 : It's not killing people to much any more",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:27"
+        },
+        {
+            "nodeID": "838439",
+            "text": "the disease is not killing people too much any more",
+            "type": "I",
+            "timestamp": "2022-01-07 13:29:28"
+        },
+        {
+            "nodeID": "838440",
+            "text": "Manos: AudienceMember 20210722QT11 : It's not killing people to much any more",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:28"
+        },
+        {
+            "nodeID": "838441",
+            "text": "AudienceMember 20210722QT11 : We have a chance to liberate things",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:29"
+        },
+        {
+            "nodeID": "838443",
+            "text": "we have a chance to liberate things",
+            "type": "I",
+            "timestamp": "2022-01-07 13:29:29"
+        },
+        {
+            "nodeID": "838444",
+            "text": "Manos: AudienceMember 20210722QT11 : We have a chance to liberate things",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:30"
+        },
+        {
+            "nodeID": "838445",
+            "text": "Manos: AudienceMember 20210722QT11 : As Robert said, OK, sometimes we have to play one thing against another",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:31"
+        },
+        {
+            "nodeID": "838446",
+            "text": "Manos: Robert Buckland : As Robert said, OK, sometimes we have to play one thing against another",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:31"
+        },
+        {
+            "nodeID": "838447",
+            "text": "AudienceMember 20210722QT11 : As Robert said, OK, sometimes we have to play one thing against another",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:32"
+        },
+        {
+            "nodeID": "838448",
+            "text": "sometimes we have to play one thing against another",
+            "type": "I",
+            "timestamp": "2022-01-07 13:29:32"
+        },
+        {
+            "nodeID": "838450",
+            "text": "Robert Buckland : sometimes we have to play one thing against another",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:34"
+        },
+        {
+            "nodeID": "838452",
+            "text": "AudienceMember 20210722QT11 : do we want a Cup final, 60, 000 people to enjoy themselves",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:35"
+        },
+        {
+            "nodeID": "838454",
+            "text": "we want a Cup final, 60,000 people to enjoy themselves",
+            "type": "I",
+            "timestamp": "2022-01-07 13:29:35"
+        },
+        {
+            "nodeID": "838455",
+            "text": "Manos: AudienceMember 20210722QT11 : do we want a Cup final, 60, 000 people to enjoy themselves",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:36"
+        },
+        {
+            "nodeID": "838456",
+            "text": "Manos: Victor Adebowale : I think Aryan got it right",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:36"
+        },
+        {
+            "nodeID": "838457",
+            "text": "Aryan got it right",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:37"
+        },
+        {
+            "nodeID": "838458",
+            "text": "Victor Adebowale : Aryan got it right",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:38"
+        },
+        {
+            "nodeID": "838460",
+            "text": "20210722QT09 got it right",
+            "type": "I",
+            "timestamp": "2022-01-07 13:29:38"
+        },
+        {
+            "nodeID": "838461",
+            "text": "Manos: Victor Adebowale : Aryan got it right",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:39"
+        },
+        {
+            "nodeID": "838462",
+            "text": "Victor Adebowale : we need clarity, we need communication, and caution",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:39"
+        },
+        {
+            "nodeID": "838464",
+            "text": "we need clarity, we need communication, and caution",
+            "type": "I",
+            "timestamp": "2022-01-07 13:29:40"
+        },
+        {
+            "nodeID": "838465",
+            "text": "Manos: Victor Adebowale : we need clarity, we need communication, and caution",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:40"
+        },
+        {
+            "nodeID": "838466",
+            "text": "Victor Adebowale : I am worried that we are going to create a super-spreader event",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:41"
+        },
+        {
+            "nodeID": "838468",
+            "text": "Victor Adebowale is worried that we are going to create a super-spreader event",
+            "type": "I",
+            "timestamp": "2022-01-07 13:29:42"
+        },
+        {
+            "nodeID": "838469",
+            "text": "Manos: Victor Adebowale : I am worried that we are going to create a super-spreader event",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:42"
+        },
+        {
+            "nodeID": "838470",
+            "text": "Victor Adebowale : these people are going to come into London",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:43"
+        },
+        {
+            "nodeID": "838472",
+            "text": "these football fans are going to come into London",
+            "type": "I",
+            "timestamp": "2022-01-07 13:29:43"
+        },
+        {
+            "nodeID": "838473",
+            "text": "Manos: Victor Adebowale : these people are going to come into London",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:44"
+        },
+        {
+            "nodeID": "838474",
+            "text": "Victor Adebowale : how that will be perceived by the people watching it. You know at the moment",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:45"
+        },
+        {
+            "nodeID": "838476",
+            "text": "football fans coming into London will be perceived as xxx by the people watching it at the moment",
+            "type": "I",
+            "timestamp": "2022-01-07 13:29:45"
+        },
+        {
+            "nodeID": "838477",
+            "text": "Manos: Victor Adebowale : how that will be perceived by the people watching it. You know at the moment",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:46"
+        },
+        {
+            "nodeID": "838500",
+            "text": "Fiona Bruce : Do you mean dignitaries will come in without quarantine or the 60, 000 fans",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:46"
+        },
+        {
+            "nodeID": "838502",
+            "text": "Victor Adebowale does or does not mean dignitaries will come in without quarantine or the 60, 000 football fans",
+            "type": "I",
+            "timestamp": "2022-01-07 13:29:47"
+        },
+        {
+            "nodeID": "838503",
+            "text": "Manos: Fiona Bruce : Do you mean dignitaries will come in without quarantine or the 60, 000 fans",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:47"
+        },
+        {
+            "nodeID": "838507",
+            "text": "Victor Adebowale : It's the whole thing and the dignitaries",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:48"
+        },
+        {
+            "nodeID": "838509",
+            "text": "it's the whole thing and the dignitaries",
+            "type": "I",
+            "timestamp": "2022-01-07 13:29:49"
+        },
+        {
+            "nodeID": "838510",
+            "text": "Manos: Victor Adebowale : It's the whole thing and the dignitaries",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:49"
+        },
+        {
+            "nodeID": "838511",
+            "text": "Victor Adebowale : I saw the NHS Confederation represents Acute Trusts, mate trusts",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:50"
+        },
+        {
+            "nodeID": "838513",
+            "text": "Victor Adebowale saw the NHS Confederation represents Acute Trusts, mate trusts",
+            "type": "I",
+            "timestamp": "2022-01-07 13:29:50"
+        },
+        {
+            "nodeID": "838514",
+            "text": "Manos: Victor Adebowale : I saw the NHS Confederation represents Acute Trusts, mate trusts",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:51"
+        },
+        {
+            "nodeID": "838515",
+            "text": "Victor Adebowale : last week one of my members declared a black alert",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:51"
+        },
+        {
+            "nodeID": "838517",
+            "text": "last week one of Victor Adebowale's members of the NHS Confederation declared a black alert",
+            "type": "I",
+            "timestamp": "2022-01-07 13:29:52"
+        },
+        {
+            "nodeID": "838518",
+            "text": "Manos: Victor Adebowale : last week one of my members declared a black alert",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:53"
+        },
+        {
+            "nodeID": "838519",
+            "text": "Victor Adebowale : That means that they are over capacity",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:53"
+        },
+        {
+            "nodeID": "838521",
+            "text": "a member of the NHS Confederation declaring a black alert means that they are over capacity",
+            "type": "I",
+            "timestamp": "2022-01-07 13:29:54"
+        },
+        {
+            "nodeID": "838522",
+            "text": "Manos: Victor Adebowale : That means that they are over capacity",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:54"
+        },
+        {
+            "nodeID": "838523",
+            "text": "A lot of my members are at 95% bed occupancy",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:55"
+        },
+        {
+            "nodeID": "838524",
+            "text": "Victor Adebowale : A lot of my members are at 95% bed occupancy",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:55"
+        },
+        {
+            "nodeID": "838526",
+            "text": "Manos: Victor Adebowale : A lot of my members are at 95% bed occupancy",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:56"
+        },
+        {
+            "nodeID": "838527",
+            "text": "a lot of Victor Adebowale's members of the NHS Confederation are at 95% bed occupancy",
+            "type": "I",
+            "timestamp": "2022-01-07 13:29:57"
+        },
+        {
+            "nodeID": "838528",
+            "text": "Victor Adebowale : we have ten million people, additional people requiring mental health support, we have 5. 1 million people on elective surgery, we have exhausted staff",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:57"
+        },
+        {
+            "nodeID": "838530",
+            "text": "we have ten million people, additional people requiring mental health support, we have 5. 1 million people on elective surgery, we have exhausted staff",
+            "type": "I",
+            "timestamp": "2022-01-07 13:29:58"
+        },
+        {
+            "nodeID": "838531",
+            "text": "Manos: Victor Adebowale : we have ten million people, additional people requiring mental health support, we have 5. 1 million people on elective surgery, we have exhausted staff",
+            "type": "L",
+            "timestamp": "2022-01-07 13:29:58"
+        },
+        {
+            "nodeID": "872735",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-15 04:03:29",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "872738",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-15 04:03:29",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "872741",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-15 04:03:29",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "872744",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-15 04:03:29",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "872746",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-15 04:03:29",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "872748",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-15 04:03:29",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "872751",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-15 04:03:29",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "872754",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-15 04:03:29",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "872757",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-15 04:03:30",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "872758",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-15 04:03:30",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "872759",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-15 04:03:30",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "872767",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-15 04:03:41",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "872769",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-15 04:03:41",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "872770",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-15 04:03:41",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "872772",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-15 04:03:41",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "872775",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-15 04:03:41",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "872776",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-15 04:03:41",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "872777",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-15 04:03:41",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "1093924",
+            "fromID": "838425",
+            "toID": "872735",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1093925",
+            "fromID": "872735",
+            "toID": "838428",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1093930",
+            "fromID": "838425",
+            "toID": "872738",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1093931",
+            "fromID": "872738",
+            "toID": "838432",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1093936",
+            "fromID": "838425",
+            "toID": "872741",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1093937",
+            "fromID": "872741",
+            "toID": "838437",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1093942",
+            "fromID": "838437",
+            "toID": "872744",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1093943",
+            "fromID": "872744",
+            "toID": "838441",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1093946",
+            "fromID": "838441",
+            "toID": "872746",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1093947",
+            "fromID": "872746",
+            "toID": "838447",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1093950",
+            "fromID": "838441",
+            "toID": "872748",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1093951",
+            "fromID": "872748",
+            "toID": "838452",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1093956",
+            "fromID": "838458",
+            "toID": "872751",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1093957",
+            "fromID": "872751",
+            "toID": "838462",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1093962",
+            "fromID": "838452",
+            "toID": "872754",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1093963",
+            "fromID": "872754",
+            "toID": "838466",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1093968",
+            "fromID": "838466",
+            "toID": "872757",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1093969",
+            "fromID": "872757",
+            "toID": "838470",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1093970",
+            "fromID": "838470",
+            "toID": "872758",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1093971",
+            "fromID": "872758",
+            "toID": "838474",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1093972",
+            "fromID": "838474",
+            "toID": "872759",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1093973",
+            "fromID": "872759",
+            "toID": "838500",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1093988",
+            "fromID": "838515",
+            "toID": "872767",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1093989",
+            "fromID": "872767",
+            "toID": "838524",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1093992",
+            "fromID": "838515",
+            "toID": "872769",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1093993",
+            "fromID": "872769",
+            "toID": "838519",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1093994",
+            "fromID": "838511",
+            "toID": "872770",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1093995",
+            "fromID": "872770",
+            "toID": "838515",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1093998",
+            "fromID": "838500",
+            "toID": "872772",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1093999",
+            "fromID": "872772",
+            "toID": "838507",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1094004",
+            "fromID": "872775",
+            "toID": "838458",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1094005",
+            "fromID": "838452",
+            "toID": "872775",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1094006",
+            "fromID": "838507",
+            "toID": "872776",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1094007",
+            "fromID": "872776",
+            "toID": "838511",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1094008",
+            "fromID": "838507",
+            "toID": "872777",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1094009",
+            "fromID": "872777",
+            "toID": "838528",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "838425",
+            "personID": "4151",
+            "timestamp": "2022-01-15 04:03:41",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "838428",
+            "personID": "4151",
+            "timestamp": "2022-01-15 04:03:41",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "838432",
+            "personID": "4151",
+            "timestamp": "2022-01-15 04:03:41",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "838437",
+            "personID": "4151",
+            "timestamp": "2022-01-15 04:03:41",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "838441",
+            "personID": "4151",
+            "timestamp": "2022-01-15 04:03:41",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "838447",
+            "personID": "4151",
+            "timestamp": "2022-01-15 04:03:41",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "838450",
+            "personID": "3734",
+            "timestamp": "2022-01-15 04:03:41",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "838452",
+            "personID": "4151",
+            "timestamp": "2022-01-15 04:03:41",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "838458",
+            "personID": "3735",
+            "timestamp": "2022-01-15 04:03:41",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "838462",
+            "personID": "3735",
+            "timestamp": "2022-01-15 04:03:41",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "838466",
+            "personID": "3735",
+            "timestamp": "2022-01-15 04:03:41",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "838470",
+            "personID": "3735",
+            "timestamp": "2022-01-15 04:03:41",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "838474",
+            "personID": "3735",
+            "timestamp": "2022-01-15 04:03:41",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "838500",
+            "personID": "3731",
+            "timestamp": "2022-01-15 04:03:41",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "838507",
+            "personID": "3735",
+            "timestamp": "2022-01-15 04:03:41",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "838511",
+            "personID": "3735",
+            "timestamp": "2022-01-15 04:03:41",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "838515",
+            "personID": "3735",
+            "timestamp": "2022-01-15 04:03:41",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "838519",
+            "personID": "3735",
+            "timestamp": "2022-01-15 04:03:41",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "838524",
+            "personID": "3735",
+            "timestamp": "2022-01-15 04:03:41",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "838528",
+            "personID": "3735",
+            "timestamp": "2022-01-15 04:03:41",
+            "start": null,
+            "end": null,
+            "source": null
+        }
+    ]
+}

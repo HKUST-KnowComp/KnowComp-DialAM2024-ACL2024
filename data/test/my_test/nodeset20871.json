@@ -1,0 +1,494 @@
+{
+    "nodes": [
+        {
+            "nodeID": "683655",
+            "text": "Andrew Davies : the rhetoric has been dialled up on the continent of Europe",
+            "type": "L",
+            "timestamp": "2021-04-15 20:13:30"
+        },
+        {
+            "nodeID": "683657",
+            "text": "the rhetoric has been dialled up on the continent of Europe",
+            "type": "I",
+            "timestamp": "2021-04-15 20:13:31"
+        },
+        {
+            "nodeID": "683658",
+            "text": "Zlata: Andrew Davies : the rhetoric has been dialled up on the continent of Europe",
+            "type": "L",
+            "timestamp": "2021-04-15 20:13:32"
+        },
+        {
+            "nodeID": "683659",
+            "text": "Andrew Davies : Twice now they've come back with various measures",
+            "type": "L",
+            "timestamp": "2021-04-15 20:13:33"
+        },
+        {
+            "nodeID": "683661",
+            "text": "twice now the EU have come back with various measures",
+            "type": "I",
+            "timestamp": "2021-04-15 20:13:33"
+        },
+        {
+            "nodeID": "683662",
+            "text": "Zlata: Andrew Davies : Twice now they've come back with various measures",
+            "type": "L",
+            "timestamp": "2021-04-15 20:13:34"
+        },
+        {
+            "nodeID": "683663",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-15 20:13:34",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "683664",
+            "text": "Andrew Davies :  I want to see the vaccine programme be a success in Europe as well",
+            "type": "L",
+            "timestamp": "2021-04-15 20:13:35"
+        },
+        {
+            "nodeID": "683666",
+            "text": "Andrew Davies wants to see the vaccine programme be a success in Europe as well",
+            "type": "I",
+            "timestamp": "2021-04-15 20:13:35"
+        },
+        {
+            "nodeID": "683667",
+            "text": "Zlata: Andrew Davies :  I want to see the vaccine programme be a success in Europe as well",
+            "type": "L",
+            "timestamp": "2021-04-15 20:13:36"
+        },
+        {
+            "nodeID": "683668",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-15 20:13:36",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "683671",
+            "text": "Andrew Davies : we're not the people sending military police into factories to seize vaccines like the Italians did the other day",
+            "type": "L",
+            "timestamp": "2021-04-15 20:13:36"
+        },
+        {
+            "nodeID": "683673",
+            "text": "we're not the people sending military police into factories to seize vaccines like the Italians did the other day",
+            "type": "I",
+            "timestamp": "2021-04-15 20:13:37"
+        },
+        {
+            "nodeID": "683674",
+            "text": "Zlata: Andrew Davies : we're not the people sending military police into factories to seize vaccines like the Italians did the other day",
+            "type": "L",
+            "timestamp": "2021-04-15 20:13:37"
+        },
+        {
+            "nodeID": "683675",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-15 20:13:37",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "683676",
+            "text": "Andrew Davies : That is dialling up the dial way too loud",
+            "type": "L",
+            "timestamp": "2021-04-15 20:13:38"
+        },
+        {
+            "nodeID": "683678",
+            "text": "sending military police into factories to seize vaccines is dialling up the dial way too loud",
+            "type": "I",
+            "timestamp": "2021-04-15 20:13:38"
+        },
+        {
+            "nodeID": "683679",
+            "text": "Zlata: Andrew Davies : That is dialling up the dial way too loud",
+            "type": "L",
+            "timestamp": "2021-04-15 20:13:39"
+        },
+        {
+            "nodeID": "683680",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-15 20:13:39",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "683683",
+            "text": "Andrew Davies : we've got to work together",
+            "type": "L",
+            "timestamp": "2021-04-15 20:13:39"
+        },
+        {
+            "nodeID": "683685",
+            "text": "we've got to work together with the EU",
+            "type": "I",
+            "timestamp": "2021-04-15 20:13:40"
+        },
+        {
+            "nodeID": "683686",
+            "text": "Zlata: Andrew Davies : we've got to work together",
+            "type": "L",
+            "timestamp": "2021-04-15 20:13:40"
+        },
+        {
+            "nodeID": "683687",
+            "text": "Andrew Davies : I haven't heard UK Government ministers threatening any action in retaliation to what the European Union have",
+            "type": "L",
+            "timestamp": "2021-04-15 20:13:41"
+        },
+        {
+            "nodeID": "683689",
+            "text": "Andrew Davies hasn't heard UK Government ministers threatening any action in retaliation to what the European Union have done",
+            "type": "I",
+            "timestamp": "2021-04-15 20:13:41"
+        },
+        {
+            "nodeID": "683690",
+            "text": "Zlata: Andrew Davies : I haven't heard UK Government ministers threatening any action in retaliation to what the European Union have",
+            "type": "L",
+            "timestamp": "2021-04-15 20:13:42"
+        },
+        {
+            "nodeID": "683691",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-15 20:13:42",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "683692",
+            "text": "Vaughan Gething :  there has been some unhelpful commentary from some parts of the UK Government",
+            "type": "L",
+            "timestamp": "2021-04-15 20:13:42"
+        },
+        {
+            "nodeID": "683694",
+            "text": "there has been some unhelpful commentary from some parts of the UK Government in retaliation to what the European Union have done",
+            "type": "I",
+            "timestamp": "2021-04-15 20:13:43"
+        },
+        {
+            "nodeID": "683695",
+            "text": "Zlata: Vaughan Gething :  there has been some unhelpful commentary from some parts of the UK Government",
+            "type": "L",
+            "timestamp": "2021-04-15 20:13:43"
+        },
+        {
+            "nodeID": "683696",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-15 20:13:43",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "683699",
+            "text": "Vaughan Gething : Foreign Secretary hasn't been wonderfully helpful with all of his comments",
+            "type": "L",
+            "timestamp": "2021-04-15 20:13:44"
+        },
+        {
+            "nodeID": "683701",
+            "text": "Foreign Secretary hasn't been wonderfully helpful with all of his comments",
+            "type": "I",
+            "timestamp": "2021-04-15 20:13:44"
+        },
+        {
+            "nodeID": "683702",
+            "text": "Zlata: Vaughan Gething : Foreign Secretary hasn't been wonderfully helpful with all of his comments",
+            "type": "L",
+            "timestamp": "2021-04-15 20:13:45"
+        },
+        {
+            "nodeID": "683703",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-15 20:13:45",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "683706",
+            "text": "Fiona Bruce : what in particular, Vaughan, are you referring to",
+            "type": "L",
+            "timestamp": "2021-04-15 20:13:45"
+        },
+        {
+            "nodeID": "683708",
+            "text": "Vaughan Gething is referring to xxx",
+            "type": "I",
+            "timestamp": "2021-04-15 20:13:46"
+        },
+        {
+            "nodeID": "683709",
+            "text": "Zlata: Fiona Bruce : what in particular, Vaughan, are you referring to",
+            "type": "L",
+            "timestamp": "2021-04-15 20:13:46"
+        },
+        {
+            "nodeID": "683710",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-15 20:13:46",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "683711",
+            "text": "Vaughan Gething : People respecting international obligations and international agreements that are made is not something the UK comes with entirely clean hands",
+            "type": "L",
+            "timestamp": "2021-04-15 20:13:47"
+        },
+        {
+            "nodeID": "683713",
+            "text": "people respecting international obligations and international agreements that are made is not something the UK comes with entirely clean hands",
+            "type": "I",
+            "timestamp": "2021-04-15 20:13:47"
+        },
+        {
+            "nodeID": "683714",
+            "text": "Zlata: Vaughan Gething : People respecting international obligations and international agreements that are made is not something the UK comes with entirely clean hands",
+            "type": "L",
+            "timestamp": "2021-04-15 20:13:48"
+        },
+        {
+            "nodeID": "683715",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-15 20:13:48",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "683719",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-15 20:13:48",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "885239",
+            "fromID": "683655",
+            "toID": "683663",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "885240",
+            "fromID": "683663",
+            "toID": "683659",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "885243",
+            "fromID": "683659",
+            "toID": "683668",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "885244",
+            "fromID": "683668",
+            "toID": "683664",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "885251",
+            "fromID": "683664",
+            "toID": "683675",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "885252",
+            "fromID": "683675",
+            "toID": "683671",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "885255",
+            "fromID": "683655",
+            "toID": "683680",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "885256",
+            "fromID": "683680",
+            "toID": "683676",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "885265",
+            "fromID": "683683",
+            "toID": "683691",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "885266",
+            "fromID": "683691",
+            "toID": "683687",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "885269",
+            "fromID": "683687",
+            "toID": "683696",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "885270",
+            "fromID": "683696",
+            "toID": "683692",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "885277",
+            "fromID": "683692",
+            "toID": "683703",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "885278",
+            "fromID": "683703",
+            "toID": "683699",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "885285",
+            "fromID": "683699",
+            "toID": "683710",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "885286",
+            "fromID": "683710",
+            "toID": "683706",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "885289",
+            "fromID": "683706",
+            "toID": "683715",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "885290",
+            "fromID": "683715",
+            "toID": "683711",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "885297",
+            "fromID": "683664",
+            "toID": "683719",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "885298",
+            "fromID": "683719",
+            "toID": "683683",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "683655",
+            "personID": "4403",
+            "timestamp": "2021-04-15 20:13:48",
+            "start": "2020-10-15 23:17:44",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "683659",
+            "personID": "4403",
+            "timestamp": "2021-04-15 20:13:48",
+            "start": "2020-10-15 23:17:48",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "683664",
+            "personID": "4403",
+            "timestamp": "2021-04-15 20:13:48",
+            "start": "2020-10-15 23:17:51",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "683671",
+            "personID": "4403",
+            "timestamp": "2021-04-15 20:13:48",
+            "start": "2020-10-15 23:17:56",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "683676",
+            "personID": "4403",
+            "timestamp": "2021-04-15 20:13:48",
+            "start": "2020-10-15 23:18:00",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "683683",
+            "personID": "4403",
+            "timestamp": "2021-04-15 20:13:48",
+            "start": "2020-10-15 23:18:03",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "683687",
+            "personID": "4403",
+            "timestamp": "2021-04-15 20:13:48",
+            "start": "2020-10-15 23:18:08",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "683692",
+            "personID": "3912",
+            "timestamp": "2021-04-15 20:13:48",
+            "start": "2020-10-15 23:18:11",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "683699",
+            "personID": "3912",
+            "timestamp": "2021-04-15 20:13:48",
+            "start": "2020-10-15 23:18:16",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "683706",
+            "personID": "3812",
+            "timestamp": "2021-04-15 20:13:48",
+            "start": "2020-10-15 23:18:20",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "683711",
+            "personID": "3912",
+            "timestamp": "2021-04-15 20:13:48",
+            "start": "2020-10-15 23:18:22",
+            "end": null,
+            "source": null
+        }
+    ]
+}

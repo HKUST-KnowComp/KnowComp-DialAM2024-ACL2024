@@ -1,0 +1,1006 @@
+{
+    "nodes": [
+        {
+            "nodeID": "599516",
+            "text": "Robin Shattock : to say I’m going to wait and see what happens, is probably a common response",
+            "type": "L",
+            "timestamp": "2020-11-19 19:58:53"
+        },
+        {
+            "nodeID": "599518",
+            "text": "to say one is going to wait and see what happens, is probably a common response",
+            "type": "I",
+            "timestamp": "2020-11-19 19:58:53"
+        },
+        {
+            "nodeID": "599519",
+            "text": "Chris: Robin Shattock : to say I’m going to wait and see what happens, is probably a common response",
+            "type": "L",
+            "timestamp": "2020-11-19 19:58:54"
+        },
+        {
+            "nodeID": "599520",
+            "text": "Robin Shattock : we need to remember that, actually, vaccines, next to clean water, have been the single most effective public health implementation globally",
+            "type": "L",
+            "timestamp": "2020-11-19 19:58:54"
+        },
+        {
+            "nodeID": "599522",
+            "text": "we need to remember that, actually, vaccines, next to clean water, have been the single most effective public health implementation globally",
+            "type": "I",
+            "timestamp": "2020-11-19 19:58:55"
+        },
+        {
+            "nodeID": "599523",
+            "text": "Chris: Robin Shattock : we need to remember that, actually, vaccines, next to clean water, have been the single most effective public health implementation globally",
+            "type": "L",
+            "timestamp": "2020-11-19 19:58:55"
+        },
+        {
+            "nodeID": "599525",
+            "text": "Robin Shattock : They save saved more lives than any other medicines",
+            "type": "L",
+            "timestamp": "2020-11-19 19:58:55"
+        },
+        {
+            "nodeID": "599526",
+            "text": "vaccines have saved more lives than any other medicines",
+            "type": "I",
+            "timestamp": "2020-11-19 19:58:56"
+        },
+        {
+            "nodeID": "599527",
+            "text": "Chris: Robin Shattock : They save saved more lives than any other medicines",
+            "type": "L",
+            "timestamp": "2020-11-19 19:58:56"
+        },
+        {
+            "nodeID": "599531",
+            "text": "Robin Shattock : People are concerned about this vaccine because they perceive it has been done too quickly",
+            "type": "L",
+            "timestamp": "2020-11-19 19:58:57"
+        },
+        {
+            "nodeID": "599533",
+            "text": "people are concerned about this vaccine because they perceive it has been done too quickly",
+            "type": "I",
+            "timestamp": "2020-11-19 19:58:57"
+        },
+        {
+            "nodeID": "599534",
+            "text": "Chris: Robin Shattock : People are concerned about this vaccine because they perceive it has been done too quickly",
+            "type": "L",
+            "timestamp": "2020-11-19 19:58:58"
+        },
+        {
+            "nodeID": "599536",
+            "text": "Robin Shattock : We have done a disservice by saying it takes ten years to make a vaccine",
+            "type": "L",
+            "timestamp": "2020-11-19 19:58:58"
+        },
+        {
+            "nodeID": "599537",
+            "text": "Chris: Robin Shattock : We have done a disservice by saying it takes ten years to make a vaccine",
+            "type": "L",
+            "timestamp": "2020-11-19 19:58:58"
+        },
+        {
+            "nodeID": "599538",
+            "text": "we have done a disservice by saying it takes ten years to make a vaccine",
+            "type": "I",
+            "timestamp": "2020-11-19 19:58:59"
+        },
+        {
+            "nodeID": "599543",
+            "text": "Robin Shattock : Technology is changing very, very quickly",
+            "type": "L",
+            "timestamp": "2020-11-19 19:58:59"
+        },
+        {
+            "nodeID": "599544",
+            "text": "technology is changing very, very quickly",
+            "type": "I",
+            "timestamp": "2020-11-19 19:59:00"
+        },
+        {
+            "nodeID": "599547",
+            "text": "Chris: Robin Shattock : Technology is changing very, very quickly",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:00"
+        },
+        {
+            "nodeID": "599550",
+            "text": "Robin Shattock : the same number of participants have been exposed to this vaccine, this particular vaccine, 43,000 participants",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:00"
+        },
+        {
+            "nodeID": "599551",
+            "text": "Chris: Robin Shattock : the same number of participants have been exposed to this vaccine, this particular vaccine, 43,000 participants",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:01"
+        },
+        {
+            "nodeID": "599553",
+            "text": "the same number of participants have been exposed to this vaccine, this particular vaccine, 43,000 participants",
+            "type": "I",
+            "timestamp": "2020-11-19 19:59:01"
+        },
+        {
+            "nodeID": "599555",
+            "text": "Chris: Robin Shattock : When you’re looking at side effects, most side effects occur very quic",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:02"
+        },
+        {
+            "nodeID": "599556",
+            "text": "Robin Shattock : When you’re looking at side effects, most side effects occur very quickly",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:02"
+        },
+        {
+            "nodeID": "599557",
+            "text": "Chris: Robin Shattock : When you’re looking at side effects, most side effects occur very quickly",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:03"
+        },
+        {
+            "nodeID": "599558",
+            "text": "when one is looking at side effects, most side effects occur very quickly",
+            "type": "I",
+            "timestamp": "2020-11-19 19:59:03"
+        },
+        {
+            "nodeID": "599561",
+            "text": "within a week or so of having a vaccine",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:04"
+        },
+        {
+            "nodeID": "599562",
+            "text": "Robin Shattock : within a week or so of having the vaccine",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:04"
+        },
+        {
+            "nodeID": "599563",
+            "text": "vaccine side effects tend to occur within a week or so of having the vaccine",
+            "type": "I",
+            "timestamp": "2020-11-19 19:59:05"
+        },
+        {
+            "nodeID": "599565",
+            "text": "Chris: Robin Shattock : within a week or so of having the vaccine",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:06"
+        },
+        {
+            "nodeID": "599569",
+            "text": "Robin Shattock : We would see any severe side effect at this stage",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:06"
+        },
+        {
+            "nodeID": "599570",
+            "text": "Chris: Robin Shattock : We would see any severe side effect at this stage",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:07"
+        },
+        {
+            "nodeID": "599573",
+            "text": "we would see any severe side effect of the vaccine at this stage",
+            "type": "I",
+            "timestamp": "2020-11-19 19:59:07"
+        },
+        {
+            "nodeID": "599576",
+            "text": "Robin Shattock : no regulatory authority, whether it is the UK be medicines regulatory authority or the European Regulatory Authority or the FDA will let anything go through that doesn’t have a totally squeaky clean safety record",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:08"
+        },
+        {
+            "nodeID": "599577",
+            "text": "no regulatory authority, whether it is the UK medicines regulatory authority or the European Regulatory Authority or the FDA will let anything go through that doesn’t have a totally squeaky clean safety record",
+            "type": "I",
+            "timestamp": "2020-11-19 19:59:09"
+        },
+        {
+            "nodeID": "599579",
+            "text": "Chris: Robin Shattock : no regulatory authority, whether it is the UK be medicines regulatory authority or the European Regulatory Authority or the FDA will let anything go through that doesn’t have a totally squeaky clean safety record",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:09"
+        },
+        {
+            "nodeID": "599581",
+            "text": "Robin Shattock : people completely forget is that a vaccine stimulates your immune system, it tricks it to see if it has seen the virus",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:10"
+        },
+        {
+            "nodeID": "599582",
+            "text": "Chris: Robin Shattock : people completely forget is that a vaccine stimulates your immune system, it tricks it to see if it has seen the virus",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:10"
+        },
+        {
+            "nodeID": "599585",
+            "text": "people completely forget that a vaccine stimulates your immune system, it tricks it to see if it has seen the virus",
+            "type": "I",
+            "timestamp": "2020-11-19 19:59:11"
+        },
+        {
+            "nodeID": "599586",
+            "text": "Robin Shattock :  you are getting an aspect of a viral infection that’s so much minor than the real virus",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:11"
+        },
+        {
+            "nodeID": "599587",
+            "text": "with a vaccine you are getting an aspect of a viral infection that’s so much minor than the real virus",
+            "type": "I",
+            "timestamp": "2020-11-19 19:59:12"
+        },
+        {
+            "nodeID": "599588",
+            "text": "Chris: Robin Shattock :  you are getting an aspect of a viral infection that’s so much minor than the real virus",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:12"
+        },
+        {
+            "nodeID": "599593",
+            "text": "Robin Shattock : the risk of having a severe outcome from Covid-19 far outweighs any theoretical risk of a vaccine",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:12"
+        },
+        {
+            "nodeID": "599594",
+            "text": "the risk of having a severe outcome from Covid-19 far outweighs any theoretical risk of a vaccine",
+            "type": "I",
+            "timestamp": "2020-11-19 19:59:13"
+        },
+        {
+            "nodeID": "599595",
+            "text": "Chris: Robin Shattock : the risk of having a severe outcome from Covid-19 far outweighs any theoretical risk of a vaccine",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:13"
+        },
+        {
+            "nodeID": "599598",
+            "text": "Robin Shattock :  The problem is vaccines are so successful that diseases go away and all you see is the side effects",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:14"
+        },
+        {
+            "nodeID": "599599",
+            "text": "the problem is vaccines are so successful that diseases go away and all you see is the side effects",
+            "type": "I",
+            "timestamp": "2020-11-19 19:59:14"
+        },
+        {
+            "nodeID": "599602",
+            "text": "Chris: Robin Shattock :  The problem is vaccines are so successful that diseases go away and all you see is the side effects",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:15"
+        },
+        {
+            "nodeID": "599603",
+            "text": "Robin Shattock : Look at the potential side effects of paracetamol",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:15"
+        },
+        {
+            "nodeID": "599605",
+            "text": "look at the potential side effects of paracetamol",
+            "type": "I",
+            "timestamp": "2020-11-19 19:59:16"
+        },
+        {
+            "nodeID": "599606",
+            "text": "Chris: Robin Shattock : Look at the potential side effects of paracetamol",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:16"
+        },
+        {
+            "nodeID": "599610",
+            "text": "Robin Shattock : If you never taken it before it would probably scare you to take it",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:16"
+        },
+        {
+            "nodeID": "599612",
+            "text": "if one had never taken paracetamol before it would probably scare you to take it",
+            "type": "I",
+            "timestamp": "2020-11-19 19:59:17"
+        },
+        {
+            "nodeID": "599613",
+            "text": "Chris: Robin Shattock : If you never taken it before it would probably scare you to take it",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:17"
+        },
+        {
+            "nodeID": "599616",
+            "text": "Robin Shattock : you don’t have the same scare because you are familiar with it",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:18"
+        },
+        {
+            "nodeID": "599618",
+            "text": "we don’t have the same scare from side effects because we are familiar with paracetamol",
+            "type": "I",
+            "timestamp": "2020-11-19 19:59:18"
+        },
+        {
+            "nodeID": "599619",
+            "text": "Chris: Robin Shattock : you don’t have the same scare because you are familiar with it",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:19"
+        },
+        {
+            "nodeID": "599626",
+            "text": "Robin Shattock : the way we’ll build confidence is when we roll it out to vulnerable populations, who are desperate for a vaccine to get their lives back to some sort of normality",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:19"
+        },
+        {
+            "nodeID": "599627",
+            "text": "the way we’ll build confidence is when we roll the vaccine out to vulnerable populations, who are desperate for a vaccine to get their lives back to some sort of normality",
+            "type": "I",
+            "timestamp": "2020-11-19 19:59:19"
+        },
+        {
+            "nodeID": "599628",
+            "text": "Chris: Robin Shattock : the way we’ll build confidence is when we roll it out to vulnerable populations, who are desperate for a vaccine to get their lives back to some sort of normality",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:20"
+        },
+        {
+            "nodeID": "599631",
+            "text": "Robin Shattock : we see it protecting lives",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:20"
+        },
+        {
+            "nodeID": "599633",
+            "text": "Chris: Robin Shattock : we see it protecting lives",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:21"
+        },
+        {
+            "nodeID": "599634",
+            "text": "we will see the vaccine protecting lives",
+            "type": "I",
+            "timestamp": "2020-11-19 19:59:21"
+        },
+        {
+            "nodeID": "599636",
+            "text": "Robin Shattock : see it being safe",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:21"
+        },
+        {
+            "nodeID": "599638",
+            "text": "we will see the vaccine being safe",
+            "type": "I",
+            "timestamp": "2020-11-19 19:59:22"
+        },
+        {
+            "nodeID": "599640",
+            "text": "Chris: Robin Shattock : see it being safe",
+            "type": "L",
+            "timestamp": "2020-11-19 19:59:22"
+        },
+        {
+            "nodeID": "1021220",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-06-24 11:19:10",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1021221",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-06-24 11:19:12",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1021225",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-06-24 11:19:15",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1021227",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-06-24 11:19:17",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1021231",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-06-24 11:19:19",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1021235",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-06-24 11:19:21",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1021236",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-06-24 11:19:24",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1021239",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-06-24 11:19:27",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1021243",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-06-24 11:19:29",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1021247",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-06-24 11:19:32",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1021249",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-06-24 11:19:34",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1021250",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-06-24 11:19:37",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1021254",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-06-24 11:19:39",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1021256",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-06-24 11:19:40",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1021258",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-06-24 11:19:43",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1021262",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-06-24 11:19:46",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1021265",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-06-24 11:19:48",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1021269",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-06-24 11:19:48",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1021271",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-06-24 11:19:50",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1021276",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-06-24 11:19:54",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1021279",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-06-24 11:19:55",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1021280",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-06-24 11:19:55",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "1349622",
+            "fromID": "599516",
+            "toID": "1021220",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349623",
+            "fromID": "1021220",
+            "toID": "599520",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349624",
+            "fromID": "1021221",
+            "toID": "599525",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349625",
+            "fromID": "599520",
+            "toID": "1021221",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349632",
+            "fromID": "599525",
+            "toID": "1021225",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349633",
+            "fromID": "1021225",
+            "toID": "599531",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349636",
+            "fromID": "599531",
+            "toID": "1021227",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349637",
+            "fromID": "1021227",
+            "toID": "599536",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349643",
+            "fromID": "599536",
+            "toID": "1021231",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349644",
+            "fromID": "1021231",
+            "toID": "599543",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349652",
+            "fromID": "599543",
+            "toID": "1021235",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349653",
+            "fromID": "1021235",
+            "toID": "599550",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349656",
+            "fromID": "599550",
+            "toID": "1021236",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349657",
+            "fromID": "1021236",
+            "toID": "599556",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349660",
+            "fromID": "599556",
+            "toID": "1021239",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349661",
+            "fromID": "1021239",
+            "toID": "599562",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349668",
+            "fromID": "1021243",
+            "toID": "599569",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349669",
+            "fromID": "599562",
+            "toID": "1021243",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349678",
+            "fromID": "1021247",
+            "toID": "599576",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349679",
+            "fromID": "599569",
+            "toID": "1021247",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349682",
+            "fromID": "1021249",
+            "toID": "599581",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349683",
+            "fromID": "599576",
+            "toID": "1021249",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349686",
+            "fromID": "599581",
+            "toID": "1021250",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349687",
+            "fromID": "1021250",
+            "toID": "599586",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349692",
+            "fromID": "599586",
+            "toID": "1021254",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349693",
+            "fromID": "1021254",
+            "toID": "599593",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349696",
+            "fromID": "599593",
+            "toID": "1021256",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349697",
+            "fromID": "1021256",
+            "toID": "599598",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349700",
+            "fromID": "1021258",
+            "toID": "599603",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349701",
+            "fromID": "599598",
+            "toID": "1021258",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349708",
+            "fromID": "599603",
+            "toID": "1021262",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349709",
+            "fromID": "1021262",
+            "toID": "599610",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349714",
+            "fromID": "1021265",
+            "toID": "599616",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349715",
+            "fromID": "599610",
+            "toID": "1021265",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349723",
+            "fromID": "599598",
+            "toID": "1021269",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349724",
+            "fromID": "1021269",
+            "toID": "599616",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349727",
+            "fromID": "599616",
+            "toID": "1021271",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349728",
+            "fromID": "1021271",
+            "toID": "599626",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349737",
+            "fromID": "599631",
+            "toID": "1021276",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349738",
+            "fromID": "1021276",
+            "toID": "599636",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349744",
+            "fromID": "599626",
+            "toID": "1021279",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349745",
+            "fromID": "1021279",
+            "toID": "599631",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349747",
+            "fromID": "1021280",
+            "toID": "599636",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1349748",
+            "fromID": "599626",
+            "toID": "1021280",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "599516",
+            "personID": "4101",
+            "timestamp": "2022-06-24 11:19:55",
+            "start": "2020-10-15 23:26:17",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "599520",
+            "personID": "4101",
+            "timestamp": "2022-06-24 11:19:55",
+            "start": "2020-10-15 23:26:25",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "599525",
+            "personID": "4101",
+            "timestamp": "2022-06-24 11:19:55",
+            "start": "2020-10-15 23:26:39",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "599531",
+            "personID": "4101",
+            "timestamp": "2022-06-24 11:19:55",
+            "start": "2020-10-15 23:26:45",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "599536",
+            "personID": "4101",
+            "timestamp": "2022-06-24 11:19:55",
+            "start": "2020-10-15 23:26:54",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "599543",
+            "personID": "4101",
+            "timestamp": "2022-06-24 11:19:55",
+            "start": "2020-10-15 23:27:01",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "599550",
+            "personID": "4101",
+            "timestamp": "2022-06-24 11:19:55",
+            "start": "2020-10-15 23:27:08",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "599556",
+            "personID": "4101",
+            "timestamp": "2022-06-24 11:19:55",
+            "start": "2020-10-15 23:27:20",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "599562",
+            "personID": "4101",
+            "timestamp": "2022-06-24 11:19:55",
+            "start": "2020-10-15 23:27:27",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "599569",
+            "personID": "4101",
+            "timestamp": "2022-06-24 11:19:55",
+            "start": "2020-10-15 23:27:31",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "599576",
+            "personID": "4101",
+            "timestamp": "2022-06-24 11:19:55",
+            "start": "2020-10-15 23:27:37",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "599581",
+            "personID": "4101",
+            "timestamp": "2022-06-24 11:19:55",
+            "start": "2020-10-15 23:28:02",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "599586",
+            "personID": "4101",
+            "timestamp": "2022-06-24 11:19:55",
+            "start": "2020-10-15 23:28:14",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "599593",
+            "personID": "4101",
+            "timestamp": "2022-06-24 11:19:55",
+            "start": "2020-10-15 23:28:27",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "599598",
+            "personID": "4101",
+            "timestamp": "2022-06-24 11:19:55",
+            "start": "2020-10-15 23:28:37",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "599603",
+            "personID": "4101",
+            "timestamp": "2022-06-24 11:19:55",
+            "start": "2020-10-15 23:28:54",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "599610",
+            "personID": "4101",
+            "timestamp": "2022-06-24 11:19:55",
+            "start": "2020-10-15 23:28:59",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "599616",
+            "personID": "4101",
+            "timestamp": "2022-06-24 11:19:55",
+            "start": "2020-10-15 23:29:06",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "599626",
+            "personID": "4101",
+            "timestamp": "2022-06-24 11:19:55",
+            "start": "2020-10-15 23:29:13",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "599631",
+            "personID": "4101",
+            "timestamp": "2022-06-24 11:19:55",
+            "start": "2020-10-15 23:29:30",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "599636",
+            "personID": "4101",
+            "timestamp": "2022-06-24 11:19:55",
+            "start": "2020-10-15 23:29:33",
+            "end": null,
+            "source": null
+        }
+    ]
+}

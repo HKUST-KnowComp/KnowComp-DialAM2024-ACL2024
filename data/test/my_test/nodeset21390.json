@@ -1,0 +1,360 @@
+{
+    "nodes": [
+        {
+            "nodeID": "713482",
+            "text": "Fiona Bruce : I know that a number of farming representatives have voiced the opinion that they feel farmers are being thrown under the bus",
+            "type": "L",
+            "timestamp": "2021-05-27 20:01:04"
+        },
+        {
+            "nodeID": "713484",
+            "text": "Fiona Bruce knows that a number of farming representatives have voiced the opinion that they feel farmers are being thrown under the bus",
+            "type": "I",
+            "timestamp": "2021-05-27 20:01:05"
+        },
+        {
+            "nodeID": "713485",
+            "text": "Fyfe: Fiona Bruce : I know that a number of farming representatives have voiced the opinion that they feel farmers are being thrown under the bus",
+            "type": "L",
+            "timestamp": "2021-05-27 20:01:06"
+        },
+        {
+            "nodeID": "713486",
+            "text": "Fyfe: Fiona Bruce : one concern expressed by some in the farming communities is that if this deal with Australia goes ahead it will be a template for other big, almost industrial scale meat producers",
+            "type": "L",
+            "timestamp": "2021-05-27 20:01:06"
+        },
+        {
+            "nodeID": "713487",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:01:06",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "713488",
+            "text": "Fiona Bruce : Is that a concern",
+            "type": "L",
+            "timestamp": "2021-05-27 20:01:07"
+        },
+        {
+            "nodeID": "713490",
+            "text": "this is or is not a concern",
+            "type": "I",
+            "timestamp": "2021-05-27 20:01:07"
+        },
+        {
+            "nodeID": "713491",
+            "text": "Fyfe: Fiona Bruce : Is that a concern",
+            "type": "L",
+            "timestamp": "2021-05-27 20:01:08"
+        },
+        {
+            "nodeID": "713492",
+            "text": "Nadhim Zahawi : I would certainly, whether I was in politics or outside of politics, feel a lot happier that it is our accountable politicians, Liz Truss, negotiating these deals on our behalf versus what deals we would have to live with",
+            "type": "L",
+            "timestamp": "2021-05-27 20:01:08"
+        },
+        {
+            "nodeID": "713494",
+            "text": "Nadhim Zahawi would certainly, whether she was in politics or outside of politics, feel a lot happier that it is our accountable politicians, like Liz Truss, negotiating these deals on Britains behalf versus what deals we would have to live with",
+            "type": "I",
+            "timestamp": "2021-05-27 20:01:09"
+        },
+        {
+            "nodeID": "713495",
+            "text": "Fyfe: Nadhim Zahawi : I would certainly, whether I was in politics or outside of politics, feel a lot happier that it is our accountable politicians, Liz Truss, negotiating these deals on our behalf versus what deals we would have to live with",
+            "type": "L",
+            "timestamp": "2021-05-27 20:01:10"
+        },
+        {
+            "nodeID": "713496",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:01:10",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "713497",
+            "text": "Nadhim Zahawi : our farmers have to live with which is being negotiated by a group of commissioners that represent 27 countries in Europe",
+            "type": "L",
+            "timestamp": "2021-05-27 20:01:10"
+        },
+        {
+            "nodeID": "713499",
+            "text": "Fyfe: Nadhim Zahawi : our farmers have to live with which is being negotiated by a group of commissioners that represent 27 countries in Europe",
+            "type": "L",
+            "timestamp": "2021-05-27 20:01:11"
+        },
+        {
+            "nodeID": "713500",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:01:11",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "713501",
+            "text": "Britain's farmers have to live with deals which are being negotiated by a group of commissioners that represent 27 countries in Europe",
+            "type": "I",
+            "timestamp": "2021-05-27 20:01:12"
+        },
+        {
+            "nodeID": "713502",
+            "text": "Nadhim Zahawi : having this debate here today, is a good thing",
+            "type": "L",
+            "timestamp": "2021-05-27 20:01:12"
+        },
+        {
+            "nodeID": "713504",
+            "text": "having this debate here today, is a good thing",
+            "type": "I",
+            "timestamp": "2021-05-27 20:01:13"
+        },
+        {
+            "nodeID": "713505",
+            "text": "Fyfe: Nadhim Zahawi : having this debate here today, is a good thing",
+            "type": "L",
+            "timestamp": "2021-05-27 20:01:14"
+        },
+        {
+            "nodeID": "713506",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:01:14",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "713507",
+            "text": "Fiona Bruce : one concern expressed by some in the farming communities is that if this deal with Australia goes ahead",
+            "type": "L",
+            "timestamp": "2021-05-27 20:01:14"
+        },
+        {
+            "nodeID": "713508",
+            "text": "one concern expressed by some in the farming communities is that if this deal with Australia goes ahead",
+            "type": "I",
+            "timestamp": "2021-05-27 20:01:15"
+        },
+        {
+            "nodeID": "713510",
+            "text": "Fyfe: Fiona Bruce : one concern expressed by some in the farming communities is that if this deal with Australia goes ahead",
+            "type": "L",
+            "timestamp": "2021-05-27 20:01:16"
+        },
+        {
+            "nodeID": "713511",
+            "text": "Fyfe: Fiona Bruce : it will be a template for other big, almost industrial scale meat producers such as Brazil, other countries in South America, for example",
+            "type": "L",
+            "timestamp": "2021-05-27 20:01:16"
+        },
+        {
+            "nodeID": "713512",
+            "text": "Fiona Bruce : it will be a template for other big, almost industrial scale meat producers",
+            "type": "L",
+            "timestamp": "2021-05-27 20:01:17"
+        },
+        {
+            "nodeID": "713514",
+            "text": "Fyfe: Fiona Bruce : it will be a template for other big, almost industrial scale meat producers",
+            "type": "L",
+            "timestamp": "2021-05-27 20:01:18"
+        },
+        {
+            "nodeID": "713515",
+            "text": "it will be a template for other big, almost industrial scale meat producers",
+            "type": "I",
+            "timestamp": "2021-05-27 20:01:18"
+        },
+        {
+            "nodeID": "713516",
+            "text": "Fiona Bruce : such as Brazil, other countries in South America, for example",
+            "type": "L",
+            "timestamp": "2021-05-27 20:01:19"
+        },
+        {
+            "nodeID": "713517",
+            "text": "such as Brazil, other countries in South America, for example",
+            "type": "I",
+            "timestamp": "2021-05-27 20:01:20"
+        },
+        {
+            "nodeID": "713519",
+            "text": "Fyfe: Fiona Bruce : such as Brazil, other countries in South America, for example",
+            "type": "L",
+            "timestamp": "2021-05-27 20:01:20"
+        },
+        {
+            "nodeID": "713520",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:01:21",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "713524",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:01:21",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "713525",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:01:21",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "919020",
+            "fromID": "713482",
+            "toID": "713487",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919025",
+            "fromID": "713488",
+            "toID": "713496",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919026",
+            "fromID": "713496",
+            "toID": "713492",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919029",
+            "fromID": "713492",
+            "toID": "713500",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919030",
+            "fromID": "713500",
+            "toID": "713497",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919033",
+            "fromID": "713497",
+            "toID": "713506",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919034",
+            "fromID": "713506",
+            "toID": "713502",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919037",
+            "fromID": "713487",
+            "toID": "713507",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919042",
+            "fromID": "713516",
+            "toID": "713520",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919043",
+            "fromID": "713520",
+            "toID": "713488",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919050",
+            "fromID": "713507",
+            "toID": "713524",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919051",
+            "fromID": "713524",
+            "toID": "713512",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919052",
+            "fromID": "713512",
+            "toID": "713525",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919053",
+            "fromID": "713525",
+            "toID": "713516",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "713482",
+            "personID": "3812",
+            "timestamp": "2021-05-27 20:01:21",
+            "start": "2020-10-15 23:33:53",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "713488",
+            "personID": "3812",
+            "timestamp": "2021-05-27 20:01:21",
+            "start": "2020-10-15 23:34:13",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "713492",
+            "personID": "4212",
+            "timestamp": "2021-05-27 20:01:21",
+            "start": "2020-10-15 23:34:19",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "713497",
+            "personID": "4212",
+            "timestamp": "2021-05-27 20:01:21",
+            "start": "2020-10-15 23:34:41",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "713502",
+            "personID": "4212",
+            "timestamp": "2021-05-27 20:01:21",
+            "start": "2020-10-15 23:34:58",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "713512",
+            "personID": "3812",
+            "timestamp": "2021-05-27 20:01:21",
+            "start": "2020-10-15 23:34:08",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "713516",
+            "personID": "3812",
+            "timestamp": "2021-05-27 20:01:21",
+            "start": "2020-10-15 23:34:12",
+            "end": null,
+            "source": null
+        }
+    ]
+}

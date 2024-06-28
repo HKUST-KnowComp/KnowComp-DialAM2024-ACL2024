@@ -1,0 +1,1134 @@
+{
+    "nodes": [
+        {
+            "nodeID": "511664",
+            "text": "James Graham : That's not the most important thing in the world",
+            "type": "L",
+            "timestamp": "2020-05-28 19:56:47"
+        },
+        {
+            "nodeID": "511666",
+            "text": "film and television production is not the most important thing in the world",
+            "type": "I",
+            "timestamp": "2020-05-28 19:56:48"
+        },
+        {
+            "nodeID": "511679",
+            "text": "James Graham : People are going to start to see the autumn schedules clearing themselves of British dramas",
+            "type": "L",
+            "timestamp": "2020-05-28 19:56:49"
+        },
+        {
+            "nodeID": "511705",
+            "text": "James Graham : This stuff does matter",
+            "type": "L",
+            "timestamp": "2020-05-28 19:56:53"
+        },
+        {
+            "nodeID": "511714",
+            "text": "confidence that people can work safely is incredibly vital",
+            "type": "I",
+            "timestamp": "2020-05-28 19:56:55"
+        },
+        {
+            "nodeID": "511717",
+            "text": "James Graham : people who are returning to our city and town centres can eat and drink and re-invest in the economies is incredibly vital",
+            "type": "L",
+            "timestamp": "2020-05-28 19:56:55"
+        },
+        {
+            "nodeID": "511719",
+            "text": "people who are returning to our city and town centres can eat and drink and re-invest in the economies is incredibly vital",
+            "type": "I",
+            "timestamp": "2020-05-28 19:56:55"
+        },
+        {
+            "nodeID": "511751",
+            "text": "Fiona Bruce : The peak follows the lockdown",
+            "type": "L",
+            "timestamp": "2020-05-28 19:57:00"
+        },
+        {
+            "nodeID": "511753",
+            "text": "the peak follows the lockdown",
+            "type": "I",
+            "timestamp": "2020-05-28 19:57:00"
+        },
+        {
+            "nodeID": "511758",
+            "text": "Fiona Bruce : Lockdown doesn't coincide with the peak",
+            "type": "L",
+            "timestamp": "2020-05-28 19:57:01"
+        },
+        {
+            "nodeID": "512643",
+            "text": "James Graham : it is vital it rolls out as effectively and as soon as possible",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:12"
+        },
+        {
+            "nodeID": "512645",
+            "text": "it is vital the test and trace app rolls out as effectively and as soon as possible",
+            "type": "I",
+            "timestamp": "2020-05-28 20:27:13"
+        },
+        {
+            "nodeID": "512646",
+            "text": "Louise: James Graham : it is vital it rolls out as effectively and as soon as possible",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:13"
+        },
+        {
+            "nodeID": "512647",
+            "text": "Louise: James Graham : not only because of our safety",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:13"
+        },
+        {
+            "nodeID": "512648",
+            "text": "James Graham : not only because of our safety",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:13"
+        },
+        {
+            "nodeID": "512650",
+            "text": "the test and trace app must roll out as effectively and as soon as possible for our safety",
+            "type": "I",
+            "timestamp": "2020-05-28 20:27:13"
+        },
+        {
+            "nodeID": "512652",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:27:14",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512654",
+            "text": "Louise: James Graham : people need that sense of confidence",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:14"
+        },
+        {
+            "nodeID": "512656",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:27:14",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512658",
+            "text": "Louise: James Graham : so we can beginning re-opening our economy",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:14"
+        },
+        {
+            "nodeID": "512659",
+            "text": "James Graham : people need that sense of confidence so we can beginning re-opening our economy",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:15"
+        },
+        {
+            "nodeID": "512661",
+            "text": "people need that sense of confidence brought by the test and traced app so we can beginning re-opening our economy",
+            "type": "I",
+            "timestamp": "2020-05-28 20:27:15"
+        },
+        {
+            "nodeID": "512662",
+            "text": "Louise: James Graham : people need that sense of confidence so we can beginning re-opening our economy",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:15"
+        },
+        {
+            "nodeID": "512663",
+            "text": "James Graham :  I think there will be a huge benefit to a test that can give an answer in 20 minutes for, say, film and television production",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:15"
+        },
+        {
+            "nodeID": "512665",
+            "text": "there will be a huge benefit to a test that can give an answer in 20 minutes for film and television production",
+            "type": "I",
+            "timestamp": "2020-05-28 20:27:15"
+        },
+        {
+            "nodeID": "512666",
+            "text": "Louise: James Graham :  I think there will be a huge benefit to a test that can give an answer in 20 minutes for, say, film and television production",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:16"
+        },
+        {
+            "nodeID": "512667",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:27:16",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512669",
+            "text": "Louise: James Graham : That's not the most important thing in the world",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:16"
+        },
+        {
+            "nodeID": "512670",
+            "text": "Louise: James Graham : it's a vital sector and it's got lots of people through the lockdown",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:16"
+        },
+        {
+            "nodeID": "512671",
+            "text": "James Graham : it's a vital sector",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:17"
+        },
+        {
+            "nodeID": "512673",
+            "text": "film and television is a vital sector",
+            "type": "I",
+            "timestamp": "2020-05-28 20:27:17"
+        },
+        {
+            "nodeID": "512674",
+            "text": "Louise: James Graham : it's a vital sector",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:17"
+        },
+        {
+            "nodeID": "512675",
+            "text": "James Graham : it's got lots of people through the lockdown",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:17"
+        },
+        {
+            "nodeID": "512677",
+            "text": "film and television has gotten lots of people through the lockdown",
+            "type": "I",
+            "timestamp": "2020-05-28 20:27:17"
+        },
+        {
+            "nodeID": "512678",
+            "text": "Louise: James Graham : it's got lots of people through the lockdown",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:17"
+        },
+        {
+            "nodeID": "512680",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:27:18",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512681",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:27:18",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512684",
+            "text": "people are going to start to see the autumn television schedules clearing themselves of British dramas",
+            "type": "I",
+            "timestamp": "2020-05-28 20:27:18"
+        },
+        {
+            "nodeID": "512685",
+            "text": "Louise: James Graham : People are going to start to see the autumn schedules clearing themselves of British dramas",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:19"
+        },
+        {
+            "nodeID": "512686",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:27:19",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512687",
+            "text": "James Graham : They need to fight, hug and kiss each other, unless you want terrible dramas",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:19"
+        },
+        {
+            "nodeID": "512689",
+            "text": "for filming dramas the actors need to fight, hug and kiss each other, unless you want terrible dramas",
+            "type": "I",
+            "timestamp": "2020-05-28 20:27:19"
+        },
+        {
+            "nodeID": "512690",
+            "text": "Louise: James Graham : They need to fight, hug and kiss each other, unless you want terrible dramas",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:19"
+        },
+        {
+            "nodeID": "512692",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:27:20",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512694",
+            "text": "the film and television schedules matter",
+            "type": "I",
+            "timestamp": "2020-05-28 20:27:20"
+        },
+        {
+            "nodeID": "512695",
+            "text": "Louise: James Graham : This stuff does matter",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:20"
+        },
+        {
+            "nodeID": "512697",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:27:20",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512699",
+            "text": "James Graham : It is not the priority",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:21"
+        },
+        {
+            "nodeID": "512701",
+            "text": "the film and television sector is not the priority",
+            "type": "I",
+            "timestamp": "2020-05-28 20:27:21"
+        },
+        {
+            "nodeID": "512702",
+            "text": "Louise: James Graham : It is not the priority",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:21"
+        },
+        {
+            "nodeID": "512704",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:27:21",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512705",
+            "text": "Louise: James Graham :  I think confidence that people can work safety",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:22"
+        },
+        {
+            "nodeID": "512706",
+            "text": "James Graham : I think confidence that people can work safely",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:22"
+        },
+        {
+            "nodeID": "512708",
+            "text": "Louise: James Graham : I think confidence that people can work safely",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:22"
+        },
+        {
+            "nodeID": "512709",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:27:22",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512711",
+            "text": "Louise: James Graham : people who are returning to our city and town centres can eat and drink and re-invest in the economies is incredibly vital",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:23"
+        },
+        {
+            "nodeID": "512712",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:27:23",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512715",
+            "text": "Louise: Camilla Tominey : there is an argument to say if we had locked down earlier whether people would have psychologically been ready for it and obeyed it.  If you see the lockdown coming in on M",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:23"
+        },
+        {
+            "nodeID": "512716",
+            "text": "Louise: Camilla Tominey : if we had locked down earlier whether people would have psychologically been ready for it and obeyed it",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:23"
+        },
+        {
+            "nodeID": "512717",
+            "text": "Camilla Tominey : the lockdown did come in time for the peak",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:24"
+        },
+        {
+            "nodeID": "512719",
+            "text": "the lockdown came in time for the peak of the virus",
+            "type": "I",
+            "timestamp": "2020-05-28 20:27:24"
+        },
+        {
+            "nodeID": "512720",
+            "text": "Louise: Camilla Tominey : the lockdown did come in time for the peak",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:24"
+        },
+        {
+            "nodeID": "512721",
+            "text": "Louise: Camilla Tominey :  if we had locked down earlier whether people would have psychologically been ready for it and obeyed it",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:24"
+        },
+        {
+            "nodeID": "512722",
+            "text": "Camilla Tominey : there is an argument to say if we had locked down earlier whether people would have psychologically been ready for it and obeyed it",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:24"
+        },
+        {
+            "nodeID": "512724",
+            "text": "there is an argument to say if we had locked down earlier whether people would have psychologically been ready for it and obeyed it",
+            "type": "I",
+            "timestamp": "2020-05-28 20:27:25"
+        },
+        {
+            "nodeID": "512725",
+            "text": "Louise: Camilla Tominey : there is an argument to say if we had locked down earlier whether people would have psychologically been ready for it and obeyed it",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:25"
+        },
+        {
+            "nodeID": "512727",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:27:25",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512730",
+            "text": "the peak of the virus follows the lockdown",
+            "type": "I",
+            "timestamp": "2020-05-28 20:27:26"
+        },
+        {
+            "nodeID": "512731",
+            "text": "Louise: Fiona Bruce : The peak follows the lockdown",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:26"
+        },
+        {
+            "nodeID": "512733",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:27:26",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512736",
+            "text": "lockdown doesn't coincide with the peak of the virus",
+            "type": "I",
+            "timestamp": "2020-05-28 20:27:27"
+        },
+        {
+            "nodeID": "512737",
+            "text": "Louise: Fiona Bruce : Lockdown doesn't coincide with the peak",
+            "type": "L",
+            "timestamp": "2020-05-28 20:27:27"
+        },
+        {
+            "nodeID": "512739",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:27:27",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512743",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:27:28",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512745",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:27:28",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512747",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:27:28",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "667922",
+            "fromID": "512643",
+            "toID": "512652",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "667923",
+            "fromID": "512652",
+            "toID": "512648",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "667927",
+            "fromID": "512643",
+            "toID": "512656",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "667933",
+            "fromID": "512656",
+            "toID": "512659",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "667936",
+            "fromID": "512659",
+            "toID": "512667",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "667937",
+            "fromID": "512667",
+            "toID": "512663",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "667947",
+            "fromID": "512663",
+            "toID": "512680",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "667948",
+            "fromID": "512680",
+            "toID": "512671",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "667949",
+            "fromID": "512663",
+            "toID": "512681",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "667950",
+            "fromID": "512681",
+            "toID": "512675",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "667955",
+            "fromID": "512675",
+            "toID": "512686",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "667956",
+            "fromID": "512686",
+            "toID": "511679",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "667961",
+            "fromID": "511679",
+            "toID": "512692",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "667962",
+            "fromID": "512692",
+            "toID": "512687",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "667967",
+            "fromID": "511679",
+            "toID": "512697",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "667968",
+            "fromID": "512697",
+            "toID": "511705",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "667975",
+            "fromID": "511664",
+            "toID": "512704",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "667976",
+            "fromID": "512704",
+            "toID": "512699",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "667979",
+            "fromID": "512699",
+            "toID": "512709",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "667980",
+            "fromID": "512709",
+            "toID": "512706",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "667983",
+            "fromID": "512706",
+            "toID": "512712",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "667984",
+            "fromID": "512712",
+            "toID": "511717",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "667995",
+            "fromID": "512717",
+            "toID": "512727",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "667996",
+            "fromID": "512727",
+            "toID": "512722",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668003",
+            "fromID": "512717",
+            "toID": "512733",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668004",
+            "fromID": "512733",
+            "toID": "511751",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668011",
+            "fromID": "511751",
+            "toID": "512739",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668012",
+            "fromID": "512739",
+            "toID": "511758",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668019",
+            "fromID": "511758",
+            "toID": "512743",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668020",
+            "fromID": "512743",
+            "toID": "511751",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668023",
+            "fromID": "511717",
+            "toID": "512745",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668024",
+            "fromID": "512745",
+            "toID": "512717",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668027",
+            "fromID": "511664",
+            "toID": "512747",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668028",
+            "fromID": "512747",
+            "toID": "512671",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "511664",
+            "personID": "3864",
+            "timestamp": "2020-05-28 19:57:02",
+            "start": "2020-05-21 23:16:42",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511679",
+            "personID": "3864",
+            "timestamp": "2020-05-28 19:57:02",
+            "start": "2020-05-21 23:16:52",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511705",
+            "personID": "3864",
+            "timestamp": "2020-05-28 19:57:02",
+            "start": "2020-05-21 23:17:07",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511717",
+            "personID": "3864",
+            "timestamp": "2020-05-28 19:57:02",
+            "start": "2020-05-21 23:17:22",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511751",
+            "personID": "3812",
+            "timestamp": "2020-05-28 19:57:02",
+            "start": "2020-05-21 23:17:43",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511758",
+            "personID": "3812",
+            "timestamp": "2020-05-28 19:57:02",
+            "start": "2020-05-21 23:17:46",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511664",
+            "personID": "3864",
+            "timestamp": "2020-05-28 19:58:39",
+            "start": "2020-05-21 23:16:42",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511679",
+            "personID": "3864",
+            "timestamp": "2020-05-28 19:58:39",
+            "start": "2020-05-21 23:16:52",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511705",
+            "personID": "3864",
+            "timestamp": "2020-05-28 19:58:39",
+            "start": "2020-05-21 23:17:07",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511717",
+            "personID": "3864",
+            "timestamp": "2020-05-28 19:58:39",
+            "start": "2020-05-21 23:17:22",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511751",
+            "personID": "3812",
+            "timestamp": "2020-05-28 19:58:39",
+            "start": "2020-05-21 23:17:43",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511758",
+            "personID": "3812",
+            "timestamp": "2020-05-28 19:58:39",
+            "start": "2020-05-21 23:17:46",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511664",
+            "personID": "3864",
+            "timestamp": "2020-05-28 20:07:24",
+            "start": "2020-05-21 23:16:42",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511679",
+            "personID": "3864",
+            "timestamp": "2020-05-28 20:07:24",
+            "start": "2020-05-21 23:16:52",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511705",
+            "personID": "3864",
+            "timestamp": "2020-05-28 20:07:24",
+            "start": "2020-05-21 23:17:07",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511717",
+            "personID": "3864",
+            "timestamp": "2020-05-28 20:07:24",
+            "start": "2020-05-21 23:17:22",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511751",
+            "personID": "3812",
+            "timestamp": "2020-05-28 20:07:24",
+            "start": "2020-05-21 23:17:43",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511758",
+            "personID": "3812",
+            "timestamp": "2020-05-28 20:07:24",
+            "start": "2020-05-21 23:17:46",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512643",
+            "personID": "3864",
+            "timestamp": "2020-05-28 20:27:29",
+            "start": "2020-05-07 23:16:15",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512648",
+            "personID": "3864",
+            "timestamp": "2020-05-28 20:27:29",
+            "start": "2020-05-07 23:16:19",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512659",
+            "personID": "3864",
+            "timestamp": "2020-05-28 20:27:29",
+            "start": "2020-05-07 23:16:22",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512663",
+            "personID": "3864",
+            "timestamp": "2020-05-28 20:27:29",
+            "start": "2020-05-07 23:16:35",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511664",
+            "personID": "3864",
+            "timestamp": "2020-05-28 20:27:29",
+            "start": "2020-05-07 23:16:42",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512671",
+            "personID": "3864",
+            "timestamp": "2020-05-28 20:27:29",
+            "start": "2020-05-07 23:16:45",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512675",
+            "personID": "3864",
+            "timestamp": "2020-05-28 20:27:29",
+            "start": "2020-05-07 23:16:47",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511679",
+            "personID": "3864",
+            "timestamp": "2020-05-28 20:27:29",
+            "start": "2020-05-07 23:16:52",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512687",
+            "personID": "3864",
+            "timestamp": "2020-05-28 20:27:29",
+            "start": "2020-05-07 23:17:04",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511705",
+            "personID": "3864",
+            "timestamp": "2020-05-28 20:27:29",
+            "start": "2020-05-07 23:17:07",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512699",
+            "personID": "3864",
+            "timestamp": "2020-05-28 20:27:29",
+            "start": "2020-05-07 23:17:09",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512706",
+            "personID": "3864",
+            "timestamp": "2020-05-28 20:27:29",
+            "start": "2020-05-07 23:17:12",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511717",
+            "personID": "3864",
+            "timestamp": "2020-05-28 20:27:29",
+            "start": "2020-05-07 23:17:22",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512717",
+            "personID": "3865",
+            "timestamp": "2020-05-28 20:27:29",
+            "start": "2020-05-07 23:17:27",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512722",
+            "personID": "3865",
+            "timestamp": "2020-05-28 20:27:29",
+            "start": "2020-05-07 23:17:32",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511751",
+            "personID": "3812",
+            "timestamp": "2020-05-28 20:27:29",
+            "start": "2020-05-07 23:17:43",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511758",
+            "personID": "3812",
+            "timestamp": "2020-05-28 20:27:29",
+            "start": "2020-05-07 23:17:46",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511751",
+            "personID": "3812",
+            "timestamp": "2020-05-28 20:27:29",
+            "start": "2020-05-07 23:17:50",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511664",
+            "personID": "3864",
+            "timestamp": "2020-05-28 20:27:56",
+            "start": "2020-05-21 23:16:42",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511679",
+            "personID": "3864",
+            "timestamp": "2020-05-28 20:27:56",
+            "start": "2020-05-21 23:16:52",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511705",
+            "personID": "3864",
+            "timestamp": "2020-05-28 20:27:56",
+            "start": "2020-05-21 23:17:07",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511717",
+            "personID": "3864",
+            "timestamp": "2020-05-28 20:27:56",
+            "start": "2020-05-21 23:17:22",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511751",
+            "personID": "3812",
+            "timestamp": "2020-05-28 20:27:56",
+            "start": "2020-05-21 23:17:43",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511758",
+            "personID": "3812",
+            "timestamp": "2020-05-28 20:27:56",
+            "start": "2020-05-21 23:17:46",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511664",
+            "personID": "3864",
+            "timestamp": "2020-05-28 20:39:05",
+            "start": "2020-05-21 23:16:42",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511679",
+            "personID": "3864",
+            "timestamp": "2020-05-28 20:39:05",
+            "start": "2020-05-21 23:16:52",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511705",
+            "personID": "3864",
+            "timestamp": "2020-05-28 20:39:05",
+            "start": "2020-05-21 23:17:07",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511717",
+            "personID": "3864",
+            "timestamp": "2020-05-28 20:39:05",
+            "start": "2020-05-21 23:17:22",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511751",
+            "personID": "3812",
+            "timestamp": "2020-05-28 20:39:05",
+            "start": "2020-05-21 23:17:43",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511758",
+            "personID": "3812",
+            "timestamp": "2020-05-28 20:39:05",
+            "start": "2020-05-21 23:17:46",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511664",
+            "personID": "3864",
+            "timestamp": "2020-05-28 20:47:44",
+            "start": "2020-05-21 23:16:42",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511679",
+            "personID": "3864",
+            "timestamp": "2020-05-28 20:47:44",
+            "start": "2020-05-21 23:16:52",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511705",
+            "personID": "3864",
+            "timestamp": "2020-05-28 20:47:44",
+            "start": "2020-05-21 23:17:07",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511717",
+            "personID": "3864",
+            "timestamp": "2020-05-28 20:47:44",
+            "start": "2020-05-21 23:17:22",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511751",
+            "personID": "3812",
+            "timestamp": "2020-05-28 20:47:44",
+            "start": "2020-05-21 23:17:43",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511758",
+            "personID": "3812",
+            "timestamp": "2020-05-28 20:47:44",
+            "start": "2020-05-21 23:17:46",
+            "end": null,
+            "source": null
+        }
+    ]
+}

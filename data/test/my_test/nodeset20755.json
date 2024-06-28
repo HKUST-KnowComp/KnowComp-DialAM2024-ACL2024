@@ -1,0 +1,546 @@
+{
+    "nodes": [
+        {
+            "nodeID": "676511",
+            "text": "Fiona Bruce : a journalist can shout to Prince William is the Royal Family racist",
+            "type": "L",
+            "timestamp": "2021-04-01 19:55:14"
+        },
+        {
+            "nodeID": "676513",
+            "text": "a journalist can shout to Prince William asking if the Royal Family is racist",
+            "type": "I",
+            "timestamp": "2021-04-01 19:55:15"
+        },
+        {
+            "nodeID": "676514",
+            "text": "Martyna : Fiona Bruce : a journalist can shout to Prince William is the Royal Family racist",
+            "type": "L",
+            "timestamp": "2021-04-01 19:55:15"
+        },
+        {
+            "nodeID": "676515",
+            "text": "Martyna : Fiona Bruce : You can't imagine that question happening before the interview",
+            "type": "L",
+            "timestamp": "2021-04-01 19:55:17"
+        },
+        {
+            "nodeID": "676516",
+            "text": "Fiona Bruce : You can't imagine that question happening before the interview",
+            "type": "L",
+            "timestamp": "2021-04-01 19:55:18"
+        },
+        {
+            "nodeID": "676518",
+            "text": "you can't imagine any journalist asking Prince William whether the Royal Family is racist happening before the interview",
+            "type": "I",
+            "timestamp": "2021-04-01 19:55:19"
+        },
+        {
+            "nodeID": "676519",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-01 19:55:20",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "676520",
+            "text": "Martyna : Fiona Bruce : Prince Harry and Megan have decided to take this psycho drama playing out within their family",
+            "type": "L",
+            "timestamp": "2021-04-01 19:55:21"
+        },
+        {
+            "nodeID": "676521",
+            "text": "Dan Hodges : Prince Harry and Megan have decided to take this psycho drama playing out within their family",
+            "type": "L",
+            "timestamp": "2021-04-01 19:55:22"
+        },
+        {
+            "nodeID": "676523",
+            "text": "Prince Harry and Megan have decided to take this psycho drama playing out within their family",
+            "type": "I",
+            "timestamp": "2021-04-01 19:55:23"
+        },
+        {
+            "nodeID": "676524",
+            "text": "Martyna : Dan Hodges : Prince Harry and Megan have decided to take this psycho drama playing out within their family",
+            "type": "L",
+            "timestamp": "2021-04-01 19:55:24"
+        },
+        {
+            "nodeID": "676526",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-01 19:55:24",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "676528",
+            "text": "Dan Hodges : hurled it on to the bonfire for reasons of their personal PR reasons",
+            "type": "L",
+            "timestamp": "2021-04-01 19:55:25"
+        },
+        {
+            "nodeID": "676530",
+            "text": "Prince Harry and Megan hurled the drama happening within their family on to the bonfire for reasons of their personal PR reasons",
+            "type": "I",
+            "timestamp": "2021-04-01 19:55:26"
+        },
+        {
+            "nodeID": "676531",
+            "text": "Martyna : Dan Hodges : hurled it on to the bonfire for reasons of their personal PR reasons",
+            "type": "L",
+            "timestamp": "2021-04-01 19:55:27"
+        },
+        {
+            "nodeID": "676532",
+            "text": "Dan Hodges : hurled it on to the bonfire of our raging impact law",
+            "type": "L",
+            "timestamp": "2021-04-01 19:55:28"
+        },
+        {
+            "nodeID": "676534",
+            "text": "Prince Harry and Megan hurled the drama happening within their family on to the bonfire of our raging impact law",
+            "type": "I",
+            "timestamp": "2021-04-01 19:55:29"
+        },
+        {
+            "nodeID": "676535",
+            "text": "Martyna : Dan Hodges : hurled it on to the bonfire of our raging impact law",
+            "type": "L",
+            "timestamp": "2021-04-01 19:55:31"
+        },
+        {
+            "nodeID": "676536",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-01 19:55:31",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "676537",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-01 19:55:31",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "676540",
+            "text": "Dan Hodges : Where are we this evening",
+            "type": "L",
+            "timestamp": "2021-04-01 19:55:32"
+        },
+        {
+            "nodeID": "676542",
+            "text": "this evening we are in xxx",
+            "type": "I",
+            "timestamp": "2021-04-01 19:55:33"
+        },
+        {
+            "nodeID": "676543",
+            "text": "Martyna : Dan Hodges : Where are we this evening",
+            "type": "L",
+            "timestamp": "2021-04-01 19:55:35"
+        },
+        {
+            "nodeID": "676544",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-01 19:55:35",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "676545",
+            "text": "Dan Hodges : we have a situation where we are told the Royal Family is facing the greatest crisis for 80 years, Britain's reputation has been trashed",
+            "type": "L",
+            "timestamp": "2021-04-01 19:55:36"
+        },
+        {
+            "nodeID": "676547",
+            "text": "we have a situation where we are told the Royal Family is facing the greatest crisis for 80 years, Britain's reputation has been trashed",
+            "type": "I",
+            "timestamp": "2021-04-01 19:55:37"
+        },
+        {
+            "nodeID": "676548",
+            "text": "Martyna : Dan Hodges : we have a situation where we are told the Royal Family is facing the greatest crisis for 80 years, Britain's reputation has been trashed",
+            "type": "L",
+            "timestamp": "2021-04-01 19:55:39"
+        },
+        {
+            "nodeID": "676549",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-01 19:55:39",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "676550",
+            "text": "Dan Hodges : we're told the country is fracturing down racial and generalisational lines",
+            "type": "L",
+            "timestamp": "2021-04-01 19:55:40"
+        },
+        {
+            "nodeID": "676552",
+            "text": "we're told the country is fracturing down racial and generalisational lines",
+            "type": "I",
+            "timestamp": "2021-04-01 19:55:41"
+        },
+        {
+            "nodeID": "676553",
+            "text": "Martyna : Dan Hodges : we're told the country is fracturing down racial and generalisational lines",
+            "type": "L",
+            "timestamp": "2021-04-01 19:55:43"
+        },
+        {
+            "nodeID": "676554",
+            "text": "Dan Hodges : Some of that may be slightly overhyped",
+            "type": "L",
+            "timestamp": "2021-04-01 19:55:44"
+        },
+        {
+            "nodeID": "676556",
+            "text": "some of what we're told about the Royal Family and the Britain's reputation may be slightly overhyped",
+            "type": "I",
+            "timestamp": "2021-04-01 19:55:45"
+        },
+        {
+            "nodeID": "676557",
+            "text": "Martyna : Dan Hodges : Some of that may be slightly overhyped",
+            "type": "L",
+            "timestamp": "2021-04-01 19:55:46"
+        },
+        {
+            "nodeID": "676558",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-01 19:55:46",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "676559",
+            "text": "Dan Hodges : we all need this like we need a hole in the head",
+            "type": "L",
+            "timestamp": "2021-04-01 19:55:48"
+        },
+        {
+            "nodeID": "676561",
+            "text": "we all need the drama about the Royal Family like we need a hole in the head",
+            "type": "I",
+            "timestamp": "2021-04-01 19:55:49"
+        },
+        {
+            "nodeID": "676562",
+            "text": "Martyna : Dan Hodges : we all need this like we need a hole in the head",
+            "type": "L",
+            "timestamp": "2021-04-01 19:55:50"
+        },
+        {
+            "nodeID": "676563",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-01 19:55:50",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "676564",
+            "text": "Dan Hodges : Harry and Megan's cheerleaders have been running around telling us all we have to pick a side",
+            "type": "L",
+            "timestamp": "2021-04-01 19:55:51"
+        },
+        {
+            "nodeID": "676566",
+            "text": "Harry and Megan's cheerleaders have been running around telling us all we have to pick a side",
+            "type": "I",
+            "timestamp": "2021-04-01 19:55:53"
+        },
+        {
+            "nodeID": "676567",
+            "text": "Martyna : Dan Hodges : Harry and Megan's cheerleaders have been running around telling us all we have to pick a side",
+            "type": "L",
+            "timestamp": "2021-04-01 19:55:54"
+        },
+        {
+            "nodeID": "676568",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-01 19:55:54",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "676569",
+            "text": "Dan Hodges : people will pick a side",
+            "type": "L",
+            "timestamp": "2021-04-01 19:55:56"
+        },
+        {
+            "nodeID": "676571",
+            "text": "people will pick a side",
+            "type": "I",
+            "timestamp": "2021-04-01 19:55:57"
+        },
+        {
+            "nodeID": "676572",
+            "text": "Martyna : Dan Hodges : people will pick a side",
+            "type": "L",
+            "timestamp": "2021-04-01 19:55:59"
+        },
+        {
+            "nodeID": "676574",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-01 19:55:59",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "676581",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-01 19:55:59",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "875886",
+            "fromID": "676511",
+            "toID": "676519",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "875887",
+            "fromID": "676519",
+            "toID": "676516",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "875892",
+            "fromID": "676511",
+            "toID": "676526",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "875893",
+            "fromID": "676526",
+            "toID": "676521",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "875900",
+            "fromID": "676521",
+            "toID": "676536",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "875901",
+            "fromID": "676536",
+            "toID": "676528",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "875902",
+            "fromID": "676528",
+            "toID": "676537",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "875903",
+            "fromID": "676537",
+            "toID": "676532",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "875910",
+            "fromID": "676532",
+            "toID": "676544",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "875911",
+            "fromID": "676544",
+            "toID": "676540",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "875914",
+            "fromID": "676540",
+            "toID": "676549",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "875915",
+            "fromID": "676549",
+            "toID": "676545",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "875920",
+            "fromID": "676550",
+            "toID": "676558",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "875921",
+            "fromID": "676558",
+            "toID": "676554",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "875924",
+            "fromID": "676554",
+            "toID": "676563",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "875925",
+            "fromID": "676563",
+            "toID": "676559",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "875928",
+            "fromID": "676559",
+            "toID": "676568",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "875929",
+            "fromID": "676568",
+            "toID": "676564",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "875934",
+            "fromID": "676564",
+            "toID": "676574",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "875935",
+            "fromID": "676574",
+            "toID": "676569",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "875948",
+            "fromID": "676540",
+            "toID": "676581",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "875949",
+            "fromID": "676581",
+            "toID": "676550",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "676511",
+            "personID": "3812",
+            "timestamp": "2021-04-01 19:55:59",
+            "start": "2020-10-15 23:22:02",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "676516",
+            "personID": "3812",
+            "timestamp": "2021-04-01 19:55:59",
+            "start": "2020-10-15 23:22:08",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "676521",
+            "personID": "4360",
+            "timestamp": "2021-04-01 19:55:59",
+            "start": "2020-10-15 23:22:16",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "676528",
+            "personID": "4360",
+            "timestamp": "2021-04-01 19:55:59",
+            "start": "2020-10-15 23:22:26",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "676532",
+            "personID": "4360",
+            "timestamp": "2021-04-01 19:55:59",
+            "start": "2020-10-15 23:22:33",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "676540",
+            "personID": "4360",
+            "timestamp": "2021-04-01 19:55:59",
+            "start": "2020-10-15 23:22:38",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "676545",
+            "personID": "4360",
+            "timestamp": "2021-04-01 19:55:59",
+            "start": "2020-10-15 23:22:42",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "676550",
+            "personID": "4360",
+            "timestamp": "2021-04-01 19:55:59",
+            "start": "2020-10-15 23:22:56",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "676554",
+            "personID": "4360",
+            "timestamp": "2021-04-01 19:55:59",
+            "start": "2020-10-15 23:23:04",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "676559",
+            "personID": "4360",
+            "timestamp": "2021-04-01 19:55:59",
+            "start": "2020-10-15 23:23:13",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "676564",
+            "personID": "4360",
+            "timestamp": "2021-04-01 19:55:59",
+            "start": "2020-10-15 23:23:18",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "676569",
+            "personID": "4360",
+            "timestamp": "2021-04-01 19:55:59",
+            "start": "2020-10-15 23:23:31",
+            "end": null,
+            "source": null
+        }
+    ]
+}

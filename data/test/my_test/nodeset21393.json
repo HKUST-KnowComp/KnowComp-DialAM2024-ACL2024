@@ -1,0 +1,460 @@
+{
+    "nodes": [
+        {
+            "nodeID": "713676",
+            "text": "Camilla: Fatima Bhula : Is Great British Railways just another headline grabbing gimmick",
+            "type": "L",
+            "timestamp": "2021-05-27 20:03:25"
+        },
+        {
+            "nodeID": "713677",
+            "text": "Camilla: Fatima Bhula : will it actually make rail travel cheaper and more efficient",
+            "type": "L",
+            "timestamp": "2021-05-27 20:03:26"
+        },
+        {
+            "nodeID": "713678",
+            "text": "Camilla: Fiona Bruce : this is the announcement today by the government that Network Rail is effectively going to be subsumed over a period of time into Great British Railways",
+            "type": "L",
+            "timestamp": "2021-05-27 20:03:26"
+        },
+        {
+            "nodeID": "713679",
+            "text": "which will also take charge",
+            "type": "L",
+            "timestamp": "2021-05-27 20:03:27"
+        },
+        {
+            "nodeID": "713680",
+            "text": "Fatima Bhula : Is Great British Railways just another headline grabbing gimmick",
+            "type": "L",
+            "timestamp": "2021-05-27 20:03:27"
+        },
+        {
+            "nodeID": "713682",
+            "text": "Great British Railways is or is not just another headline grabbing gimmick",
+            "type": "I",
+            "timestamp": "2021-05-27 20:03:28"
+        },
+        {
+            "nodeID": "713683",
+            "text": "Fatima Bhula :  will it actually make rail travel cheaper and more efficient",
+            "type": "L",
+            "timestamp": "2021-05-27 20:03:29"
+        },
+        {
+            "nodeID": "713685",
+            "text": "Great British Railways will or will not actually make rail travel cheaper and more efficient",
+            "type": "I",
+            "timestamp": "2021-05-27 20:03:30"
+        },
+        {
+            "nodeID": "713686",
+            "text": "Camilla: Fatima Bhula :  will it actually make rail travel cheaper and more efficient",
+            "type": "L",
+            "timestamp": "2021-05-27 20:03:30"
+        },
+        {
+            "nodeID": "713687",
+            "text": "Fiona Bruce : this is the announcement today by the government that Network Rail is effectively going to be subsumed over a period of time into Great British Railways",
+            "type": "L",
+            "timestamp": "2021-05-27 20:03:31"
+        },
+        {
+            "nodeID": "713689",
+            "text": "the announcement today by the government is that Network Rail is effectively going to be subsumed over a period of time into Great British Railways",
+            "type": "I",
+            "timestamp": "2021-05-27 20:03:31"
+        },
+        {
+            "nodeID": "713690",
+            "text": "Fiona Bruce : which will also take charge, not only just of the infrastructure of the railways, but also of ticketing and timetables, certainly in England and Wales",
+            "type": "L",
+            "timestamp": "2021-05-27 20:03:32"
+        },
+        {
+            "nodeID": "713692",
+            "text": "Great British Railways will also take charge, not only just of the infrastructure of the railways, but also of ticketing and timetables, certainly in England and Wales",
+            "type": "I",
+            "timestamp": "2021-05-27 20:03:33"
+        },
+        {
+            "nodeID": "713693",
+            "text": "Camilla: Fiona Bruce : which will also take charge, not only just of the infrastructure of the railways, but also of ticketing and timetables, certainly in England and Wales",
+            "type": "L",
+            "timestamp": "2021-05-27 20:03:34"
+        },
+        {
+            "nodeID": "713694",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:03:34",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "713695",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:03:34",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "713696",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:03:34",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "713697",
+            "text": "Fiona Bruce : Going to be slightly different in Scotland",
+            "type": "L",
+            "timestamp": "2021-05-27 20:03:34"
+        },
+        {
+            "nodeID": "713699",
+            "text": "going to be slightly different in Scotland when Great British Railways takes over",
+            "type": "I",
+            "timestamp": "2021-05-27 20:03:35"
+        },
+        {
+            "nodeID": "713700",
+            "text": "Camilla: Fiona Bruce : Going to be slightly different in Scotland",
+            "type": "L",
+            "timestamp": "2021-05-27 20:03:35"
+        },
+        {
+            "nodeID": "713701",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:03:35",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "713702",
+            "text": "Fiona Bruce : Harriet, another gimmick",
+            "type": "L",
+            "timestamp": "2021-05-27 20:03:36"
+        },
+        {
+            "nodeID": "713704",
+            "text": "Harriet does or does not think Great British Railways is just another gimmick",
+            "type": "I",
+            "timestamp": "2021-05-27 20:03:37"
+        },
+        {
+            "nodeID": "713705",
+            "text": "Camilla: Fiona Bruce : Harriet, another gimmick",
+            "type": "L",
+            "timestamp": "2021-05-27 20:03:37"
+        },
+        {
+            "nodeID": "713707",
+            "text": "Fiona Bruce : Is this going to make much of a difference",
+            "type": "L",
+            "timestamp": "2021-05-27 20:03:38"
+        },
+        {
+            "nodeID": "713709",
+            "text": "Great British Railways is or is not this going to make much of a difference",
+            "type": "I",
+            "timestamp": "2021-05-27 20:03:38"
+        },
+        {
+            "nodeID": "713710",
+            "text": "Camilla: Fiona Bruce : Is this going to make much of a difference",
+            "type": "L",
+            "timestamp": "2021-05-27 20:03:39"
+        },
+        {
+            "nodeID": "713712",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:03:39",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "713714",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:03:39",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "713716",
+            "text": "Harriet Green : firstly it appears from what's been shared that the commuters were really listened to",
+            "type": "L",
+            "timestamp": "2021-05-27 20:03:39"
+        },
+        {
+            "nodeID": "713718",
+            "text": "firstly it appears from what's been shared that the railway commuters were really listened to",
+            "type": "I",
+            "timestamp": "2021-05-27 20:03:40"
+        },
+        {
+            "nodeID": "713719",
+            "text": "Camilla: Harriet Green : firstly it appears from what's been shared that the commuters were really listened to",
+            "type": "L",
+            "timestamp": "2021-05-27 20:03:40"
+        },
+        {
+            "nodeID": "713720",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:03:40",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "713721",
+            "text": "Harriet Green : it's always good when people are actually using the service are consulted",
+            "type": "L",
+            "timestamp": "2021-05-27 20:03:41"
+        },
+        {
+            "nodeID": "713723",
+            "text": "it's always good when the people who are actually using the service are consulted",
+            "type": "I",
+            "timestamp": "2021-05-27 20:03:41"
+        },
+        {
+            "nodeID": "713724",
+            "text": "Camilla: Harriet Green : it's always good when people are actually using the service are consulted",
+            "type": "L",
+            "timestamp": "2021-05-27 20:03:42"
+        },
+        {
+            "nodeID": "713726",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:03:42",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "713728",
+            "text": "Harriet Green : it seemed a very intensive set of what are the issues we're dealing with",
+            "type": "L",
+            "timestamp": "2021-05-27 20:03:42"
+        },
+        {
+            "nodeID": "713730",
+            "text": "it seemed a very intensive set of what are the issues we're dealing with in the railway network",
+            "type": "I",
+            "timestamp": "2021-05-27 20:03:43"
+        },
+        {
+            "nodeID": "713731",
+            "text": "Camilla: Harriet Green : it seemed a very intensive set of what are the issues we're dealing with",
+            "type": "L",
+            "timestamp": "2021-05-27 20:03:43"
+        },
+        {
+            "nodeID": "713732",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:03:43",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "919216",
+            "fromID": "713680",
+            "toID": "713694",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919217",
+            "fromID": "713694",
+            "toID": "713683",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919218",
+            "fromID": "713683",
+            "toID": "713695",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919219",
+            "fromID": "713695",
+            "toID": "713687",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919220",
+            "fromID": "713687",
+            "toID": "713696",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919221",
+            "fromID": "713696",
+            "toID": "713690",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919224",
+            "fromID": "713690",
+            "toID": "713701",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919225",
+            "fromID": "713701",
+            "toID": "713697",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919234",
+            "fromID": "713680",
+            "toID": "713712",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919235",
+            "fromID": "713712",
+            "toID": "713702",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919238",
+            "fromID": "713683",
+            "toID": "713714",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919239",
+            "fromID": "713714",
+            "toID": "713707",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919244",
+            "fromID": "713707",
+            "toID": "713720",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919245",
+            "fromID": "713720",
+            "toID": "713716",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919250",
+            "fromID": "713716",
+            "toID": "713726",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919251",
+            "fromID": "713726",
+            "toID": "713721",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919256",
+            "fromID": "713721",
+            "toID": "713732",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919257",
+            "fromID": "713732",
+            "toID": "713728",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "713680",
+            "personID": "4756",
+            "timestamp": "2021-05-27 20:03:44",
+            "start": "2020-10-15 23:18:37",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "713683",
+            "personID": "4756",
+            "timestamp": "2021-05-27 20:03:44",
+            "start": "2020-10-15 23:18:43",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "713687",
+            "personID": "3812",
+            "timestamp": "2021-05-27 20:03:44",
+            "start": "2020-10-15 23:18:46",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "713690",
+            "personID": "3812",
+            "timestamp": "2021-05-27 20:03:44",
+            "start": "2020-10-15 23:18:59",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "713697",
+            "personID": "3812",
+            "timestamp": "2021-05-27 20:03:44",
+            "start": "2020-10-15 23:19:05",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "713702",
+            "personID": "3812",
+            "timestamp": "2021-05-27 20:03:44",
+            "start": "2020-10-15 23:19:07",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "713707",
+            "personID": "3812",
+            "timestamp": "2021-05-27 20:03:44",
+            "start": "2020-10-15 23:19:09",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "713716",
+            "personID": "4715",
+            "timestamp": "2021-05-27 20:03:44",
+            "start": "2020-10-15 23:19:12",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "713721",
+            "personID": "4715",
+            "timestamp": "2021-05-27 20:03:44",
+            "start": "2020-10-15 23:19:21",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "713728",
+            "personID": "4715",
+            "timestamp": "2021-05-27 20:03:44",
+            "start": "2020-10-15 23:19:29",
+            "end": null,
+            "source": null
+        }
+    ]
+}

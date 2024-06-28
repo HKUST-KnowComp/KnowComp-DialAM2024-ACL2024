@@ -1,0 +1,644 @@
+{
+    "nodes": [
+        {
+            "nodeID": "539111",
+            "text": "Fiona Bruce : Are you worried people may now -- the comment from Keith, \"move on and I don't want to talk about it anymore\"",
+            "type": "L",
+            "timestamp": "2020-06-04 19:27:46"
+        },
+        {
+            "nodeID": "539113",
+            "text": "Helen Whatley is or is not worried people may now -- the comment from Keith, \"move on and I don't want to talk about it anymore\"",
+            "type": "I",
+            "timestamp": "2020-06-04 19:27:46"
+        },
+        {
+            "nodeID": "539114",
+            "text": "Katharina: Fiona Bruce : Are you worried people may now -- the comment from Keith, \"move on and I don't want to talk about it anymore\"",
+            "type": "L",
+            "timestamp": "2020-06-04 19:27:46"
+        },
+        {
+            "nodeID": "539115",
+            "text": "Fiona Bruce :  I am sure you will not be alone in that",
+            "type": "L",
+            "timestamp": "2020-06-04 19:27:46"
+        },
+        {
+            "nodeID": "539117",
+            "text": "Fiona Bruce is sure that Helen Whatley will not be alone in moving on and not wanting to talk about the Dominic Cummings situation",
+            "type": "I",
+            "timestamp": "2020-06-04 19:27:46"
+        },
+        {
+            "nodeID": "539118",
+            "text": "Katharina: Fiona Bruce :  I am sure you will not be alone in that",
+            "type": "L",
+            "timestamp": "2020-06-04 19:27:47"
+        },
+        {
+            "nodeID": "539119",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-06-04 19:27:47",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "539120",
+            "text": "Fiona Bruce : Others might be thinking are there any loopholes in this system we are being asked in England and Scotland to adopt from today in terms of test and protect or test and isolate",
+            "type": "L",
+            "timestamp": "2020-06-04 19:27:47"
+        },
+        {
+            "nodeID": "539122",
+            "text": "others might be thinking are there any loopholes in this system we are being asked in England and Scotland to adopt from today in terms of test and protect or test and isolate",
+            "type": "I",
+            "timestamp": "2020-06-04 19:27:47"
+        },
+        {
+            "nodeID": "539123",
+            "text": "Katharina: Fiona Bruce : Others might be thinking are there any loopholes in this system we are being asked in England and Scotland to adopt from today in terms of test and protect or test and isolate",
+            "type": "L",
+            "timestamp": "2020-06-04 19:27:47"
+        },
+        {
+            "nodeID": "539124",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-06-04 19:27:47",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "539125",
+            "text": "Fiona Bruce :  If there are loopholes should we hear about them now rather than find out later",
+            "type": "L",
+            "timestamp": "2020-06-04 19:27:48"
+        },
+        {
+            "nodeID": "539127",
+            "text": "if there are loopholes should we hear about them now rather than find out later",
+            "type": "I",
+            "timestamp": "2020-06-04 19:27:48"
+        },
+        {
+            "nodeID": "539128",
+            "text": "Katharina: Fiona Bruce :  If there are loopholes -- it appears there were a few loopholes when it came to going up to county Durham when we all thought we might have to stay at home -- if there are loopholes, should we hear about them now rather than find out later",
+            "type": "L",
+            "timestamp": "2020-06-04 19:27:48"
+        },
+        {
+            "nodeID": "539129",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-06-04 19:27:48",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "539130",
+            "text": "Fiona Bruce : it appears there were a few loopholes when it came to going up to county Durham when we all thought we might have to stay at home",
+            "type": "L",
+            "timestamp": "2020-06-04 19:27:48"
+        },
+        {
+            "nodeID": "539132",
+            "text": "it appears there were a few loopholes when it came to going up to county Durham when we all thought we might have to stay at home",
+            "type": "I",
+            "timestamp": "2020-06-04 19:27:49"
+        },
+        {
+            "nodeID": "539133",
+            "text": "Katharina: Fiona Bruce : it appears there were a few loopholes when it came to going up to county Durham when we all thought we might have to stay at home",
+            "type": "L",
+            "timestamp": "2020-06-04 19:27:49"
+        },
+        {
+            "nodeID": "539134",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-06-04 19:27:49",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "539137",
+            "text": "Katharina: Fiona Bruce : What we have seen so far is people really consciously following guidance",
+            "type": "L",
+            "timestamp": "2020-06-04 19:27:49"
+        },
+        {
+            "nodeID": "539138",
+            "text": "Helen Whately : What we have seen so far is people really consciously following guidance",
+            "type": "L",
+            "timestamp": "2020-06-04 19:27:49"
+        },
+        {
+            "nodeID": "539140",
+            "text": "what we have seen so far is people really consciously following guidance",
+            "type": "I",
+            "timestamp": "2020-06-04 19:27:50"
+        },
+        {
+            "nodeID": "539141",
+            "text": "Katharina: Helen Whately : What we have seen so far is people really consciously following guidance",
+            "type": "L",
+            "timestamp": "2020-06-04 19:27:50"
+        },
+        {
+            "nodeID": "539142",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-06-04 19:27:50",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "539143",
+            "text": "Helen Whately : the guidance has included recognising that some situations will be more difficult",
+            "type": "L",
+            "timestamp": "2020-06-04 19:27:50"
+        },
+        {
+            "nodeID": "539145",
+            "text": "the guidance has included recognising that some situations will be more difficult",
+            "type": "I",
+            "timestamp": "2020-06-04 19:27:50"
+        },
+        {
+            "nodeID": "539146",
+            "text": "Katharina: Helen Whately : the guidance has included recognising that some situations will be more difficult",
+            "type": "L",
+            "timestamp": "2020-06-04 19:27:51"
+        },
+        {
+            "nodeID": "539147",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-06-04 19:27:51",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "539148",
+            "text": "Helen Whately : For instance, if you are looking after somebody who is particularly vulnerable, have a childcare situation",
+            "type": "L",
+            "timestamp": "2020-06-04 19:27:51"
+        },
+        {
+            "nodeID": "539150",
+            "text": "for instance, if you are looking after somebody who is particularly vulnerable, have a childcare situation",
+            "type": "I",
+            "timestamp": "2020-06-04 19:27:51"
+        },
+        {
+            "nodeID": "539151",
+            "text": "Katharina: Helen Whately : For instance, if you are looking after somebody who is particularly vulnerable, have a childcare situation",
+            "type": "L",
+            "timestamp": "2020-06-04 19:27:51"
+        },
+        {
+            "nodeID": "539152",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-06-04 19:27:51",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "539155",
+            "text": "Katharina: Fiona Bruce : you have a childcare situation",
+            "type": "L",
+            "timestamp": "2020-06-04 19:27:52"
+        },
+        {
+            "nodeID": "539156",
+            "text": "Fiona Bruce : If you have a childcare situation",
+            "type": "L",
+            "timestamp": "2020-06-04 19:27:52"
+        },
+        {
+            "nodeID": "539158",
+            "text": "if you have a childcare situation",
+            "type": "I",
+            "timestamp": "2020-06-04 19:27:52"
+        },
+        {
+            "nodeID": "539159",
+            "text": "Katharina: Fiona Bruce : If you have a childcare situation",
+            "type": "L",
+            "timestamp": "2020-06-04 19:27:52"
+        },
+        {
+            "nodeID": "539160",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-06-04 19:27:53",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "539161",
+            "text": "Fiona Bruce :  if you have a problem with childcare",
+            "type": "L",
+            "timestamp": "2020-06-04 19:27:53"
+        },
+        {
+            "nodeID": "539163",
+            "text": "if you have a problem with childcare",
+            "type": "I",
+            "timestamp": "2020-06-04 19:27:53"
+        },
+        {
+            "nodeID": "539164",
+            "text": "Katharina: Fiona Bruce :  if you have a problem with childcare",
+            "type": "L",
+            "timestamp": "2020-06-04 19:27:53"
+        },
+        {
+            "nodeID": "539165",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-06-04 19:27:53",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "539168",
+            "text": "Fiona Bruce : you happen to be one of the people who is identified as someone who has to stay at home for two weeks",
+            "type": "L",
+            "timestamp": "2020-06-04 19:27:54"
+        },
+        {
+            "nodeID": "539170",
+            "text": "you happen to be one of the people who is identified as someone who has to stay at home for two weeks",
+            "type": "I",
+            "timestamp": "2020-06-04 19:27:54"
+        },
+        {
+            "nodeID": "539171",
+            "text": "Katharina: Fiona Bruce : you happen to be one of the people who is identified as someone who has to stay at home for two weeks",
+            "type": "L",
+            "timestamp": "2020-06-04 19:27:54"
+        },
+        {
+            "nodeID": "539172",
+            "text": "Fiona Bruce : you may not necessarily have to stay at home",
+            "type": "L",
+            "timestamp": "2020-06-04 19:27:54"
+        },
+        {
+            "nodeID": "539174",
+            "text": "you may not necessarily have to stay at home",
+            "type": "I",
+            "timestamp": "2020-06-04 19:27:55"
+        },
+        {
+            "nodeID": "539175",
+            "text": "Katharina: Fiona Bruce : you may not necessarily have to stay at home",
+            "type": "L",
+            "timestamp": "2020-06-04 19:27:55"
+        },
+        {
+            "nodeID": "539177",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-06-04 19:27:55",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "539178",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-06-04 19:27:55",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "539180",
+            "text": "Helen Whately : You clearly have to make sure your child is safe",
+            "type": "L",
+            "timestamp": "2020-06-04 19:27:56"
+        },
+        {
+            "nodeID": "539182",
+            "text": "you clearly have to make sure your child is safe",
+            "type": "I",
+            "timestamp": "2020-06-04 19:27:56"
+        },
+        {
+            "nodeID": "539183",
+            "text": "Katharina: Helen Whately : You clearly have to make sure your child is safe",
+            "type": "L",
+            "timestamp": "2020-06-04 19:27:56"
+        },
+        {
+            "nodeID": "539184",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-06-04 19:27:56",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "539189",
+            "text": "Helen Whately :  any parent should do so",
+            "type": "L",
+            "timestamp": "2020-06-04 19:27:57"
+        },
+        {
+            "nodeID": "539193",
+            "text": "any parent should make sure their child is safe",
+            "type": "I",
+            "timestamp": "2020-06-04 19:27:57"
+        },
+        {
+            "nodeID": "539195",
+            "text": "Katharina: Helen Whately :  any parent should do so",
+            "type": "L",
+            "timestamp": "2020-06-04 19:27:57"
+        },
+        {
+            "nodeID": "539197",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-06-04 19:27:57",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "705224",
+            "fromID": "539111",
+            "toID": "539119",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705225",
+            "fromID": "539119",
+            "toID": "539115",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705228",
+            "fromID": "539115",
+            "toID": "539124",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705229",
+            "fromID": "539124",
+            "toID": "539120",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705232",
+            "fromID": "539120",
+            "toID": "539129",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705233",
+            "fromID": "539129",
+            "toID": "539125",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705236",
+            "fromID": "539125",
+            "toID": "539134",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705237",
+            "fromID": "539134",
+            "toID": "539130",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705244",
+            "fromID": "539130",
+            "toID": "539142",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705245",
+            "fromID": "539142",
+            "toID": "539138",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705248",
+            "fromID": "539138",
+            "toID": "539147",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705249",
+            "fromID": "539147",
+            "toID": "539143",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705252",
+            "fromID": "539143",
+            "toID": "539152",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705253",
+            "fromID": "539152",
+            "toID": "539148",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705260",
+            "fromID": "539148",
+            "toID": "539160",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705261",
+            "fromID": "539160",
+            "toID": "539156",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705264",
+            "fromID": "539156",
+            "toID": "539165",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705265",
+            "fromID": "539165",
+            "toID": "539161",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705277",
+            "fromID": "539161",
+            "toID": "539177",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705278",
+            "fromID": "539177",
+            "toID": "539172",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705279",
+            "fromID": "539161",
+            "toID": "539178",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705280",
+            "fromID": "539178",
+            "toID": "539168",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705285",
+            "fromID": "539172",
+            "toID": "539184",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705286",
+            "fromID": "539184",
+            "toID": "539180",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705293",
+            "fromID": "539180",
+            "toID": "539197",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705294",
+            "fromID": "539197",
+            "toID": "539189",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "539111",
+            "personID": "3812",
+            "timestamp": "2020-06-04 19:27:58",
+            "start": "2020-05-28 23:01:56",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "539115",
+            "personID": "3812",
+            "timestamp": "2020-06-04 19:27:58",
+            "start": "2020-05-28 23:02:03",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "539120",
+            "personID": "3812",
+            "timestamp": "2020-06-04 19:27:58",
+            "start": "2020-05-28 23:02:09",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "539125",
+            "personID": "3812",
+            "timestamp": "2020-06-04 19:27:58",
+            "start": "2020-05-28 23:02:29",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "539130",
+            "personID": "3812",
+            "timestamp": "2020-06-04 19:27:58",
+            "start": "2020-05-28 23:02:23",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "539138",
+            "personID": "3880",
+            "timestamp": "2020-06-04 19:27:58",
+            "start": "2020-05-28 23:02:32",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "539143",
+            "personID": "3880",
+            "timestamp": "2020-06-04 19:27:58",
+            "start": "2020-05-28 23:02:38",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "539148",
+            "personID": "3880",
+            "timestamp": "2020-06-04 19:27:58",
+            "start": "2020-05-28 23:02:45",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "539156",
+            "personID": "3812",
+            "timestamp": "2020-06-04 19:27:58",
+            "start": "2020-05-28 23:02:47",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "539161",
+            "personID": "3812",
+            "timestamp": "2020-06-04 19:27:58",
+            "start": "2020-05-28 23:02:51",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "539168",
+            "personID": "3812",
+            "timestamp": "2020-06-04 19:27:58",
+            "start": "2020-05-28 23:02:56",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "539172",
+            "personID": "3812",
+            "timestamp": "2020-06-04 19:27:58",
+            "start": "2020-05-28 23:03:00",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "539180",
+            "personID": "3880",
+            "timestamp": "2020-06-04 19:27:58",
+            "start": "2020-05-28 23:03:02",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "539189",
+            "personID": "3880",
+            "timestamp": "2020-06-04 19:27:58",
+            "start": "2020-05-28 23:03:07",
+            "end": null,
+            "source": null
+        }
+    ]
+}

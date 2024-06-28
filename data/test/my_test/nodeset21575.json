@@ -1,0 +1,540 @@
+{
+    "nodes": [
+        {
+            "nodeID": "722965",
+            "text": "Daniel Finkelstein : The government has to be understanding about that",
+            "type": "L",
+            "timestamp": "2021-06-24 19:19:37"
+        },
+        {
+            "nodeID": "722967",
+            "text": "the government has to be understanding about the issue of getting vaccinated",
+            "type": "I",
+            "timestamp": "2021-06-24 19:19:38"
+        },
+        {
+            "nodeID": "722968",
+            "text": "Camilla: Daniel Finkelstein : The government has to be understanding about that",
+            "type": "L",
+            "timestamp": "2021-06-24 19:19:38"
+        },
+        {
+            "nodeID": "722969",
+            "text": "Daniel Finkelstein : when you are choosing between whether it is the member of staff or the people who are being cared for that take priority",
+            "type": "L",
+            "timestamp": "2021-06-24 19:19:39"
+        },
+        {
+            "nodeID": "722971",
+            "text": "you are choosing between whether it is the member of staff or the people who are being cared for that take priority",
+            "type": "I",
+            "timestamp": "2021-06-24 19:19:40"
+        },
+        {
+            "nodeID": "722972",
+            "text": "Camilla: Daniel Finkelstein : when you are choosing between whether it is the member of staff or the people who are being cared for that take priority",
+            "type": "L",
+            "timestamp": "2021-06-24 19:19:41"
+        },
+        {
+            "nodeID": "722973",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 19:19:41",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "722974",
+            "text": "Daniel Finkelstein : it does have to be focused around the people being cared for",
+            "type": "L",
+            "timestamp": "2021-06-24 19:19:42"
+        },
+        {
+            "nodeID": "722976",
+            "text": "the decision between the member of staff and the people who are being cared for does have to be focused around the people being cared for",
+            "type": "I",
+            "timestamp": "2021-06-24 19:19:44"
+        },
+        {
+            "nodeID": "722977",
+            "text": "Camilla: Daniel Finkelstein : it does have to be focused around the people being cared for",
+            "type": "L",
+            "timestamp": "2021-06-24 19:19:45"
+        },
+        {
+            "nodeID": "722978",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 19:19:45",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "722979",
+            "text": "Daniel Finkelstein :  You do have to make a priority choice",
+            "type": "L",
+            "timestamp": "2021-06-24 19:19:45"
+        },
+        {
+            "nodeID": "722981",
+            "text": "you do have to make a priority choice",
+            "type": "I",
+            "timestamp": "2021-06-24 19:19:46"
+        },
+        {
+            "nodeID": "722982",
+            "text": "Camilla: Daniel Finkelstein :  You do have to make a priority choice",
+            "type": "L",
+            "timestamp": "2021-06-24 19:19:47"
+        },
+        {
+            "nodeID": "722985",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 19:19:47",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "722986",
+            "text": "Daniel Finkelstein : that would be mine",
+            "type": "L",
+            "timestamp": "2021-06-24 19:19:47"
+        },
+        {
+            "nodeID": "722988",
+            "text": "choosing to vaccinate the people being cared for before the members of staff would be Daniel Finkelstein's choice",
+            "type": "I",
+            "timestamp": "2021-06-24 19:19:48"
+        },
+        {
+            "nodeID": "722989",
+            "text": "Camilla: Daniel Finkelstein : that would be mine",
+            "type": "L",
+            "timestamp": "2021-06-24 19:19:49"
+        },
+        {
+            "nodeID": "722991",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 19:19:49",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "722993",
+            "text": "Daniel Finkelstein : it is very difficult",
+            "type": "L",
+            "timestamp": "2021-06-24 19:19:50"
+        },
+        {
+            "nodeID": "722995",
+            "text": "choosing who gets vaccinated is very difficult",
+            "type": "I",
+            "timestamp": "2021-06-24 19:19:51"
+        },
+        {
+            "nodeID": "722996",
+            "text": "Camilla: Daniel Finkelstein : it is very difficult",
+            "type": "L",
+            "timestamp": "2021-06-24 19:19:52"
+        },
+        {
+            "nodeID": "722997",
+            "text": "AudienceMember 20210624QT11 : I find it appalling that we're saying to these NHS workers, who have been applauded, are wonderful, have risked their lives, I have a family member who is an NHS worker",
+            "type": "L",
+            "timestamp": "2021-06-24 19:19:53"
+        },
+        {
+            "nodeID": "722999",
+            "text": "the AudienceMember 20210624QT11 finds it appalling what we're saying to these NHS workers, who have been applauded, are wonderful, have risked their lives, she has a family member who is an NHS worker",
+            "type": "I",
+            "timestamp": "2021-06-24 19:19:54"
+        },
+        {
+            "nodeID": "723000",
+            "text": "Camilla: AudienceMember 20210624QT11 : I find it appalling that we're saying to these NHS workers, who have been applauded, are wonderful, have risked their lives, I have a family member who is an NHS worker",
+            "type": "L",
+            "timestamp": "2021-06-24 19:19:55"
+        },
+        {
+            "nodeID": "723001",
+            "text": "AudienceMember 20210624QT11 : She is not refusing the vaccine",
+            "type": "L",
+            "timestamp": "2021-06-24 19:19:55"
+        },
+        {
+            "nodeID": "723003",
+            "text": "the family member of AudienceMember 20210624QT11 is not refusing the vaccine",
+            "type": "I",
+            "timestamp": "2021-06-24 19:19:56"
+        },
+        {
+            "nodeID": "723004",
+            "text": "Camilla: AudienceMember 20210624QT11 : She is not refusing the vaccine",
+            "type": "L",
+            "timestamp": "2021-06-24 19:19:57"
+        },
+        {
+            "nodeID": "723005",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 19:19:57",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "723006",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 19:19:57",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "723007",
+            "text": "AudienceMember 20210624QT11 : she has had it on three separate occasions",
+            "type": "L",
+            "timestamp": "2021-06-24 19:19:58"
+        },
+        {
+            "nodeID": "723009",
+            "text": "the family member of AudienceMember 20210624QT11 has had an appointment for the vaccination on three separate occasions",
+            "type": "I",
+            "timestamp": "2021-06-24 19:19:59"
+        },
+        {
+            "nodeID": "723010",
+            "text": "Camilla: AudienceMember 20210624QT11 : she has had it on three separate occasions",
+            "type": "L",
+            "timestamp": "2021-06-24 19:20:00"
+        },
+        {
+            "nodeID": "723011",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 19:20:00",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "723012",
+            "text": "AudienceMember 20210624QT11 : has been turned away",
+            "type": "L",
+            "timestamp": "2021-06-24 19:20:01"
+        },
+        {
+            "nodeID": "723014",
+            "text": "the family member of AudienceMember 20210624QT11 has been turned away from the vaccination appointment",
+            "type": "I",
+            "timestamp": "2021-06-24 19:20:02"
+        },
+        {
+            "nodeID": "723015",
+            "text": "Camilla: AudienceMember 20210624QT11 : has been turned away",
+            "type": "L",
+            "timestamp": "2021-06-24 19:20:03"
+        },
+        {
+            "nodeID": "723016",
+            "text": "AudienceMember 20210624QT11 : she has a history of anaphylactic shock",
+            "type": "L",
+            "timestamp": "2021-06-24 19:20:03"
+        },
+        {
+            "nodeID": "723018",
+            "text": "the family member of AudienceMember 20210624QT11 has a history of anaphylactic shock",
+            "type": "I",
+            "timestamp": "2021-06-24 19:20:04"
+        },
+        {
+            "nodeID": "723019",
+            "text": "Camilla: AudienceMember 20210624QT11 : she has a history of anaphylactic shock",
+            "type": "L",
+            "timestamp": "2021-06-24 19:20:04"
+        },
+        {
+            "nodeID": "723020",
+            "text": "AudienceMember 20210624QT11 : Where does that leaves her",
+            "type": "L",
+            "timestamp": "2021-06-24 19:20:05"
+        },
+        {
+            "nodeID": "723022",
+            "text": "that leaves AudienceMember 20210624QT11's family member to xxx",
+            "type": "I",
+            "timestamp": "2021-06-24 19:20:05"
+        },
+        {
+            "nodeID": "723023",
+            "text": "Camilla: AudienceMember 20210624QT11 : Where does that leaves her",
+            "type": "L",
+            "timestamp": "2021-06-24 19:20:06"
+        },
+        {
+            "nodeID": "723024",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 19:20:06",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "723025",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 19:20:06",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "723026",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 19:20:06",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "723028",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 19:20:06",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "928628",
+            "fromID": "722965",
+            "toID": "722973",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928629",
+            "fromID": "722973",
+            "toID": "722969",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928632",
+            "fromID": "722969",
+            "toID": "722978",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928633",
+            "fromID": "722978",
+            "toID": "722974",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928640",
+            "fromID": "722974",
+            "toID": "722985",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928641",
+            "fromID": "722985",
+            "toID": "722979",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928646",
+            "fromID": "722974",
+            "toID": "722991",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928647",
+            "fromID": "722991",
+            "toID": "722986",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928656",
+            "fromID": "722997",
+            "toID": "723005",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928657",
+            "fromID": "723005",
+            "toID": "723001",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928658",
+            "fromID": "722993",
+            "toID": "723006",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928659",
+            "fromID": "723006",
+            "toID": "722997",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928662",
+            "fromID": "723001",
+            "toID": "723011",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928663",
+            "fromID": "723011",
+            "toID": "723007",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928670",
+            "fromID": "723016",
+            "toID": "723024",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928671",
+            "fromID": "723024",
+            "toID": "723020",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928672",
+            "fromID": "723012",
+            "toID": "723025",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928673",
+            "fromID": "723025",
+            "toID": "723016",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928674",
+            "fromID": "723007",
+            "toID": "723026",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928675",
+            "fromID": "723026",
+            "toID": "723012",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928678",
+            "fromID": "722979",
+            "toID": "723028",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928679",
+            "fromID": "723028",
+            "toID": "722993",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "722965",
+            "personID": "4849",
+            "timestamp": "2021-06-24 19:20:06",
+            "start": "2020-10-15 22:54:58",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "722969",
+            "personID": "4849",
+            "timestamp": "2021-06-24 19:20:06",
+            "start": "2020-10-15 22:55:03",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "722974",
+            "personID": "4849",
+            "timestamp": "2021-06-24 19:20:06",
+            "start": "2020-10-15 22:55:10",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "722979",
+            "personID": "4849",
+            "timestamp": "2021-06-24 19:20:06",
+            "start": "2020-10-15 22:55:13",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "722986",
+            "personID": "4849",
+            "timestamp": "2021-06-24 19:20:06",
+            "start": "2020-10-15 22:55:15",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "722993",
+            "personID": "4849",
+            "timestamp": "2021-06-24 19:20:06",
+            "start": "2020-10-15 22:55:16",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "722997",
+            "personID": "4827",
+            "timestamp": "2021-06-24 19:20:06",
+            "start": "2020-10-15 22:55:21",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723001",
+            "personID": "4827",
+            "timestamp": "2021-06-24 19:20:06",
+            "start": "2020-10-15 22:55:38",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723007",
+            "personID": "4827",
+            "timestamp": "2021-06-24 19:20:06",
+            "start": "2020-10-15 22:55:41",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723012",
+            "personID": "4827",
+            "timestamp": "2021-06-24 19:20:06",
+            "start": "2020-10-15 22:55:46",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723016",
+            "personID": "4827",
+            "timestamp": "2021-06-24 19:20:06",
+            "start": "2020-10-15 22:55:49",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723020",
+            "personID": "4827",
+            "timestamp": "2021-06-24 19:20:06",
+            "start": "2020-10-15 22:55:53",
+            "end": null,
+            "source": null
+        }
+    ]
+}

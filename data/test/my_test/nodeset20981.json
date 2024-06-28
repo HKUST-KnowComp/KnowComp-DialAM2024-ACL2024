@@ -1,0 +1,274 @@
+{
+    "nodes": [
+        {
+            "nodeID": "689443",
+            "text": "Willie Rennie :  I agree with Nerinda when she says that we need to focus on the people who are waiting, for instance, over a year to get mental health treatment; people who have lost out on education for the last year",
+            "type": "L",
+            "timestamp": "2021-04-29 19:06:09"
+        },
+        {
+            "nodeID": "689450",
+            "text": "Willie Rennie agrees with Nerinda when she says that we need to focus on the people who are waiting, for instance, over a year to get mental health treatment; people who have lost out on education for the last year",
+            "type": "I",
+            "timestamp": "2021-04-29 19:06:13"
+        },
+        {
+            "nodeID": "689454",
+            "text": "Abbie: Willie Rennie :  I agree with Nerinda when she says that we need to focus on the people who are waiting, for instance, over a year to get mental health treatment; people who have lost out on education for the last year",
+            "type": "L",
+            "timestamp": "2021-04-29 19:06:17"
+        },
+        {
+            "nodeID": "689457",
+            "text": "Willie Rennie :  What we need to do is to try and bring the country together",
+            "type": "L",
+            "timestamp": "2021-04-29 19:06:21"
+        },
+        {
+            "nodeID": "689462",
+            "text": "what we need to do is to try and bring the country together",
+            "type": "I",
+            "timestamp": "2021-04-29 19:06:25"
+        },
+        {
+            "nodeID": "689466",
+            "text": "Abbie: Willie Rennie :  What we need to do is to try and bring the country together",
+            "type": "L",
+            "timestamp": "2021-04-29 19:06:29"
+        },
+        {
+            "nodeID": "689469",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 19:06:34",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "689480",
+            "text": "Willie Rennie : we won't get that with these two parties who are determined to feed off each other and the bitterness that's grown up over that period",
+            "type": "L",
+            "timestamp": "2021-04-29 19:06:38"
+        },
+        {
+            "nodeID": "689487",
+            "text": "the country won't be brought together with these two parties who are determined to feed off each other and the bitterness that's grown up over that period",
+            "type": "I",
+            "timestamp": "2021-04-29 19:06:41"
+        },
+        {
+            "nodeID": "689490",
+            "text": "Abbie: Willie Rennie : we won't get that with these two parties who are determined to feed off each other and the bitterness that's grown up over that period",
+            "type": "L",
+            "timestamp": "2021-04-29 19:06:43"
+        },
+        {
+            "nodeID": "689491",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 19:06:43",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "689495",
+            "text": "Willie Rennie : What we need to do is to try and bring people",
+            "type": "L",
+            "timestamp": "2021-04-29 19:06:46"
+        },
+        {
+            "nodeID": "689502",
+            "text": "what we need to do is to try and bring people",
+            "type": "I",
+            "timestamp": "2021-04-29 19:06:49"
+        },
+        {
+            "nodeID": "689505",
+            "text": "Abbie: Willie Rennie : What we need to do is to try and bring people",
+            "type": "L",
+            "timestamp": "2021-04-29 19:06:52"
+        },
+        {
+            "nodeID": "689506",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 19:06:52",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "689509",
+            "text": "Fiona Bruce : why do you think more people aren't listening to your message",
+            "type": "L",
+            "timestamp": "2021-04-29 19:06:56"
+        },
+        {
+            "nodeID": "689511",
+            "text": "more people aren't listening to Willie Rennie's message because xxx",
+            "type": "I",
+            "timestamp": "2021-04-29 19:06:58"
+        },
+        {
+            "nodeID": "689515",
+            "text": "Abbie: Fiona Bruce : why do you think more people aren't listening to your message",
+            "type": "L",
+            "timestamp": "2021-04-29 19:07:01"
+        },
+        {
+            "nodeID": "689516",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 19:07:01",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "891328",
+            "fromID": "689443",
+            "toID": "689469",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "891329",
+            "fromID": "689469",
+            "toID": "689457",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "891332",
+            "fromID": "689457",
+            "toID": "689491",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "891333",
+            "fromID": "689491",
+            "toID": "689480",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "891336",
+            "fromID": "689480",
+            "toID": "689506",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "891337",
+            "fromID": "689506",
+            "toID": "689495",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "891340",
+            "fromID": "689495",
+            "toID": "689516",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "891341",
+            "fromID": "689516",
+            "toID": "689509",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "689443",
+            "personID": "4517",
+            "timestamp": "2021-04-29 19:07:02",
+            "start": "2020-10-15 22:56:25",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "689457",
+            "personID": "4517",
+            "timestamp": "2021-04-29 19:07:02",
+            "start": "2020-10-15 22:56:36",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "689480",
+            "personID": "4517",
+            "timestamp": "2021-04-29 19:07:02",
+            "start": "2020-10-15 22:56:43",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "689495",
+            "personID": "4517",
+            "timestamp": "2021-04-29 19:07:02",
+            "start": "2020-10-15 22:56:46",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "689509",
+            "personID": "3812",
+            "timestamp": "2021-04-29 19:07:02",
+            "start": "2020-10-15 22:56:48",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "689443",
+            "personID": "4517",
+            "timestamp": "2021-04-29 19:08:32",
+            "start": "2020-10-15 22:56:25",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "689457",
+            "personID": "4517",
+            "timestamp": "2021-04-29 19:08:32",
+            "start": "2020-10-15 22:56:36",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "689480",
+            "personID": "4517",
+            "timestamp": "2021-04-29 19:08:32",
+            "start": "2020-10-15 22:56:43",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "689495",
+            "personID": "4517",
+            "timestamp": "2021-04-29 19:08:32",
+            "start": "2020-10-15 22:56:46",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "689509",
+            "personID": "3812",
+            "timestamp": "2021-04-29 19:08:32",
+            "start": "2020-10-15 22:56:48",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "689480",
+            "personID": "4517",
+            "timestamp": "2022-11-11 14:28:47",
+            "start": "2020-10-15 22:56:43",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "689509",
+            "personID": "3812",
+            "timestamp": "2022-11-11 14:28:47",
+            "start": "2020-10-15 22:56:48",
+            "end": null,
+            "source": null
+        }
+    ]
+}

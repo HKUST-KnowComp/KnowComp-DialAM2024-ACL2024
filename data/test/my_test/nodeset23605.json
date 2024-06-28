@@ -1,0 +1,966 @@
+{
+    "nodes": [
+        {
+            "nodeID": "766127",
+            "text": "we've got a shortage of butchers",
+            "type": "I",
+            "timestamp": "2021-10-14 21:01:49"
+        },
+        {
+            "nodeID": "766128",
+            "text": "Minette Batters : we've got a shortage",
+            "type": "L",
+            "timestamp": "2021-10-14 21:01:49"
+        },
+        {
+            "nodeID": "766282",
+            "text": "Lisa Nandy : There are things that could be done right now",
+            "type": "L",
+            "timestamp": "2021-10-14 21:02:59"
+        },
+        {
+            "nodeID": "807792",
+            "text": "Minette Batters : Daffodils worth well over £1.3 million",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:08"
+        },
+        {
+            "nodeID": "807794",
+            "text": "daffodils worth well over £1.3 million",
+            "type": "I",
+            "timestamp": "2022-01-06 14:34:08"
+        },
+        {
+            "nodeID": "807795",
+            "text": "Abbie: Minette Batters : Daffodils worth well over £1.3 million",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:09"
+        },
+        {
+            "nodeID": "807796",
+            "text": "Minette Batters : We've got a flower sector that's worth £2 billion",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:09"
+        },
+        {
+            "nodeID": "807798",
+            "text": "we've got a flower sector that's worth £2 billion",
+            "type": "I",
+            "timestamp": "2022-01-06 14:34:10"
+        },
+        {
+            "nodeID": "807799",
+            "text": "Abbie: Minette Batters : We've got a flower sector that's worth £2 billion",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:10"
+        },
+        {
+            "nodeID": "807803",
+            "text": "Minette Batters : The berry sector, we're self-sufficient in berries from April",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:11"
+        },
+        {
+            "nodeID": "807805",
+            "text": "the berry sector, we're self-sufficient in berries from April",
+            "type": "I",
+            "timestamp": "2022-01-06 14:34:11"
+        },
+        {
+            "nodeID": "807806",
+            "text": "Abbie: Minette Batters : The berry sector, we're self-sufficient in berries from April",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:12"
+        },
+        {
+            "nodeID": "807808",
+            "text": "It goes on and on and we have to resolve it",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:12"
+        },
+        {
+            "nodeID": "807809",
+            "text": "Minette Batters : It goes on and on and we have to resolve it",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:13"
+        },
+        {
+            "nodeID": "807812",
+            "text": "Abbie: Minette Batters : It goes on and on and we have to resolve it",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:14"
+        },
+        {
+            "nodeID": "807814",
+            "text": "Minette Batters : the more we talk about low skilled, low paid, that's not the case",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:14"
+        },
+        {
+            "nodeID": "807816",
+            "text": "the more we talk about low skilled, low paid, that's not the case",
+            "type": "I",
+            "timestamp": "2022-01-06 14:34:15"
+        },
+        {
+            "nodeID": "807817",
+            "text": "Abbie: Minette Batters : the more we talk about low skilled, low paid, that's not the case",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:15"
+        },
+        {
+            "nodeID": "807819",
+            "text": "Minette Batters : Butchers are on £15",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:16"
+        },
+        {
+            "nodeID": "807821",
+            "text": "butchers are on £15",
+            "type": "I",
+            "timestamp": "2022-01-06 14:34:16"
+        },
+        {
+            "nodeID": "807822",
+            "text": "Abbie: Minette Batters : Butchers are on £15",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:17"
+        },
+        {
+            "nodeID": "807824",
+            "text": "Minette Batters : Your staff nurse is on £13 an hour",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:18"
+        },
+        {
+            "nodeID": "807826",
+            "text": "your staff nurse is on £13 an hour",
+            "type": "I",
+            "timestamp": "2022-01-06 14:34:18"
+        },
+        {
+            "nodeID": "807827",
+            "text": "Abbie: Minette Batters : Your staff nurse is on £13 an hour",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:19"
+        },
+        {
+            "nodeID": "807828",
+            "text": "Minette Batters : butchers are on £15 an hour",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:19"
+        },
+        {
+            "nodeID": "807830",
+            "text": "butchers are on £15 an hour",
+            "type": "I",
+            "timestamp": "2022-01-06 14:34:20"
+        },
+        {
+            "nodeID": "807831",
+            "text": "Abbie: Minette Batters : butchers are on £15 an hour",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:20"
+        },
+        {
+            "nodeID": "807838",
+            "text": "Abbie: Minette Batters : we've got a shortage",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:22"
+        },
+        {
+            "nodeID": "807842",
+            "text": "Minette Batters : We have got to have a dial down so we can sort this crisis and make sure that we have high quality British food on the shelves",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:22"
+        },
+        {
+            "nodeID": "807844",
+            "text": "we have got to have a dial down so we can sort this crisis and make sure that we have high quality British food on the shelves",
+            "type": "I",
+            "timestamp": "2022-01-06 14:34:23"
+        },
+        {
+            "nodeID": "807845",
+            "text": "Abbie: Minette Batters : We have got to have a dial down so we can sort this crisis and make sure that we have high quality British food on the shelves",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:23"
+        },
+        {
+            "nodeID": "807849",
+            "text": "Minette Batters : It feels like farmers don't matter and we don't want to see British food produced in this country and that has to change",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:24"
+        },
+        {
+            "nodeID": "807851",
+            "text": "It feels like farmers don't matter and we don't want to see British food produced in this country and that has to change",
+            "type": "I",
+            "timestamp": "2022-01-06 14:34:24"
+        },
+        {
+            "nodeID": "807852",
+            "text": "Abbie: Minette Batters : It feels like farmers don't matter and we don't want to see British food produced in this country and that has to change",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:25"
+        },
+        {
+            "nodeID": "807856",
+            "text": "farmers have been warning for months now that there is a problem with the shortage of abattoir workers",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:25"
+        },
+        {
+            "nodeID": "807857",
+            "text": "Lisa Nandy : farmers have been warning for months now that there is a problem with the shortage of abattoir workers",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:26"
+        },
+        {
+            "nodeID": "807860",
+            "text": "Abbie: Lisa Nandy : farmers have been warning for months now that there is a problem with the shortage of abattoir workers",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:27"
+        },
+        {
+            "nodeID": "807862",
+            "text": "Minette Batters : I heard what Minette said about individual ministers trying to do their bit",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:27"
+        },
+        {
+            "nodeID": "807864",
+            "text": "Lisa Nandy heard what Minette said about individual ministers trying to do their bit",
+            "type": "I",
+            "timestamp": "2022-01-06 14:34:28"
+        },
+        {
+            "nodeID": "807865",
+            "text": "Abbie: Minette Batters : I heard what Minette said about individual ministers trying to do their bit",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:29"
+        },
+        {
+            "nodeID": "807867",
+            "text": "Lisa Nandy : what we need is the Prime Minister to get a grip on this",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:29"
+        },
+        {
+            "nodeID": "807869",
+            "text": "what we need is the Prime Minister to get a grip on the shortage of workers",
+            "type": "I",
+            "timestamp": "2022-01-06 14:34:30"
+        },
+        {
+            "nodeID": "807870",
+            "text": "Abbie: Lisa Nandy : what we need is the Prime Minister to get a grip on this",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:30"
+        },
+        {
+            "nodeID": "807874",
+            "text": "Lisa Nandy : people are watching their livelihoods go up in smoke",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:31"
+        },
+        {
+            "nodeID": "807876",
+            "text": "people are watching their livelihoods go up in smoke",
+            "type": "I",
+            "timestamp": "2022-01-06 14:34:31"
+        },
+        {
+            "nodeID": "807877",
+            "text": "Abbie: Lisa Nandy : people are watching their livelihoods go up in smoke",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:32"
+        },
+        {
+            "nodeID": "807881",
+            "text": "Lisa Nandy : My cousin is a farmer",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:32"
+        },
+        {
+            "nodeID": "807883",
+            "text": "Lisa Nandy's cousin is a farmer",
+            "type": "I",
+            "timestamp": "2022-01-06 14:34:33"
+        },
+        {
+            "nodeID": "807884",
+            "text": "Abbie: Lisa Nandy : My cousin is a farmer",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:33"
+        },
+        {
+            "nodeID": "807886",
+            "text": "Lisa Nandy : I know how tough it is to have to work in that industry all year round with all of the pressures that are on people",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:34"
+        },
+        {
+            "nodeID": "807888",
+            "text": "Lisa Nandy knows how tough it is to have to work in that industry all year round with all of the pressures that are on people",
+            "type": "I",
+            "timestamp": "2022-01-06 14:34:34"
+        },
+        {
+            "nodeID": "807889",
+            "text": "Abbie: Lisa Nandy :  I know how tough it is to have to work in that industry all year round with all of the pressures that are on people",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:35"
+        },
+        {
+            "nodeID": "807893",
+            "text": "Abbie: Lisa Nandy : to have to slaughter perfectly well animals in the middle of a pandemic when we have seen food shortages, I mean, it really is quite an unbelievable place to have got to",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:35"
+        },
+        {
+            "nodeID": "807894",
+            "text": "Lisa Nandy : to have to slaughter perfectly well animals in the middle of a pandemic when we have seen food shortages",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:36"
+        },
+        {
+            "nodeID": "807896",
+            "text": "to have to slaughter perfectly well animals in the middle of a pandemic when we have seen food shortages",
+            "type": "I",
+            "timestamp": "2022-01-06 14:34:36"
+        },
+        {
+            "nodeID": "807897",
+            "text": "Abbie: Lisa Nandy :  to have to slaughter perfectly well animals in the middle of a pandemic when we have seen food shortages",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:37"
+        },
+        {
+            "nodeID": "807899",
+            "text": "Lisa Nandy : it really is quite an unbelievable place to have got to",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:37"
+        },
+        {
+            "nodeID": "807901",
+            "text": "having to slaughter perfectly well animals in the middle of a pandemic is really is quite an unbelievable place to have got to",
+            "type": "I",
+            "timestamp": "2022-01-06 14:34:38"
+        },
+        {
+            "nodeID": "807902",
+            "text": "Abbie: Lisa Nandy : it really is quite an unbelievable place to have got to",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:38"
+        },
+        {
+            "nodeID": "807907",
+            "text": "there are things that could be done right now",
+            "type": "I",
+            "timestamp": "2022-01-06 14:34:39"
+        },
+        {
+            "nodeID": "807908",
+            "text": "Abbie: Lisa Nandy : There are things that could be done right now",
+            "type": "L",
+            "timestamp": "2022-01-06 14:34:40"
+        },
+        {
+            "nodeID": "855900",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 19:18:59",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "855904",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 19:19:01",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "855906",
+            "text": "it goes on and on and we have to resolve it",
+            "type": "I",
+            "timestamp": "2022-01-13 19:19:03"
+        },
+        {
+            "nodeID": "855907",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 19:19:04",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "855909",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 19:19:05",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "855911",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 19:19:07",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "855914",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 19:19:11",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "855916",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 19:19:11",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "855917",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 19:19:11",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "855920",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 19:19:12",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "855924",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 19:19:14",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "855928",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 19:19:16",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "855932",
+            "text": "farmers have been warning for months now that there is a problem with the shortage of abattoir workers",
+            "type": "I",
+            "timestamp": "2022-01-13 19:19:18"
+        },
+        {
+            "nodeID": "855933",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 19:19:18",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "855935",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 19:19:20",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "855937",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 19:19:22",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "855941",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 19:19:24",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "855945",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 19:19:25",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "855947",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 19:19:27",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "855951",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 19:19:29",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "855953",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 19:19:31",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "855957",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 19:19:33",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "855959",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 19:19:33",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "1061039",
+            "fromID": "807792",
+            "toID": "855900",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061040",
+            "fromID": "855900",
+            "toID": "807796",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061047",
+            "fromID": "807796",
+            "toID": "855904",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061048",
+            "fromID": "855904",
+            "toID": "807803",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061051",
+            "fromID": "807803",
+            "toID": "855907",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061052",
+            "fromID": "855907",
+            "toID": "807809",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061055",
+            "fromID": "807809",
+            "toID": "855909",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061056",
+            "fromID": "855909",
+            "toID": "807814",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061059",
+            "fromID": "807814",
+            "toID": "855911",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061060",
+            "fromID": "855911",
+            "toID": "807819",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061065",
+            "fromID": "807819",
+            "toID": "855914",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061066",
+            "fromID": "855914",
+            "toID": "807824",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061069",
+            "fromID": "807824",
+            "toID": "855916",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061070",
+            "fromID": "855916",
+            "toID": "807828",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061071",
+            "fromID": "807819",
+            "toID": "855917",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061072",
+            "fromID": "855917",
+            "toID": "807828",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061077",
+            "fromID": "807828",
+            "toID": "855920",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061078",
+            "fromID": "855920",
+            "toID": "766128",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061085",
+            "fromID": "766128",
+            "toID": "855924",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061086",
+            "fromID": "855924",
+            "toID": "807842",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061093",
+            "fromID": "807842",
+            "toID": "855928",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061094",
+            "fromID": "855928",
+            "toID": "807849",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061101",
+            "fromID": "807849",
+            "toID": "855933",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061102",
+            "fromID": "855933",
+            "toID": "807857",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061105",
+            "fromID": "807857",
+            "toID": "855935",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061106",
+            "fromID": "855935",
+            "toID": "807862",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061109",
+            "fromID": "807862",
+            "toID": "855937",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061110",
+            "fromID": "855937",
+            "toID": "807867",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061117",
+            "fromID": "807867",
+            "toID": "855941",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061118",
+            "fromID": "855941",
+            "toID": "807874",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061125",
+            "fromID": "807874",
+            "toID": "855945",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061126",
+            "fromID": "855945",
+            "toID": "807881",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061129",
+            "fromID": "807881",
+            "toID": "855947",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061130",
+            "fromID": "855947",
+            "toID": "807886",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061137",
+            "fromID": "807886",
+            "toID": "855951",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061138",
+            "fromID": "855951",
+            "toID": "807894",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061141",
+            "fromID": "807894",
+            "toID": "855953",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061142",
+            "fromID": "855953",
+            "toID": "807899",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061149",
+            "fromID": "807899",
+            "toID": "855957",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061150",
+            "fromID": "855957",
+            "toID": "766282",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061154",
+            "fromID": "807814",
+            "toID": "855959",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1061155",
+            "fromID": "855959",
+            "toID": "807824",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "807792",
+            "personID": "3732",
+            "timestamp": "2022-01-13 19:19:33",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "807796",
+            "personID": "3732",
+            "timestamp": "2022-01-13 19:19:33",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "807803",
+            "personID": "3732",
+            "timestamp": "2022-01-13 19:19:33",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "807809",
+            "personID": "3732",
+            "timestamp": "2022-01-13 19:19:33",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "807814",
+            "personID": "3732",
+            "timestamp": "2022-01-13 19:19:33",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "807819",
+            "personID": "3732",
+            "timestamp": "2022-01-13 19:19:33",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "807824",
+            "personID": "3732",
+            "timestamp": "2022-01-13 19:19:33",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "807828",
+            "personID": "3732",
+            "timestamp": "2022-01-13 19:19:33",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "766128",
+            "personID": "3732",
+            "timestamp": "2022-01-13 19:19:33",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "807842",
+            "personID": "3732",
+            "timestamp": "2022-01-13 19:19:33",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "807849",
+            "personID": "3732",
+            "timestamp": "2022-01-13 19:19:33",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "807857",
+            "personID": "3731",
+            "timestamp": "2022-01-13 19:19:33",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "807862",
+            "personID": "3732",
+            "timestamp": "2022-01-13 19:19:33",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "807867",
+            "personID": "3731",
+            "timestamp": "2022-01-13 19:19:33",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "807874",
+            "personID": "3731",
+            "timestamp": "2022-01-13 19:19:33",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "807881",
+            "personID": "3731",
+            "timestamp": "2022-01-13 19:19:33",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "807886",
+            "personID": "3731",
+            "timestamp": "2022-01-13 19:19:33",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "807894",
+            "personID": "3731",
+            "timestamp": "2022-01-13 19:19:33",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "807899",
+            "personID": "3731",
+            "timestamp": "2022-01-13 19:19:33",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "766282",
+            "personID": "3731",
+            "timestamp": "2022-01-13 19:19:33",
+            "start": null,
+            "end": null,
+            "source": null
+        }
+    ]
+}

@@ -1,0 +1,678 @@
+{
+    "nodes": [
+        {
+            "nodeID": "775834",
+            "text": "given that Russia, India and China didn't turn up, xxx is how successful are the breakthrough pledges of COP-26, a glimmer of hope or blah blah blah",
+            "type": "I",
+            "timestamp": "2021-11-11 20:57:20"
+        },
+        {
+            "nodeID": "775835",
+            "text": "Fiona Bruce : The question is, given that Russia, India and China didn't turn up, how successful are the breakthrough pledges of COP-26, a glimmer of hope or blah blah blah",
+            "type": "L",
+            "timestamp": "2021-11-11 20:57:21"
+        },
+        {
+            "nodeID": "775993",
+            "text": "Paul Polman : the only country with tropical forests, has seen a rapid decline in deforestation",
+            "type": "L",
+            "timestamp": "2021-11-11 20:58:18"
+        },
+        {
+            "nodeID": "795111",
+            "text": "the only country with tropical forests, has seen a rapid decline in deforestation",
+            "type": "I",
+            "timestamp": "2022-01-06 06:08:02"
+        },
+        {
+            "nodeID": "795112",
+            "text": "Chris: Paul Polman : the only country with tropical forests, has seen a rapid decline in deforestation",
+            "type": "L",
+            "timestamp": "2022-01-06 06:08:02"
+        },
+        {
+            "nodeID": "795113",
+            "text": "Paul Polman : They are continuing with that",
+            "type": "L",
+            "timestamp": "2022-01-06 06:08:03"
+        },
+        {
+            "nodeID": "795115",
+            "text": "Indonesia are continuing with a rapid decline in deforestation",
+            "type": "I",
+            "timestamp": "2022-01-06 06:08:03"
+        },
+        {
+            "nodeID": "795116",
+            "text": "Chris: Paul Polman : They are continuing with that",
+            "type": "L",
+            "timestamp": "2022-01-06 06:08:04"
+        },
+        {
+            "nodeID": "795120",
+            "text": "Paul Polman : They put a price of carbon in place",
+            "type": "L",
+            "timestamp": "2022-01-06 06:08:05"
+        },
+        {
+            "nodeID": "795122",
+            "text": "Indonesia put a price of carbon in place",
+            "type": "I",
+            "timestamp": "2022-01-06 06:08:05"
+        },
+        {
+            "nodeID": "795123",
+            "text": "Chris: Paul Polman : They put a price of carbon in place",
+            "type": "L",
+            "timestamp": "2022-01-06 06:08:06"
+        },
+        {
+            "nodeID": "795127",
+            "text": "Paul Polman : They have aggressive government policies to continue in that direction",
+            "type": "L",
+            "timestamp": "2022-01-06 06:08:06"
+        },
+        {
+            "nodeID": "795129",
+            "text": "Indonesia have aggressive government policies to continue in the direction of decreasing deforestation",
+            "type": "I",
+            "timestamp": "2022-01-06 06:08:07"
+        },
+        {
+            "nodeID": "795130",
+            "text": "Chris: Paul Polman : They have aggressive government policies to continue in that direction",
+            "type": "L",
+            "timestamp": "2022-01-06 06:08:07"
+        },
+        {
+            "nodeID": "795134",
+            "text": "Paul Polman : they know the world doesn't want unsustainable palm oil anymore",
+            "type": "L",
+            "timestamp": "2022-01-06 06:08:08"
+        },
+        {
+            "nodeID": "795136",
+            "text": "Indonesia know the world doesn't want unsustainable palm oil anymore",
+            "type": "I",
+            "timestamp": "2022-01-06 06:08:08"
+        },
+        {
+            "nodeID": "795137",
+            "text": "Chris: Paul Polman : they know the world doesn't want unsustainable palm oil anymore",
+            "type": "L",
+            "timestamp": "2022-01-06 06:08:09"
+        },
+        {
+            "nodeID": "795141",
+            "text": "Paul Polman : They know they are destroying livelihoods of indigenous people if they continue like this",
+            "type": "L",
+            "timestamp": "2022-01-06 06:08:09"
+        },
+        {
+            "nodeID": "795143",
+            "text": "Indonesia know they are destroying livelihoods of indigenous people if they continue like this",
+            "type": "I",
+            "timestamp": "2022-01-06 06:08:10"
+        },
+        {
+            "nodeID": "795144",
+            "text": "Chris: Paul Polman : They know they are destroying livelihoods of indigenous people if they continue like this",
+            "type": "L",
+            "timestamp": "2022-01-06 06:08:10"
+        },
+        {
+            "nodeID": "795148",
+            "text": "Paul Polman : So the country is actively involved in preserving our natural capital",
+            "type": "L",
+            "timestamp": "2022-01-06 06:08:11"
+        },
+        {
+            "nodeID": "795150",
+            "text": "so Indonesia is actively involved in preserving our natural capital",
+            "type": "I",
+            "timestamp": "2022-01-06 06:08:11"
+        },
+        {
+            "nodeID": "795151",
+            "text": "Chris: Paul Polman : So the country is actively involved in preserving our natural capital",
+            "type": "L",
+            "timestamp": "2022-01-06 06:08:12"
+        },
+        {
+            "nodeID": "795153",
+            "text": "Paul Polman : Indonesia is probably best placed in the future in this world to monetise the enormous natural capital that they have to confer their economy to this greener more sustainable economy",
+            "type": "L",
+            "timestamp": "2022-01-06 06:08:12"
+        },
+        {
+            "nodeID": "795155",
+            "text": "Indonesia is probably best placed in the future in this world to monetise the enormous natural capital that they have to confer their economy to this greener more sustainable economy",
+            "type": "I",
+            "timestamp": "2022-01-06 06:08:13"
+        },
+        {
+            "nodeID": "795156",
+            "text": "Chris: Paul Polman : Indonesia is probably best placed in the future in this world to monetise the enormous natural capital that they have to confer their economy to this greener more sustainable economy",
+            "type": "L",
+            "timestamp": "2022-01-06 06:08:13"
+        },
+        {
+            "nodeID": "795158",
+            "text": "Chris: Fiona Bruce : given that Russia, India and China didn't turn up, how successful are the breakthrough pledges of COP-26, a glimmer of hope or blah blah blah",
+            "type": "L",
+            "timestamp": "2022-01-06 06:08:14"
+        },
+        {
+            "nodeID": "795159",
+            "text": "Chris: Fiona Bruce : The question is, given that Russia, India and China didn't turn up, how successful are the breakthrough pledges of COP-26, a glimmer of hope or blah blah blah",
+            "type": "L",
+            "timestamp": "2022-01-06 06:08:15"
+        },
+        {
+            "nodeID": "795161",
+            "text": "AudienceMember 20211111QT10 : given that Russia, India and China didn't turn up, how successful are the breakthrough pledges of COP-26, a glimmer of hope or blah blah blah",
+            "type": "L",
+            "timestamp": "2022-01-06 06:08:16"
+        },
+        {
+            "nodeID": "795162",
+            "text": "Chris: AudienceMember 20211111QT10 : given that Russia, India and China didn't turn up, how successful are the breakthrough pledges of COP-26, a glimmer of hope or blah blah blah",
+            "type": "L",
+            "timestamp": "2022-01-06 06:08:16"
+        },
+        {
+            "nodeID": "795165",
+            "text": "Tim Stanley : The leaders didn't have support",
+            "type": "L",
+            "timestamp": "2022-01-06 06:08:17"
+        },
+        {
+            "nodeID": "795167",
+            "text": "the leaders didn't have support",
+            "type": "I",
+            "timestamp": "2022-01-06 06:08:17"
+        },
+        {
+            "nodeID": "795168",
+            "text": "Chris: Tim Stanley : The leaders didn't have support",
+            "type": "L",
+            "timestamp": "2022-01-06 06:08:18"
+        },
+        {
+            "nodeID": "795170",
+            "text": "Tim Stanley : I'm feeling positive about COP, actually",
+            "type": "L",
+            "timestamp": "2022-01-06 06:08:18"
+        },
+        {
+            "nodeID": "795172",
+            "text": "Tim Stanley is feeling positive about COP26, actually",
+            "type": "I",
+            "timestamp": "2022-01-06 06:08:19"
+        },
+        {
+            "nodeID": "795173",
+            "text": "Chris: Tim Stanley : I'm feeling positive about COP, actually",
+            "type": "L",
+            "timestamp": "2022-01-06 06:08:19"
+        },
+        {
+            "nodeID": "795177",
+            "text": "Tim Stanley : What it has done is come up with deadlines and goals",
+            "type": "L",
+            "timestamp": "2022-01-06 06:08:20"
+        },
+        {
+            "nodeID": "795179",
+            "text": "what COP26 has done is come up with deadlines and goals",
+            "type": "I",
+            "timestamp": "2022-01-06 06:08:21"
+        },
+        {
+            "nodeID": "795180",
+            "text": "Chris: Tim Stanley : What it has done is come up with deadlines and goals",
+            "type": "L",
+            "timestamp": "2022-01-06 06:08:21"
+        },
+        {
+            "nodeID": "795184",
+            "text": "Tim Stanley : they push the world in a certain direction",
+            "type": "L",
+            "timestamp": "2022-01-06 06:08:22"
+        },
+        {
+            "nodeID": "795186",
+            "text": "goals and deadlines push the world in a certain direction",
+            "type": "I",
+            "timestamp": "2022-01-06 06:08:22"
+        },
+        {
+            "nodeID": "795187",
+            "text": "Chris: Tim Stanley : they push the world in a certain direction",
+            "type": "L",
+            "timestamp": "2022-01-06 06:08:23"
+        },
+        {
+            "nodeID": "795191",
+            "text": "Tim Stanley : Once, most catalytically, we begin to invest private capital in the technology, that will develop momentum",
+            "type": "L",
+            "timestamp": "2022-01-06 06:08:23"
+        },
+        {
+            "nodeID": "795193",
+            "text": "once, most catalytically, we begin to invest private capital in the technology, that will develop momentum",
+            "type": "I",
+            "timestamp": "2022-01-06 06:08:24"
+        },
+        {
+            "nodeID": "795194",
+            "text": "Chris: Tim Stanley : Once, most catalytically, we begin to invest private capital in the technology, that will develop momentum",
+            "type": "L",
+            "timestamp": "2022-01-06 06:08:24"
+        },
+        {
+            "nodeID": "849715",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 14:17:34",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "849719",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 14:17:35",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "849723",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 14:17:37",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "849727",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 14:17:39",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "849731",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 14:17:40",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "849735",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 14:17:42",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "849737",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 14:17:44",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "849739",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 14:17:47",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "849742",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 14:17:49",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "849744",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 14:17:51",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "849749",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 14:17:52",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "849752",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 14:17:54",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "849756",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 14:17:56",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "849758",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 14:17:56",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "1049103",
+            "fromID": "775993",
+            "toID": "849715",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1049104",
+            "fromID": "849715",
+            "toID": "795113",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1049111",
+            "fromID": "795113",
+            "toID": "849719",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1049112",
+            "fromID": "849719",
+            "toID": "795120",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1049119",
+            "fromID": "795120",
+            "toID": "849723",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1049120",
+            "fromID": "849723",
+            "toID": "795127",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1049127",
+            "fromID": "795127",
+            "toID": "849727",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1049128",
+            "fromID": "849727",
+            "toID": "795134",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1049135",
+            "fromID": "795127",
+            "toID": "849731",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1049136",
+            "fromID": "849731",
+            "toID": "795141",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1049143",
+            "fromID": "795141",
+            "toID": "849735",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1049144",
+            "fromID": "849735",
+            "toID": "795148",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1049147",
+            "fromID": "795148",
+            "toID": "849737",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1049148",
+            "fromID": "849737",
+            "toID": "795153",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1049151",
+            "fromID": "795153",
+            "toID": "849739",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1049152",
+            "fromID": "849739",
+            "toID": "775835",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1049157",
+            "fromID": "775835",
+            "toID": "849742",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1049158",
+            "fromID": "849742",
+            "toID": "795165",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1049161",
+            "fromID": "795165",
+            "toID": "849744",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1049162",
+            "fromID": "849744",
+            "toID": "795170",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1049171",
+            "fromID": "795170",
+            "toID": "849749",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1049172",
+            "fromID": "849749",
+            "toID": "795177",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1049177",
+            "fromID": "795177",
+            "toID": "849752",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1049178",
+            "fromID": "849752",
+            "toID": "795184",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1049185",
+            "fromID": "795184",
+            "toID": "849756",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1049186",
+            "fromID": "849756",
+            "toID": "795191",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1049192",
+            "fromID": "795134",
+            "toID": "849758",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1049193",
+            "fromID": "849758",
+            "toID": "795148",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "775993",
+            "personID": "3733",
+            "timestamp": "2022-01-13 14:17:56",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "795113",
+            "personID": "3733",
+            "timestamp": "2022-01-13 14:17:56",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "795120",
+            "personID": "3733",
+            "timestamp": "2022-01-13 14:17:56",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "795127",
+            "personID": "3733",
+            "timestamp": "2022-01-13 14:17:56",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "795134",
+            "personID": "3733",
+            "timestamp": "2022-01-13 14:17:56",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "795141",
+            "personID": "3733",
+            "timestamp": "2022-01-13 14:17:56",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "795148",
+            "personID": "3733",
+            "timestamp": "2022-01-13 14:17:56",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "795153",
+            "personID": "3733",
+            "timestamp": "2022-01-13 14:17:56",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "775835",
+            "personID": "3732",
+            "timestamp": "2022-01-13 14:17:56",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "795161",
+            "personID": "4151",
+            "timestamp": "2022-01-13 14:17:56",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "795165",
+            "personID": "3735",
+            "timestamp": "2022-01-13 14:17:56",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "795170",
+            "personID": "3735",
+            "timestamp": "2022-01-13 14:17:56",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "795177",
+            "personID": "3735",
+            "timestamp": "2022-01-13 14:17:56",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "795184",
+            "personID": "3735",
+            "timestamp": "2022-01-13 14:17:56",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "795191",
+            "personID": "3735",
+            "timestamp": "2022-01-13 14:17:56",
+            "start": null,
+            "end": null,
+            "source": null
+        }
+    ]
+}

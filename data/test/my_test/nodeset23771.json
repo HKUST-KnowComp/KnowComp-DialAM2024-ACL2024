@@ -1,0 +1,766 @@
+{
+    "nodes": [
+        {
+            "nodeID": "818570",
+            "text": "Anne-Marie Trevelyan : this is the really big challenge",
+            "type": "L",
+            "timestamp": "2022-01-06 17:04:11"
+        },
+        {
+            "nodeID": "818572",
+            "text": "Grenfell is a really big challenge",
+            "type": "I",
+            "timestamp": "2022-01-06 17:04:12"
+        },
+        {
+            "nodeID": "818573",
+            "text": "Fyfe: Anne-Marie Trevelyan : this is the really big challenge",
+            "type": "L",
+            "timestamp": "2022-01-06 17:04:12"
+        },
+        {
+            "nodeID": "818574",
+            "text": "Anne-Marie Trevelyan : It is a huge challenge",
+            "type": "L",
+            "timestamp": "2022-01-06 17:04:13"
+        },
+        {
+            "nodeID": "818576",
+            "text": "Fyfe: Anne-Marie Trevelyan : It is a huge challenge",
+            "type": "L",
+            "timestamp": "2022-01-06 17:04:13"
+        },
+        {
+            "nodeID": "818577",
+            "text": "Grenfell is a huge challenge",
+            "type": "I",
+            "timestamp": "2022-01-06 17:04:14"
+        },
+        {
+            "nodeID": "818581",
+            "text": "Fiona Bruce : This is a long way to go on that",
+            "type": "L",
+            "timestamp": "2022-01-06 17:04:15"
+        },
+        {
+            "nodeID": "818583",
+            "text": "there is a long way to go on Grenfell",
+            "type": "I",
+            "timestamp": "2022-01-06 17:04:15"
+        },
+        {
+            "nodeID": "818584",
+            "text": "Fyfe: Fiona Bruce : This is a long way to go on that",
+            "type": "L",
+            "timestamp": "2022-01-06 17:04:16"
+        },
+        {
+            "nodeID": "818585",
+            "text": "Anne-Marie Trevelyan : that's right",
+            "type": "L",
+            "timestamp": "2022-01-06 17:04:16"
+        },
+        {
+            "nodeID": "818586",
+            "text": "Fyfe: Anne-Marie Trevelyan : that's right",
+            "type": "L",
+            "timestamp": "2022-01-06 17:04:17"
+        },
+        {
+            "nodeID": "818589",
+            "text": "Fiona Bruce : the answer is in the nicest way you don't know",
+            "type": "L",
+            "timestamp": "2022-01-06 17:04:17"
+        },
+        {
+            "nodeID": "818591",
+            "text": "the answer is Anne-Marie Trevelyan doesn't know",
+            "type": "I",
+            "timestamp": "2022-01-06 17:04:18"
+        },
+        {
+            "nodeID": "818592",
+            "text": "Fyfe: Fiona Bruce : the answer is in the nicest way you don't know",
+            "type": "L",
+            "timestamp": "2022-01-06 17:04:18"
+        },
+        {
+            "nodeID": "818594",
+            "text": "Fiona Bruce : you are doing -- and answer your question. Can't answer",
+            "type": "L",
+            "timestamp": "2022-01-06 17:04:19"
+        },
+        {
+            "nodeID": "818595",
+            "text": "Anne-Marie Trevelyan can't say what is doing and can't answer the question",
+            "type": "I",
+            "timestamp": "2022-01-06 17:04:19"
+        },
+        {
+            "nodeID": "818597",
+            "text": "Fyfe: Fiona Bruce : you are doing -- and answer your question. Can't answer",
+            "type": "L",
+            "timestamp": "2022-01-06 17:04:20"
+        },
+        {
+            "nodeID": "818599",
+            "text": "Anne-Marie Trevelyan : I can't",
+            "type": "L",
+            "timestamp": "2022-01-06 17:04:20"
+        },
+        {
+            "nodeID": "818600",
+            "text": "Fyfe: Anne-Marie Trevelyan : I can't",
+            "type": "L",
+            "timestamp": "2022-01-06 17:04:21"
+        },
+        {
+            "nodeID": "818603",
+            "text": "Anne-Marie Trevelyan : we are going to have to keep working on it to make sure we get to a point that everyone is able to be remediated",
+            "type": "L",
+            "timestamp": "2022-01-06 17:04:21"
+        },
+        {
+            "nodeID": "818605",
+            "text": "we are going to have to keep working on it to make sure we get to a point that everyone is able to be remediated",
+            "type": "I",
+            "timestamp": "2022-01-06 17:04:22"
+        },
+        {
+            "nodeID": "818606",
+            "text": "Fyfe: Anne-Marie Trevelyan : we are going to have to keep working on it to make sure we get to a point that everyone is able to be remediated",
+            "type": "L",
+            "timestamp": "2022-01-06 17:04:22"
+        },
+        {
+            "nodeID": "818608",
+            "text": "John Ashworth : the fact you have been so let down is unforgiveable",
+            "type": "L",
+            "timestamp": "2022-01-06 17:04:23"
+        },
+        {
+            "nodeID": "818610",
+            "text": "the fact AudienceMember20210916QT12 has been so let down is unforgivable",
+            "type": "I",
+            "timestamp": "2022-01-06 17:04:23"
+        },
+        {
+            "nodeID": "818611",
+            "text": "Fyfe: John Ashworth : the fact you have been so let down is unforgiveable",
+            "type": "L",
+            "timestamp": "2022-01-06 17:04:24"
+        },
+        {
+            "nodeID": "818613",
+            "text": "John Ashworth : thank you for speaking to openly and bravely",
+            "type": "L",
+            "timestamp": "2022-01-06 17:04:24"
+        },
+        {
+            "nodeID": "818615",
+            "text": "thank you for speaking to openly and bravely",
+            "type": "I",
+            "timestamp": "2022-01-06 17:04:25"
+        },
+        {
+            "nodeID": "818616",
+            "text": "Fyfe: John Ashworth : thank you for speaking to openly and bravely",
+            "type": "L",
+            "timestamp": "2022-01-06 17:04:25"
+        },
+        {
+            "nodeID": "818618",
+            "text": "John Ashworth : I know there will be many leaseholders who feel the same and don't have the confidence to come out on television and speak about their personal circumstances",
+            "type": "L",
+            "timestamp": "2022-01-06 17:04:26"
+        },
+        {
+            "nodeID": "818620",
+            "text": "John Ashworth knows there will be many leaseholders who feel the same and don't have the confidence to come out on television and speak about their personal circumstances",
+            "type": "I",
+            "timestamp": "2022-01-06 17:04:26"
+        },
+        {
+            "nodeID": "818621",
+            "text": "Fyfe: John Ashworth : I know there will be many leaseholders who feel the same and don't have the confidence to come out on television and speak about their personal circumstances",
+            "type": "L",
+            "timestamp": "2022-01-06 17:04:27"
+        },
+        {
+            "nodeID": "818625",
+            "text": "John Ashworth : Thank you for what you have done",
+            "type": "L",
+            "timestamp": "2022-01-06 17:04:27"
+        },
+        {
+            "nodeID": "818627",
+            "text": "thank you for speaking so openly and bravely",
+            "type": "I",
+            "timestamp": "2022-01-06 17:04:28"
+        },
+        {
+            "nodeID": "818628",
+            "text": "Fyfe: John Ashworth : Thank you for what you have done",
+            "type": "L",
+            "timestamp": "2022-01-06 17:04:28"
+        },
+        {
+            "nodeID": "818632",
+            "text": "John Ashworth : I agree with Daisy, and with Tim",
+            "type": "L",
+            "timestamp": "2022-01-06 17:04:29"
+        },
+        {
+            "nodeID": "818634",
+            "text": "John Ashworth agrees with Daisy, and with Tim",
+            "type": "I",
+            "timestamp": "2022-01-06 17:04:30"
+        },
+        {
+            "nodeID": "818635",
+            "text": "Fyfe: John Ashworth : I agree with Daisy, and with Tim",
+            "type": "L",
+            "timestamp": "2022-01-06 17:04:30"
+        },
+        {
+            "nodeID": "818637",
+            "text": "John Ashworth : I lead for the Labour Party on health, I have not been involved in the particulars of the Bill",
+            "type": "L",
+            "timestamp": "2022-01-06 17:04:31"
+        },
+        {
+            "nodeID": "818639",
+            "text": "John Ashworth leads for the Labour Party on health, has not been involved in the particulars of the Bill",
+            "type": "I",
+            "timestamp": "2022-01-06 17:04:31"
+        },
+        {
+            "nodeID": "818640",
+            "text": "Fyfe: John Ashworth : I lead for the Labour Party on health, I have not been involved in the particulars of the Bill",
+            "type": "L",
+            "timestamp": "2022-01-06 17:04:32"
+        },
+        {
+            "nodeID": "818642",
+            "text": "John Ashworth : I was on Question Time the week of Grenfell, and the panel and the audience were united in grief",
+            "type": "L",
+            "timestamp": "2022-01-06 17:04:32"
+        },
+        {
+            "nodeID": "818644",
+            "text": "John Ashworth was on Question Time the week of Grenfell, and the panel and the audience were united in grief",
+            "type": "I",
+            "timestamp": "2022-01-06 17:04:33"
+        },
+        {
+            "nodeID": "818645",
+            "text": "Fyfe: John Ashworth : I was on Question Time the week of Grenfell, and the panel and the audience were united in grief",
+            "type": "L",
+            "timestamp": "2022-01-06 17:04:33"
+        },
+        {
+            "nodeID": "864383",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 12:44:55",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "864387",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 12:44:58",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "864390",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 12:45:00",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "864392",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 12:45:02",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "864393",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 12:45:03",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "864396",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 12:45:05",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "864398",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 12:45:06",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "864400",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 12:45:08",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "864402",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 12:45:10",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "864406",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 12:45:12",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "864410",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 12:45:13",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "864412",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 12:45:15",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "864414",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 12:45:17",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "1077810",
+            "fromID": "864383",
+            "toID": "818574",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1077811",
+            "fromID": "818570",
+            "toID": "864383",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1077818",
+            "fromID": "818581",
+            "toID": "864387",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1077819",
+            "fromID": "864387",
+            "toID": "818585",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1077824",
+            "fromID": "864390",
+            "toID": "818589",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1077825",
+            "fromID": "818574",
+            "toID": "864390",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1077828",
+            "fromID": "818589",
+            "toID": "864392",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1077829",
+            "fromID": "864392",
+            "toID": "818594",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1077830",
+            "fromID": "864393",
+            "toID": "818599",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1077831",
+            "fromID": "818594",
+            "toID": "864393",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1077836",
+            "fromID": "818599",
+            "toID": "864396",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1077837",
+            "fromID": "864396",
+            "toID": "818603",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1077840",
+            "fromID": "818603",
+            "toID": "864398",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1077841",
+            "fromID": "864398",
+            "toID": "818608",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1077844",
+            "fromID": "818608",
+            "toID": "864400",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1077845",
+            "fromID": "864400",
+            "toID": "818613",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1077848",
+            "fromID": "818613",
+            "toID": "864402",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1077849",
+            "fromID": "864402",
+            "toID": "818618",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1077856",
+            "fromID": "818613",
+            "toID": "864406",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1077857",
+            "fromID": "864406",
+            "toID": "818625",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1077864",
+            "fromID": "818625",
+            "toID": "864410",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1077865",
+            "fromID": "864410",
+            "toID": "818632",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1077868",
+            "fromID": "818632",
+            "toID": "864412",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1077869",
+            "fromID": "864412",
+            "toID": "818637",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1077872",
+            "fromID": "818637",
+            "toID": "864414",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1077873",
+            "fromID": "864414",
+            "toID": "818642",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "818570",
+            "personID": "3730",
+            "timestamp": "2022-01-14 12:45:17",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "818574",
+            "personID": "3730",
+            "timestamp": "2022-01-14 12:45:17",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "818581",
+            "personID": "3733",
+            "timestamp": "2022-01-14 12:45:17",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "818585",
+            "personID": "3730",
+            "timestamp": "2022-01-14 12:45:17",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "818589",
+            "personID": "3733",
+            "timestamp": "2022-01-14 12:45:17",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "818594",
+            "personID": "3733",
+            "timestamp": "2022-01-14 12:45:17",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "818599",
+            "personID": "3730",
+            "timestamp": "2022-01-14 12:45:17",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "818603",
+            "personID": "3730",
+            "timestamp": "2022-01-14 12:45:17",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "818608",
+            "personID": "3734",
+            "timestamp": "2022-01-14 12:45:17",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "818613",
+            "personID": "3734",
+            "timestamp": "2022-01-14 12:45:17",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "818618",
+            "personID": "3734",
+            "timestamp": "2022-01-14 12:45:17",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "818625",
+            "personID": "3734",
+            "timestamp": "2022-01-14 12:45:17",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "818632",
+            "personID": "3734",
+            "timestamp": "2022-01-14 12:45:17",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "818637",
+            "personID": "3734",
+            "timestamp": "2022-01-14 12:45:17",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "818642",
+            "personID": "3734",
+            "timestamp": "2022-01-14 12:45:17",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "818570",
+            "personID": "3949",
+            "timestamp": "2022-06-13 17:04:09",
+            "start": "2020-10-15 23:17:05",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "818574",
+            "personID": "3949",
+            "timestamp": "2022-06-13 17:04:09",
+            "start": "2020-10-15 23:17:07",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "818581",
+            "personID": "3812",
+            "timestamp": "2022-06-13 17:04:09",
+            "start": "2020-10-15 23:17:02",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "818585",
+            "personID": "3949",
+            "timestamp": "2022-06-13 17:04:09",
+            "start": "2020-10-15 23:17:04",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "818589",
+            "personID": "3812",
+            "timestamp": "2022-06-13 17:04:09",
+            "start": "2020-10-15 23:17:10",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "818594",
+            "personID": "3812",
+            "timestamp": "2022-06-13 17:04:09",
+            "start": "2020-10-15 23:17:15",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "818599",
+            "personID": "3949",
+            "timestamp": "2022-06-13 17:04:09",
+            "start": "2020-10-15 23:17:18",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "818603",
+            "personID": "3949",
+            "timestamp": "2022-06-13 17:04:09",
+            "start": "2020-10-15 23:17:25",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "818608",
+            "personID": "5026",
+            "timestamp": "2022-06-13 17:04:09",
+            "start": "2020-10-15 23:17:38",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "818613",
+            "personID": "5026",
+            "timestamp": "2022-06-13 17:04:09",
+            "start": "2020-10-15 23:17:44",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "818618",
+            "personID": "5026",
+            "timestamp": "2022-06-13 17:04:09",
+            "start": "2020-10-15 23:17:49",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "818625",
+            "personID": "5026",
+            "timestamp": "2022-06-13 17:04:09",
+            "start": "2020-10-15 23:18:05",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "818632",
+            "personID": "5026",
+            "timestamp": "2022-06-13 17:04:09",
+            "start": "2020-10-15 23:18:08",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "818637",
+            "personID": "5026",
+            "timestamp": "2022-06-13 17:04:09",
+            "start": "2020-10-15 23:18:19",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "818642",
+            "personID": "5026",
+            "timestamp": "2022-06-13 17:04:09",
+            "start": "2020-10-15 23:18:33",
+            "end": null,
+            "source": null
+        }
+    ]
+}

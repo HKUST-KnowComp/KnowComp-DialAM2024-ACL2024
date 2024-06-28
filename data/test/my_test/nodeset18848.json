@@ -1,0 +1,592 @@
+{
+    "nodes": [
+        {
+            "nodeID": "569721",
+            "text": "Fiona Bruce : Belinda, I was just watching you there, nodding your head along to what Lisa was saying",
+            "type": "L",
+            "timestamp": "2020-09-02 19:17:44"
+        },
+        {
+            "nodeID": "569723",
+            "text": "Fiona Bruce was watching Belinda nodding her head along to what Lisa Nandy was saying",
+            "type": "I",
+            "timestamp": "2020-09-02 19:17:45"
+        },
+        {
+            "nodeID": "569724",
+            "text": "Qi: Fiona Bruce : Belinda, I was just watching you there, nodding your head along to what Lisa was saying",
+            "type": "L",
+            "timestamp": "2020-09-02 19:17:45"
+        },
+        {
+            "nodeID": "569725",
+            "text": "Qi: Berlinda Unknown : Yes,",
+            "type": "L",
+            "timestamp": "2020-09-02 19:17:46"
+        },
+        {
+            "nodeID": "569726",
+            "text": "Berlinda Unknown : looking at the root of the question that Charlie asked, in terms of what does it say about the government",
+            "type": "L",
+            "timestamp": "2020-09-02 19:17:46"
+        },
+        {
+            "nodeID": "569728",
+            "text": "looking at the root of the question that Charlie Shrimpton asked in terms of what does it say about the government, Belinda was nodding her head along to what Lisa Nandy was saying",
+            "type": "I",
+            "timestamp": "2020-09-02 19:17:46"
+        },
+        {
+            "nodeID": "569729",
+            "text": "Qi: Berlinda Unknown : looking at the root of the question that Charlie asked, in terms of what does it say about the government",
+            "type": "L",
+            "timestamp": "2020-09-02 19:17:47"
+        },
+        {
+            "nodeID": "569730",
+            "text": "Berlinda Unknown : it took such a high profile footballer for that to happen",
+            "type": "L",
+            "timestamp": "2020-09-02 19:17:47"
+        },
+        {
+            "nodeID": "569732",
+            "text": "it took such a high profile footballer for the campaign for free school meals to happen",
+            "type": "I",
+            "timestamp": "2020-09-02 19:17:48"
+        },
+        {
+            "nodeID": "569733",
+            "text": "Qi: Berlinda Unknown : it took such a high profile footballer for that to happen",
+            "type": "L",
+            "timestamp": "2020-09-02 19:17:48"
+        },
+        {
+            "nodeID": "569734",
+            "text": "Berlinda Unknown : Yes",
+            "type": "L",
+            "timestamp": "2020-09-02 19:17:48"
+        },
+        {
+            "nodeID": "569735",
+            "text": "Qi: Berlinda Unknown : Yes",
+            "type": "L",
+            "timestamp": "2020-09-02 19:17:49"
+        },
+        {
+            "nodeID": "569736",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:17:49",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "569737",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:17:49",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "569738",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:17:49",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "569741",
+            "text": "Qi: Berlinda Unknown : If we’re responding to coronavirus, and I admit there’s millions that have been ploughed into this, in order to get to that new normal, how can we trust that the government is going to make those decisions without having the intervention?",
+            "type": "L",
+            "timestamp": "2020-09-02 19:17:49"
+        },
+        {
+            "nodeID": "569742",
+            "text": "Berlinda Unknown : I admit there’s millions that have been ploughed into this",
+            "type": "L",
+            "timestamp": "2020-09-02 19:17:49"
+        },
+        {
+            "nodeID": "569744",
+            "text": "Berlinda admits that there’s millions that have been ploughed into responding to corona virus",
+            "type": "I",
+            "timestamp": "2020-09-02 19:17:50"
+        },
+        {
+            "nodeID": "569745",
+            "text": "Qi: Berlinda Unknown : I admit there’s millions that have been ploughed into this",
+            "type": "L",
+            "timestamp": "2020-09-02 19:17:50"
+        },
+        {
+            "nodeID": "569746",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:17:50",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "569747",
+            "text": "Berlinda Unknown : if we’re responding to coronavirus, in order to get to that new normal, how can we trust that the government is going to make those decisions without having the intervention?",
+            "type": "L",
+            "timestamp": "2020-09-02 19:17:51"
+        },
+        {
+            "nodeID": "569749",
+            "text": "if we’re responding to coronavirus in order to get to the new normal of building a better country based on better values, xxx can we trust that the government is going to make those decisions without having the intervention",
+            "type": "I",
+            "timestamp": "2020-09-02 19:17:51"
+        },
+        {
+            "nodeID": "569750",
+            "text": "Qi: Berlinda Unknown : Fiona",
+            "type": "L",
+            "timestamp": "2020-09-02 19:17:52"
+        },
+        {
+            "nodeID": "569751",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:17:52",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "569752",
+            "text": "Munira Wilson : in 2020 in the United Kingdom no child should be going hungry",
+            "type": "L",
+            "timestamp": "2020-09-02 19:17:52"
+        },
+        {
+            "nodeID": "569754",
+            "text": "in 2020 in the United Kingdom no child should be going hungry",
+            "type": "I",
+            "timestamp": "2020-09-02 19:17:52"
+        },
+        {
+            "nodeID": "569755",
+            "text": "Qi: Munira Wilson : in 2020 in the United Kingdom no child should be going hungry",
+            "type": "L",
+            "timestamp": "2020-09-02 19:17:53"
+        },
+        {
+            "nodeID": "569756",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:17:53",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "569757",
+            "text": "Munira Wilson : and the fact that it’s taken a footballer to help the government to realise that and actually change its policy",
+            "type": "L",
+            "timestamp": "2020-09-02 19:17:53"
+        },
+        {
+            "nodeID": "569761",
+            "text": "it’s taken a footballer to help the government to realise that there are children going hungry and actually change its policy",
+            "type": "I",
+            "timestamp": "2020-09-02 19:17:54"
+        },
+        {
+            "nodeID": "569763",
+            "text": "Qi: Munira Wilson : and the fact that it’s taken a footballer to help the government to realise that and actually change its policy",
+            "type": "L",
+            "timestamp": "2020-09-02 19:17:54"
+        },
+        {
+            "nodeID": "569765",
+            "text": "Munira Wilson :  I think is shameful,",
+            "type": "L",
+            "timestamp": "2020-09-02 19:17:55"
+        },
+        {
+            "nodeID": "569769",
+            "text": "it is shameful that it’s taken a footballer to help the government to realise that there are children going hungry and actually change its policy",
+            "type": "I",
+            "timestamp": "2020-09-02 19:17:55"
+        },
+        {
+            "nodeID": "569771",
+            "text": "Qi: Munira Wilson :  I think is shameful,",
+            "type": "L",
+            "timestamp": "2020-09-02 19:17:55"
+        },
+        {
+            "nodeID": "569773",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:17:55",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "569774",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:17:55",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "569778",
+            "text": "Munira Wilson : It’s not a new issue, holiday hunger",
+            "type": "L",
+            "timestamp": "2020-09-02 19:17:56"
+        },
+        {
+            "nodeID": "569782",
+            "text": "holiday hunger is not a new issue",
+            "type": "I",
+            "timestamp": "2020-09-02 19:17:56"
+        },
+        {
+            "nodeID": "569784",
+            "text": "Qi: Munira Wilson : t’s not a new issue, holiday hunger",
+            "type": "L",
+            "timestamp": "2020-09-02 19:17:57"
+        },
+        {
+            "nodeID": "569785",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:17:57",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "569792",
+            "text": "Munira Wilson : we know that several billion children suffer from holiday hunger normally",
+            "type": "L",
+            "timestamp": "2020-09-02 19:17:57"
+        },
+        {
+            "nodeID": "569796",
+            "text": "we know that several billion children suffer from holiday hunger normally",
+            "type": "I",
+            "timestamp": "2020-09-02 19:17:57"
+        },
+        {
+            "nodeID": "569798",
+            "text": "Qi: Munira Wilson : we know that several billion children suffer from holiday hunger normally",
+            "type": "L",
+            "timestamp": "2020-09-02 19:17:58"
+        },
+        {
+            "nodeID": "569799",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:17:58",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "569806",
+            "text": "Munira Wilson : that’s obviously exacerbated by the crisis that we face",
+            "type": "L",
+            "timestamp": "2020-09-02 19:17:58"
+        },
+        {
+            "nodeID": "569810",
+            "text": "the holiday hunger is obviously exacerbated by the crisis that we face",
+            "type": "I",
+            "timestamp": "2020-09-02 19:17:59"
+        },
+        {
+            "nodeID": "569816",
+            "text": "Qi: Munira Wilson : that’s obviously exacerbated by the crisis that we face",
+            "type": "L",
+            "timestamp": "2020-09-02 19:17:59"
+        },
+        {
+            "nodeID": "569817",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:17:59",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "569818",
+            "text": "Fiona Bruce : And were the Lib Dems pushing to extend the free school meal vouchers?",
+            "type": "L",
+            "timestamp": "2020-09-02 19:18:00"
+        },
+        {
+            "nodeID": "569822",
+            "text": "the Liberal Democrats is/is not pushing to extend the free school meal vouchers",
+            "type": "I",
+            "timestamp": "2020-09-02 19:18:00"
+        },
+        {
+            "nodeID": "569824",
+            "text": "Qi: Fiona Bruce : And were the Lib Dems pushing to extend the free school meal vouchers?",
+            "type": "L",
+            "timestamp": "2020-09-02 19:18:01"
+        },
+        {
+            "nodeID": "569825",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:18:01",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "739864",
+            "fromID": "569721",
+            "toID": "569736",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739865",
+            "fromID": "569736",
+            "toID": "569734",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739866",
+            "fromID": "569734",
+            "toID": "569737",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739867",
+            "fromID": "569737",
+            "toID": "569726",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739868",
+            "fromID": "569726",
+            "toID": "569738",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739869",
+            "fromID": "569738",
+            "toID": "569730",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739876",
+            "fromID": "569730",
+            "toID": "569746",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739877",
+            "fromID": "569746",
+            "toID": "569742",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739880",
+            "fromID": "569742",
+            "toID": "569751",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739881",
+            "fromID": "569751",
+            "toID": "569747",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739884",
+            "fromID": "569747",
+            "toID": "569756",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739885",
+            "fromID": "569756",
+            "toID": "569752",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739893",
+            "fromID": "569752",
+            "toID": "569773",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739894",
+            "fromID": "569773",
+            "toID": "569765",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739895",
+            "fromID": "569757",
+            "toID": "569774",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739896",
+            "fromID": "569774",
+            "toID": "569765",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739901",
+            "fromID": "569765",
+            "toID": "569785",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739902",
+            "fromID": "569785",
+            "toID": "569778",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739909",
+            "fromID": "569778",
+            "toID": "569799",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739910",
+            "fromID": "569799",
+            "toID": "569792",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739917",
+            "fromID": "569792",
+            "toID": "569817",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739918",
+            "fromID": "569817",
+            "toID": "569806",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739921",
+            "fromID": "569806",
+            "toID": "569825",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739922",
+            "fromID": "569825",
+            "toID": "569818",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "569721",
+            "personID": "3812",
+            "timestamp": "2020-09-02 19:18:01",
+            "start": "2020-06-25 22:57:26",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569726",
+            "personID": "4004",
+            "timestamp": "2020-09-02 19:18:01",
+            "start": "2020-06-25 22:57:34",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569730",
+            "personID": "4004",
+            "timestamp": "2020-09-02 19:18:01",
+            "start": "2020-06-25 22:57:46",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569734",
+            "personID": "4004",
+            "timestamp": "2020-09-02 19:18:01",
+            "start": "2020-06-25 22:57:33",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569742",
+            "personID": "4004",
+            "timestamp": "2020-09-02 19:18:01",
+            "start": "2020-06-25 22:57:55",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569747",
+            "personID": "4004",
+            "timestamp": "2020-09-02 19:18:01",
+            "start": "2020-06-25 22:58:08",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569752",
+            "personID": "4006",
+            "timestamp": "2020-09-02 19:18:01",
+            "start": "2020-06-25 22:58:12",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569757",
+            "personID": "4006",
+            "timestamp": "2020-09-02 19:18:01",
+            "start": "2020-06-25 22:58:18",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569765",
+            "personID": "4006",
+            "timestamp": "2020-09-02 19:18:01",
+            "start": "2020-06-25 22:58:24",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569778",
+            "personID": "4006",
+            "timestamp": "2020-09-02 19:18:01",
+            "start": "2020-06-25 22:58:27",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569792",
+            "personID": "4006",
+            "timestamp": "2020-09-02 19:18:01",
+            "start": "2020-06-25 22:58:32",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569806",
+            "personID": "4006",
+            "timestamp": "2020-09-02 19:18:01",
+            "start": "2020-06-25 22:58:37",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569818",
+            "personID": "3812",
+            "timestamp": "2020-09-02 19:18:01",
+            "start": "2020-06-25 22:58:39",
+            "end": null,
+            "source": null
+        }
+    ]
+}

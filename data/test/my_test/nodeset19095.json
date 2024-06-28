@@ -1,0 +1,442 @@
+{
+    "nodes": [
+        {
+            "nodeID": "590526",
+            "text": "Kate Forbes : small grants of 500 pound is no replacement for the furlough scheme",
+            "type": "L",
+            "timestamp": "2020-10-22 20:52:41"
+        },
+        {
+            "nodeID": "590528",
+            "text": "small grants of 500 pound is no replacement for the furlough scheme",
+            "type": "I",
+            "timestamp": "2020-10-22 20:52:43"
+        },
+        {
+            "nodeID": "590529",
+            "text": "Chris: Kate Forbes : small grants of 500 pound is no replacement for the furlough scheme",
+            "type": "L",
+            "timestamp": "2020-10-22 20:52:44"
+        },
+        {
+            "nodeID": "590530",
+            "text": "Kate Forbes : 700 million pound, that does not just cover business support",
+            "type": "L",
+            "timestamp": "2020-10-22 20:52:45"
+        },
+        {
+            "nodeID": "590532",
+            "text": "700 million pound, that does not just cover business support",
+            "type": "I",
+            "timestamp": "2020-10-22 20:52:47"
+        },
+        {
+            "nodeID": "590533",
+            "text": "Chris: Kate Forbes : 700 million pound, that does not just cover business support",
+            "type": "L",
+            "timestamp": "2020-10-22 20:52:48"
+        },
+        {
+            "nodeID": "590534",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-10-22 20:52:48",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "590535",
+            "text": "Kate Forbes : That’s for health, transport, and a whole host of other things",
+            "type": "L",
+            "timestamp": "2020-10-22 20:52:49"
+        },
+        {
+            "nodeID": "590537",
+            "text": "the £700million is for health, transport, and a whole host of other things",
+            "type": "I",
+            "timestamp": "2020-10-22 20:52:50"
+        },
+        {
+            "nodeID": "590538",
+            "text": "Chris: Kate Forbes : That’s for health, transport, and a whole host of other things",
+            "type": "L",
+            "timestamp": "2020-10-22 20:52:51"
+        },
+        {
+            "nodeID": "590539",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-10-22 20:52:51",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "590542",
+            "text": "Kate Forbes : the business support we put in place is more generous than the UK government support",
+            "type": "L",
+            "timestamp": "2020-10-22 20:52:52"
+        },
+        {
+            "nodeID": "590544",
+            "text": "the business support the Scottish government put in place is more generous than the UK government support",
+            "type": "I",
+            "timestamp": "2020-10-22 20:52:53"
+        },
+        {
+            "nodeID": "590545",
+            "text": "Chris: Kate Forbes : the business support we put in place is more generous than the UK government support",
+            "type": "L",
+            "timestamp": "2020-10-22 20:52:54"
+        },
+        {
+            "nodeID": "590546",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-10-22 20:52:54",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "590547",
+            "text": "Kate Forbes : in the rest of the UK if you’re obliged by law to close you’ll get a grant",
+            "type": "L",
+            "timestamp": "2020-10-22 20:52:55"
+        },
+        {
+            "nodeID": "590549",
+            "text": "in the rest of the UK if you’re obliged by law to close you’ll get a grant",
+            "type": "I",
+            "timestamp": "2020-10-22 20:52:57"
+        },
+        {
+            "nodeID": "590550",
+            "text": "Chris: Kate Forbes : in the rest of the UK if you’re obliged by law to close you’ll get a grant",
+            "type": "L",
+            "timestamp": "2020-10-22 20:52:58"
+        },
+        {
+            "nodeID": "590551",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-10-22 20:52:58",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "590552",
+            "text": "Kate Forbes : all the businesses in the supply chain won’t get funding, the businesses impacted won’t get funding",
+            "type": "L",
+            "timestamp": "2020-10-22 20:52:59"
+        },
+        {
+            "nodeID": "590554",
+            "text": "all the businesses in the supply chain won’t get funding, the businesses impacted won’t get funding",
+            "type": "I",
+            "timestamp": "2020-10-22 20:53:00"
+        },
+        {
+            "nodeID": "590555",
+            "text": "Chris: Kate Forbes : all the businesses in the supply chain won’t get funding, the businesses impacted won’t get funding",
+            "type": "L",
+            "timestamp": "2020-10-22 20:53:01"
+        },
+        {
+            "nodeID": "590556",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-10-22 20:53:01",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "590559",
+            "text": "In Scotland we provided funding for those required to close, but also in the supply chain",
+            "type": "L",
+            "timestamp": "2020-10-22 20:53:02"
+        },
+        {
+            "nodeID": "590561",
+            "text": "in Scotland we provided funding for those required to close, but also in the supply chain",
+            "type": "I",
+            "timestamp": "2020-10-22 20:53:03"
+        },
+        {
+            "nodeID": "590562",
+            "text": "Chris: Kate Forbes : In Scotland we provided funding for those required to close, but also in the supply chain",
+            "type": "L",
+            "timestamp": "2020-10-22 20:53:04"
+        },
+        {
+            "nodeID": "590563",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-10-22 20:53:04",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "590564",
+            "text": "Kate Forbes : that’s the breadth of support that we need to see",
+            "type": "L",
+            "timestamp": "2020-10-22 20:53:05"
+        },
+        {
+            "nodeID": "590566",
+            "text": "Scotland is showing the breadth of support that we need to see",
+            "type": "I",
+            "timestamp": "2020-10-22 20:53:06"
+        },
+        {
+            "nodeID": "590567",
+            "text": "Chris: Kate Forbes : that’s the breadth of support that we need to see",
+            "type": "L",
+            "timestamp": "2020-10-22 20:53:07"
+        },
+        {
+            "nodeID": "590568",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-10-22 20:53:07",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "590570",
+            "text": "Kate Forbes : let’s not kid ourselves, 1,500 pounds of grant, as important as it is, is no replacement for the furlough scheme",
+            "type": "L",
+            "timestamp": "2020-10-22 20:53:08"
+        },
+        {
+            "nodeID": "590572",
+            "text": "let’s not kid ourselves, 1,500 pounds of grant, as important as it is, is no replacement for the furlough scheme",
+            "type": "I",
+            "timestamp": "2020-10-22 20:53:09"
+        },
+        {
+            "nodeID": "590573",
+            "text": "Chris: Kate Forbes : let’s not kid ourselves, 1,500 pounds of grant, as important as it is, is no replacement for the furlough scheme",
+            "type": "L",
+            "timestamp": "2020-10-22 20:53:10"
+        },
+        {
+            "nodeID": "590574",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-10-22 20:53:10",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "590577",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-10-22 20:53:10",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "590579",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-10-22 20:53:10",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "768001",
+            "fromID": "590526",
+            "toID": "590534",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "768002",
+            "fromID": "590534",
+            "toID": "590530",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "768005",
+            "fromID": "590530",
+            "toID": "590539",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "768006",
+            "fromID": "590539",
+            "toID": "590535",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "768013",
+            "fromID": "590535",
+            "toID": "590546",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "768014",
+            "fromID": "590546",
+            "toID": "590542",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "768017",
+            "fromID": "590542",
+            "toID": "590551",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "768018",
+            "fromID": "590551",
+            "toID": "590547",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "768021",
+            "fromID": "590547",
+            "toID": "590556",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "768022",
+            "fromID": "590556",
+            "toID": "590552",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "768029",
+            "fromID": "590552",
+            "toID": "590563",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "768030",
+            "fromID": "590563",
+            "toID": "590559",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "768033",
+            "fromID": "590559",
+            "toID": "590568",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "768034",
+            "fromID": "590568",
+            "toID": "590564",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "768039",
+            "fromID": "590564",
+            "toID": "590574",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "768040",
+            "fromID": "590574",
+            "toID": "590570",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "768046",
+            "fromID": "590542",
+            "toID": "590577",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "768047",
+            "fromID": "590577",
+            "toID": "590564",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "768050",
+            "fromID": "590542",
+            "toID": "590579",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "768051",
+            "fromID": "590579",
+            "toID": "590559",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "590526",
+            "personID": "4062",
+            "timestamp": "2020-10-22 20:53:10",
+            "start": "2020-10-15 23:31:54",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "590530",
+            "personID": "4062",
+            "timestamp": "2020-10-22 20:53:10",
+            "start": "2020-10-15 23:32:01",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "590535",
+            "personID": "4062",
+            "timestamp": "2020-10-22 20:53:10",
+            "start": "2020-10-15 23:32:06",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "590542",
+            "personID": "4062",
+            "timestamp": "2020-10-22 20:53:10",
+            "start": "2020-10-15 23:32:14",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "590547",
+            "personID": "4062",
+            "timestamp": "2020-10-22 20:53:10",
+            "start": "2020-10-15 23:32:17",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "590552",
+            "personID": "4062",
+            "timestamp": "2020-10-22 20:53:10",
+            "start": "2020-10-15 23:32:25",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "590559",
+            "personID": "4062",
+            "timestamp": "2020-10-22 20:53:10",
+            "start": "2020-10-15 23:32:35",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "590564",
+            "personID": "4062",
+            "timestamp": "2020-10-22 20:53:10",
+            "start": "2020-10-15 23:32:45",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "590570",
+            "personID": "4062",
+            "timestamp": "2020-10-22 20:53:10",
+            "start": "2020-10-15 23:32:51",
+            "end": null,
+            "source": null
+        }
+    ]
+}

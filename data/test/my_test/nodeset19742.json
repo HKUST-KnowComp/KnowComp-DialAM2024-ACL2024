@@ -1,0 +1,872 @@
+{
+    "nodes": [
+        {
+            "nodeID": "630846",
+            "text": "Fiona Bruce : This presumably is taking a toll on you",
+            "type": "L",
+            "timestamp": "2021-01-14 20:00:38"
+        },
+        {
+            "nodeID": "630848",
+            "text": "the fact that many people die of COVID presumably is taking a toll on Rachel Clarke",
+            "type": "I",
+            "timestamp": "2021-01-14 20:00:39"
+        },
+        {
+            "nodeID": "630849",
+            "text": "Anna: Fiona Bruce : This presumably is taking a toll on you",
+            "type": "L",
+            "timestamp": "2021-01-14 20:00:40"
+        },
+        {
+            "nodeID": "630850",
+            "text": "Rachel Clarke : Absolutely",
+            "type": "L",
+            "timestamp": "2021-01-14 20:00:40"
+        },
+        {
+            "nodeID": "630851",
+            "text": "Anna: Rachel Clarke : Absolutely",
+            "type": "L",
+            "timestamp": "2021-01-14 20:00:41"
+        },
+        {
+            "nodeID": "630853",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-14 20:00:41",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "630854",
+            "text": "Rachel Clarke : Today we have had the devastating news this afternoon that we have reached a truly world beating and bleak in the extreme milestone",
+            "type": "L",
+            "timestamp": "2021-01-14 20:00:41"
+        },
+        {
+            "nodeID": "630856",
+            "text": "today we have had the devastating news this afternoon that we have reached a truly world beating and bleak in the extreme milestone",
+            "type": "I",
+            "timestamp": "2021-01-14 20:00:42"
+        },
+        {
+            "nodeID": "630857",
+            "text": "Anna: Rachel Clarke : Today we have had the devastating news this afternoon that we have reached a truly world beating and bleak in the extreme milestone",
+            "type": "L",
+            "timestamp": "2021-01-14 20:00:42"
+        },
+        {
+            "nodeID": "630858",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-14 20:00:42",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "630859",
+            "text": "Rachel Clarke : Today, in the last 24-hours, over 1,000 people have lost their lives to COVID",
+            "type": "L",
+            "timestamp": "2021-01-14 20:00:43"
+        },
+        {
+            "nodeID": "630861",
+            "text": "today, in the last 24-hours, over 1,000 people have lost their lives to COVID",
+            "type": "I",
+            "timestamp": "2021-01-14 20:00:43"
+        },
+        {
+            "nodeID": "630862",
+            "text": "Anna: Rachel Clarke : Today, in the last 24-hours, over 1,000 people have lost their lives to COVID",
+            "type": "L",
+            "timestamp": "2021-01-14 20:00:44"
+        },
+        {
+            "nodeID": "630863",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-14 20:00:44",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "630866",
+            "text": "Rachel Clarke : Now that’s more than every single person who has died in Australia of COVID has died in their entire pandemic",
+            "type": "L",
+            "timestamp": "2021-01-14 20:00:45"
+        },
+        {
+            "nodeID": "630868",
+            "text": "now that is more than every single person who has died in Australia of COVID has died in their entire pandemic",
+            "type": "I",
+            "timestamp": "2021-01-14 20:00:46"
+        },
+        {
+            "nodeID": "630869",
+            "text": "Anna: Rachel Clarke : Now that’s more than every single person who has died in Australia of COVID has died in their entire pandemic",
+            "type": "L",
+            "timestamp": "2021-01-14 20:00:46"
+        },
+        {
+            "nodeID": "630870",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-14 20:00:46",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "630873",
+            "text": "Rachel Clarke : We have lost more than the entire Australian death toll in 24-hours",
+            "type": "L",
+            "timestamp": "2021-01-14 20:00:47"
+        },
+        {
+            "nodeID": "630875",
+            "text": "we have lost more than the entire Australian death toll in 24-hours",
+            "type": "I",
+            "timestamp": "2021-01-14 20:00:47"
+        },
+        {
+            "nodeID": "630876",
+            "text": "Anna: Rachel Clarke : We have lost more than the entire Australian death toll in 24-hours",
+            "type": "L",
+            "timestamp": "2021-01-14 20:00:48"
+        },
+        {
+            "nodeID": "630878",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-14 20:00:48",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "630880",
+            "text": "Rachel Clarke : Conditions in hospitals are unimaginable",
+            "type": "L",
+            "timestamp": "2021-01-14 20:00:48"
+        },
+        {
+            "nodeID": "630882",
+            "text": "conditions in hospitals are unimaginable",
+            "type": "I",
+            "timestamp": "2021-01-14 20:00:49"
+        },
+        {
+            "nodeID": "630883",
+            "text": "Anna: Rachel Clarke : Conditions in hospitals are unimaginable",
+            "type": "L",
+            "timestamp": "2021-01-14 20:00:49"
+        },
+        {
+            "nodeID": "630884",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-14 20:00:49",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "630885",
+            "text": "Rachel Clarke : We have ambulances queuing up outside",
+            "type": "L",
+            "timestamp": "2021-01-14 20:00:50"
+        },
+        {
+            "nodeID": "630887",
+            "text": "we have ambulances queuing up outside",
+            "type": "I",
+            "timestamp": "2021-01-14 20:00:50"
+        },
+        {
+            "nodeID": "630888",
+            "text": "Anna: Rachel Clarke : We have ambulances queuing up outside",
+            "type": "L",
+            "timestamp": "2021-01-14 20:00:51"
+        },
+        {
+            "nodeID": "630889",
+            "text": "Rachel Clarke : patients we can’t get them out of the ambulances into hospitals",
+            "type": "L",
+            "timestamp": "2021-01-14 20:00:51"
+        },
+        {
+            "nodeID": "630891",
+            "text": "we cannot get patients out of the ambulances into hospitals",
+            "type": "I",
+            "timestamp": "2021-01-14 20:00:51"
+        },
+        {
+            "nodeID": "630892",
+            "text": "Anna: Rachel Clarke : patients we can’t get them out of the ambulances into hospitals",
+            "type": "L",
+            "timestamp": "2021-01-14 20:00:52"
+        },
+        {
+            "nodeID": "630893",
+            "text": "Rachel Clarke : because every single bed in intensive care, in the wards, in A&E is full",
+            "type": "L",
+            "timestamp": "2021-01-14 20:00:52"
+        },
+        {
+            "nodeID": "630895",
+            "text": "because every single bed in intensive care, in the wards, in A&E is full",
+            "type": "I",
+            "timestamp": "2021-01-14 20:00:53"
+        },
+        {
+            "nodeID": "630896",
+            "text": "Anna: Rachel Clarke : because every single bed in intensive care, in the wards, in A&E is full",
+            "type": "L",
+            "timestamp": "2021-01-14 20:00:53"
+        },
+        {
+            "nodeID": "630899",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-14 20:00:53",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "630901",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-14 20:00:53",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "630902",
+            "text": "Rachel Clarke :  Tonight I had messages from a doctor in London to tell me that police cars are delivering critically ill COVID patients into his hospital in London",
+            "type": "L",
+            "timestamp": "2021-01-14 20:00:54"
+        },
+        {
+            "nodeID": "630904",
+            "text": "tonight Rachel Clarke had messages from a doctor in London to tell me that police cars are delivering critically ill COVID patients into his hospital in London",
+            "type": "I",
+            "timestamp": "2021-01-14 20:00:54"
+        },
+        {
+            "nodeID": "630905",
+            "text": "Anna: Rachel Clarke :  Tonight I had messages from a doctor in London to tell me that police cars are delivering critically ill COVID patients into his hospital in London",
+            "type": "L",
+            "timestamp": "2021-01-14 20:00:55"
+        },
+        {
+            "nodeID": "630906",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-14 20:00:55",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "630907",
+            "text": "Rachel Clarke : because there are no ambulances",
+            "type": "L",
+            "timestamp": "2021-01-14 20:00:55"
+        },
+        {
+            "nodeID": "630909",
+            "text": "because there are no ambulances",
+            "type": "I",
+            "timestamp": "2021-01-14 20:00:56"
+        },
+        {
+            "nodeID": "630910",
+            "text": "Anna: Rachel Clarke : because there are no ambulances",
+            "type": "L",
+            "timestamp": "2021-01-14 20:00:56"
+        },
+        {
+            "nodeID": "630912",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-14 20:00:56",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "630916",
+            "text": "Rachel Clarke : That is how bad things are",
+            "type": "L",
+            "timestamp": "2021-01-14 20:00:57"
+        },
+        {
+            "nodeID": "630919",
+            "text": "that is how bad things are",
+            "type": "I",
+            "timestamp": "2021-01-14 20:00:57"
+        },
+        {
+            "nodeID": "630921",
+            "text": "Anna: Rachel Clarke : That is how bad things are",
+            "type": "L",
+            "timestamp": "2021-01-14 20:00:58"
+        },
+        {
+            "nodeID": "630923",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-14 20:00:58",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "630927",
+            "text": "Rachel Clarke : how could the government have allowed things to get so bad",
+            "type": "L",
+            "timestamp": "2021-01-14 20:00:58"
+        },
+        {
+            "nodeID": "630930",
+            "text": "xxx is how the government could have allowed things to get so bad",
+            "type": "I",
+            "timestamp": "2021-01-14 20:00:59"
+        },
+        {
+            "nodeID": "630935",
+            "text": "Anna: Rachel Clarke : how could the government have allowed things to get so bad",
+            "type": "L",
+            "timestamp": "2021-01-14 20:00:59"
+        },
+        {
+            "nodeID": "630936",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-14 20:00:59",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "630939",
+            "text": "Rachel Clarke : SAGE told the government in September to have a circuit breaker",
+            "type": "L",
+            "timestamp": "2021-01-14 20:01:00"
+        },
+        {
+            "nodeID": "630942",
+            "text": "SAGE told the government in September to have a circuit breaker",
+            "type": "I",
+            "timestamp": "2021-01-14 20:01:00"
+        },
+        {
+            "nodeID": "630945",
+            "text": "Anna: Rachel Clarke : SAGE told the government in September to have a circuit breaker",
+            "type": "L",
+            "timestamp": "2021-01-14 20:01:01"
+        },
+        {
+            "nodeID": "630946",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-14 20:01:01",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "630948",
+            "text": "Rachel Clarke : They told the government before Christmas: You have to lock down",
+            "type": "L",
+            "timestamp": "2021-01-14 20:01:02"
+        },
+        {
+            "nodeID": "630951",
+            "text": "SAGE told the government before Christmas that they have to lock down",
+            "type": "I",
+            "timestamp": "2021-01-14 20:01:03"
+        },
+        {
+            "nodeID": "630953",
+            "text": "Anna: Rachel Clarke : They told the government before Christmas: You have to lock down",
+            "type": "L",
+            "timestamp": "2021-01-14 20:01:04"
+        },
+        {
+            "nodeID": "630954",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-14 20:01:04",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "630957",
+            "text": "Rachel Clarke : And Boris Johnson ignored it",
+            "type": "L",
+            "timestamp": "2021-01-14 20:01:04"
+        },
+        {
+            "nodeID": "630960",
+            "text": "Boris Johnson ignored SAGE's warnings",
+            "type": "I",
+            "timestamp": "2021-01-14 20:01:05"
+        },
+        {
+            "nodeID": "630962",
+            "text": "Anna: Rachel Clarke : And Boris Johnson ignored it",
+            "type": "L",
+            "timestamp": "2021-01-14 20:01:06"
+        },
+        {
+            "nodeID": "630963",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-14 20:01:06",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "630970",
+            "text": "Rachel Clarke : because he is pathologically incapable of making a difficult decision",
+            "type": "L",
+            "timestamp": "2021-01-14 20:01:06"
+        },
+        {
+            "nodeID": "630973",
+            "text": "Boris Johnson is pathologically incapable of making a difficult decision",
+            "type": "I",
+            "timestamp": "2021-01-14 20:01:07"
+        },
+        {
+            "nodeID": "630977",
+            "text": "Anna: Rachel Clarke : because he is pathologically incapable of making a difficult decision",
+            "type": "L",
+            "timestamp": "2021-01-14 20:01:08"
+        },
+        {
+            "nodeID": "630978",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-14 20:01:08",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "630983",
+            "text": "Rachel Clarke : And that is reprehensible",
+            "type": "L",
+            "timestamp": "2021-01-14 20:01:08"
+        },
+        {
+            "nodeID": "630986",
+            "text": "it is reprehensible that Boris Johnson is pathologically incapable of making a difficult decision",
+            "type": "I",
+            "timestamp": "2021-01-14 20:01:09"
+        },
+        {
+            "nodeID": "630988",
+            "text": "Anna: Rachel Clarke : And that is reprehensible",
+            "type": "L",
+            "timestamp": "2021-01-14 20:01:09"
+        },
+        {
+            "nodeID": "630989",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-14 20:01:09",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "630992",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-14 20:01:09",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "816421",
+            "fromID": "630846",
+            "toID": "630853",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816422",
+            "fromID": "630853",
+            "toID": "630850",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816425",
+            "fromID": "630850",
+            "toID": "630858",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816426",
+            "fromID": "630858",
+            "toID": "630854",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816429",
+            "fromID": "630854",
+            "toID": "630863",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816430",
+            "fromID": "630863",
+            "toID": "630859",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816437",
+            "fromID": "630859",
+            "toID": "630870",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816438",
+            "fromID": "630870",
+            "toID": "630866",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816447",
+            "fromID": "630866",
+            "toID": "630878",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816448",
+            "fromID": "630878",
+            "toID": "630873",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816453",
+            "fromID": "630873",
+            "toID": "630884",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816454",
+            "fromID": "630884",
+            "toID": "630880",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816466",
+            "fromID": "630889",
+            "toID": "630899",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816467",
+            "fromID": "630899",
+            "toID": "630893",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816470",
+            "fromID": "630885",
+            "toID": "630901",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816471",
+            "fromID": "630901",
+            "toID": "630889",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816474",
+            "fromID": "630893",
+            "toID": "630906",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816475",
+            "fromID": "630906",
+            "toID": "630902",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816480",
+            "fromID": "630902",
+            "toID": "630912",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816481",
+            "fromID": "630912",
+            "toID": "630907",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816488",
+            "fromID": "630907",
+            "toID": "630923",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816489",
+            "fromID": "630923",
+            "toID": "630916",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816494",
+            "fromID": "630916",
+            "toID": "630936",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816495",
+            "fromID": "630936",
+            "toID": "630927",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816498",
+            "fromID": "630927",
+            "toID": "630946",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816499",
+            "fromID": "630946",
+            "toID": "630939",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816502",
+            "fromID": "630939",
+            "toID": "630954",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816503",
+            "fromID": "630954",
+            "toID": "630948",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816506",
+            "fromID": "630948",
+            "toID": "630963",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816507",
+            "fromID": "630963",
+            "toID": "630957",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816518",
+            "fromID": "630957",
+            "toID": "630978",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816519",
+            "fromID": "630978",
+            "toID": "630970",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816526",
+            "fromID": "630970",
+            "toID": "630989",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816527",
+            "fromID": "630989",
+            "toID": "630983",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816532",
+            "fromID": "630880",
+            "toID": "630992",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "816533",
+            "fromID": "630992",
+            "toID": "630889",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "630846",
+            "personID": "3812",
+            "timestamp": "2021-01-14 20:01:09",
+            "start": "2020-10-15 22:13:52",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "630850",
+            "personID": "4214",
+            "timestamp": "2021-01-14 20:01:09",
+            "start": "2020-10-15 22:13:56",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "630854",
+            "personID": "4214",
+            "timestamp": "2021-01-14 20:01:09",
+            "start": "2020-10-15 22:13:57",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "630859",
+            "personID": "4214",
+            "timestamp": "2021-01-14 20:01:09",
+            "start": "2020-10-15 22:14:10",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "630866",
+            "personID": "4214",
+            "timestamp": "2021-01-14 20:01:09",
+            "start": "2020-10-15 22:14:18",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "630873",
+            "personID": "4214",
+            "timestamp": "2021-01-14 20:01:09",
+            "start": "2020-10-15 22:14:29",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "630880",
+            "personID": "4214",
+            "timestamp": "2021-01-14 20:01:09",
+            "start": "2020-10-15 22:14:36",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "630885",
+            "personID": "4214",
+            "timestamp": "2021-01-14 20:01:09",
+            "start": "2020-10-15 22:14:40",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "630889",
+            "personID": "4214",
+            "timestamp": "2021-01-14 20:01:09",
+            "start": "2020-10-15 22:14:44",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "630893",
+            "personID": "4214",
+            "timestamp": "2021-01-14 20:01:09",
+            "start": "2020-10-15 22:14:51",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "630902",
+            "personID": "4214",
+            "timestamp": "2021-01-14 20:01:09",
+            "start": "2020-10-15 22:14:58",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "630907",
+            "personID": "4214",
+            "timestamp": "2021-01-14 20:01:09",
+            "start": "2020-10-15 22:15:13",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "630916",
+            "personID": "4214",
+            "timestamp": "2021-01-14 20:01:09",
+            "start": "2020-10-15 22:15:16",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "630927",
+            "personID": "4214",
+            "timestamp": "2021-01-14 20:01:09",
+            "start": "2020-10-15 22:15:20",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "630939",
+            "personID": "4214",
+            "timestamp": "2021-01-14 20:01:09",
+            "start": "2020-10-15 22:15:26",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "630948",
+            "personID": "4214",
+            "timestamp": "2021-01-14 20:01:09",
+            "start": "2020-10-15 22:15:32",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "630957",
+            "personID": "4214",
+            "timestamp": "2021-01-14 20:01:09",
+            "start": "2020-10-15 22:15:39",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "630970",
+            "personID": "4214",
+            "timestamp": "2021-01-14 20:01:09",
+            "start": "2020-10-15 22:15:42",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "630983",
+            "personID": "4214",
+            "timestamp": "2021-01-14 20:01:09",
+            "start": "2020-10-15 22:15:49",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "630846",
+            "personID": "3812",
+            "timestamp": "2022-07-21 14:39:52",
+            "start": "2020-10-15 23:13:52",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "630983",
+            "personID": "4214",
+            "timestamp": "2022-07-21 14:39:52",
+            "start": "2020-10-15 23:15:49",
+            "end": null,
+            "source": null
+        }
+    ]
+}

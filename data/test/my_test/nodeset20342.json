@@ -1,0 +1,442 @@
+{
+    "nodes": [
+        {
+            "nodeID": "659283",
+            "text": "Michael Forsyth : Do you think it is reasonable for a man taking a digger from the mainland of Britain to Northern Ireland should be told he has got to wash the digger before it can get into Northern Ireland because it's got British soil on it",
+            "type": "L",
+            "timestamp": "2021-02-18 20:51:26"
+        },
+        {
+            "nodeID": "659285",
+            "text": "do you or do you not think it is reasonable for a man taking a digger from the mainland of Britain to Northern Ireland should be told he has got to wash the digger before it can get into Northern Ireland because it's got British soil on it",
+            "type": "I",
+            "timestamp": "2021-02-18 20:51:26"
+        },
+        {
+            "nodeID": "659286",
+            "text": "Camilla: Michael Forsyth : Do you think it is reasonable for a man taking a digger from the mainland of Britain to Northern Ireland should be told he has got to wash the digger before it can get into Northern Ireland because it's got British soil on it",
+            "type": "L",
+            "timestamp": "2021-02-18 20:51:27"
+        },
+        {
+            "nodeID": "659287",
+            "text": "Michael Forsyth : Do you think that's part of the deal",
+            "type": "L",
+            "timestamp": "2021-02-18 20:51:27"
+        },
+        {
+            "nodeID": "659289",
+            "text": "do you or do you not think the fact that a man has to wash his digger before taking it to Northern Ireland is part of the deal",
+            "type": "I",
+            "timestamp": "2021-02-18 20:51:28"
+        },
+        {
+            "nodeID": "659290",
+            "text": "Camilla: Michael Forsyth : Do you think that's part of the deal",
+            "type": "L",
+            "timestamp": "2021-02-18 20:51:28"
+        },
+        {
+            "nodeID": "659291",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:51:28",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "659292",
+            "text": "Jeane Freeman : That was the deal your prime minister signed",
+            "type": "L",
+            "timestamp": "2021-02-18 20:51:29"
+        },
+        {
+            "nodeID": "659294",
+            "text": "the fact that a man will have to wash his digger to take it to Northern Ireland was the deal your prime minister signed",
+            "type": "I",
+            "timestamp": "2021-02-18 20:51:29"
+        },
+        {
+            "nodeID": "659295",
+            "text": "Camilla: Jeane Freeman : That was the deal your prime minister signed",
+            "type": "L",
+            "timestamp": "2021-02-18 20:51:30"
+        },
+        {
+            "nodeID": "659296",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:51:30",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "659299",
+            "text": "Jeane Freeman :  Part of the deal he signed",
+            "type": "L",
+            "timestamp": "2021-02-18 20:51:30"
+        },
+        {
+            "nodeID": "659301",
+            "text": "a part of the deal he signed",
+            "type": "I",
+            "timestamp": "2021-02-18 20:51:31"
+        },
+        {
+            "nodeID": "659302",
+            "text": "Camilla: Jeane Freeman :  Part of the deal he signed",
+            "type": "L",
+            "timestamp": "2021-02-18 20:51:31"
+        },
+        {
+            "nodeID": "659304",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:51:31",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "659306",
+            "text": "Michael Forsyth : Then the deal needs to be undone",
+            "type": "L",
+            "timestamp": "2021-02-18 20:51:31"
+        },
+        {
+            "nodeID": "659308",
+            "text": "then the deal needs to be undone",
+            "type": "I",
+            "timestamp": "2021-02-18 20:51:32"
+        },
+        {
+            "nodeID": "659309",
+            "text": "Camilla: Michael Forsyth : Then the deal needs to be undone",
+            "type": "L",
+            "timestamp": "2021-02-18 20:51:32"
+        },
+        {
+            "nodeID": "659310",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:51:32",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "659311",
+            "text": "Ian Murray : This is the deal that will determine the relationship between an independent Scotland and --",
+            "type": "L",
+            "timestamp": "2021-02-18 20:51:33"
+        },
+        {
+            "nodeID": "659313",
+            "text": "this is the deal that will determine the relationship between an independent Scotland and --",
+            "type": "I",
+            "timestamp": "2021-02-18 20:51:33"
+        },
+        {
+            "nodeID": "659314",
+            "text": "Camilla: Ian Murray : This is the deal that will determine the relationship between an independent Scotland and --",
+            "type": "L",
+            "timestamp": "2021-02-18 20:51:34"
+        },
+        {
+            "nodeID": "659315",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:51:34",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "659316",
+            "text": "Jeane Freeman : No",
+            "type": "L",
+            "timestamp": "2021-02-18 20:51:34"
+        },
+        {
+            "nodeID": "659317",
+            "text": "Camilla: Jeane Freeman : No",
+            "type": "L",
+            "timestamp": "2021-02-18 20:51:35"
+        },
+        {
+            "nodeID": "659318",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:51:35",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "659320",
+            "text": "Jeane Freeman : an independent Scotland would have the opportunity to be back into that European Union",
+            "type": "L",
+            "timestamp": "2021-02-18 20:51:35"
+        },
+        {
+            "nodeID": "659322",
+            "text": "an independent Scotland would have the opportunity to be back in the European Union",
+            "type": "I",
+            "timestamp": "2021-02-18 20:51:36"
+        },
+        {
+            "nodeID": "659323",
+            "text": "Camilla: Jeane Freeman : an independent Scotland would have the opportunity to be back into that European Union",
+            "type": "L",
+            "timestamp": "2021-02-18 20:51:36"
+        },
+        {
+            "nodeID": "659325",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:51:36",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "659327",
+            "text": "Jeane Freeman : that large trading partner that we wanted to stay with and had to turn our back on",
+            "type": "L",
+            "timestamp": "2021-02-18 20:51:37"
+        },
+        {
+            "nodeID": "659329",
+            "text": "that large trading partner that we wanted to stay with and had to turn our back on",
+            "type": "I",
+            "timestamp": "2021-02-18 20:51:37"
+        },
+        {
+            "nodeID": "659330",
+            "text": "Camilla: Jeane Freeman : that large trading partner that we wanted to stay with and had to turn our back on",
+            "type": "L",
+            "timestamp": "2021-02-18 20:51:38"
+        },
+        {
+            "nodeID": "659331",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:51:38",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "659332",
+            "text": "Jeane Freeman : because we're part of the United Kingdom",
+            "type": "L",
+            "timestamp": "2021-02-18 20:51:38"
+        },
+        {
+            "nodeID": "659334",
+            "text": "Scotland had to turn their back on EU because they are part of the United Kingdom",
+            "type": "I",
+            "timestamp": "2021-02-18 20:51:39"
+        },
+        {
+            "nodeID": "659335",
+            "text": "Camilla: Jeane Freeman : because we're part of the United Kingdom",
+            "type": "L",
+            "timestamp": "2021-02-18 20:51:39"
+        },
+        {
+            "nodeID": "659336",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:51:39",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "851107",
+            "fromID": "659283",
+            "toID": "659291",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "851108",
+            "fromID": "659291",
+            "toID": "659287",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "851111",
+            "fromID": "659287",
+            "toID": "659296",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "851112",
+            "fromID": "659296",
+            "toID": "659292",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "851121",
+            "fromID": "659292",
+            "toID": "659304",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "851122",
+            "fromID": "659304",
+            "toID": "659299",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "851127",
+            "fromID": "659292",
+            "toID": "659310",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "851128",
+            "fromID": "659310",
+            "toID": "659306",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "851131",
+            "fromID": "659306",
+            "toID": "659315",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "851132",
+            "fromID": "659315",
+            "toID": "659311",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "851133",
+            "fromID": "659311",
+            "toID": "659318",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "851134",
+            "fromID": "659318",
+            "toID": "659316",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "851141",
+            "fromID": "659311",
+            "toID": "659325",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "851142",
+            "fromID": "659325",
+            "toID": "659320",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "851147",
+            "fromID": "659320",
+            "toID": "659331",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "851148",
+            "fromID": "659331",
+            "toID": "659327",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "851151",
+            "fromID": "659327",
+            "toID": "659336",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "851152",
+            "fromID": "659336",
+            "toID": "659332",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "659283",
+            "personID": "4315",
+            "timestamp": "2021-02-18 20:51:39",
+            "start": "2020-10-15 22:46:32",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "659287",
+            "personID": "4315",
+            "timestamp": "2021-02-18 20:51:39",
+            "start": "2020-10-15 22:46:44",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "659292",
+            "personID": "4316",
+            "timestamp": "2021-02-18 20:51:39",
+            "start": "2020-10-15 22:46:46",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "659299",
+            "personID": "4316",
+            "timestamp": "2021-02-18 20:51:39",
+            "start": "2020-10-15 22:46:49",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "659306",
+            "personID": "4315",
+            "timestamp": "2021-02-18 20:51:39",
+            "start": "2020-10-15 22:46:52",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "659311",
+            "personID": "3831",
+            "timestamp": "2021-02-18 20:51:39",
+            "start": "2020-10-15 22:46:54",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "659316",
+            "personID": "4316",
+            "timestamp": "2021-02-18 20:51:39",
+            "start": "2020-10-15 22:47:00",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "659320",
+            "personID": "4316",
+            "timestamp": "2021-02-18 20:51:39",
+            "start": "2020-10-15 22:47:00",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "659327",
+            "personID": "4316",
+            "timestamp": "2021-02-18 20:51:39",
+            "start": "2020-10-15 22:47:09",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "659332",
+            "personID": "4316",
+            "timestamp": "2021-02-18 20:51:39",
+            "start": "2020-10-15 22:47:17",
+            "end": null,
+            "source": null
+        }
+    ]
+}

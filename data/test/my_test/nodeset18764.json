@@ -1,0 +1,340 @@
+{
+    "nodes": [
+        {
+            "nodeID": "564153",
+            "text": "Daniel   : I live with -- both my parents are in that vulnerable high risk category",
+            "type": "L",
+            "timestamp": "2020-07-30 19:33:24"
+        },
+        {
+            "nodeID": "564155",
+            "text": "Daniel lives with his parents, who are in that vulnerable high risk category",
+            "type": "I",
+            "timestamp": "2020-07-30 19:33:24"
+        },
+        {
+            "nodeID": "564156",
+            "text": "Karina: Daniel   :  live with -- both my parents are in that vulnerable high risk category",
+            "type": "L",
+            "timestamp": "2020-07-30 19:33:25"
+        },
+        {
+            "nodeID": "564157",
+            "text": "Karina: Daniel   :  I have been in lockdown for over four months now",
+            "type": "L",
+            "timestamp": "2020-07-30 19:33:25"
+        },
+        {
+            "nodeID": "564158",
+            "text": "Karina: Daniel   :  because instead of following what the Government advice was I decided that it was probably safer for us to lockdown earlier,",
+            "type": "L",
+            "timestamp": "2020-07-30 19:33:26"
+        },
+        {
+            "nodeID": "564159",
+            "text": "Daniel   : I have been in lockdown for over four months now, because instead of following what the Government advice was I decided that it was probably safer for us to lockdown earlier",
+            "type": "L",
+            "timestamp": "2020-07-30 19:33:27"
+        },
+        {
+            "nodeID": "564161",
+            "text": "Daniel decided that it was probably safer for him and his parents to lockdown earlier",
+            "type": "I",
+            "timestamp": "2020-07-30 19:33:28"
+        },
+        {
+            "nodeID": "564162",
+            "text": "Karina: Daniel   : I have been in lockdown for over four months now, because instead of following what the Government advice was I decided that it was probably safer for us to lockdown earlier",
+            "type": "L",
+            "timestamp": "2020-07-30 19:33:28"
+        },
+        {
+            "nodeID": "564164",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-07-30 19:33:28",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "564166",
+            "text": "Karina: Daniel   : if you look at when we locked down compared with every other country in Europe",
+            "type": "L",
+            "timestamp": "2020-07-30 19:33:29"
+        },
+        {
+            "nodeID": "564167",
+            "text": "Europe",
+            "type": "L",
+            "timestamp": "2020-07-30 19:33:30"
+        },
+        {
+            "nodeID": "564168",
+            "text": "Daniel   :  I have been in lockdown for over four months now, because instead of following what the Government advice was",
+            "type": "L",
+            "timestamp": "2020-07-30 19:33:30"
+        },
+        {
+            "nodeID": "564170",
+            "text": "Daniel has been in lockdown for over four months now, instead of following what the Government advice was",
+            "type": "I",
+            "timestamp": "2020-07-30 19:33:31"
+        },
+        {
+            "nodeID": "564171",
+            "text": "Karina: Daniel   :  I have been in lockdown for over four months now, because instead of following what the Government advice was",
+            "type": "L",
+            "timestamp": "2020-07-30 19:33:31"
+        },
+        {
+            "nodeID": "564172",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-07-30 19:33:31",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "564175",
+            "text": "ed with",
+            "type": "L",
+            "timestamp": "2020-07-30 19:33:32"
+        },
+        {
+            "nodeID": "564176",
+            "text": "Daniel   :   if you look at when we locked down compared with every other country in Europe, including Germany, we came out later.",
+            "type": "L",
+            "timestamp": "2020-07-30 19:33:33"
+        },
+        {
+            "nodeID": "564178",
+            "text": "when we locked down compared with every other country in Europe, including Germany, we came out later",
+            "type": "I",
+            "timestamp": "2020-07-30 19:33:33"
+        },
+        {
+            "nodeID": "564179",
+            "text": "Karina: Daniel   :  ",
+            "type": "L",
+            "timestamp": "2020-07-30 19:33:33"
+        },
+        {
+            "nodeID": "564181",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-07-30 19:33:33",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "564183",
+            "text": "Daniel   : ask the Government if they think that the advice has either been clear or sensible",
+            "type": "L",
+            "timestamp": "2020-07-30 19:33:34"
+        },
+        {
+            "nodeID": "564185",
+            "text": "does the government think or not that the advice of the lockdown has either been clear or sensible",
+            "type": "I",
+            "timestamp": "2020-07-30 19:33:34"
+        },
+        {
+            "nodeID": "564186",
+            "text": "Karina: Daniel   : ask the Government if they think that the advice has either been clear or sensible",
+            "type": "L",
+            "timestamp": "2020-07-30 19:33:35"
+        },
+        {
+            "nodeID": "564187",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-07-30 19:33:35",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "564190",
+            "text": "Daniel   :  Because, the number of people I know that have died from the virus, it's over ten now",
+            "type": "L",
+            "timestamp": "2020-07-30 19:33:35"
+        },
+        {
+            "nodeID": "564192",
+            "text": "the number of people Daniel knows that have died from the virus, is over ten now",
+            "type": "I",
+            "timestamp": "2020-07-30 19:33:36"
+        },
+        {
+            "nodeID": "564193",
+            "text": "Karina: Daniel   :  Because, the number of people I know that have died from the virus, it's over ten now",
+            "type": "L",
+            "timestamp": "2020-07-30 19:33:36"
+        },
+        {
+            "nodeID": "564194",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-07-30 19:33:36",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "564197",
+            "text": "Daniel   :  I have been able to put my full faith in the Government in looking after my parents",
+            "type": "L",
+            "timestamp": "2020-07-30 19:33:37"
+        },
+        {
+            "nodeID": "564199",
+            "text": "Daniel doesn't have been able to put his full faith in the Government in looking after his parents",
+            "type": "I",
+            "timestamp": "2020-07-30 19:33:37"
+        },
+        {
+            "nodeID": "564200",
+            "text": "Karina: Daniel   :  I have been able to put my full faith in the Government in looking after my parents",
+            "type": "L",
+            "timestamp": "2020-07-30 19:33:38"
+        },
+        {
+            "nodeID": "564201",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-07-30 19:33:38",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "733383",
+            "fromID": "564153",
+            "toID": "564164",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "733384",
+            "fromID": "564164",
+            "toID": "564159",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "733389",
+            "fromID": "564159",
+            "toID": "564172",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "733390",
+            "fromID": "564172",
+            "toID": "564168",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "733399",
+            "fromID": "564168",
+            "toID": "564181",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "733400",
+            "fromID": "564181",
+            "toID": "564176",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "733405",
+            "fromID": "564176",
+            "toID": "564187",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "733406",
+            "fromID": "564187",
+            "toID": "564183",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "733413",
+            "fromID": "564183",
+            "toID": "564194",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "733414",
+            "fromID": "564194",
+            "toID": "564190",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "733421",
+            "fromID": "564190",
+            "toID": "564201",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "733422",
+            "fromID": "564201",
+            "toID": "564197",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "564153",
+            "personID": "3967",
+            "timestamp": "2020-07-30 19:33:38",
+            "start": "2020-06-25 23:03:09",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "564159",
+            "personID": "3967",
+            "timestamp": "2020-07-30 19:33:38",
+            "start": "2020-06-25 23:03:16",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "564168",
+            "personID": "3967",
+            "timestamp": "2020-07-30 19:33:38",
+            "start": "2020-06-25 23:03:16",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "564176",
+            "personID": "3978",
+            "timestamp": "2020-07-30 19:33:38",
+            "start": "2020-06-25 23:03:46",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "564183",
+            "personID": "3978",
+            "timestamp": "2020-07-30 19:33:38",
+            "start": "2020-06-25 23:03:48",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "564190",
+            "personID": "3978",
+            "timestamp": "2020-07-30 19:33:38",
+            "start": "2020-06-25 23:03:57",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "564197",
+            "personID": "3978",
+            "timestamp": "2020-07-30 19:33:38",
+            "start": "2020-06-25 23:04:08",
+            "end": null,
+            "source": null
+        }
+    ]
+}

@@ -1,0 +1,830 @@
+{
+    "nodes": [
+        {
+            "nodeID": "723113",
+            "text": "Sarah Jones : The problem is twofold",
+            "type": "L",
+            "timestamp": "2021-06-24 19:30:42"
+        },
+        {
+            "nodeID": "723115",
+            "text": "the problem is twofold",
+            "type": "I",
+            "timestamp": "2021-06-24 19:30:43"
+        },
+        {
+            "nodeID": "723116",
+            "text": "Abbie: Sarah Jones : The problem is twofold",
+            "type": "L",
+            "timestamp": "2021-06-24 19:30:44"
+        },
+        {
+            "nodeID": "723117",
+            "text": "Sarah Jones : There's a shortfall in care workers at the moment",
+            "type": "L",
+            "timestamp": "2021-06-24 19:30:45"
+        },
+        {
+            "nodeID": "723119",
+            "text": "there's a shortfall in care workers at the moment",
+            "type": "I",
+            "timestamp": "2021-06-24 19:30:45"
+        },
+        {
+            "nodeID": "723120",
+            "text": "Abbie: Sarah Jones : There's a shortfall in care workers at the moment",
+            "type": "L",
+            "timestamp": "2021-06-24 19:30:46"
+        },
+        {
+            "nodeID": "723121",
+            "text": "Abbie: Sarah Jones : we risk putting vulnerable people in a worse situation if they don't have care from people who are leaving the system",
+            "type": "L",
+            "timestamp": "2021-06-24 19:30:47"
+        },
+        {
+            "nodeID": "723122",
+            "text": "Sarah Jones : we risk putting vulnerable people in a worse situation",
+            "type": "L",
+            "timestamp": "2021-06-24 19:30:47"
+        },
+        {
+            "nodeID": "723124",
+            "text": "we risk putting vulnerable people in a worse situation",
+            "type": "I",
+            "timestamp": "2021-06-24 19:30:48"
+        },
+        {
+            "nodeID": "723125",
+            "text": "Abbie: Sarah Jones : we risk putting vulnerable people in a worse situation",
+            "type": "L",
+            "timestamp": "2021-06-24 19:30:49"
+        },
+        {
+            "nodeID": "723126",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 19:30:49",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "723127",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 19:30:49",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "723128",
+            "text": "Sarah Jones : they don't have care from people who are leaving the system",
+            "type": "L",
+            "timestamp": "2021-06-24 19:30:50"
+        },
+        {
+            "nodeID": "723130",
+            "text": "vulnerable people don't have care from people who are leaving the system",
+            "type": "I",
+            "timestamp": "2021-06-24 19:30:51"
+        },
+        {
+            "nodeID": "723131",
+            "text": "Abbie: Sarah Jones : they don't have care from people who are leaving the system",
+            "type": "L",
+            "timestamp": "2021-06-24 19:30:52"
+        },
+        {
+            "nodeID": "723132",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 19:30:52",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "723137",
+            "text": "Abbie: Sarah Jones : The other problem is those who are vaccine-hesitant have strong views that they feel strongly, are not necessarily going to be affected by the government telling them they have to have a vaccine",
+            "type": "L",
+            "timestamp": "2021-06-24 19:30:52"
+        },
+        {
+            "nodeID": "723138",
+            "text": "Sarah Jones : The other problem is those who are vaccine-hesitant have strong views that they feel strongly",
+            "type": "L",
+            "timestamp": "2021-06-24 19:30:53"
+        },
+        {
+            "nodeID": "723140",
+            "text": "the other problem is those who are vaccine-hesitant have strong views that they feel strongly",
+            "type": "I",
+            "timestamp": "2021-06-24 19:30:53"
+        },
+        {
+            "nodeID": "723141",
+            "text": "Abbie: Sarah Jones : The other problem is those who are vaccine-hesitant have strong views that they feel strongly",
+            "type": "L",
+            "timestamp": "2021-06-24 19:30:54"
+        },
+        {
+            "nodeID": "723142",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 19:30:54",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "723143",
+            "text": "Sarah Jones : are not necessarily going to be affected by the government telling them they have to have a vaccine",
+            "type": "L",
+            "timestamp": "2021-06-24 19:30:55"
+        },
+        {
+            "nodeID": "723145",
+            "text": "those who are vaccine-hesitant are not necessarily going to be affected by the government telling them they have to have a vaccine",
+            "type": "I",
+            "timestamp": "2021-06-24 19:30:56"
+        },
+        {
+            "nodeID": "723146",
+            "text": "Abbie: Sarah Jones : are not necessarily going to be affected by the government telling them they have to have a vaccine",
+            "type": "L",
+            "timestamp": "2021-06-24 19:30:57"
+        },
+        {
+            "nodeID": "723147",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 19:30:57",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "723151",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 19:30:57",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "723153",
+            "text": "Sarah Jones : I'm not convinced and the Labour Party is not convinced that this will work",
+            "type": "L",
+            "timestamp": "2021-06-24 19:30:58"
+        },
+        {
+            "nodeID": "723155",
+            "text": "Sarah Jones is not convinced and the Labour Party is not convinced that this will work",
+            "type": "I",
+            "timestamp": "2021-06-24 19:31:00"
+        },
+        {
+            "nodeID": "723156",
+            "text": "Abbie: Sarah Jones : I'm not convinced and the Labour Party is not convinced that this will work",
+            "type": "L",
+            "timestamp": "2021-06-24 19:31:01"
+        },
+        {
+            "nodeID": "723157",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 19:31:01",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "723158",
+            "text": "Sarah Jones : We need to look at places like Wales where they have a higher level of vaccination amongst workers",
+            "type": "L",
+            "timestamp": "2021-06-24 19:31:03"
+        },
+        {
+            "nodeID": "723160",
+            "text": "we need to look at places like Wales where they have a higher level of vaccination amongst workers",
+            "type": "I",
+            "timestamp": "2021-06-24 19:31:04"
+        },
+        {
+            "nodeID": "723161",
+            "text": "Abbie: Sarah Jones : We need to look at places like Wales where they have a higher level of vaccination amongst workers",
+            "type": "L",
+            "timestamp": "2021-06-24 19:31:06"
+        },
+        {
+            "nodeID": "723162",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 19:31:06",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "723165",
+            "text": "Sarah Jones : where it is about education",
+            "type": "L",
+            "timestamp": "2021-06-24 19:31:07"
+        },
+        {
+            "nodeID": "723167",
+            "text": "we need to look at places like Wales where it is about education",
+            "type": "I",
+            "timestamp": "2021-06-24 19:31:08"
+        },
+        {
+            "nodeID": "723168",
+            "text": "Abbie: Sarah Jones : where it is about education",
+            "type": "L",
+            "timestamp": "2021-06-24 19:31:09"
+        },
+        {
+            "nodeID": "723169",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 19:31:09",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "723172",
+            "text": "Sarah Jones : it is about making sure people can take time off work if they need to",
+            "type": "L",
+            "timestamp": "2021-06-24 19:31:11"
+        },
+        {
+            "nodeID": "723174",
+            "text": "it is about making sure people can take time off work if they need to",
+            "type": "I",
+            "timestamp": "2021-06-24 19:31:13"
+        },
+        {
+            "nodeID": "723175",
+            "text": "Abbie: Sarah Jones : it is about making sure people can take time off work if they need to",
+            "type": "L",
+            "timestamp": "2021-06-24 19:31:14"
+        },
+        {
+            "nodeID": "723176",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 19:31:14",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "723177",
+            "text": "Sarah Jones : that they are confident that they can take time off work if they are poorly after they had the vaccine",
+            "type": "L",
+            "timestamp": "2021-06-24 19:31:15"
+        },
+        {
+            "nodeID": "723179",
+            "text": "it is about making sure that people are confident that they can take time off work if they are poorly after they had the vaccine",
+            "type": "I",
+            "timestamp": "2021-06-24 19:31:17"
+        },
+        {
+            "nodeID": "723180",
+            "text": "Abbie: Sarah Jones : that they are confident that they can take time off work if they are poorly after they had the vaccine",
+            "type": "L",
+            "timestamp": "2021-06-24 19:31:18"
+        },
+        {
+            "nodeID": "723181",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 19:31:18",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "723184",
+            "text": "Sarah Jones : it is about informing and enabling people to get the outcome",
+            "type": "L",
+            "timestamp": "2021-06-24 19:31:19"
+        },
+        {
+            "nodeID": "723186",
+            "text": "it is about informing and enabling people to get the outcome",
+            "type": "I",
+            "timestamp": "2021-06-24 19:31:20"
+        },
+        {
+            "nodeID": "723187",
+            "text": "Abbie: Sarah Jones : it is about informing and enabling people to get the outcome",
+            "type": "L",
+            "timestamp": "2021-06-24 19:31:21"
+        },
+        {
+            "nodeID": "723188",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 19:31:21",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "723191",
+            "text": "Sarah Jones : the outcome must be that everybody gets the vaccination",
+            "type": "L",
+            "timestamp": "2021-06-24 19:31:22"
+        },
+        {
+            "nodeID": "723193",
+            "text": "the outcome must be that everybody gets the vaccination",
+            "type": "I",
+            "timestamp": "2021-06-24 19:31:24"
+        },
+        {
+            "nodeID": "723194",
+            "text": "Abbie: Sarah Jones : the outcome must be that everybody gets the vaccination",
+            "type": "L",
+            "timestamp": "2021-06-24 19:31:25"
+        },
+        {
+            "nodeID": "723195",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 19:31:25",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "723198",
+            "text": "Sarah Jones : That's what we're aiming for",
+            "type": "L",
+            "timestamp": "2021-06-24 19:31:27"
+        },
+        {
+            "nodeID": "723200",
+            "text": "everybody getting the vaccination is what we're aiming for",
+            "type": "I",
+            "timestamp": "2021-06-24 19:31:28"
+        },
+        {
+            "nodeID": "723201",
+            "text": "Abbie: Sarah Jones : That's what we're aiming for",
+            "type": "L",
+            "timestamp": "2021-06-24 19:31:30"
+        },
+        {
+            "nodeID": "723202",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 19:31:30",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "723205",
+            "text": "Sarah Jones : I'm not sure this is the way to do it",
+            "type": "L",
+            "timestamp": "2021-06-24 19:31:31"
+        },
+        {
+            "nodeID": "723208",
+            "text": "Sarah Jones is not sure this is the way to do it",
+            "type": "I",
+            "timestamp": "2021-06-24 19:31:34"
+        },
+        {
+            "nodeID": "723209",
+            "text": "Abbie: Sarah Jones : I'm not sure this is the way to do it",
+            "type": "L",
+            "timestamp": "2021-06-24 19:31:36"
+        },
+        {
+            "nodeID": "723210",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 19:31:36",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "928776",
+            "fromID": "723113",
+            "toID": "723126",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928777",
+            "fromID": "723126",
+            "toID": "723117",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928778",
+            "fromID": "723117",
+            "toID": "723127",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928779",
+            "fromID": "723127",
+            "toID": "723122",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928782",
+            "fromID": "723122",
+            "toID": "723132",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928783",
+            "fromID": "723132",
+            "toID": "723128",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928794",
+            "fromID": "723128",
+            "toID": "723142",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928795",
+            "fromID": "723142",
+            "toID": "723138",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928798",
+            "fromID": "723138",
+            "toID": "723147",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928799",
+            "fromID": "723147",
+            "toID": "723143",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928807",
+            "fromID": "723113",
+            "toID": "723151",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928808",
+            "fromID": "723151",
+            "toID": "723138",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928813",
+            "fromID": "723143",
+            "toID": "723157",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928814",
+            "fromID": "723157",
+            "toID": "723153",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928817",
+            "fromID": "723153",
+            "toID": "723162",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928818",
+            "fromID": "723162",
+            "toID": "723158",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928825",
+            "fromID": "723158",
+            "toID": "723169",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928826",
+            "fromID": "723169",
+            "toID": "723165",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928833",
+            "fromID": "723165",
+            "toID": "723176",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928834",
+            "fromID": "723176",
+            "toID": "723172",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928837",
+            "fromID": "723172",
+            "toID": "723181",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928838",
+            "fromID": "723181",
+            "toID": "723177",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928845",
+            "fromID": "723177",
+            "toID": "723188",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928846",
+            "fromID": "723188",
+            "toID": "723184",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928853",
+            "fromID": "723184",
+            "toID": "723195",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928854",
+            "fromID": "723195",
+            "toID": "723191",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928861",
+            "fromID": "723191",
+            "toID": "723202",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928862",
+            "fromID": "723202",
+            "toID": "723198",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928869",
+            "fromID": "723198",
+            "toID": "723210",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "928870",
+            "fromID": "723210",
+            "toID": "723205",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "723113",
+            "personID": "4150",
+            "timestamp": "2021-06-24 19:31:36",
+            "start": "2020-10-15 22:59:02",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723117",
+            "personID": "4150",
+            "timestamp": "2021-06-24 19:31:36",
+            "start": "2020-10-15 22:59:04",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723122",
+            "personID": "4150",
+            "timestamp": "2021-06-24 19:31:36",
+            "start": "2020-10-15 22:59:10",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723128",
+            "personID": "4150",
+            "timestamp": "2021-06-24 19:31:36",
+            "start": "2020-10-15 22:59:15",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723138",
+            "personID": "4150",
+            "timestamp": "2021-06-24 19:31:36",
+            "start": "2020-10-15 22:59:21",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723143",
+            "personID": "4150",
+            "timestamp": "2021-06-24 19:31:36",
+            "start": "2020-10-15 22:59:31",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723153",
+            "personID": "4150",
+            "timestamp": "2021-06-24 19:31:36",
+            "start": "2020-10-15 22:59:41",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723158",
+            "personID": "4150",
+            "timestamp": "2021-06-24 19:31:36",
+            "start": "2020-10-15 22:59:49",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723165",
+            "personID": "4150",
+            "timestamp": "2021-06-24 19:31:36",
+            "start": "2020-10-15 22:59:59",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723172",
+            "personID": "4150",
+            "timestamp": "2021-06-24 19:31:36",
+            "start": "2020-10-15 23:00:02",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723177",
+            "personID": "4150",
+            "timestamp": "2021-06-24 19:31:36",
+            "start": "2020-10-15 23:00:09",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723184",
+            "personID": "4150",
+            "timestamp": "2021-06-24 19:31:36",
+            "start": "2020-10-15 23:00:20",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723191",
+            "personID": "4150",
+            "timestamp": "2021-06-24 19:31:36",
+            "start": "2020-10-15 23:00:26",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723198",
+            "personID": "4150",
+            "timestamp": "2021-06-24 19:31:36",
+            "start": "2020-10-15 23:00:32",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723205",
+            "personID": "4150",
+            "timestamp": "2021-06-24 19:31:36",
+            "start": "2020-10-15 23:00:35",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723113",
+            "personID": "4150",
+            "timestamp": "2021-06-24 19:32:32",
+            "start": "2020-10-15 22:59:02",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723117",
+            "personID": "4150",
+            "timestamp": "2021-06-24 19:32:32",
+            "start": "2020-10-15 22:59:04",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723122",
+            "personID": "4150",
+            "timestamp": "2021-06-24 19:32:32",
+            "start": "2020-10-15 22:59:10",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723128",
+            "personID": "4150",
+            "timestamp": "2021-06-24 19:32:32",
+            "start": "2020-10-15 22:59:15",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723138",
+            "personID": "4150",
+            "timestamp": "2021-06-24 19:32:32",
+            "start": "2020-10-15 22:59:21",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723143",
+            "personID": "4150",
+            "timestamp": "2021-06-24 19:32:32",
+            "start": "2020-10-15 22:59:31",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723153",
+            "personID": "4150",
+            "timestamp": "2021-06-24 19:32:32",
+            "start": "2020-10-15 22:59:41",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723158",
+            "personID": "4150",
+            "timestamp": "2021-06-24 19:32:32",
+            "start": "2020-10-15 22:59:49",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723165",
+            "personID": "4150",
+            "timestamp": "2021-06-24 19:32:32",
+            "start": "2020-10-15 22:59:59",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723172",
+            "personID": "4150",
+            "timestamp": "2021-06-24 19:32:32",
+            "start": "2020-10-15 23:00:02",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723177",
+            "personID": "4150",
+            "timestamp": "2021-06-24 19:32:32",
+            "start": "2020-10-15 23:00:09",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723184",
+            "personID": "4150",
+            "timestamp": "2021-06-24 19:32:32",
+            "start": "2020-10-15 23:00:20",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723191",
+            "personID": "4150",
+            "timestamp": "2021-06-24 19:32:32",
+            "start": "2020-10-15 23:00:26",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723198",
+            "personID": "4150",
+            "timestamp": "2021-06-24 19:32:32",
+            "start": "2020-10-15 23:00:32",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "723205",
+            "personID": "4150",
+            "timestamp": "2021-06-24 19:32:32",
+            "start": "2020-10-15 23:00:35",
+            "end": null,
+            "source": null
+        }
+    ]
+}

@@ -1,0 +1,362 @@
+{
+    "nodes": [
+        {
+            "nodeID": "538889",
+            "text": "Alison Goldie : given the success of track and trace we rely significantly on the public's trust and the Government and compliance with the rules",
+            "type": "L",
+            "timestamp": "2020-06-04 19:04:37"
+        },
+        {
+            "nodeID": "538893",
+            "text": "given the success of track and trace we rely significantly on the public's trust and the Government and compliance with the rules",
+            "type": "I",
+            "timestamp": "2020-06-04 19:04:38"
+        },
+        {
+            "nodeID": "538895",
+            "text": "Nicole: Alison Goldie : given the success of track and trace we rely significantly on the public's trust and the Government and compliance with the rules",
+            "type": "L",
+            "timestamp": "2020-06-04 19:04:38"
+        },
+        {
+            "nodeID": "538896",
+            "text": "Alison Goldie : Does the Panel feel this has been undermined in any way by the events of this last week",
+            "type": "L",
+            "timestamp": "2020-06-04 19:04:38"
+        },
+        {
+            "nodeID": "538900",
+            "text": "the Panel does or does not feel track and trace has been undermined in any way by the events of this last week",
+            "type": "I",
+            "timestamp": "2020-06-04 19:04:38"
+        },
+        {
+            "nodeID": "538902",
+            "text": "Nicole: Alison Goldie : Does the Panel feel this has been undermined in any way by the events of this last week",
+            "type": "L",
+            "timestamp": "2020-06-04 19:04:38"
+        },
+        {
+            "nodeID": "538904",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-06-04 19:04:38",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "538906",
+            "text": "Fiona Bruce : It feels like we have done nothing else but talk about the events of the last week and of course Dominic Cummings",
+            "type": "L",
+            "timestamp": "2020-06-04 19:04:39"
+        },
+        {
+            "nodeID": "538910",
+            "text": "It feels like we have done nothing else but talk about the events of the last week and of course Dominic Cummings",
+            "type": "I",
+            "timestamp": "2020-06-04 19:04:39"
+        },
+        {
+            "nodeID": "538912",
+            "text": "Nicole: Fiona Bruce : It feels like we have done nothing else but talk about the events of the last week and of course Dominic Cummings",
+            "type": "L",
+            "timestamp": "2020-06-04 19:04:39"
+        },
+        {
+            "nodeID": "538914",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-06-04 19:04:39",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "538920",
+            "text": "Ian Murray : it gets to the nub of how we get out of pandemic",
+            "type": "L",
+            "timestamp": "2020-06-04 19:04:40"
+        },
+        {
+            "nodeID": "538924",
+            "text": "track and trace gets to the nub of how we get out of pandemic",
+            "type": "I",
+            "timestamp": "2020-06-04 19:04:40"
+        },
+        {
+            "nodeID": "538926",
+            "text": "Nicole: Ian Murray : it gets to the nub of how we get out of pandemic",
+            "type": "L",
+            "timestamp": "2020-06-04 19:04:40"
+        },
+        {
+            "nodeID": "538927",
+            "text": "The way we get out of that is test, track, trace and isolate",
+            "type": "L",
+            "timestamp": "2020-06-04 19:04:40"
+        },
+        {
+            "nodeID": "538929",
+            "text": "Ian Murray : The way we get out of that is test, track, trace and isolate",
+            "type": "L",
+            "timestamp": "2020-06-04 19:04:40"
+        },
+        {
+            "nodeID": "538933",
+            "text": "The way we get out of pandemic is test, track, trace and isolate",
+            "type": "I",
+            "timestamp": "2020-06-04 19:04:41"
+        },
+        {
+            "nodeID": "538935",
+            "text": "Nicole: Ian Murray : The way we get out of that is test, track, trace and isolate",
+            "type": "L",
+            "timestamp": "2020-06-04 19:04:41"
+        },
+        {
+            "nodeID": "538937",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-06-04 19:04:41",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "538944",
+            "text": "Ian Murray : That's the only way without a vaccine we were going to be able to go forward",
+            "type": "L",
+            "timestamp": "2020-06-04 19:04:41"
+        },
+        {
+            "nodeID": "538947",
+            "text": "test, track, trace and isolate is the only way without a vaccine we were going to be able to go forward",
+            "type": "I",
+            "timestamp": "2020-06-04 19:04:42"
+        },
+        {
+            "nodeID": "538949",
+            "text": "Nicole: Ian Murray : That's the only way without a vaccine we were going to be able to go forward",
+            "type": "L",
+            "timestamp": "2020-06-04 19:04:42"
+        },
+        {
+            "nodeID": "538951",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-06-04 19:04:42",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "538956",
+            "text": "Ian Murray : With the saga we have had last week, the Prime Minister and Government, his integrity is in tatters",
+            "type": "L",
+            "timestamp": "2020-06-04 19:04:42"
+        },
+        {
+            "nodeID": "538958",
+            "text": "With the saga we have had last week, the Prime Minister and Government, his integrity is in tatters",
+            "type": "I",
+            "timestamp": "2020-06-04 19:04:43"
+        },
+        {
+            "nodeID": "538959",
+            "text": "Nicole: Ian Murray : With the saga we have had last week, the Prime Minister and Government, his integrity is in tatters",
+            "type": "L",
+            "timestamp": "2020-06-04 19:04:43"
+        },
+        {
+            "nodeID": "538960",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-06-04 19:04:43",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "538961",
+            "text": "Ian Murray : We have seen it is one rule for the Prime Minister and his team and one rule for the public",
+            "type": "L",
+            "timestamp": "2020-06-04 19:04:43"
+        },
+        {
+            "nodeID": "538963",
+            "text": "We have seen it is one rule for the Prime Minister and his team and one rule for the public",
+            "type": "I",
+            "timestamp": "2020-06-04 19:04:44"
+        },
+        {
+            "nodeID": "538964",
+            "text": "Nicole: Ian Murray : We have seen it is one rule for the Prime Minister and his team and one rule for the public",
+            "type": "L",
+            "timestamp": "2020-06-04 19:04:44"
+        },
+        {
+            "nodeID": "538965",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-06-04 19:04:44",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "538968",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-06-04 19:04:44",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "705033",
+            "fromID": "538889",
+            "toID": "538904",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705034",
+            "fromID": "538904",
+            "toID": "538896",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705037",
+            "fromID": "538896",
+            "toID": "538914",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705038",
+            "fromID": "538914",
+            "toID": "538906",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705047",
+            "fromID": "538937",
+            "toID": "538929",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705048",
+            "fromID": "538920",
+            "toID": "538937",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705055",
+            "fromID": "538929",
+            "toID": "538951",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705056",
+            "fromID": "538951",
+            "toID": "538944",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705063",
+            "fromID": "538944",
+            "toID": "538960",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705064",
+            "fromID": "538960",
+            "toID": "538956",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705067",
+            "fromID": "538956",
+            "toID": "538965",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705068",
+            "fromID": "538965",
+            "toID": "538961",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705073",
+            "fromID": "538896",
+            "toID": "538968",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "705074",
+            "fromID": "538968",
+            "toID": "538920",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "538889",
+            "personID": "3881",
+            "timestamp": "2020-06-04 19:04:45",
+            "start": "2020-05-28 22:51:32",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "538896",
+            "personID": "3881",
+            "timestamp": "2020-06-04 19:04:45",
+            "start": "2020-05-28 22:51:43",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "538906",
+            "personID": "3812",
+            "timestamp": "2020-06-04 19:04:45",
+            "start": "2020-05-28 22:51:48",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "538920",
+            "personID": "3831",
+            "timestamp": "2020-06-04 19:04:45",
+            "start": "2020-05-28 22:52:01",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "538929",
+            "personID": "3831",
+            "timestamp": "2020-06-04 19:04:45",
+            "start": "2020-05-28 22:52:06",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "538944",
+            "personID": "3831",
+            "timestamp": "2020-06-04 19:04:45",
+            "start": "2020-05-28 22:52:12",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "538956",
+            "personID": "3831",
+            "timestamp": "2020-06-04 19:04:45",
+            "start": "2020-05-28 22:52:20",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "538961",
+            "personID": "3831",
+            "timestamp": "2020-06-04 19:04:45",
+            "start": "2020-05-28 22:52:30",
+            "end": null,
+            "source": null
+        }
+    ]
+}

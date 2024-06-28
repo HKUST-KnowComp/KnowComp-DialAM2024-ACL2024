@@ -1,0 +1,744 @@
+{
+    "nodes": [
+        {
+            "nodeID": "776004",
+            "text": "Emily Thornberry : in order to assist whether COP is going to be a success",
+            "type": "L",
+            "timestamp": "2021-11-11 20:58:23"
+        },
+        {
+            "nodeID": "776006",
+            "text": "Emily Thornberry : how are we going to do that",
+            "type": "L",
+            "timestamp": "2021-11-11 20:58:23"
+        },
+        {
+            "nodeID": "796636",
+            "text": "in order to assist whether COP is going to be a success",
+            "type": "I",
+            "timestamp": "2022-01-06 07:19:35"
+        },
+        {
+            "nodeID": "796637",
+            "text": "Dominika: Emily Thornberry : in order to assist whether COP is going to be a success",
+            "type": "L",
+            "timestamp": "2022-01-06 07:19:35"
+        },
+        {
+            "nodeID": "796638",
+            "text": "Emily Thornberry : we need to look at other commitments that the countries are making enough and will they stick to them",
+            "type": "L",
+            "timestamp": "2022-01-06 07:19:36"
+        },
+        {
+            "nodeID": "796640",
+            "text": "we need to look at other commitments that the countries are making enough and will they stick to them",
+            "type": "I",
+            "timestamp": "2022-01-06 07:19:36"
+        },
+        {
+            "nodeID": "796641",
+            "text": "Dominika: Emily Thornberry : we need to look at other commitments that the countries are making enough and will they stick to them",
+            "type": "L",
+            "timestamp": "2022-01-06 07:19:37"
+        },
+        {
+            "nodeID": "796645",
+            "text": "Emily Thornberry : I agree with you",
+            "type": "L",
+            "timestamp": "2022-01-06 07:19:38"
+        },
+        {
+            "nodeID": "796647",
+            "text": "Emily Thornberry agrees with Paul Scully",
+            "type": "I",
+            "timestamp": "2022-01-06 07:19:38"
+        },
+        {
+            "nodeID": "796648",
+            "text": "Dominika: Emily Thornberry : I agree with you",
+            "type": "L",
+            "timestamp": "2022-01-06 07:19:39"
+        },
+        {
+            "nodeID": "796650",
+            "text": "Emily Thornberry : I went to the Copenhagen summit",
+            "type": "L",
+            "timestamp": "2022-01-06 07:19:39"
+        },
+        {
+            "nodeID": "796652",
+            "text": "Emily Thornberry went to the Copenhagen summit",
+            "type": "I",
+            "timestamp": "2022-01-06 07:19:40"
+        },
+        {
+            "nodeID": "796653",
+            "text": "Dominika: Emily Thornberry : I went to the Copenhagen summit",
+            "type": "L",
+            "timestamp": "2022-01-06 07:19:40"
+        },
+        {
+            "nodeID": "796655",
+            "text": "Emily Thornberry : There was £100 billion supposed to be committed by the developed world to the developing world to help them develop in a green way and be able to protect themselves against the effects of climate change",
+            "type": "L",
+            "timestamp": "2022-01-06 07:19:41"
+        },
+        {
+            "nodeID": "796657",
+            "text": "there was £100 billion supposed to be committed by the developed world to the developing world to help them develop in a green way and be able to protect themselves against the effects of climate change",
+            "type": "I",
+            "timestamp": "2022-01-06 07:19:41"
+        },
+        {
+            "nodeID": "796658",
+            "text": "Dominika: Emily Thornberry : There was £100 billion supposed to be committed by the developed world to the developing world to help them develop in a green way and be able to protect themselves against the effects of climate change",
+            "type": "L",
+            "timestamp": "2022-01-06 07:19:42"
+        },
+        {
+            "nodeID": "796659",
+            "text": "Emily Thornberry : They haven't seen that money",
+            "type": "L",
+            "timestamp": "2022-01-06 07:19:42"
+        },
+        {
+            "nodeID": "796661",
+            "text": "the developing world haven't seen 100 billion pounds for them developing in a green way",
+            "type": "I",
+            "timestamp": "2022-01-06 07:19:43"
+        },
+        {
+            "nodeID": "796662",
+            "text": "Dominika: Emily Thornberry : They haven't seen that money",
+            "type": "L",
+            "timestamp": "2022-01-06 07:19:43"
+        },
+        {
+            "nodeID": "796663",
+            "text": "Emily Thornberry : I worry there are countries going we'll be zero by 2070",
+            "type": "L",
+            "timestamp": "2022-01-06 07:19:44"
+        },
+        {
+            "nodeID": "796665",
+            "text": "Emily Thornberry worries there are countries going we'll be zero by 2070",
+            "type": "I",
+            "timestamp": "2022-01-06 07:19:44"
+        },
+        {
+            "nodeID": "796666",
+            "text": "Dominika: Emily Thornberry : I worry there are countries going we'll be zero by 2070",
+            "type": "L",
+            "timestamp": "2022-01-06 07:19:45"
+        },
+        {
+            "nodeID": "796670",
+            "text": "Caroline Lucas : There isn't a plan -- a proper plan as to how they are going to get there",
+            "type": "L",
+            "timestamp": "2022-01-06 07:19:45"
+        },
+        {
+            "nodeID": "796672",
+            "text": "there isn't a plan -- a proper plan as to how they are going to get to net zero",
+            "type": "I",
+            "timestamp": "2022-01-06 07:19:46"
+        },
+        {
+            "nodeID": "796673",
+            "text": "Dominika: Caroline Lucas : There isn't a plan -- a proper plan as to how they are going to get there",
+            "type": "L",
+            "timestamp": "2022-01-06 07:19:46"
+        },
+        {
+            "nodeID": "796675",
+            "text": "Emily Thornberry :  it is great now people are starting to say we want to get to net zero",
+            "type": "L",
+            "timestamp": "2022-01-06 07:19:47"
+        },
+        {
+            "nodeID": "796677",
+            "text": "it is great now people are starting to say we want to get to net zero",
+            "type": "I",
+            "timestamp": "2022-01-06 07:19:47"
+        },
+        {
+            "nodeID": "796678",
+            "text": "Dominika: Emily Thornberry :  it is great now people are starting to say we want to get to net zero",
+            "type": "L",
+            "timestamp": "2022-01-06 07:19:48"
+        },
+        {
+            "nodeID": "796679",
+            "text": "Emily Thornberry : That's different to what they said before",
+            "type": "L",
+            "timestamp": "2022-01-06 07:19:49"
+        },
+        {
+            "nodeID": "796681",
+            "text": "people saying they want to get to net zero is different to what they said before",
+            "type": "I",
+            "timestamp": "2022-01-06 07:19:49"
+        },
+        {
+            "nodeID": "796682",
+            "text": "Dominika: Emily Thornberry : That's different to what they said before",
+            "type": "L",
+            "timestamp": "2022-01-06 07:19:50"
+        },
+        {
+            "nodeID": "796687",
+            "text": "Emily Thornberry : They were saying before they didn't need to do it",
+            "type": "L",
+            "timestamp": "2022-01-06 07:19:50"
+        },
+        {
+            "nodeID": "796689",
+            "text": "people were saying before they didn't need to get to zero net",
+            "type": "I",
+            "timestamp": "2022-01-06 07:19:51"
+        },
+        {
+            "nodeID": "796690",
+            "text": "Dominika: Emily Thornberry : They were saying before they didn't need to do it",
+            "type": "L",
+            "timestamp": "2022-01-06 07:19:51"
+        },
+        {
+            "nodeID": "796694",
+            "text": "Emily Thornberry : we need a proper plan showing how we're going to get there",
+            "type": "L",
+            "timestamp": "2022-01-06 07:19:52"
+        },
+        {
+            "nodeID": "796696",
+            "text": "we need a proper plan showing how we're going to get to net zero",
+            "type": "I",
+            "timestamp": "2022-01-06 07:19:52"
+        },
+        {
+            "nodeID": "796697",
+            "text": "Dominika: Emily Thornberry : we need a proper plan showing how we're going to get there",
+            "type": "L",
+            "timestamp": "2022-01-06 07:19:53"
+        },
+        {
+            "nodeID": "796702",
+            "text": "Emily Thornberry : how much carbon are they going to produce in the meantime",
+            "type": "L",
+            "timestamp": "2022-01-06 07:19:53"
+        },
+        {
+            "nodeID": "796704",
+            "text": "we need a plan showing how much carbon are they going to produce in the meantime",
+            "type": "I",
+            "timestamp": "2022-01-06 07:19:54"
+        },
+        {
+            "nodeID": "796705",
+            "text": "Dominika: Emily Thornberry : how much carbon are they going to produce in the meantime",
+            "type": "L",
+            "timestamp": "2022-01-06 07:19:54"
+        },
+        {
+            "nodeID": "796707",
+            "text": "Emily Thornberry : in order to stick to make sure our planet doesn't heat up more than 1.5 degrees",
+            "type": "L",
+            "timestamp": "2022-01-06 07:19:55"
+        },
+        {
+            "nodeID": "796709",
+            "text": "in order to stick to make sure our planet doesn't heat up more than 1.5 degrees",
+            "type": "I",
+            "timestamp": "2022-01-06 07:19:55"
+        },
+        {
+            "nodeID": "796710",
+            "text": "Dominika: Emily Thornberry : in order to stick to make sure our planet doesn't heat up more than 1.5 degrees",
+            "type": "L",
+            "timestamp": "2022-01-06 07:19:56"
+        },
+        {
+            "nodeID": "796711",
+            "text": "Emily Thornberry : we need to half the amount of carbon we are producing by the end of this decade",
+            "type": "L",
+            "timestamp": "2022-01-06 07:19:56"
+        },
+        {
+            "nodeID": "796713",
+            "text": "we need to half the amount of carbon we are producing by the end of this decade",
+            "type": "I",
+            "timestamp": "2022-01-06 07:19:57"
+        },
+        {
+            "nodeID": "796714",
+            "text": "Dominika: Emily Thornberry : we need to half the amount of carbon we are producing by the end of this decade",
+            "type": "L",
+            "timestamp": "2022-01-06 07:19:57"
+        },
+        {
+            "nodeID": "796719",
+            "text": "the way we are going to half the amount of carbon we are producing by the end of this decade is xxx",
+            "type": "I",
+            "timestamp": "2022-01-06 07:19:59"
+        },
+        {
+            "nodeID": "796720",
+            "text": "Dominika: Emily Thornberry : how are we going to do that",
+            "type": "L",
+            "timestamp": "2022-01-06 07:19:59"
+        },
+        {
+            "nodeID": "850574",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 14:44:29",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "850577",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 14:44:31",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "850579",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 14:44:33",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "850583",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 14:44:38",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "850585",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 14:44:38",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "850587",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 14:44:40",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "850590",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 14:44:43",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "850591",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 14:44:43",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "850595",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 14:44:45",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "850599",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 14:44:47",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "850601",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 14:44:47",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "850604",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 14:44:48",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "850607",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 14:44:52",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "850609",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 14:44:52",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "850611",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 14:44:54",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "850612",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 14:44:54",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "1050838",
+            "fromID": "776004",
+            "toID": "850574",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1050839",
+            "fromID": "850574",
+            "toID": "796638",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1050844",
+            "fromID": "796638",
+            "toID": "850577",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1050845",
+            "fromID": "850577",
+            "toID": "796645",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1050848",
+            "fromID": "796645",
+            "toID": "850579",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1050849",
+            "fromID": "850579",
+            "toID": "796650",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1050856",
+            "fromID": "796659",
+            "toID": "850583",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1050857",
+            "fromID": "850583",
+            "toID": "796663",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1050861",
+            "fromID": "796655",
+            "toID": "850585",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1050862",
+            "fromID": "850585",
+            "toID": "796663",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1050865",
+            "fromID": "796663",
+            "toID": "850587",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1050866",
+            "fromID": "850587",
+            "toID": "796670",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1050871",
+            "fromID": "796670",
+            "toID": "850590",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1050872",
+            "fromID": "850590",
+            "toID": "796675",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1050873",
+            "fromID": "796675",
+            "toID": "850591",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1050874",
+            "fromID": "850591",
+            "toID": "796679",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1050881",
+            "fromID": "796679",
+            "toID": "850595",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1050882",
+            "fromID": "850595",
+            "toID": "796687",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1050889",
+            "fromID": "796687",
+            "toID": "850599",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1050890",
+            "fromID": "850599",
+            "toID": "796694",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1050893",
+            "fromID": "796670",
+            "toID": "850601",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1050894",
+            "fromID": "850601",
+            "toID": "796694",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1050899",
+            "fromID": "796694",
+            "toID": "850604",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1050900",
+            "fromID": "850604",
+            "toID": "796702",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1050905",
+            "fromID": "796707",
+            "toID": "850607",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1050906",
+            "fromID": "850607",
+            "toID": "796711",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1050909",
+            "fromID": "796702",
+            "toID": "850609",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1050910",
+            "fromID": "850609",
+            "toID": "796711",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1050914",
+            "fromID": "796711",
+            "toID": "850611",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1050915",
+            "fromID": "850611",
+            "toID": "776006",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1050916",
+            "fromID": "796650",
+            "toID": "850612",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1050917",
+            "fromID": "850612",
+            "toID": "796655",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "776004",
+            "personID": "3731",
+            "timestamp": "2022-01-13 14:44:54",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "796638",
+            "personID": "3731",
+            "timestamp": "2022-01-13 14:44:54",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "796645",
+            "personID": "3731",
+            "timestamp": "2022-01-13 14:44:54",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "796650",
+            "personID": "3731",
+            "timestamp": "2022-01-13 14:44:54",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "796655",
+            "personID": "3731",
+            "timestamp": "2022-01-13 14:44:54",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "796659",
+            "personID": "3731",
+            "timestamp": "2022-01-13 14:44:54",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "796663",
+            "personID": "3731",
+            "timestamp": "2022-01-13 14:44:54",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "796670",
+            "personID": "3730",
+            "timestamp": "2022-01-13 14:44:54",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "796675",
+            "personID": "3731",
+            "timestamp": "2022-01-13 14:44:54",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "796679",
+            "personID": "3731",
+            "timestamp": "2022-01-13 14:44:54",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "796687",
+            "personID": "3731",
+            "timestamp": "2022-01-13 14:44:54",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "796694",
+            "personID": "3731",
+            "timestamp": "2022-01-13 14:44:54",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "796702",
+            "personID": "3731",
+            "timestamp": "2022-01-13 14:44:54",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "796707",
+            "personID": "3731",
+            "timestamp": "2022-01-13 14:44:54",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "796711",
+            "personID": "3731",
+            "timestamp": "2022-01-13 14:44:54",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "776006",
+            "personID": "3731",
+            "timestamp": "2022-01-13 14:44:54",
+            "start": null,
+            "end": null,
+            "source": null
+        }
+    ]
+}

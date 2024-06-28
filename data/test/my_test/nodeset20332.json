@@ -1,0 +1,908 @@
+{
+    "nodes": [
+        {
+            "nodeID": "658497",
+            "text": "Angela Haggerty : You have to look at the polls, Iain and Michael",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:09"
+        },
+        {
+            "nodeID": "658501",
+            "text": "you have to look at the polls, Ian Murray and Michael Forsyth",
+            "type": "I",
+            "timestamp": "2021-02-18 20:13:10"
+        },
+        {
+            "nodeID": "658503",
+            "text": "Steffi: Angela Haggerty : You have to look at the polls, Iain and Michael",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:10"
+        },
+        {
+            "nodeID": "658506",
+            "text": "Angela Haggerty : you're a unionist",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:11"
+        },
+        {
+            "nodeID": "658510",
+            "text": "you're a unionist",
+            "type": "I",
+            "timestamp": "2021-02-18 20:13:12"
+        },
+        {
+            "nodeID": "658516",
+            "text": "Steffi: Angela Haggerty : you're a unionist",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:13"
+        },
+        {
+            "nodeID": "658519",
+            "text": "Angela Haggerty : you should be looking at the polls and see that support for independence is going up",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:14"
+        },
+        {
+            "nodeID": "658522",
+            "text": "you should be looking at the polls and see that support for independence is going up",
+            "type": "I",
+            "timestamp": "2021-02-18 20:13:14"
+        },
+        {
+            "nodeID": "658527",
+            "text": "Steffi: Angela Haggerty : you should be looking at the polls and see that support for independence is going up",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:15"
+        },
+        {
+            "nodeID": "658528",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:13:15",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "658529",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:13:15",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "658533",
+            "text": "Angela Haggerty : you want to stop that",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:15"
+        },
+        {
+            "nodeID": "658536",
+            "text": "you want to stop the support for independence",
+            "type": "I",
+            "timestamp": "2021-02-18 20:13:16"
+        },
+        {
+            "nodeID": "658539",
+            "text": "Steffi: Angela Haggerty : you want to stop that",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:16"
+        },
+        {
+            "nodeID": "658540",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:13:16",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "658543",
+            "text": "Angela Haggerty : you need to come up with a good proposition for the union",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:17"
+        },
+        {
+            "nodeID": "658546",
+            "text": "you need to come up with a good proposition for the union",
+            "type": "I",
+            "timestamp": "2021-02-18 20:13:18"
+        },
+        {
+            "nodeID": "658551",
+            "text": "Steffi: Angela Haggerty : you need to come up with a good proposition for the union",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:18"
+        },
+        {
+            "nodeID": "658553",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:13:18",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "658558",
+            "text": "Angela Haggerty : which isn't just how terrible Scotland would do if it went out there as an independent country",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:19"
+        },
+        {
+            "nodeID": "658561",
+            "text": "a proposition which isn't just how terrible Scotland would do if it went out there as an independent country",
+            "type": "I",
+            "timestamp": "2021-02-18 20:13:19"
+        },
+        {
+            "nodeID": "658564",
+            "text": "Steffi: Angela Haggerty : which isn't just how terrible Scotland would do if it went out there as an independent country",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:20"
+        },
+        {
+            "nodeID": "658565",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:13:20",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "658569",
+            "text": "Angela Haggerty : There's no reason why Scotland couldn't thrive and survive as an independent country",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:20"
+        },
+        {
+            "nodeID": "658575",
+            "text": "there's no reason why Scotland couldn't thrive and survive as an independent country",
+            "type": "I",
+            "timestamp": "2021-02-18 20:13:21"
+        },
+        {
+            "nodeID": "658578",
+            "text": "Steffi: Angela Haggerty : There's no reason why Scotland couldn't thrive and survive as an independent country",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:21"
+        },
+        {
+            "nodeID": "658579",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:13:21",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "658583",
+            "text": "Angela Haggerty : You can't keep going back to the same arguments",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:22"
+        },
+        {
+            "nodeID": "658587",
+            "text": "you can't keep going back to the same arguments",
+            "type": "I",
+            "timestamp": "2021-02-18 20:13:22"
+        },
+        {
+            "nodeID": "658590",
+            "text": "Steffi: Angela Haggerty : You can't keep going back to the same arguments",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:23"
+        },
+        {
+            "nodeID": "658591",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:13:23",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "658593",
+            "text": "Angela Haggerty : You have to give people something more",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:23"
+        },
+        {
+            "nodeID": "658599",
+            "text": "you have to give people something more",
+            "type": "I",
+            "timestamp": "2021-02-18 20:13:24"
+        },
+        {
+            "nodeID": "658602",
+            "text": "Steffi: Angela Haggerty : You have to give people something more",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:24"
+        },
+        {
+            "nodeID": "658603",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:13:24",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "658605",
+            "text": "Michael Forsyth : I can give you 20 billion reasons why we're lucky to be part of the United Kingdom",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:25"
+        },
+        {
+            "nodeID": "658611",
+            "text": "Michael Forsyth can give Angela Haggerty 20 billion reasons why we're lucky to be part of the United Kingdom",
+            "type": "I",
+            "timestamp": "2021-02-18 20:13:26"
+        },
+        {
+            "nodeID": "658614",
+            "text": "Steffi: Michael Forsyth : I can give you 20 billion reasons why we're lucky to be part of the United Kingdom",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:26"
+        },
+        {
+            "nodeID": "658615",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:13:26",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "658617",
+            "text": "Michael Forsyth : 20 billion is how much has come north of the border",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:27"
+        },
+        {
+            "nodeID": "658623",
+            "text": "20 billion is how much has come north of the border",
+            "type": "I",
+            "timestamp": "2021-02-18 20:13:27"
+        },
+        {
+            "nodeID": "658626",
+            "text": "Steffi: Michael Forsyth : 20 billion is how much has come north of the border",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:28"
+        },
+        {
+            "nodeID": "658627",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:13:28",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "658629",
+            "text": "Jeane Freeman : This is not free money, Michael",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:28"
+        },
+        {
+            "nodeID": "658633",
+            "text": "20 billion which has come north of the border is not free money, Michael Forsyth",
+            "type": "I",
+            "timestamp": "2021-02-18 20:13:29"
+        },
+        {
+            "nodeID": "658636",
+            "text": "Steffi: Jeane Freeman : This is not free money, Michael",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:30"
+        },
+        {
+            "nodeID": "658637",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:13:30",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "658639",
+            "text": "Jeane Freeman : This is money the Scottish taxpayer pays into the economy",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:30"
+        },
+        {
+            "nodeID": "658651",
+            "text": "20 billion which has come north of the border is money the Scottish taxpayer pays into the economy",
+            "type": "I",
+            "timestamp": "2021-02-18 20:13:31"
+        },
+        {
+            "nodeID": "658652",
+            "text": "Steffi: Jeane Freeman : This is money the Scottish taxpayer pays into the economy",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:31"
+        },
+        {
+            "nodeID": "658653",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:13:31",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "658656",
+            "text": "Michael Forsyth : Your own figures show Scotland gets a huge amount from the United Kingdom Treasury",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:32"
+        },
+        {
+            "nodeID": "658658",
+            "text": "Jeane Freeman's own figures show Scotland gets a huge amount from the United Kingdom Treasury",
+            "type": "I",
+            "timestamp": "2021-02-18 20:13:32"
+        },
+        {
+            "nodeID": "658659",
+            "text": "Steffi: Michael Forsyth : Your own figures show Scotland gets a huge amount from the United Kingdom Treasury",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:33"
+        },
+        {
+            "nodeID": "658660",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:13:33",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "658661",
+            "text": "Jeane Freeman : We would have been where the UK is, borrowing money to get through this",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:33"
+        },
+        {
+            "nodeID": "658663",
+            "text": "we would have been where the UK is, borrowing money to get through this",
+            "type": "I",
+            "timestamp": "2021-02-18 20:13:34"
+        },
+        {
+            "nodeID": "658664",
+            "text": "Steffi: Jeane Freeman : We would have been where the UK is, borrowing money to get through this",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:34"
+        },
+        {
+            "nodeID": "658665",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:13:34",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "658666",
+            "text": "Michael Forsyth : Where would we be if we voted to leave the United Kingdom",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:35"
+        },
+        {
+            "nodeID": "658668",
+            "text": "we would be somewhere if we voted to leave the United Kingdom",
+            "type": "I",
+            "timestamp": "2021-02-18 20:13:35"
+        },
+        {
+            "nodeID": "658669",
+            "text": "Steffi: Michael Forsyth : Where would we be if we voted to leave the United Kingdom",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:36"
+        },
+        {
+            "nodeID": "658670",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:13:36",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "658671",
+            "text": "Michael Forsyth : How would we have managed",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:36"
+        },
+        {
+            "nodeID": "658673",
+            "text": "we would have managed somehow",
+            "type": "I",
+            "timestamp": "2021-02-18 20:13:37"
+        },
+        {
+            "nodeID": "658674",
+            "text": "Steffi: Michael Forsyth : How would we have managed",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:37"
+        },
+        {
+            "nodeID": "658675",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:13:37",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "658678",
+            "text": "Michael Forsyth : We wouldn't have had the strength of the United Kingdom around us",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:38"
+        },
+        {
+            "nodeID": "658680",
+            "text": "we wouldn't have had the strength of the United Kingdom around us",
+            "type": "I",
+            "timestamp": "2021-02-18 20:13:38"
+        },
+        {
+            "nodeID": "658681",
+            "text": "Steffi: Michael Forsyth : We wouldn't have had the strength of the United Kingdom around us",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:39"
+        },
+        {
+            "nodeID": "658682",
+            "text": "Michael Forsyth : We wouldn't have had the support that we've had for the furlough scheme",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:39"
+        },
+        {
+            "nodeID": "658684",
+            "text": "we wouldn't have had the support that we've had for the furlough scheme",
+            "type": "I",
+            "timestamp": "2021-02-18 20:13:40"
+        },
+        {
+            "nodeID": "658685",
+            "text": "Steffi: Michael Forsyth : We wouldn't have had the support that we've had for the furlough scheme",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:40"
+        },
+        {
+            "nodeID": "658686",
+            "text": "Michael Forsyth : We wouldn't have had the ability to be able to finance it",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:41"
+        },
+        {
+            "nodeID": "658688",
+            "text": "we wouldn't have had the ability to be able to finance it",
+            "type": "I",
+            "timestamp": "2021-02-18 20:13:41"
+        },
+        {
+            "nodeID": "658689",
+            "text": "Steffi: Michael Forsyth : We wouldn't have had the ability to be able to finance it",
+            "type": "L",
+            "timestamp": "2021-02-18 20:13:41"
+        },
+        {
+            "nodeID": "658690",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:13:41",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "658692",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:13:41",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "658707",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:13:41",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "850410",
+            "fromID": "658497",
+            "toID": "658528",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850411",
+            "fromID": "658528",
+            "toID": "658506",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850412",
+            "fromID": "658506",
+            "toID": "658529",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850413",
+            "fromID": "658529",
+            "toID": "658519",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850418",
+            "fromID": "658519",
+            "toID": "658540",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850419",
+            "fromID": "658540",
+            "toID": "658533",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850424",
+            "fromID": "658533",
+            "toID": "658553",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850425",
+            "fromID": "658553",
+            "toID": "658543",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850432",
+            "fromID": "658543",
+            "toID": "658565",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850433",
+            "fromID": "658565",
+            "toID": "658558",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850436",
+            "fromID": "658558",
+            "toID": "658579",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850437",
+            "fromID": "658579",
+            "toID": "658569",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850444",
+            "fromID": "658569",
+            "toID": "658591",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850445",
+            "fromID": "658591",
+            "toID": "658583",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850448",
+            "fromID": "658583",
+            "toID": "658603",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850449",
+            "fromID": "658603",
+            "toID": "658593",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850452",
+            "fromID": "658593",
+            "toID": "658615",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850453",
+            "fromID": "658615",
+            "toID": "658605",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850456",
+            "fromID": "658605",
+            "toID": "658627",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850457",
+            "fromID": "658627",
+            "toID": "658617",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850460",
+            "fromID": "658617",
+            "toID": "658637",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850461",
+            "fromID": "658637",
+            "toID": "658629",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850464",
+            "fromID": "658629",
+            "toID": "658653",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850465",
+            "fromID": "658653",
+            "toID": "658639",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850472",
+            "fromID": "658639",
+            "toID": "658660",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850473",
+            "fromID": "658660",
+            "toID": "658656",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850476",
+            "fromID": "658656",
+            "toID": "658665",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850477",
+            "fromID": "658665",
+            "toID": "658661",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850480",
+            "fromID": "658661",
+            "toID": "658670",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850481",
+            "fromID": "658670",
+            "toID": "658666",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850484",
+            "fromID": "658666",
+            "toID": "658675",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850485",
+            "fromID": "658675",
+            "toID": "658671",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850496",
+            "fromID": "658682",
+            "toID": "658690",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850497",
+            "fromID": "658690",
+            "toID": "658686",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850500",
+            "fromID": "658666",
+            "toID": "658692",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850501",
+            "fromID": "658692",
+            "toID": "658682",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850530",
+            "fromID": "658671",
+            "toID": "658707",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "850531",
+            "fromID": "658707",
+            "toID": "658678",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "658497",
+            "personID": "4317",
+            "timestamp": "2021-02-18 20:13:42",
+            "start": "2020-10-15 22:23:52",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "658506",
+            "personID": "4317",
+            "timestamp": "2021-02-18 20:13:42",
+            "start": "2020-10-15 22:23:55",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "658519",
+            "personID": "4317",
+            "timestamp": "2021-02-18 20:13:42",
+            "start": "2020-10-15 22:23:56",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "658533",
+            "personID": "4317",
+            "timestamp": "2021-02-18 20:13:42",
+            "start": "2020-10-15 22:24:01",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "658543",
+            "personID": "4317",
+            "timestamp": "2021-02-18 20:13:42",
+            "start": "2020-10-15 22:24:03",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "658558",
+            "personID": "4317",
+            "timestamp": "2021-02-18 20:13:42",
+            "start": "2020-10-15 22:24:08",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "658569",
+            "personID": "4317",
+            "timestamp": "2021-02-18 20:13:42",
+            "start": "2020-10-15 22:24:14",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "658583",
+            "personID": "4317",
+            "timestamp": "2021-02-18 20:13:42",
+            "start": "2020-10-15 22:24:18",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "658593",
+            "personID": "4317",
+            "timestamp": "2021-02-18 20:13:42",
+            "start": "2020-10-15 22:24:20",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "658605",
+            "personID": "4315",
+            "timestamp": "2021-02-18 20:13:42",
+            "start": "2020-10-15 22:24:22",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "658617",
+            "personID": "4315",
+            "timestamp": "2021-02-18 20:13:42",
+            "start": "2020-10-15 22:24:29",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "658629",
+            "personID": "4316",
+            "timestamp": "2021-02-18 20:13:42",
+            "start": "2020-10-15 22:24:32",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "658639",
+            "personID": "4316",
+            "timestamp": "2021-02-18 20:13:42",
+            "start": "2020-10-15 22:24:36",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "658656",
+            "personID": "4315",
+            "timestamp": "2021-02-18 20:13:42",
+            "start": "2020-10-15 22:24:40",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "658661",
+            "personID": "4316",
+            "timestamp": "2021-02-18 20:13:42",
+            "start": "2020-10-15 22:24:56",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "658666",
+            "personID": "4315",
+            "timestamp": "2021-02-18 20:13:42",
+            "start": "2020-10-15 22:25:02",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "658671",
+            "personID": "4315",
+            "timestamp": "2021-02-18 20:13:42",
+            "start": "2020-10-15 22:25:08",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "658678",
+            "personID": "4315",
+            "timestamp": "2021-02-18 20:13:42",
+            "start": "2020-10-15 22:25:11",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "658682",
+            "personID": "4315",
+            "timestamp": "2021-02-18 20:13:42",
+            "start": "2020-10-15 22:25:17",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "658686",
+            "personID": "4315",
+            "timestamp": "2021-02-18 20:13:42",
+            "start": "2020-10-15 22:25:25",
+            "end": null,
+            "source": null
+        }
+    ]
+}

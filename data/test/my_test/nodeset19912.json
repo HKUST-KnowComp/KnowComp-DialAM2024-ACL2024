@@ -1,0 +1,486 @@
+{
+    "nodes": [
+        {
+            "nodeID": "642493",
+            "text": "Karina: Fiona Bruce : When you hear businesses talking about the reams of paperwork, saying it is a full time job to deal with the new paperwork, much more than they had before, do you feel from your knowledge of the Brexit process that that is something we would be able to put behind us",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:52"
+        },
+        {
+            "nodeID": "642496",
+            "text": "Karina: Fiona Bruce : we’ll get sorted out or it will continue to be a thorn in the sides of some companies",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:52"
+        },
+        {
+            "nodeID": "642499",
+            "text": "Fiona Bruce : When you hear businesses talking about the reams of paperwork, saying it is a full time job to deal with the new paperwork, much more than they had before, do you feel from your knowledge of the Brexit process that that is something we would be able to put behind us and we’ll get sorted out",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:53"
+        },
+        {
+            "nodeID": "642502",
+            "text": "hearing businesses talking about the reams of paperwork, saying it is a full time job to deal with the new paperwork, much more than they had before, does or doesn't Anand Menon feel from his knowledge of the Brexit process that that is something we would be able to put behind us and we’ll get sorted out",
+            "type": "I",
+            "timestamp": "2021-01-28 20:50:53"
+        },
+        {
+            "nodeID": "642505",
+            "text": "Karina: Fiona Bruce : When you hear businesses talking about the reams of paperwork, saying it is a full time job to deal with the new paperwork, much more than they had before, do you feel from your knowledge of the Brexit process that that is something we would be able to put behind us and we’ll get sorted out",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:54"
+        },
+        {
+            "nodeID": "642508",
+            "text": "Fiona Bruce : or it will continue to be a thorn in the sides of some companies",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:55"
+        },
+        {
+            "nodeID": "642511",
+            "text": "does the paperwork will or won't continue to be a thorn in the sides of some companies",
+            "type": "I",
+            "timestamp": "2021-01-28 20:50:55"
+        },
+        {
+            "nodeID": "642514",
+            "text": "Karina: Fiona Bruce : or it will continue to be a thorn in the sides of some companies",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:56"
+        },
+        {
+            "nodeID": "642515",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-28 20:50:56",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "642518",
+            "text": "Anand Menon : It will vary on the firms",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:56"
+        },
+        {
+            "nodeID": "642521",
+            "text": "dealing with the paperwork will vary on the firms",
+            "type": "I",
+            "timestamp": "2021-01-28 20:50:57"
+        },
+        {
+            "nodeID": "642524",
+            "text": "Karina: Anand Menon : It will vary on the firms",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:57"
+        },
+        {
+            "nodeID": "642525",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-28 20:50:57",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "642531",
+            "text": "Anand Menon : Some will deal with it, keep on trading",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:58"
+        },
+        {
+            "nodeID": "642534",
+            "text": "some firms will deal with the paperwork, keep on trading",
+            "type": "I",
+            "timestamp": "2021-01-28 20:50:58"
+        },
+        {
+            "nodeID": "642539",
+            "text": "Karina: Anand Menon : Some will deal with it, keep on trading",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:59"
+        },
+        {
+            "nodeID": "642540",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-28 20:50:59",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "642543",
+            "text": "Anand Menon : Other firms, small businesses, might struggle more because of the load placed upon them",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:59"
+        },
+        {
+            "nodeID": "642546",
+            "text": "other firms, small businesses, might struggle more because of the load placed upon them",
+            "type": "I",
+            "timestamp": "2021-01-28 20:51:00"
+        },
+        {
+            "nodeID": "642551",
+            "text": "Karina: Anand Menon : Other firms, small businesses, might struggle more because of the load placed upon them",
+            "type": "L",
+            "timestamp": "2021-01-28 20:51:00"
+        },
+        {
+            "nodeID": "642552",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-28 20:51:00",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "642558",
+            "text": "Anand Menon : We shouldn’t kid ourselves that Brexit means trade will continue as it did before",
+            "type": "L",
+            "timestamp": "2021-01-28 20:51:01"
+        },
+        {
+            "nodeID": "642561",
+            "text": "we shouldn’t kid ourselves that Brexit means trade will continue as it did before",
+            "type": "I",
+            "timestamp": "2021-01-28 20:51:01"
+        },
+        {
+            "nodeID": "642578",
+            "text": "Karina: Anand Menon : We shouldn’t kid ourselves that Brexit means trade will continue as it did before",
+            "type": "L",
+            "timestamp": "2021-01-28 20:51:02"
+        },
+        {
+            "nodeID": "642579",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-28 20:51:02",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "642580",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-28 20:51:02",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "642584",
+            "text": "Anand Menon : It won’t",
+            "type": "L",
+            "timestamp": "2021-01-28 20:51:02"
+        },
+        {
+            "nodeID": "642586",
+            "text": "the trade won’t continue as before",
+            "type": "I",
+            "timestamp": "2021-01-28 20:51:03"
+        },
+        {
+            "nodeID": "642587",
+            "text": "Karina: Anand Menon : It won’t",
+            "type": "L",
+            "timestamp": "2021-01-28 20:51:03"
+        },
+        {
+            "nodeID": "642588",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-28 20:51:03",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "642589",
+            "text": "Anand Menon :  It will change",
+            "type": "L",
+            "timestamp": "2021-01-28 20:51:04"
+        },
+        {
+            "nodeID": "642591",
+            "text": "the trade will change",
+            "type": "I",
+            "timestamp": "2021-01-28 20:51:04"
+        },
+        {
+            "nodeID": "642592",
+            "text": "Karina: Anand Menon :  It will change",
+            "type": "L",
+            "timestamp": "2021-01-28 20:51:05"
+        },
+        {
+            "nodeID": "642593",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-28 20:51:05",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "642594",
+            "text": "Anand Menon :  That doesn’t mean that the protocol can’t be made to work for Northern Ireland",
+            "type": "L",
+            "timestamp": "2021-01-28 20:51:06"
+        },
+        {
+            "nodeID": "642596",
+            "text": "change in trade doesn’t mean that the protocol can’t be made to work for Northern Ireland",
+            "type": "I",
+            "timestamp": "2021-01-28 20:51:06"
+        },
+        {
+            "nodeID": "642597",
+            "text": "Karina: Anand Menon :  That doesn’t mean that the protocol can’t be made to work for Northern Ireland",
+            "type": "L",
+            "timestamp": "2021-01-28 20:51:07"
+        },
+        {
+            "nodeID": "642598",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-28 20:51:07",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "642601",
+            "text": "Anand Menon : It means that government and businesses need to work together to ensure that it functions as well as it possibly can",
+            "type": "L",
+            "timestamp": "2021-01-28 20:51:07"
+        },
+        {
+            "nodeID": "642603",
+            "text": "change in trade means that government and businesses need to work together to ensure that it functions as well as it possibly can",
+            "type": "I",
+            "timestamp": "2021-01-28 20:51:08"
+        },
+        {
+            "nodeID": "642604",
+            "text": "Karina: Anand Menon : It means that government and businesses need to work together to ensure that it functions as well as it possibly can",
+            "type": "L",
+            "timestamp": "2021-01-28 20:51:08"
+        },
+        {
+            "nodeID": "642605",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-28 20:51:08",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "829411",
+            "fromID": "642499",
+            "toID": "642515",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829412",
+            "fromID": "642515",
+            "toID": "642508",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829415",
+            "fromID": "642508",
+            "toID": "642525",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829416",
+            "fromID": "642525",
+            "toID": "642518",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829426",
+            "fromID": "642518",
+            "toID": "642540",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829427",
+            "fromID": "642540",
+            "toID": "642531",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829430",
+            "fromID": "642531",
+            "toID": "642552",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829431",
+            "fromID": "642552",
+            "toID": "642543",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829440",
+            "fromID": "642499",
+            "toID": "642579",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829441",
+            "fromID": "642579",
+            "toID": "642558",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829442",
+            "fromID": "642543",
+            "toID": "642580",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829443",
+            "fromID": "642580",
+            "toID": "642558",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829451",
+            "fromID": "642508",
+            "toID": "642579",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829454",
+            "fromID": "642558",
+            "toID": "642588",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829455",
+            "fromID": "642588",
+            "toID": "642584",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829458",
+            "fromID": "642584",
+            "toID": "642593",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829459",
+            "fromID": "642593",
+            "toID": "642589",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829462",
+            "fromID": "642589",
+            "toID": "642598",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829463",
+            "fromID": "642598",
+            "toID": "642594",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829470",
+            "fromID": "642594",
+            "toID": "642605",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829471",
+            "fromID": "642605",
+            "toID": "642601",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "642499",
+            "personID": "3812",
+            "timestamp": "2021-01-28 20:51:08",
+            "start": "2020-10-15 22:42:58",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "642508",
+            "personID": "3812",
+            "timestamp": "2021-01-28 20:51:08",
+            "start": "2020-10-15 22:43:16",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "642518",
+            "personID": "4245",
+            "timestamp": "2021-01-28 20:51:08",
+            "start": "2020-10-15 22:43:18",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "642531",
+            "personID": "4245",
+            "timestamp": "2021-01-28 20:51:08",
+            "start": "2020-10-15 22:43:21",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "642543",
+            "personID": "4245",
+            "timestamp": "2021-01-28 20:51:08",
+            "start": "2020-10-15 22:43:25",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "642558",
+            "personID": "4245",
+            "timestamp": "2021-01-28 20:51:08",
+            "start": "2020-10-15 22:43:34",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "642584",
+            "personID": "4245",
+            "timestamp": "2021-01-28 20:51:08",
+            "start": "2020-10-15 22:43:42",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "642589",
+            "personID": "4245",
+            "timestamp": "2021-01-28 20:51:08",
+            "start": "2020-10-15 22:43:43",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "642594",
+            "personID": "4245",
+            "timestamp": "2021-01-28 20:51:08",
+            "start": "2020-10-15 22:43:45",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "642601",
+            "personID": "4245",
+            "timestamp": "2021-01-28 20:51:08",
+            "start": "2020-10-15 22:43:53",
+            "end": null,
+            "source": null
+        }
+    ]
+}

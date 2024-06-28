@@ -1,0 +1,610 @@
+{
+    "nodes": [
+        {
+            "nodeID": "569855",
+            "text": "Anon: Lisa Nandy : eborah, I’m wondering…you were asking the question and I know you’re a deputy headteacher, the way you phrase it m",
+            "type": "L",
+            "timestamp": "2020-09-02 19:18:29"
+        },
+        {
+            "nodeID": "569856",
+            "text": "Fiona Bruce : you’re a deputy headteacher",
+            "type": "L",
+            "timestamp": "2020-09-02 19:18:29"
+        },
+        {
+            "nodeID": "569858",
+            "text": "Deborah Norrish is a deputy headteacher",
+            "type": "I",
+            "timestamp": "2020-09-02 19:18:29"
+        },
+        {
+            "nodeID": "569859",
+            "text": "Anon: Fiona Bruce : you’re a deputy headteacher",
+            "type": "L",
+            "timestamp": "2020-09-02 19:18:30"
+        },
+        {
+            "nodeID": "569860",
+            "text": "Anon: Fiona Bruce : the way you phrase it makes me wonder if you think actually it isn’t genuinely devastating",
+            "type": "L",
+            "timestamp": "2020-09-02 19:18:30"
+        },
+        {
+            "nodeID": "569861",
+            "text": "Anon: Fiona Bruce : you think actually it isn’t genuinely devastating…or isn’t devastating for a generation of children",
+            "type": "L",
+            "timestamp": "2020-09-02 19:18:31"
+        },
+        {
+            "nodeID": "569862",
+            "text": "Anon: Fiona Bruce : isn’t devastating for a generation of children",
+            "type": "L",
+            "timestamp": "2020-09-02 19:18:32"
+        },
+        {
+            "nodeID": "569863",
+            "text": "Deborah Norrish : It’s been absolutely awful",
+            "type": "L",
+            "timestamp": "2020-09-02 19:18:32"
+        },
+        {
+            "nodeID": "569865",
+            "text": "the delay of learning for six weeks has been absolutely awful",
+            "type": "I",
+            "timestamp": "2020-09-02 19:18:33"
+        },
+        {
+            "nodeID": "569866",
+            "text": "Anon: Deborah Norrish : It’s been absolutely awful",
+            "type": "L",
+            "timestamp": "2020-09-02 19:18:33"
+        },
+        {
+            "nodeID": "569867",
+            "text": "Deborah Norrish : I work in a secondary school in Plymouth",
+            "type": "L",
+            "timestamp": "2020-09-02 19:18:33"
+        },
+        {
+            "nodeID": "569869",
+            "text": "Deborah Norrish works in a secondary school in Plymouth",
+            "type": "I",
+            "timestamp": "2020-09-02 19:18:34"
+        },
+        {
+            "nodeID": "569870",
+            "text": "Anon: Deborah Norrish : I work in a secondary school in Plymouth",
+            "type": "L",
+            "timestamp": "2020-09-02 19:18:34"
+        },
+        {
+            "nodeID": "569871",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:18:34",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "569874",
+            "text": "Deborah Norrish : we’ve had our year tens and 12s back for the first time",
+            "type": "L",
+            "timestamp": "2020-09-02 19:18:35"
+        },
+        {
+            "nodeID": "569876",
+            "text": "the secondary school Deborah Norrish works at has had their year tens and 12s back for the first time since the COVID19 pandemic",
+            "type": "I",
+            "timestamp": "2020-09-02 19:18:35"
+        },
+        {
+            "nodeID": "569877",
+            "text": "Anon: Deborah Norrish : we’ve had our year tens and 12s back for the first time",
+            "type": "L",
+            "timestamp": "2020-09-02 19:18:35"
+        },
+        {
+            "nodeID": "569878",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:18:35",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "569879",
+            "text": "Deborah Norrish : it’s absolutely delightful to see them all",
+            "type": "L",
+            "timestamp": "2020-09-02 19:18:36"
+        },
+        {
+            "nodeID": "569881",
+            "text": "it’s absolutely delightful to see all the year tens and twelves back",
+            "type": "I",
+            "timestamp": "2020-09-02 19:18:36"
+        },
+        {
+            "nodeID": "569882",
+            "text": "Anon: Deborah Norrish : it’s absolutely delightful to see them all",
+            "type": "L",
+            "timestamp": "2020-09-02 19:18:36"
+        },
+        {
+            "nodeID": "569883",
+            "text": "Deborah Norrish : it’s absolutely horrifying that we can’t provide more",
+            "type": "L",
+            "timestamp": "2020-09-02 19:18:37"
+        },
+        {
+            "nodeID": "569885",
+            "text": "it’s absolutely horrifying that we can’t provide more for the returning year tens and twelves",
+            "type": "I",
+            "timestamp": "2020-09-02 19:18:37"
+        },
+        {
+            "nodeID": "569886",
+            "text": "Anon: Deborah Norrish : it’s absolutely horrifying that we can’t provide more",
+            "type": "L",
+            "timestamp": "2020-09-02 19:18:38"
+        },
+        {
+            "nodeID": "569887",
+            "text": "Deborah Norrish : they’re desperate for it",
+            "type": "L",
+            "timestamp": "2020-09-02 19:18:38"
+        },
+        {
+            "nodeID": "569889",
+            "text": "returning year tens and twelves are desperate for more",
+            "type": "I",
+            "timestamp": "2020-09-02 19:18:38"
+        },
+        {
+            "nodeID": "569890",
+            "text": "Anon: Deborah Norrish : they’re desperate for it",
+            "type": "L",
+            "timestamp": "2020-09-02 19:18:39"
+        },
+        {
+            "nodeID": "569891",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:18:39",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "569894",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:18:39",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "569897",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:18:39",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "569898",
+            "text": "Deborah Norrish : Attendance this week has been brilliant",
+            "type": "L",
+            "timestamp": "2020-09-02 19:18:39"
+        },
+        {
+            "nodeID": "569900",
+            "text": "attendance at the school Deborah Norrish works at this week has been brilliant",
+            "type": "I",
+            "timestamp": "2020-09-02 19:18:40"
+        },
+        {
+            "nodeID": "569901",
+            "text": "Anon: Deborah Norrish : Attendance this week has been brilliant",
+            "type": "L",
+            "timestamp": "2020-09-02 19:18:40"
+        },
+        {
+            "nodeID": "569902",
+            "text": "Deborah Norrish : home learning isn’t doing the job for them that we need it to do",
+            "type": "L",
+            "timestamp": "2020-09-02 19:18:40"
+        },
+        {
+            "nodeID": "569904",
+            "text": "home learning isn’t doing the job for school children that we need it to do",
+            "type": "I",
+            "timestamp": "2020-09-02 19:18:41"
+        },
+        {
+            "nodeID": "569905",
+            "text": "Anon: Deborah Norrish : home learning isn’t doing the job for them that we need it to do",
+            "type": "L",
+            "timestamp": "2020-09-02 19:18:41"
+        },
+        {
+            "nodeID": "569906",
+            "text": "Deborah Norrish : We haven’t got clarity yet on, you know, what’s going to happen with their exams next year and the assessment",
+            "type": "L",
+            "timestamp": "2020-09-02 19:18:42"
+        },
+        {
+            "nodeID": "569908",
+            "text": "schools haven’t got clarity yet on what’s going to happen with school pupils exams next year and the assessment",
+            "type": "I",
+            "timestamp": "2020-09-02 19:18:42"
+        },
+        {
+            "nodeID": "569909",
+            "text": "Anon: Deborah Norrish : We haven’t got clarity yet on, you know, what’s going to happen with their exams next year and the assessment",
+            "type": "L",
+            "timestamp": "2020-09-02 19:18:42"
+        },
+        {
+            "nodeID": "569911",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:18:42",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "569912",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:18:42",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "569914",
+            "text": "Deborah Norrish : as school leaders we are desperate for further guidance about planning for September",
+            "type": "L",
+            "timestamp": "2020-09-02 19:18:43"
+        },
+        {
+            "nodeID": "569916",
+            "text": "school leaders are desperate for further guidance about planning for September",
+            "type": "I",
+            "timestamp": "2020-09-02 19:18:43"
+        },
+        {
+            "nodeID": "569917",
+            "text": "Anon: Deborah Norrish : as school leaders we are desperate for further guidance about planning for September",
+            "type": "L",
+            "timestamp": "2020-09-02 19:18:43"
+        },
+        {
+            "nodeID": "569918",
+            "text": "Deborah Norrish : our students are becoming disillusioned at not having it",
+            "type": "L",
+            "timestamp": "2020-09-02 19:18:44"
+        },
+        {
+            "nodeID": "569920",
+            "text": "Deborah Norrish's students are becoming disillusioned at not having guidance for September",
+            "type": "I",
+            "timestamp": "2020-09-02 19:18:44"
+        },
+        {
+            "nodeID": "569921",
+            "text": "Anon: Deborah Norrish : our students are becoming disillusioned at not having it",
+            "type": "L",
+            "timestamp": "2020-09-02 19:18:45"
+        },
+        {
+            "nodeID": "569922",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:18:45",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "569923",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:18:45",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "569926",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:18:45",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "569927",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:18:45",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "569930",
+            "text": "Anon: Fiona Bruce : the way you phrase it makes me wonder if you think actually it isn’t genuinely devastating…or isn’t devastating for a generation of children",
+            "type": "L",
+            "timestamp": "2020-09-02 19:18:45"
+        },
+        {
+            "nodeID": "569931",
+            "text": "Fiona Bruce : you think actually it isn’t genuinely devastating…or isn’t devastating for a generation of children",
+            "type": "L",
+            "timestamp": "2020-09-02 19:18:45"
+        },
+        {
+            "nodeID": "569933",
+            "text": "Deborah Norrish does or does not think a delay of learning for six weeks it isn’t genuinely devastating for a generation of children",
+            "type": "I",
+            "timestamp": "2020-09-02 19:18:46"
+        },
+        {
+            "nodeID": "569934",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:18:46",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "739993",
+            "fromID": "569856",
+            "toID": "569871",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739994",
+            "fromID": "569871",
+            "toID": "569867",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "740001",
+            "fromID": "569867",
+            "toID": "569878",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "740002",
+            "fromID": "569878",
+            "toID": "569874",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "740009",
+            "fromID": "569883",
+            "toID": "569891",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "740010",
+            "fromID": "569891",
+            "toID": "569887",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "740015",
+            "fromID": "569879",
+            "toID": "569894",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "740016",
+            "fromID": "569894",
+            "toID": "569883",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "740021",
+            "fromID": "569874",
+            "toID": "569897",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "740022",
+            "fromID": "569897",
+            "toID": "569879",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "740032",
+            "fromID": "569887",
+            "toID": "569911",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "740033",
+            "fromID": "569911",
+            "toID": "569898",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "740034",
+            "fromID": "569887",
+            "toID": "569912",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "740035",
+            "fromID": "569912",
+            "toID": "569902",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "740042",
+            "fromID": "569902",
+            "toID": "569922",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "740043",
+            "fromID": "569922",
+            "toID": "569906",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "740044",
+            "fromID": "569887",
+            "toID": "569923",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "740045",
+            "fromID": "569923",
+            "toID": "569918",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "740050",
+            "fromID": "569906",
+            "toID": "569926",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "740051",
+            "fromID": "569926",
+            "toID": "569918",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "740052",
+            "fromID": "569906",
+            "toID": "569927",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "740053",
+            "fromID": "569927",
+            "toID": "569914",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "740061",
+            "fromID": "569931",
+            "toID": "569934",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "740062",
+            "fromID": "569934",
+            "toID": "569863",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "569856",
+            "personID": "3812",
+            "timestamp": "2020-09-02 19:18:46",
+            "start": "2020-06-25 23:02:35",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569863",
+            "personID": "4004",
+            "timestamp": "2020-09-02 19:18:46",
+            "start": "2020-06-25 23:02:43",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569867",
+            "personID": "4004",
+            "timestamp": "2020-09-02 19:18:46",
+            "start": "2020-06-25 23:02:45",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569874",
+            "personID": "4004",
+            "timestamp": "2020-09-02 19:18:46",
+            "start": "2020-06-25 23:02:47",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569879",
+            "personID": "4004",
+            "timestamp": "2020-09-02 19:18:46",
+            "start": "2020-06-25 23:02:51",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569883",
+            "personID": "4004",
+            "timestamp": "2020-09-02 19:18:46",
+            "start": "2020-06-25 23:02:54",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569887",
+            "personID": "4004",
+            "timestamp": "2020-09-02 19:18:46",
+            "start": "2020-06-25 23:02:57",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569898",
+            "personID": "4004",
+            "timestamp": "2020-09-02 19:18:46",
+            "start": "2020-06-25 23:02:58",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569902",
+            "personID": "4004",
+            "timestamp": "2020-09-02 19:18:46",
+            "start": "2020-06-25 23:03:02",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569906",
+            "personID": "4004",
+            "timestamp": "2020-09-02 19:18:46",
+            "start": "2020-06-25 23:03:08",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569914",
+            "personID": "4004",
+            "timestamp": "2020-09-02 19:18:46",
+            "start": "2020-06-25 23:03:13",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569918",
+            "personID": "4004",
+            "timestamp": "2020-09-02 19:18:46",
+            "start": "2020-06-25 23:03:17",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569931",
+            "personID": "3812",
+            "timestamp": "2020-09-02 19:18:46",
+            "start": "2020-06-25 23:02:41",
+            "end": null,
+            "source": null
+        }
+    ]
+}

@@ -1,0 +1,876 @@
+{
+    "nodes": [
+        {
+            "nodeID": "827719",
+            "text": "John Bercow : No",
+            "type": "L",
+            "timestamp": "2022-01-07 10:38:14"
+        },
+        {
+            "nodeID": "829554",
+            "text": "Fiona Bruce : In terms of the question, should that mean Keir Starmer should go?",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:30"
+        },
+        {
+            "nodeID": "829556",
+            "text": "that does or doesn't mean Keir Starmer should go",
+            "type": "I",
+            "timestamp": "2022-01-07 11:13:30"
+        },
+        {
+            "nodeID": "829557",
+            "text": "Anna: Fiona Bruce : In terms of the question, should that mean Keir Starmer should go?",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:31"
+        },
+        {
+            "nodeID": "829558",
+            "text": "Anna: John Bercow : No",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:32"
+        },
+        {
+            "nodeID": "829561",
+            "text": "John Bercow : there are two reasons why it is not such a great surprise",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:33"
+        },
+        {
+            "nodeID": "829563",
+            "text": "there are two reasons why Labor losing Hartlepool is not such a great surprise",
+            "type": "I",
+            "timestamp": "2022-01-07 11:13:33"
+        },
+        {
+            "nodeID": "829564",
+            "text": "Anna: John Bercow : here are two reasons why it is not such a great surprise",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:34"
+        },
+        {
+            "nodeID": "829565",
+            "text": "John Bercow : The first is that we've had a suspension of normal politics for the 13 months of Keir Starmer's leadership and, indeed, a few days before",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:34"
+        },
+        {
+            "nodeID": "829567",
+            "text": "the first reason why it is not such a great surprise is that we've had a suspension of normal politics for the 13 months of Keir Starmer's leadership and, indeed, a few days before",
+            "type": "I",
+            "timestamp": "2022-01-07 11:13:35"
+        },
+        {
+            "nodeID": "829568",
+            "text": "Anna: John Bercow : The first is that we've had a suspension of normal politics for the 13 months of Keir Starmer's leadership and, indeed, a few days before",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:36"
+        },
+        {
+            "nodeID": "829569",
+            "text": "John Bercow : In December 2019 people said they wanted to get Brexit done,",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:36"
+        },
+        {
+            "nodeID": "829571",
+            "text": "in December 2019 people said they wanted to get Brexit done",
+            "type": "I",
+            "timestamp": "2022-01-07 11:13:37"
+        },
+        {
+            "nodeID": "829572",
+            "text": "Anna: John Bercow : In December 2019 people said they wanted to get Brexit done,",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:37"
+        },
+        {
+            "nodeID": "829573",
+            "text": "John Bercow : and the government has delivered on the first phase of Brexit",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:38"
+        },
+        {
+            "nodeID": "829575",
+            "text": "and the government has delivered on the first phase of Brexit",
+            "type": "I",
+            "timestamp": "2022-01-07 11:13:38"
+        },
+        {
+            "nodeID": "829576",
+            "text": "Anna: John Bercow : and the government has delivered on the first phase of Brexit",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:39"
+        },
+        {
+            "nodeID": "829577",
+            "text": "John Bercow :  I happen to think it is the most colossal foreign Policy blunder in the post-war period",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:40"
+        },
+        {
+            "nodeID": "829579",
+            "text": "Brexit is the most colossal foreign Policy blunder in the post-war period",
+            "type": "I",
+            "timestamp": "2022-01-07 11:13:40"
+        },
+        {
+            "nodeID": "829580",
+            "text": "Anna: John Bercow :  I happen to think it is the most colossal foreign Policy blunder in the post-war period",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:41"
+        },
+        {
+            "nodeID": "829581",
+            "text": "John Bercow : but people voted for it",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:41"
+        },
+        {
+            "nodeID": "829583",
+            "text": "people voted for Brexit",
+            "type": "I",
+            "timestamp": "2022-01-07 11:13:42"
+        },
+        {
+            "nodeID": "829584",
+            "text": "Anna: John Bercow : but people voted for it",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:43"
+        },
+        {
+            "nodeID": "829585",
+            "text": "John Bercow : In a sense it would be counterintuitive if voters said we know we wanted that in significant numbers",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:43"
+        },
+        {
+            "nodeID": "829587",
+            "text": "in a sense it would be counterintuitive if voters said we know we wanted that in significant numbers",
+            "type": "I",
+            "timestamp": "2022-01-07 11:13:44"
+        },
+        {
+            "nodeID": "829588",
+            "text": "Anna: John Bercow : In a sense it would counterintuitive if voters said we know we wanted that in significant numbers",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:44"
+        },
+        {
+            "nodeID": "829589",
+            "text": "John Bercow : even in Hartlepool",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:45"
+        },
+        {
+            "nodeID": "829591",
+            "text": "even in Hartlepool, people wanted Brexit in significant numbers",
+            "type": "I",
+            "timestamp": "2022-01-07 11:13:45"
+        },
+        {
+            "nodeID": "829592",
+            "text": "Anna: John Bercow : even in Hartlepool",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:46"
+        },
+        {
+            "nodeID": "829593",
+            "text": "John Bercow : where Brexit party is not standing this time",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:47"
+        },
+        {
+            "nodeID": "829595",
+            "text": "in Hartlepool Brexit party is not standing this time",
+            "type": "I",
+            "timestamp": "2022-01-07 11:13:47"
+        },
+        {
+            "nodeID": "829596",
+            "text": "Anna: John Bercow : where Brexit party is not standing this time",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:48"
+        },
+        {
+            "nodeID": "829597",
+            "text": "John Bercow :  but actually we're going to punish the government that delivered what we said we wanted them to deliver",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:48"
+        },
+        {
+            "nodeID": "829599",
+            "text": "but actually we're going to punish the government that delivered what we said we wanted them to deliver",
+            "type": "I",
+            "timestamp": "2022-01-07 11:13:49"
+        },
+        {
+            "nodeID": "829600",
+            "text": "Anna: John Bercow :  but actually we're going to punish the government that delivered what we said we wanted them to deliver",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:49"
+        },
+        {
+            "nodeID": "829601",
+            "text": "Anna: John Bercow : I think you have to allow for the fact, consistent with the fact of suspension of normal politics, there is a wave of relief in the country at the arrival and, yes, the effective distribution of the vaccine and a desire to reward the government",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:50"
+        },
+        {
+            "nodeID": "829602",
+            "text": "Now the distribution is overwhelmingly about the NHS",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:51"
+        },
+        {
+            "nodeID": "829603",
+            "text": "John Bercow : Now the distribution is overwhelmingly about the NHS",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:51"
+        },
+        {
+            "nodeID": "829605",
+            "text": "the distribution of the vaccine is overwhelmingly about the NHS",
+            "type": "I",
+            "timestamp": "2022-01-07 11:13:52"
+        },
+        {
+            "nodeID": "829606",
+            "text": "Anna: John Bercow : Now the distribution is overwhelmingly about the NHS",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:52"
+        },
+        {
+            "nodeID": "829607",
+            "text": "John Bercow : and the devising of the vaccine is overwhelmingly about the quality of scientists",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:53"
+        },
+        {
+            "nodeID": "829609",
+            "text": "the devising of the vaccine is overwhelmingly about the quality of scientists",
+            "type": "I",
+            "timestamp": "2022-01-07 11:13:53"
+        },
+        {
+            "nodeID": "829610",
+            "text": "Anna: John Bercow : and the devising of the vaccine is overwhelmingly about the quality of scientists",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:54"
+        },
+        {
+            "nodeID": "829611",
+            "text": "John Bercow : and little to do with the government",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:55"
+        },
+        {
+            "nodeID": "829613",
+            "text": "development and distribution of the vaccine has little to do with the government",
+            "type": "I",
+            "timestamp": "2022-01-07 11:13:55"
+        },
+        {
+            "nodeID": "829614",
+            "text": "Anna: John Bercow : and little to do with the government",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:56"
+        },
+        {
+            "nodeID": "829615",
+            "text": "John Bercow :  Nevertheless, it has been a success",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:56"
+        },
+        {
+            "nodeID": "829617",
+            "text": "nevertheless, the distribution has been a success",
+            "type": "I",
+            "timestamp": "2022-01-07 11:13:57"
+        },
+        {
+            "nodeID": "829618",
+            "text": "Anna: John Bercow :  Nevertheless, it has been a success",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:57"
+        },
+        {
+            "nodeID": "829619",
+            "text": "John Bercow : In light of the two factors there should be such a turn of opinion in a short period",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:58"
+        },
+        {
+            "nodeID": "829621",
+            "text": "in light of the two factors there should be such a turn of opinion in a short period",
+            "type": "I",
+            "timestamp": "2022-01-07 11:13:59"
+        },
+        {
+            "nodeID": "829622",
+            "text": "Anna: John Bercow : In light of the two factors there should be such a turn of opinion in a short period",
+            "type": "L",
+            "timestamp": "2022-01-07 11:13:59"
+        },
+        {
+            "nodeID": "829653",
+            "text": "John Bercow : I think you have to allow for the fact, consistent with the fact of suspension of normal politics, there is a wave of relief in the country at the arrival and, yes, the effective distribution of the vaccine",
+            "type": "L",
+            "timestamp": "2022-01-07 11:14:00"
+        },
+        {
+            "nodeID": "829655",
+            "text": "consistent with the fact of suspension of normal politics, there is a wave of relief in the country at the arrival and, yes, the effective distribution of the vaccine",
+            "type": "I",
+            "timestamp": "2022-01-07 11:14:00"
+        },
+        {
+            "nodeID": "829656",
+            "text": "Anna: John Bercow : I think you have to allow for the fact, consistent with the fact of suspension of normal politics, there is a wave of relief in the country at the arrival and, yes, the effective distribution of the vaccine",
+            "type": "L",
+            "timestamp": "2022-01-07 11:14:01"
+        },
+        {
+            "nodeID": "829658",
+            "text": "John Bercow : and a desire to reward the government",
+            "type": "L",
+            "timestamp": "2022-01-07 11:14:02"
+        },
+        {
+            "nodeID": "829660",
+            "text": "there is a desire to reward the government",
+            "type": "I",
+            "timestamp": "2022-01-07 11:14:02"
+        },
+        {
+            "nodeID": "829661",
+            "text": "Anna: John Bercow : and a desire to reward the government",
+            "type": "L",
+            "timestamp": "2022-01-07 11:14:03"
+        },
+        {
+            "nodeID": "869151",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 17:25:01",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "869168",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 17:25:58",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "869169",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 17:25:58",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "869172",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 17:25:58",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "869173",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 17:25:58",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "869177",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 17:25:58",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "869179",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 17:25:58",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "869180",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 17:25:58",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "869181",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 17:25:58",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "869185",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 17:25:58",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "869188",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 17:25:58",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "869191",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 17:25:58",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "869192",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 17:25:58",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "869194",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 17:25:58",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "869196",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 17:25:58",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "869199",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 17:26:00",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "869201",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 17:26:02",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "869205",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 17:26:02",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "1086703",
+            "fromID": "829554",
+            "toID": "869151",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086704",
+            "fromID": "869151",
+            "toID": "827719",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086737",
+            "fromID": "827719",
+            "toID": "869168",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086738",
+            "fromID": "869168",
+            "toID": "829561",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086739",
+            "fromID": "829561",
+            "toID": "869169",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086740",
+            "fromID": "869169",
+            "toID": "829565",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086745",
+            "fromID": "829565",
+            "toID": "869172",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086746",
+            "fromID": "869172",
+            "toID": "829569",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086747",
+            "fromID": "829569",
+            "toID": "869173",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086748",
+            "fromID": "869173",
+            "toID": "829573",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086755",
+            "fromID": "829569",
+            "toID": "869177",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086756",
+            "fromID": "869177",
+            "toID": "829577",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086759",
+            "fromID": "829577",
+            "toID": "869179",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086760",
+            "fromID": "869179",
+            "toID": "829581",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086761",
+            "fromID": "829581",
+            "toID": "869180",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086762",
+            "fromID": "869180",
+            "toID": "829585",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086763",
+            "fromID": "829585",
+            "toID": "869181",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086764",
+            "fromID": "869181",
+            "toID": "829589",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086771",
+            "fromID": "829589",
+            "toID": "869185",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086772",
+            "fromID": "869185",
+            "toID": "829593",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086777",
+            "fromID": "829585",
+            "toID": "869188",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086778",
+            "fromID": "869188",
+            "toID": "829597",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086784",
+            "fromID": "829603",
+            "toID": "869191",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086785",
+            "fromID": "869191",
+            "toID": "829611",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086786",
+            "fromID": "829603",
+            "toID": "869192",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086787",
+            "fromID": "869192",
+            "toID": "829607",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086790",
+            "fromID": "829611",
+            "toID": "869194",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086791",
+            "fromID": "869194",
+            "toID": "829615",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086794",
+            "fromID": "829561",
+            "toID": "869196",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086795",
+            "fromID": "869196",
+            "toID": "829619",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086800",
+            "fromID": "829597",
+            "toID": "869199",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086801",
+            "fromID": "869199",
+            "toID": "829653",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086804",
+            "fromID": "829653",
+            "toID": "869201",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086805",
+            "fromID": "869201",
+            "toID": "829658",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086812",
+            "fromID": "829658",
+            "toID": "869205",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1086813",
+            "fromID": "869205",
+            "toID": "829615",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "827719",
+            "personID": "3733",
+            "timestamp": "2022-01-14 16:15:48",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "829554",
+            "personID": "3731",
+            "timestamp": "2022-01-14 17:26:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "827719",
+            "personID": "3733",
+            "timestamp": "2022-01-14 17:26:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "829561",
+            "personID": "3733",
+            "timestamp": "2022-01-14 17:26:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "829565",
+            "personID": "3733",
+            "timestamp": "2022-01-14 17:26:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "829569",
+            "personID": "3733",
+            "timestamp": "2022-01-14 17:26:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "829573",
+            "personID": "3733",
+            "timestamp": "2022-01-14 17:26:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "829577",
+            "personID": "3733",
+            "timestamp": "2022-01-14 17:26:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "829581",
+            "personID": "3733",
+            "timestamp": "2022-01-14 17:26:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "829585",
+            "personID": "3733",
+            "timestamp": "2022-01-14 17:26:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "829589",
+            "personID": "3733",
+            "timestamp": "2022-01-14 17:26:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "829593",
+            "personID": "3733",
+            "timestamp": "2022-01-14 17:26:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "829597",
+            "personID": "3733",
+            "timestamp": "2022-01-14 17:26:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "829603",
+            "personID": "3733",
+            "timestamp": "2022-01-14 17:26:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "829607",
+            "personID": "3733",
+            "timestamp": "2022-01-14 17:26:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "829611",
+            "personID": "3733",
+            "timestamp": "2022-01-14 17:26:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "829615",
+            "personID": "3733",
+            "timestamp": "2022-01-14 17:26:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "829619",
+            "personID": "3733",
+            "timestamp": "2022-01-14 17:26:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "829653",
+            "personID": "3733",
+            "timestamp": "2022-01-14 17:26:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "829658",
+            "personID": "3733",
+            "timestamp": "2022-01-14 17:26:02",
+            "start": null,
+            "end": null,
+            "source": null
+        }
+    ]
+}

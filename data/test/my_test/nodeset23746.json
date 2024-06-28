@@ -1,0 +1,644 @@
+{
+    "nodes": [
+        {
+            "nodeID": "765615",
+            "text": "xxx is how GP practices be supported to provide quality care for patients",
+            "type": "I",
+            "timestamp": "2021-10-08 08:20:42"
+        },
+        {
+            "nodeID": "765616",
+            "text": "AudienceMember 20210930QT32 : How can GP practices be supported to provide quality care for patients",
+            "type": "L",
+            "timestamp": "2021-10-08 08:20:42"
+        },
+        {
+            "nodeID": "765841",
+            "text": "Munira Wilson : you got the injunction that you needed",
+            "type": "L",
+            "timestamp": "2021-10-08 08:22:05"
+        },
+        {
+            "nodeID": "765843",
+            "text": "Munira Wilson : now are doing a combination of both remote and",
+            "type": "L",
+            "timestamp": "2021-10-08 08:22:05"
+        },
+        {
+            "nodeID": "815141",
+            "text": "Grant Shapps got the injunction that he needed",
+            "type": "I",
+            "timestamp": "2022-01-06 16:08:59"
+        },
+        {
+            "nodeID": "815142",
+            "text": "Anon: Munira Wilson : you got the injunction that you needed",
+            "type": "L",
+            "timestamp": "2022-01-06 16:09:00"
+        },
+        {
+            "nodeID": "815143",
+            "text": "Grant Shapps : only on the M25",
+            "type": "L",
+            "timestamp": "2022-01-06 16:09:00"
+        },
+        {
+            "nodeID": "815145",
+            "text": "only on the M25 did Grant Shapps get the injunction that he needed",
+            "type": "I",
+            "timestamp": "2022-01-06 16:09:01"
+        },
+        {
+            "nodeID": "815146",
+            "text": "Anon: Grant Shapps : only on the M25",
+            "type": "L",
+            "timestamp": "2022-01-06 16:09:01"
+        },
+        {
+            "nodeID": "815150",
+            "text": "Grant Shapps : now you're suggesting I get a judge to go out and do every single motorway separately",
+            "type": "L",
+            "timestamp": "2022-01-06 16:09:02"
+        },
+        {
+            "nodeID": "815151",
+            "text": "Grant Shapps should get a judge out to do every single motorway separately",
+            "type": "I",
+            "timestamp": "2022-01-06 16:09:03"
+        },
+        {
+            "nodeID": "815152",
+            "text": "Anon: Grant Shapps : now you're suggesting I get a judge to go out and do every single motorway separately",
+            "type": "L",
+            "timestamp": "2022-01-06 16:09:03"
+        },
+        {
+            "nodeID": "815154",
+            "text": "Munira Wilson : get a judge to go out and do every single motorway separately",
+            "type": "L",
+            "timestamp": "2022-01-06 16:09:04"
+        },
+        {
+            "nodeID": "815155",
+            "text": "Anon: Munira Wilson : now you're suggesting I get a judge to go out and do every single motorway separately",
+            "type": "L",
+            "timestamp": "2022-01-06 16:09:04"
+        },
+        {
+            "nodeID": "815158",
+            "text": "Grant Shapps : we need laws which do the obvious things that we all agree with",
+            "type": "L",
+            "timestamp": "2022-01-06 16:09:05"
+        },
+        {
+            "nodeID": "815160",
+            "text": "we need laws which do the obvious things that we all agree with",
+            "type": "I",
+            "timestamp": "2022-01-06 16:09:05"
+        },
+        {
+            "nodeID": "815161",
+            "text": "Anon: Grant Shapps : we need laws which do the obvious things that we all agree with",
+            "type": "L",
+            "timestamp": "2022-01-06 16:09:06"
+        },
+        {
+            "nodeID": "815165",
+            "text": "AudienceMember 20210930QT32 : The prime minister has said that we should all be able to see our GP face to face if we'd like to",
+            "type": "L",
+            "timestamp": "2022-01-06 16:09:06"
+        },
+        {
+            "nodeID": "815166",
+            "text": "we should all be able to see our GP face to face if we'd like to",
+            "type": "I",
+            "timestamp": "2022-01-06 16:09:07"
+        },
+        {
+            "nodeID": "815167",
+            "text": "Anon: AudienceMember 20210930QT32 : The prime minister has said that we should all be able to see our GP face to face if we'd like to",
+            "type": "L",
+            "timestamp": "2022-01-06 16:09:08"
+        },
+        {
+            "nodeID": "815169",
+            "text": "Boris Johnson : we should all be able to see our GP face to face if we'd like to",
+            "type": "L",
+            "timestamp": "2022-01-06 16:09:08"
+        },
+        {
+            "nodeID": "815170",
+            "text": "Anon: Boris Johnson : the prime minister has said that we should all be able to see our GP face to face if we'd like to",
+            "type": "L",
+            "timestamp": "2022-01-06 16:09:09"
+        },
+        {
+            "nodeID": "815174",
+            "text": "Anon: AudienceMember 20210930QT32 : How can GP practices be supported to provide quality care for patients",
+            "type": "L",
+            "timestamp": "2022-01-06 16:09:10"
+        },
+        {
+            "nodeID": "815176",
+            "text": "Munira Wilson : our GPs have done a phenomenal job throughout this pandemic",
+            "type": "L",
+            "timestamp": "2022-01-06 16:09:11"
+        },
+        {
+            "nodeID": "815178",
+            "text": "our GPs have done a phenomenal job throughout this pandemic",
+            "type": "I",
+            "timestamp": "2022-01-06 16:09:11"
+        },
+        {
+            "nodeID": "815179",
+            "text": "Anon: Munira Wilson : our GPs have done a phenomenal job throughout this pandemic",
+            "type": "L",
+            "timestamp": "2022-01-06 16:09:12"
+        },
+        {
+            "nodeID": "815181",
+            "text": "Munira Wilson : They've worked incredibly hard",
+            "type": "L",
+            "timestamp": "2022-01-06 16:09:12"
+        },
+        {
+            "nodeID": "815183",
+            "text": "our GPs have worked incredibly hard",
+            "type": "I",
+            "timestamp": "2022-01-06 16:09:13"
+        },
+        {
+            "nodeID": "815184",
+            "text": "Anon: Munira Wilson : They've worked incredibly hard",
+            "type": "L",
+            "timestamp": "2022-01-06 16:09:14"
+        },
+        {
+            "nodeID": "815188",
+            "text": "Munira Wilson : Obviously in the recent months they've been rolling out the vaccination programme",
+            "type": "L",
+            "timestamp": "2022-01-06 16:09:14"
+        },
+        {
+            "nodeID": "815190",
+            "text": "obviously in the recent months our GPs have been rolling out the vaccination programme",
+            "type": "I",
+            "timestamp": "2022-01-06 16:09:15"
+        },
+        {
+            "nodeID": "815191",
+            "text": "Anon: Munira Wilson : Obviously in the recent months they've been rolling out the vaccination programme",
+            "type": "L",
+            "timestamp": "2022-01-06 16:09:15"
+        },
+        {
+            "nodeID": "815195",
+            "text": "they have been working throughout, seeing people, initially largely remotely, and now are doing a combination of both remote and",
+            "type": "L",
+            "timestamp": "2022-01-06 16:09:16"
+        },
+        {
+            "nodeID": "815196",
+            "text": "Munira Wilson : they have been working throughout, seeing people, initially largely remotely",
+            "type": "L",
+            "timestamp": "2022-01-06 16:09:16"
+        },
+        {
+            "nodeID": "815198",
+            "text": "they have been working throughout the pandemic, seeing people, initially largely remotely",
+            "type": "I",
+            "timestamp": "2022-01-06 16:09:17"
+        },
+        {
+            "nodeID": "815199",
+            "text": "Anon: Munira Wilson : they have been working throughout, seeing people, initially largely remotely",
+            "type": "L",
+            "timestamp": "2022-01-06 16:09:17"
+        },
+        {
+            "nodeID": "815204",
+            "text": "now are doing a combination of both remote and seeing patients face to face",
+            "type": "I",
+            "timestamp": "2022-01-06 16:09:19"
+        },
+        {
+            "nodeID": "815205",
+            "text": "Anon: Munira Wilson : now are doing a combination of both remote and",
+            "type": "L",
+            "timestamp": "2022-01-06 16:09:19"
+        },
+        {
+            "nodeID": "863120",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 11:31:25",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "863125",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 11:31:28",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "863127",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 11:31:30",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "863132",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 11:31:33",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "863134",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 11:31:34",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "863136",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 11:31:36",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "863138",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 11:31:38",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "863142",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 11:31:39",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "863146",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 11:31:42",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "863150",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 11:31:44",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "1075275",
+            "fromID": "765841",
+            "toID": "863120",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1075276",
+            "fromID": "863120",
+            "toID": "815143",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1075285",
+            "fromID": "815143",
+            "toID": "863125",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1075286",
+            "fromID": "863125",
+            "toID": "815150",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1075289",
+            "fromID": "815150",
+            "toID": "863127",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1075290",
+            "fromID": "863127",
+            "toID": "815158",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1075299",
+            "fromID": "815158",
+            "toID": "863132",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1075300",
+            "fromID": "863132",
+            "toID": "815165",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1075303",
+            "fromID": "815165",
+            "toID": "863134",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1075304",
+            "fromID": "863134",
+            "toID": "765616",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1075307",
+            "fromID": "765616",
+            "toID": "863136",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1075308",
+            "fromID": "863136",
+            "toID": "815176",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1075311",
+            "fromID": "815176",
+            "toID": "863138",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1075312",
+            "fromID": "863138",
+            "toID": "815181",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1075319",
+            "fromID": "815181",
+            "toID": "863142",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1075320",
+            "fromID": "863142",
+            "toID": "815188",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1075327",
+            "fromID": "815181",
+            "toID": "863146",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1075328",
+            "fromID": "863146",
+            "toID": "815196",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1075335",
+            "fromID": "815196",
+            "toID": "863150",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1075336",
+            "fromID": "863150",
+            "toID": "765843",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "765841",
+            "personID": "3732",
+            "timestamp": "2022-01-13 22:04:36",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "815143",
+            "personID": "3730",
+            "timestamp": "2022-01-13 22:04:36",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "815150",
+            "personID": "3730",
+            "timestamp": "2022-01-13 22:04:36",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "815154",
+            "personID": "3732",
+            "timestamp": "2022-01-13 22:04:36",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "815158",
+            "personID": "3730",
+            "timestamp": "2022-01-13 22:04:36",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "815165",
+            "personID": "5525",
+            "timestamp": "2022-01-13 22:04:36",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "815169",
+            "personID": "5554",
+            "timestamp": "2022-01-13 22:04:36",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "765616",
+            "personID": "5525",
+            "timestamp": "2022-01-13 22:04:36",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "815176",
+            "personID": "3732",
+            "timestamp": "2022-01-13 22:04:36",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "815181",
+            "personID": "3732",
+            "timestamp": "2022-01-13 22:04:36",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "815188",
+            "personID": "3732",
+            "timestamp": "2022-01-13 22:04:36",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "815196",
+            "personID": "3732",
+            "timestamp": "2022-01-13 22:04:36",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "765843",
+            "personID": "3732",
+            "timestamp": "2022-01-13 22:04:36",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "765841",
+            "personID": "3732",
+            "timestamp": "2022-01-14 11:31:44",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "815143",
+            "personID": "3730",
+            "timestamp": "2022-01-14 11:31:44",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "815150",
+            "personID": "3730",
+            "timestamp": "2022-01-14 11:31:44",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "815154",
+            "personID": "3732",
+            "timestamp": "2022-01-14 11:31:44",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "815158",
+            "personID": "3730",
+            "timestamp": "2022-01-14 11:31:44",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "815165",
+            "personID": "5525",
+            "timestamp": "2022-01-14 11:31:44",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "815169",
+            "personID": "5554",
+            "timestamp": "2022-01-14 11:31:44",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "765616",
+            "personID": "5525",
+            "timestamp": "2022-01-14 11:31:44",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "815176",
+            "personID": "3732",
+            "timestamp": "2022-01-14 11:31:44",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "815181",
+            "personID": "3732",
+            "timestamp": "2022-01-14 11:31:44",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "815188",
+            "personID": "3732",
+            "timestamp": "2022-01-14 11:31:44",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "815196",
+            "personID": "3732",
+            "timestamp": "2022-01-14 11:31:44",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "765843",
+            "personID": "3732",
+            "timestamp": "2022-01-14 11:31:44",
+            "start": null,
+            "end": null,
+            "source": null
+        }
+    ]
+}

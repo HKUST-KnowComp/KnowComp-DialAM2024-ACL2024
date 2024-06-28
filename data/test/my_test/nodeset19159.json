@@ -1,0 +1,1116 @@
+{
+    "nodes": [
+        {
+            "nodeID": "22328",
+            "text": "no",
+            "type": "I",
+            "timestamp": "2013-03-20 12:21:59"
+        },
+        {
+            "nodeID": "594100",
+            "text": "Bonnie Greer : I gave you your respect at the beginning, Anthony",
+            "type": "L",
+            "timestamp": "2020-11-05 20:14:48"
+        },
+        {
+            "nodeID": "594102",
+            "text": "Bonnie Greer gave Anthony Scaramucci his respect at the beginning",
+            "type": "I",
+            "timestamp": "2020-11-05 20:14:49"
+        },
+        {
+            "nodeID": "594103",
+            "text": "Kamila: Bonnie Greer : I gave you your respect at the beginning, Anthony",
+            "type": "L",
+            "timestamp": "2020-11-05 20:14:49"
+        },
+        {
+            "nodeID": "594104",
+            "text": "Bonnie Greer : That’s why I did that",
+            "type": "L",
+            "timestamp": "2020-11-05 20:14:50"
+        },
+        {
+            "nodeID": "594106",
+            "text": "that’s why Bonnie Greer gave Anthony Scaramucci respect",
+            "type": "I",
+            "timestamp": "2020-11-05 20:14:50"
+        },
+        {
+            "nodeID": "594107",
+            "text": "Kamila: Bonnie Greer : That’s why I did that",
+            "type": "L",
+            "timestamp": "2020-11-05 20:14:50"
+        },
+        {
+            "nodeID": "594108",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 20:14:50",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "594111",
+            "text": "Anthony Scaramucci : No",
+            "type": "L",
+            "timestamp": "2020-11-05 20:14:51"
+        },
+        {
+            "nodeID": "594113",
+            "text": "Kamila: Anthony Scaramucci : No",
+            "type": "L",
+            "timestamp": "2020-11-05 20:14:52"
+        },
+        {
+            "nodeID": "594114",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 20:14:52",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "594115",
+            "text": "Anthony Scaramucci : I appreciate that",
+            "type": "L",
+            "timestamp": "2020-11-05 20:14:52"
+        },
+        {
+            "nodeID": "594117",
+            "text": "Anthony Scaramucci appreciates that Bonnie Greer gave him respect",
+            "type": "I",
+            "timestamp": "2020-11-05 20:14:53"
+        },
+        {
+            "nodeID": "594118",
+            "text": "Kamila: Anthony Scaramucci : I appreciate that",
+            "type": "L",
+            "timestamp": "2020-11-05 20:14:53"
+        },
+        {
+            "nodeID": "594119",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 20:14:53",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "594120",
+            "text": "Anthony Scaramucci : I want everybody to know that’s watching the show you have to be very careful with your decision making",
+            "type": "L",
+            "timestamp": "2020-11-05 20:14:54"
+        },
+        {
+            "nodeID": "594122",
+            "text": "Anthony Scaramucci wants everybody to know that’s watching the show you have to be very careful with your decision making",
+            "type": "I",
+            "timestamp": "2020-11-05 20:14:54"
+        },
+        {
+            "nodeID": "594123",
+            "text": "Kamila: Anthony Scaramucci : I want everybody to know that’s watching the show you have to be very careful with your decision making",
+            "type": "L",
+            "timestamp": "2020-11-05 20:14:54"
+        },
+        {
+            "nodeID": "594124",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 20:14:54",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "594125",
+            "text": "Anthony Scaramucci : you can get your pride and ego involved with your decision making",
+            "type": "L",
+            "timestamp": "2020-11-05 20:14:55"
+        },
+        {
+            "nodeID": "594127",
+            "text": "you can get your pride and ego involved with your decision making",
+            "type": "I",
+            "timestamp": "2020-11-05 20:14:55"
+        },
+        {
+            "nodeID": "594128",
+            "text": "Kamila: Anthony Scaramucci : you can get your pride and ego involved with your decision making",
+            "type": "L",
+            "timestamp": "2020-11-05 20:14:56"
+        },
+        {
+            "nodeID": "594129",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 20:14:56",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "594132",
+            "text": "Anthony Scaramucci : then your emotions are going up and your intelligence is going down",
+            "type": "L",
+            "timestamp": "2020-11-05 20:14:56"
+        },
+        {
+            "nodeID": "594134",
+            "text": "if you get your pride and ego involved with your decision making then your emotions are going up and your intelligence is going down",
+            "type": "I",
+            "timestamp": "2020-11-05 20:14:57"
+        },
+        {
+            "nodeID": "594135",
+            "text": "Kamila: Anthony Scaramucci : then your emotions are going up and your intelligence is going down",
+            "type": "L",
+            "timestamp": "2020-11-05 20:14:57"
+        },
+        {
+            "nodeID": "594136",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 20:14:57",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "594139",
+            "text": "Anthony Scaramucci : I had a self-narrative that was ego based",
+            "type": "L",
+            "timestamp": "2020-11-05 20:14:57"
+        },
+        {
+            "nodeID": "594141",
+            "text": "Anthony Scaramucci had a self-narrative that was ego based",
+            "type": "I",
+            "timestamp": "2020-11-05 20:14:58"
+        },
+        {
+            "nodeID": "594142",
+            "text": "Kamila: Anthony Scaramucci : I had a self-narrative that was ego based",
+            "type": "L",
+            "timestamp": "2020-11-05 20:14:58"
+        },
+        {
+            "nodeID": "594143",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 20:14:58",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "594144",
+            "text": "Anthony Scaramucci : I grew up in this blue power family",
+            "type": "L",
+            "timestamp": "2020-11-05 20:14:59"
+        },
+        {
+            "nodeID": "594146",
+            "text": "Anthony Scaramucci grew up in this blue power family",
+            "type": "I",
+            "timestamp": "2020-11-05 20:14:59"
+        },
+        {
+            "nodeID": "594147",
+            "text": "Kamila: Anthony Scaramucci : I grew up in this blue power family",
+            "type": "L",
+            "timestamp": "2020-11-05 20:15:00"
+        },
+        {
+            "nodeID": "594148",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 20:15:00",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "594151",
+            "text": "Anthony Scaramucci : I had some measure of financial success in the United States",
+            "type": "L",
+            "timestamp": "2020-11-05 20:15:00"
+        },
+        {
+            "nodeID": "594153",
+            "text": "Anthony Scaramucci had some measure of financial success in the United States",
+            "type": "I",
+            "timestamp": "2020-11-05 20:15:00"
+        },
+        {
+            "nodeID": "594154",
+            "text": "Kamila: Anthony Scaramucci : I had some measure of financial success in the United States",
+            "type": "L",
+            "timestamp": "2020-11-05 20:15:01"
+        },
+        {
+            "nodeID": "594155",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 20:15:01",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "594158",
+            "text": "Anthony Scaramucci : I wanted to work in that White House",
+            "type": "L",
+            "timestamp": "2020-11-05 20:15:01"
+        },
+        {
+            "nodeID": "594160",
+            "text": "Anthony Scaramucci wanted to work in that White House",
+            "type": "I",
+            "timestamp": "2020-11-05 20:15:02"
+        },
+        {
+            "nodeID": "594161",
+            "text": "Kamila: Anthony Scaramucci : I wanted to work in that White House",
+            "type": "L",
+            "timestamp": "2020-11-05 20:15:02"
+        },
+        {
+            "nodeID": "594162",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 20:15:02",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "594165",
+            "text": "Kamila: Anthony Scaramucci : I was normalising the President because I said, okay, he’s the successor of Abraham Lincoln and Dwight Eisenhower, he can’t actually be this crazy",
+            "type": "L",
+            "timestamp": "2020-11-05 20:15:03"
+        },
+        {
+            "nodeID": "594166",
+            "text": "Anthony Scaramucci :  I was normalising the President",
+            "type": "L",
+            "timestamp": "2020-11-05 20:15:04"
+        },
+        {
+            "nodeID": "594168",
+            "text": "Anthony Scaramucci was normalising the President",
+            "type": "I",
+            "timestamp": "2020-11-05 20:15:04"
+        },
+        {
+            "nodeID": "594169",
+            "text": "Kamila: Anthony Scaramucci :  I was normalising the President",
+            "type": "L",
+            "timestamp": "2020-11-05 20:15:04"
+        },
+        {
+            "nodeID": "594170",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 20:15:04",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "594171",
+            "text": "Anthony Scaramucci : he’s the successor of Abraham Lincoln and Dwight Eisenhower, he can’t actually be this crazy",
+            "type": "L",
+            "timestamp": "2020-11-05 20:15:05"
+        },
+        {
+            "nodeID": "594173",
+            "text": "the president is the successor of Abraham Lincoln and Dwight Eisenhower, he can’t actually be this crazy",
+            "type": "I",
+            "timestamp": "2020-11-05 20:15:05"
+        },
+        {
+            "nodeID": "594174",
+            "text": "Kamila: Anthony Scaramucci : he’s the successor of Abraham Lincoln and Dwight Eisenhower, he can’t actually be this crazy",
+            "type": "L",
+            "timestamp": "2020-11-05 20:15:06"
+        },
+        {
+            "nodeID": "594175",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 20:15:06",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "594178",
+            "text": "Bonnie Greer : he was",
+            "type": "L",
+            "timestamp": "2020-11-05 20:15:06"
+        },
+        {
+            "nodeID": "594180",
+            "text": "the president was actually this crazy",
+            "type": "I",
+            "timestamp": "2020-11-05 20:15:07"
+        },
+        {
+            "nodeID": "594181",
+            "text": "Kamila: Bonnie Greer : he was",
+            "type": "L",
+            "timestamp": "2020-11-05 20:15:07"
+        },
+        {
+            "nodeID": "594182",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 20:15:07",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "594185",
+            "text": "Anthony Scaramucci : I was overriding rationality",
+            "type": "L",
+            "timestamp": "2020-11-05 20:15:08"
+        },
+        {
+            "nodeID": "594187",
+            "text": "Anthony Scaramucci was overriding rationality",
+            "type": "I",
+            "timestamp": "2020-11-05 20:15:08"
+        },
+        {
+            "nodeID": "594188",
+            "text": "Kamila: Anthony Scaramucci : I was overriding rationality",
+            "type": "L",
+            "timestamp": "2020-11-05 20:15:08"
+        },
+        {
+            "nodeID": "594189",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 20:15:08",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "594192",
+            "text": "Anthony Scaramucci : I have to own that",
+            "type": "L",
+            "timestamp": "2020-11-05 20:15:09"
+        },
+        {
+            "nodeID": "594194",
+            "text": "Anthony Scaramucci has to own that he was overriding rationality",
+            "type": "I",
+            "timestamp": "2020-11-05 20:15:09"
+        },
+        {
+            "nodeID": "594195",
+            "text": "Kamila: Anthony Scaramucci : I have to own that",
+            "type": "L",
+            "timestamp": "2020-11-05 20:15:10"
+        },
+        {
+            "nodeID": "594196",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 20:15:10",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "594199",
+            "text": "Anthony Scaramucci : I’m just telling that as a cautionary tale for others, try to put your pride and ego aside when you’re making decisions that are political or relationship based or in your business",
+            "type": "L",
+            "timestamp": "2020-11-05 20:15:10"
+        },
+        {
+            "nodeID": "594201",
+            "text": "Anthony Scaramucci is just telling that as a cautionary tale for others, try to put your pride and ego aside when you’re making decisions that are political or relationship based or in your business",
+            "type": "I",
+            "timestamp": "2020-11-05 20:15:11"
+        },
+        {
+            "nodeID": "594202",
+            "text": "Kamila: Anthony Scaramucci : I’m just telling that as a cautionary tale for others, try to put your pride and ego aside when you’re making decisions that are political or relationship based or in your business",
+            "type": "L",
+            "timestamp": "2020-11-05 20:15:11"
+        },
+        {
+            "nodeID": "594203",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 20:15:11",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "594206",
+            "text": "Kamila: Female Aud 2 : I hear what Anthony is saying and it seems that some Republicans are getting buyer’s remorse and regretting that Donald Trump is their representative in the presidential race",
+            "type": "L",
+            "timestamp": "2020-11-05 20:15:12"
+        },
+        {
+            "nodeID": "594207",
+            "text": "Female Aud 2 : they’ve had opportunities through impeachment and others to, as it were, remove him",
+            "type": "L",
+            "timestamp": "2020-11-05 20:15:12"
+        },
+        {
+            "nodeID": "594209",
+            "text": "republicans have had opportunities through impeachment and others to, as it were, remove him",
+            "type": "I",
+            "timestamp": "2020-11-05 20:15:12"
+        },
+        {
+            "nodeID": "594210",
+            "text": "Kamila: Female Aud 2 : they’ve had opportunities through impeachment and others to, as it were, remove him",
+            "type": "L",
+            "timestamp": "2020-11-05 20:15:13"
+        },
+        {
+            "nodeID": "594211",
+            "text": "Female Aud 2 : it seems that some Republicans are getting buyer’s remorse and regretting that Donald Trump is their representative in the presidential race",
+            "type": "L",
+            "timestamp": "2020-11-05 20:15:14"
+        },
+        {
+            "nodeID": "594214",
+            "text": "it seems that some Republicans are getting buyer’s remorse and regretting that Donald Trump is their representative in the presidential race",
+            "type": "I",
+            "timestamp": "2020-11-05 20:15:14"
+        },
+        {
+            "nodeID": "594217",
+            "text": "Kamila: Female Aud 2 : it seems that some Republicans are getting buyer’s remorse and regretting that Donald Trump is their representative in the presidential race",
+            "type": "L",
+            "timestamp": "2020-11-05 20:15:15"
+        },
+        {
+            "nodeID": "594218",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 20:15:15",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "594219",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 20:15:15",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "594224",
+            "text": "Female Aud 2 : Why didn’t they take them",
+            "type": "L",
+            "timestamp": "2020-11-05 20:15:16"
+        },
+        {
+            "nodeID": "594226",
+            "text": "xxx is why republicans didn't take opportunities to remove the president from office",
+            "type": "I",
+            "timestamp": "2020-11-05 20:15:16"
+        },
+        {
+            "nodeID": "594230",
+            "text": "Kamila: Female Aud 2 : Why didn’t they take them",
+            "type": "L",
+            "timestamp": "2020-11-05 20:15:17"
+        },
+        {
+            "nodeID": "594231",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 20:15:17",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "594234",
+            "text": "Female Aud 2 : Did they put wanting to hold onto power ahead of what was good for their country",
+            "type": "L",
+            "timestamp": "2020-11-05 20:15:17"
+        },
+        {
+            "nodeID": "594237",
+            "text": "Republicans did/didn't put wanting to hold onto power ahead of what was good for their country",
+            "type": "I",
+            "timestamp": "2020-11-05 20:15:18"
+        },
+        {
+            "nodeID": "594241",
+            "text": "Kamila: Female Aud 2 : Did they put wanting to hold onto power ahead of what was good for their country",
+            "type": "L",
+            "timestamp": "2020-11-05 20:15:19"
+        },
+        {
+            "nodeID": "594242",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 20:15:19",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "594245",
+            "text": "Bonnie Greer : Yes",
+            "type": "L",
+            "timestamp": "2020-11-05 20:15:19"
+        },
+        {
+            "nodeID": "594248",
+            "text": "Republicans did put wanting to old onto power ahead of what was good for their country",
+            "type": "I",
+            "timestamp": "2020-11-05 20:15:20"
+        },
+        {
+            "nodeID": "594249",
+            "text": "Kamila: Bonnie Greer : Yes",
+            "type": "L",
+            "timestamp": "2020-11-05 20:15:21"
+        },
+        {
+            "nodeID": "594250",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 20:15:21",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "772040",
+            "fromID": "594100",
+            "toID": "594108",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772041",
+            "fromID": "594108",
+            "toID": "594104",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772048",
+            "fromID": "594104",
+            "toID": "594114",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772049",
+            "fromID": "594114",
+            "toID": "594111",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772052",
+            "fromID": "594104",
+            "toID": "594119",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772053",
+            "fromID": "594119",
+            "toID": "594115",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772056",
+            "fromID": "594115",
+            "toID": "594124",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772057",
+            "fromID": "594124",
+            "toID": "594120",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772060",
+            "fromID": "594120",
+            "toID": "594129",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772061",
+            "fromID": "594129",
+            "toID": "594125",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772068",
+            "fromID": "594125",
+            "toID": "594136",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772069",
+            "fromID": "594136",
+            "toID": "594132",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772076",
+            "fromID": "594132",
+            "toID": "594143",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772077",
+            "fromID": "594143",
+            "toID": "594139",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772080",
+            "fromID": "594139",
+            "toID": "594148",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772081",
+            "fromID": "594148",
+            "toID": "594144",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772088",
+            "fromID": "594144",
+            "toID": "594155",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772089",
+            "fromID": "594155",
+            "toID": "594151",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772096",
+            "fromID": "594151",
+            "toID": "594162",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772097",
+            "fromID": "594162",
+            "toID": "594158",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772104",
+            "fromID": "594158",
+            "toID": "594170",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772105",
+            "fromID": "594170",
+            "toID": "594166",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772108",
+            "fromID": "594166",
+            "toID": "594175",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772109",
+            "fromID": "594175",
+            "toID": "594171",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772116",
+            "fromID": "594171",
+            "toID": "594182",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772117",
+            "fromID": "594182",
+            "toID": "594178",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772124",
+            "fromID": "594171",
+            "toID": "594189",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772125",
+            "fromID": "594189",
+            "toID": "594185",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772132",
+            "fromID": "594185",
+            "toID": "594196",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772133",
+            "fromID": "594196",
+            "toID": "594192",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772140",
+            "fromID": "594192",
+            "toID": "594203",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772141",
+            "fromID": "594203",
+            "toID": "594199",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772150",
+            "fromID": "594199",
+            "toID": "594218",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772151",
+            "fromID": "594218",
+            "toID": "594211",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772152",
+            "fromID": "594211",
+            "toID": "594219",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772153",
+            "fromID": "594219",
+            "toID": "594207",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772160",
+            "fromID": "594207",
+            "toID": "594231",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772161",
+            "fromID": "594231",
+            "toID": "594224",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772164",
+            "fromID": "594224",
+            "toID": "594242",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772165",
+            "fromID": "594242",
+            "toID": "594234",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772168",
+            "fromID": "594234",
+            "toID": "594250",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "772169",
+            "fromID": "594250",
+            "toID": "594245",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "594100",
+            "personID": "4080",
+            "timestamp": "2020-11-05 20:15:21",
+            "start": "2020-10-15 22:22:09",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594104",
+            "personID": "4080",
+            "timestamp": "2020-11-05 20:15:21",
+            "start": "2020-10-15 22:22:10",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594111",
+            "personID": "4079",
+            "timestamp": "2020-11-05 20:15:21",
+            "start": "2020-10-15 22:22:11",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594115",
+            "personID": "4079",
+            "timestamp": "2020-11-05 20:15:21",
+            "start": "2020-10-15 22:22:11",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594120",
+            "personID": "4079",
+            "timestamp": "2020-11-05 20:15:21",
+            "start": "2020-10-15 22:22:12",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594125",
+            "personID": "4079",
+            "timestamp": "2020-11-05 20:15:21",
+            "start": "2020-10-15 22:22:19",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594132",
+            "personID": "4079",
+            "timestamp": "2020-11-05 20:15:21",
+            "start": "2020-10-15 22:22:23",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594139",
+            "personID": "4079",
+            "timestamp": "2020-11-05 20:15:21",
+            "start": "2020-10-15 22:22:27",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594144",
+            "personID": "4079",
+            "timestamp": "2020-11-05 20:15:21",
+            "start": "2020-10-15 22:22:29",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594151",
+            "personID": "4079",
+            "timestamp": "2020-11-05 20:15:21",
+            "start": "2020-10-15 22:22:32",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594158",
+            "personID": "4079",
+            "timestamp": "2020-11-05 20:15:21",
+            "start": "2020-10-15 22:22:35",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594166",
+            "personID": "4079",
+            "timestamp": "2020-11-05 20:15:21",
+            "start": "2020-10-15 22:22:37",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594171",
+            "personID": "4079",
+            "timestamp": "2020-11-05 20:15:21",
+            "start": "2020-10-15 22:22:43",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594178",
+            "personID": "4080",
+            "timestamp": "2020-11-05 20:15:21",
+            "start": "2020-10-15 22:22:45",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594185",
+            "personID": "4079",
+            "timestamp": "2020-11-05 20:15:21",
+            "start": "2020-10-15 22:22:46",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594192",
+            "personID": "4079",
+            "timestamp": "2020-11-05 20:15:21",
+            "start": "2020-10-15 22:22:48",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594199",
+            "personID": "4079",
+            "timestamp": "2020-11-05 20:15:21",
+            "start": "2020-10-15 22:22:56",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594207",
+            "personID": "3921",
+            "timestamp": "2020-11-05 20:15:21",
+            "start": "2020-10-15 22:23:16",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594211",
+            "personID": "3921",
+            "timestamp": "2020-11-05 20:15:21",
+            "start": "2020-10-15 22:23:06",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594224",
+            "personID": "3921",
+            "timestamp": "2020-11-05 20:15:21",
+            "start": "2020-10-15 22:23:19",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594234",
+            "personID": "3921",
+            "timestamp": "2020-11-05 20:15:21",
+            "start": "2020-10-15 22:23:24",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594245",
+            "personID": "4080",
+            "timestamp": "2020-11-05 20:15:21",
+            "start": "2020-10-15 22:23:26",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594245",
+            "personID": "4080",
+            "timestamp": "2020-11-05 20:19:27",
+            "start": "2020-10-15 22:26:15",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594245",
+            "personID": "3734",
+            "timestamp": "2021-12-23 17:15:28",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594245",
+            "personID": "5523",
+            "timestamp": "2022-01-06 12:05:03",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594245",
+            "personID": "5509",
+            "timestamp": "2022-01-10 11:05:22",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594245",
+            "personID": "5509",
+            "timestamp": "2022-01-10 11:08:21",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594245",
+            "personID": "5509",
+            "timestamp": "2022-01-10 11:12:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594245",
+            "personID": "5509",
+            "timestamp": "2022-01-10 11:15:37",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594245",
+            "personID": "5509",
+            "timestamp": "2022-01-10 11:19:35",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594245",
+            "personID": "5509",
+            "timestamp": "2022-01-10 11:24:09",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594245",
+            "personID": "3738",
+            "timestamp": "2022-01-12 13:09:36",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594245",
+            "personID": "3734",
+            "timestamp": "2022-01-12 13:09:44",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594245",
+            "personID": "4080",
+            "timestamp": "2022-05-30 21:43:53",
+            "start": "2020-10-15 23:26:15",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "594245",
+            "personID": "4080",
+            "timestamp": "2022-05-30 21:44:13",
+            "start": "2020-10-15 23:26:15",
+            "end": null,
+            "source": null
+        }
+    ]
+}

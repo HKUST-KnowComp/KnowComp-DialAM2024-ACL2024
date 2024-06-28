@@ -1,0 +1,1414 @@
+{
+    "nodes": [
+        {
+            "nodeID": "692115",
+            "text": "Keith Brown : you've obviously checked that fact",
+            "type": "L",
+            "timestamp": "2021-04-29 20:25:55"
+        },
+        {
+            "nodeID": "692117",
+            "text": "Anas Sarwar has obviously checked the fact of how many times someone has picked up the phone to call the crisis mental health service and the call's gone unanswered",
+            "type": "I",
+            "timestamp": "2021-04-29 20:25:56"
+        },
+        {
+            "nodeID": "692118",
+            "text": "Camilla: Keith Brown : you've obviously checked that fact",
+            "type": "L",
+            "timestamp": "2021-04-29 20:25:57"
+        },
+        {
+            "nodeID": "692119",
+            "text": "Anas Sarwar : Twenty-five thousand times someone's picked up the phone and the call's gone unanswered",
+            "type": "L",
+            "timestamp": "2021-04-29 20:25:58"
+        },
+        {
+            "nodeID": "692121",
+            "text": "twenty-five thousand times someone's picked up the phone and the call's gone unanswered",
+            "type": "I",
+            "timestamp": "2021-04-29 20:25:59"
+        },
+        {
+            "nodeID": "692122",
+            "text": "Camilla: Anas Sarwar : Twenty-five thousand times someone's picked up the phone and the call's gone unanswered",
+            "type": "L",
+            "timestamp": "2021-04-29 20:26:00"
+        },
+        {
+            "nodeID": "692124",
+            "text": "Anas Sarwar : How many children are waiting over a year for their mental health support right now",
+            "type": "L",
+            "timestamp": "2021-04-29 20:26:01"
+        },
+        {
+            "nodeID": "692126",
+            "text": "the number of children waiting over a year for their mental health support right now is xxx",
+            "type": "I",
+            "timestamp": "2021-04-29 20:26:02"
+        },
+        {
+            "nodeID": "692127",
+            "text": "Camilla: Anas Sarwar : How many children are waiting over a year for their mental health support right now",
+            "type": "L",
+            "timestamp": "2021-04-29 20:26:03"
+        },
+        {
+            "nodeID": "692129",
+            "text": "Anas Sarwar : Fifteen hundred children missing out on mental health support or waiting over a year",
+            "type": "L",
+            "timestamp": "2021-04-29 20:26:04"
+        },
+        {
+            "nodeID": "692131",
+            "text": "fifteen hundred children missing out on mental health support or waiting over a year",
+            "type": "I",
+            "timestamp": "2021-04-29 20:26:06"
+        },
+        {
+            "nodeID": "692132",
+            "text": "Camilla: Anas Sarwar : Fifteen hundred children missing out on mental health support or waiting over a year",
+            "type": "L",
+            "timestamp": "2021-04-29 20:26:06"
+        },
+        {
+            "nodeID": "692136",
+            "text": "Anas Sarwar : How many undiagnosed cancers have there been in the last year",
+            "type": "L",
+            "timestamp": "2021-04-29 20:26:08"
+        },
+        {
+            "nodeID": "692138",
+            "text": "the number of undiagnosed cancers there have been in the last year is xxx",
+            "type": "I",
+            "timestamp": "2021-04-29 20:26:09"
+        },
+        {
+            "nodeID": "692139",
+            "text": "Camilla: Anas Sarwar : How many undiagnosed cancers have there been in the last year",
+            "type": "L",
+            "timestamp": "2021-04-29 20:26:10"
+        },
+        {
+            "nodeID": "692141",
+            "text": "Anas Sarwar : Seven thousand undiagnosed cancers",
+            "type": "L",
+            "timestamp": "2021-04-29 20:26:11"
+        },
+        {
+            "nodeID": "692143",
+            "text": "seven thousand undiagnosed cancers in the last year",
+            "type": "I",
+            "timestamp": "2021-04-29 20:26:12"
+        },
+        {
+            "nodeID": "692144",
+            "text": "Camilla: Anas Sarwar : Seven thousand undiagnosed cancers",
+            "type": "L",
+            "timestamp": "2021-04-29 20:26:13"
+        },
+        {
+            "nodeID": "692148",
+            "text": "Camilla: Keith Brown : Are these questions to be answered or just a series of questions, Anas",
+            "type": "L",
+            "timestamp": "2021-04-29 20:26:14"
+        },
+        {
+            "nodeID": "692149",
+            "text": "Camilla: Anas Sarwar : if you don't know the answers to those questions",
+            "type": "L",
+            "timestamp": "2021-04-29 20:26:15"
+        },
+        {
+            "nodeID": "692150",
+            "text": "Keith Brown : Are these questions to be answered",
+            "type": "L",
+            "timestamp": "2021-04-29 20:26:16"
+        },
+        {
+            "nodeID": "692152",
+            "text": "these questions are or are not to be answered",
+            "type": "I",
+            "timestamp": "2021-04-29 20:26:17"
+        },
+        {
+            "nodeID": "692153",
+            "text": "Camilla: Keith Brown : Are these questions to be answered",
+            "type": "L",
+            "timestamp": "2021-04-29 20:26:19"
+        },
+        {
+            "nodeID": "692154",
+            "text": "Keith Brown : or just a series of questions",
+            "type": "L",
+            "timestamp": "2021-04-29 20:26:19"
+        },
+        {
+            "nodeID": "692156",
+            "text": "or these questions are just a series of questions",
+            "type": "I",
+            "timestamp": "2021-04-29 20:26:21"
+        },
+        {
+            "nodeID": "692157",
+            "text": "Camilla: Keith Brown : or just a series of questions",
+            "type": "L",
+            "timestamp": "2021-04-29 20:26:22"
+        },
+        {
+            "nodeID": "692160",
+            "text": "Anas Sarwar : if you don't know the answers to those questions",
+            "type": "L",
+            "timestamp": "2021-04-29 20:26:23"
+        },
+        {
+            "nodeID": "692162",
+            "text": "if you don't know the answers to those questions",
+            "type": "I",
+            "timestamp": "2021-04-29 20:26:24"
+        },
+        {
+            "nodeID": "692164",
+            "text": "Keith Brown : It's not the Anas Question Time Show",
+            "type": "L",
+            "timestamp": "2021-04-29 20:26:26"
+        },
+        {
+            "nodeID": "692166",
+            "text": "It's not the Anas Question Time Show",
+            "type": "I",
+            "timestamp": "2021-04-29 20:26:27"
+        },
+        {
+            "nodeID": "692167",
+            "text": "Camilla: Keith Brown : It's not the Anas Question Time Show",
+            "type": "L",
+            "timestamp": "2021-04-29 20:26:28"
+        },
+        {
+            "nodeID": "692169",
+            "text": "Anas Sarwar : You're in power for 14 years and they are huge challenges",
+            "type": "L",
+            "timestamp": "2021-04-29 20:26:29"
+        },
+        {
+            "nodeID": "692171",
+            "text": "SNP has been in power for 14 years and these questions are huge challenges",
+            "type": "I",
+            "timestamp": "2021-04-29 20:26:30"
+        },
+        {
+            "nodeID": "692172",
+            "text": "Camilla: Anas Sarwar : You're in power for 14 years and they are huge challenges",
+            "type": "L",
+            "timestamp": "2021-04-29 20:26:32"
+        },
+        {
+            "nodeID": "692174",
+            "text": "Camilla: Keith Brown : That's the question…you can answer some of these questions, Anas",
+            "type": "L",
+            "timestamp": "2021-04-29 20:26:33"
+        },
+        {
+            "nodeID": "692175",
+            "text": "Camilla: Keith Brown : That's the question",
+            "type": "L",
+            "timestamp": "2021-04-29 20:26:34"
+        },
+        {
+            "nodeID": "692176",
+            "text": "Keith Brown : you can answer some of these questions, Anas",
+            "type": "L",
+            "timestamp": "2021-04-29 20:26:34"
+        },
+        {
+            "nodeID": "692178",
+            "text": "Anas Sarwar can answer some of these questions",
+            "type": "I",
+            "timestamp": "2021-04-29 20:26:35"
+        },
+        {
+            "nodeID": "692179",
+            "text": "Camilla: Keith Brown : you can answer some of these questions, Anas",
+            "type": "L",
+            "timestamp": "2021-04-29 20:26:36"
+        },
+        {
+            "nodeID": "692180",
+            "text": "Anas Sarwar : They are huge challenges",
+            "type": "L",
+            "timestamp": "2021-04-29 20:26:37"
+        },
+        {
+            "nodeID": "692182",
+            "text": "they are huge challenges",
+            "type": "I",
+            "timestamp": "2021-04-29 20:26:38"
+        },
+        {
+            "nodeID": "692183",
+            "text": "Camilla: Anas Sarwar : They are huge challenges",
+            "type": "L",
+            "timestamp": "2021-04-29 20:26:39"
+        },
+        {
+            "nodeID": "692187",
+            "text": "Keith Brown : How are you going to do this without the full powers of independence",
+            "type": "L",
+            "timestamp": "2021-04-29 20:26:40"
+        },
+        {
+            "nodeID": "692189",
+            "text": "xxx is how SLP is going to do this without the full powers of independence",
+            "type": "I",
+            "timestamp": "2021-04-29 20:26:41"
+        },
+        {
+            "nodeID": "692190",
+            "text": "Camilla: Keith Brown : How are you going to do this without the full powers of independence",
+            "type": "L",
+            "timestamp": "2021-04-29 20:26:42"
+        },
+        {
+            "nodeID": "692192",
+            "text": "Keith Brown : Are you going to challenge the nuclear weapons",
+            "type": "L",
+            "timestamp": "2021-04-29 20:26:43"
+        },
+        {
+            "nodeID": "692195",
+            "text": "SLP is or is not going to challenge the nuclear weapons",
+            "type": "I",
+            "timestamp": "2021-04-29 20:26:44"
+        },
+        {
+            "nodeID": "692198",
+            "text": "Camilla: Keith Brown : Are you going to challenge the nuclear weapons",
+            "type": "L",
+            "timestamp": "2021-04-29 20:26:45"
+        },
+        {
+            "nodeID": "692200",
+            "text": "Camilla: Anas Sarwar : Are you honestly",
+            "type": "L",
+            "timestamp": "2021-04-29 20:26:46"
+        },
+        {
+            "nodeID": "1029953",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-25 11:20:46",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1029954",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-25 11:20:49",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1029956",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-25 11:20:52",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1029960",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-25 11:20:54",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1029962",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-25 11:20:57",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1029967",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-25 11:21:03",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1029968",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-25 11:21:03",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1029970",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-25 11:21:05",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1029972",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-25 11:21:08",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1029974",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-25 11:21:10",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1029978",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-25 11:21:17",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1029981",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-25 11:21:19",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1029983",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-25 11:21:21",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "1029992",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-07-25 11:21:22",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "1362717",
+            "fromID": "692115",
+            "toID": "1029953",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1362718",
+            "fromID": "1029953",
+            "toID": "692119",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1362719",
+            "fromID": "692119",
+            "toID": "1029954",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1362720",
+            "fromID": "1029954",
+            "toID": "692124",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1362723",
+            "fromID": "692124",
+            "toID": "1029956",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1362724",
+            "fromID": "1029956",
+            "toID": "692129",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1362731",
+            "fromID": "692129",
+            "toID": "1029960",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1362732",
+            "fromID": "1029960",
+            "toID": "692136",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1362735",
+            "fromID": "692136",
+            "toID": "1029962",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1362736",
+            "fromID": "1029962",
+            "toID": "692141",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1362745",
+            "fromID": "692141",
+            "toID": "1029967",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1362746",
+            "fromID": "1029967",
+            "toID": "692150",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1362747",
+            "fromID": "692150",
+            "toID": "1029968",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1362748",
+            "fromID": "1029968",
+            "toID": "692154",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1362751",
+            "fromID": "692154",
+            "toID": "1029970",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1362752",
+            "fromID": "1029970",
+            "toID": "692160",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1362755",
+            "fromID": "692160",
+            "toID": "1029972",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1362756",
+            "fromID": "1029972",
+            "toID": "692164",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1362759",
+            "fromID": "692164",
+            "toID": "1029974",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1362760",
+            "fromID": "1029974",
+            "toID": "692169",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1362767",
+            "fromID": "692169",
+            "toID": "1029978",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1362768",
+            "fromID": "1029978",
+            "toID": "692180",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1362773",
+            "fromID": "692180",
+            "toID": "1029981",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1362774",
+            "fromID": "1029981",
+            "toID": "692187",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1362777",
+            "fromID": "692187",
+            "toID": "1029983",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1362778",
+            "fromID": "1029983",
+            "toID": "692192",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1362795",
+            "fromID": "692169",
+            "toID": "1029992",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1362796",
+            "fromID": "1029992",
+            "toID": "692176",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "692115",
+            "personID": "4482",
+            "timestamp": "2021-04-29 20:26:47",
+            "start": "2020-10-15 23:08:46",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692119",
+            "personID": "4481",
+            "timestamp": "2021-04-29 20:26:47",
+            "start": "2020-10-15 23:08:47",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692124",
+            "personID": "4481",
+            "timestamp": "2021-04-29 20:26:47",
+            "start": "2020-10-15 23:08:51",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692129",
+            "personID": "4481",
+            "timestamp": "2021-04-29 20:26:47",
+            "start": "2020-10-15 23:08:56",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692136",
+            "personID": "4481",
+            "timestamp": "2021-04-29 20:26:47",
+            "start": "2020-10-15 23:08:59",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692141",
+            "personID": "4481",
+            "timestamp": "2021-04-29 20:26:47",
+            "start": "2020-10-15 23:09:02",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692150",
+            "personID": "4482",
+            "timestamp": "2021-04-29 20:26:47",
+            "start": "2020-10-15 23:09:03",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692154",
+            "personID": "4482",
+            "timestamp": "2021-04-29 20:26:47",
+            "start": "2020-10-15 23:09:03",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692160",
+            "personID": "4481",
+            "timestamp": "2021-04-29 20:26:47",
+            "start": "2020-10-15 23:09:03",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692164",
+            "personID": "4482",
+            "timestamp": "2021-04-29 20:26:47",
+            "start": "2020-10-15 23:09:05",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692169",
+            "personID": "4481",
+            "timestamp": "2021-04-29 20:26:47",
+            "start": "2020-10-15 23:09:07",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692176",
+            "personID": "4482",
+            "timestamp": "2021-04-29 20:26:47",
+            "start": "2020-10-15 23:09:10",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692180",
+            "personID": "4481",
+            "timestamp": "2021-04-29 20:26:47",
+            "start": "2020-10-15 23:09:11",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692187",
+            "personID": "4482",
+            "timestamp": "2021-04-29 20:26:47",
+            "start": "2020-10-15 23:09:13",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692192",
+            "personID": "4482",
+            "timestamp": "2021-04-29 20:26:47",
+            "start": "2020-10-15 23:09:15",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692115",
+            "personID": "3733",
+            "timestamp": "2022-01-06 20:14:34",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692119",
+            "personID": "3731",
+            "timestamp": "2022-01-06 20:14:34",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692124",
+            "personID": "3731",
+            "timestamp": "2022-01-06 20:14:34",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692129",
+            "personID": "3731",
+            "timestamp": "2022-01-06 20:14:34",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692136",
+            "personID": "3731",
+            "timestamp": "2022-01-06 20:14:34",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692141",
+            "personID": "3731",
+            "timestamp": "2022-01-06 20:14:34",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692150",
+            "personID": "3733",
+            "timestamp": "2022-01-06 20:14:34",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692154",
+            "personID": "3733",
+            "timestamp": "2022-01-06 20:14:34",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692160",
+            "personID": "3731",
+            "timestamp": "2022-01-06 20:14:34",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692164",
+            "personID": "3733",
+            "timestamp": "2022-01-06 20:14:34",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692169",
+            "personID": "3731",
+            "timestamp": "2022-01-06 20:14:34",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692176",
+            "personID": "3733",
+            "timestamp": "2022-01-06 20:14:34",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692180",
+            "personID": "3731",
+            "timestamp": "2022-01-06 20:14:34",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692187",
+            "personID": "3733",
+            "timestamp": "2022-01-06 20:14:34",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692192",
+            "personID": "3733",
+            "timestamp": "2022-01-06 20:14:34",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692124",
+            "personID": "5524",
+            "timestamp": "2022-01-06 20:17:27",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692129",
+            "personID": "5524",
+            "timestamp": "2022-01-06 20:17:27",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692136",
+            "personID": "5524",
+            "timestamp": "2022-01-06 20:17:27",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692141",
+            "personID": "5524",
+            "timestamp": "2022-01-06 20:17:27",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692180",
+            "personID": "5524",
+            "timestamp": "2022-01-06 20:17:27",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692187",
+            "personID": "5523",
+            "timestamp": "2022-01-06 20:17:27",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692192",
+            "personID": "5523",
+            "timestamp": "2022-01-06 20:17:27",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692124",
+            "personID": "5510",
+            "timestamp": "2022-01-13 14:16:16",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692129",
+            "personID": "5510",
+            "timestamp": "2022-01-13 14:16:16",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692136",
+            "personID": "5510",
+            "timestamp": "2022-01-13 14:16:16",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692141",
+            "personID": "5510",
+            "timestamp": "2022-01-13 14:16:16",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692180",
+            "personID": "5510",
+            "timestamp": "2022-01-13 14:16:16",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692187",
+            "personID": "5509",
+            "timestamp": "2022-01-13 14:16:16",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692192",
+            "personID": "5509",
+            "timestamp": "2022-01-13 14:16:16",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692115",
+            "personID": "4482",
+            "timestamp": "2022-04-12 09:50:50",
+            "start": "2020-10-15 23:08:46",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692119",
+            "personID": "4481",
+            "timestamp": "2022-04-12 09:50:50",
+            "start": "2020-10-15 23:08:47",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692124",
+            "personID": "4481",
+            "timestamp": "2022-04-12 09:50:50",
+            "start": "2020-10-15 23:08:51",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692129",
+            "personID": "4481",
+            "timestamp": "2022-04-12 09:50:50",
+            "start": "2020-10-15 23:08:56",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692136",
+            "personID": "4481",
+            "timestamp": "2022-04-12 09:50:50",
+            "start": "2020-10-15 23:08:59",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692141",
+            "personID": "4481",
+            "timestamp": "2022-04-12 09:50:50",
+            "start": "2020-10-15 23:09:02",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692150",
+            "personID": "4482",
+            "timestamp": "2022-04-12 09:50:50",
+            "start": "2020-10-15 23:09:03",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692154",
+            "personID": "4482",
+            "timestamp": "2022-04-12 09:50:50",
+            "start": "2020-10-15 23:09:03",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692160",
+            "personID": "4481",
+            "timestamp": "2022-04-12 09:50:50",
+            "start": "2020-10-15 23:09:03",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692164",
+            "personID": "4482",
+            "timestamp": "2022-04-12 09:50:50",
+            "start": "2020-10-15 23:09:05",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692169",
+            "personID": "4481",
+            "timestamp": "2022-04-12 09:50:50",
+            "start": "2020-10-15 23:09:07",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692176",
+            "personID": "4482",
+            "timestamp": "2022-04-12 09:50:50",
+            "start": "2020-10-15 23:09:10",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692180",
+            "personID": "4481",
+            "timestamp": "2022-04-12 09:50:50",
+            "start": "2020-10-15 23:09:11",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692187",
+            "personID": "4482",
+            "timestamp": "2022-04-12 09:50:50",
+            "start": "2020-10-15 23:09:13",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692192",
+            "personID": "4482",
+            "timestamp": "2022-04-12 09:50:50",
+            "start": "2020-10-15 23:09:15",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692115",
+            "personID": "4482",
+            "timestamp": "2022-05-30 15:57:14",
+            "start": "2020-10-15 23:08:46",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692119",
+            "personID": "4481",
+            "timestamp": "2022-05-30 15:57:14",
+            "start": "2020-10-15 23:08:47",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692124",
+            "personID": "4481",
+            "timestamp": "2022-05-30 15:57:14",
+            "start": "2020-10-15 23:08:51",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692129",
+            "personID": "4481",
+            "timestamp": "2022-05-30 15:57:14",
+            "start": "2020-10-15 23:08:56",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692136",
+            "personID": "4481",
+            "timestamp": "2022-05-30 15:57:14",
+            "start": "2020-10-15 23:08:59",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692141",
+            "personID": "4481",
+            "timestamp": "2022-05-30 15:57:14",
+            "start": "2020-10-15 23:09:02",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692150",
+            "personID": "4482",
+            "timestamp": "2022-05-30 15:57:14",
+            "start": "2020-10-15 23:09:03",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692154",
+            "personID": "4482",
+            "timestamp": "2022-05-30 15:57:14",
+            "start": "2020-10-15 23:09:03",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692160",
+            "personID": "4481",
+            "timestamp": "2022-05-30 15:57:14",
+            "start": "2020-10-15 23:09:03",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692164",
+            "personID": "4482",
+            "timestamp": "2022-05-30 15:57:14",
+            "start": "2020-10-15 23:09:05",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692169",
+            "personID": "4481",
+            "timestamp": "2022-05-30 15:57:14",
+            "start": "2020-10-15 23:09:07",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692176",
+            "personID": "4482",
+            "timestamp": "2022-05-30 15:57:14",
+            "start": "2020-10-15 23:09:10",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692180",
+            "personID": "4481",
+            "timestamp": "2022-05-30 15:57:14",
+            "start": "2020-10-15 23:09:11",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692187",
+            "personID": "4482",
+            "timestamp": "2022-05-30 15:57:14",
+            "start": "2020-10-15 23:09:13",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692192",
+            "personID": "4482",
+            "timestamp": "2022-05-30 15:57:14",
+            "start": "2020-10-15 23:09:15",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692124",
+            "personID": "4481",
+            "timestamp": "2022-05-30 15:58:53",
+            "start": "2020-10-15 23:08:51",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692129",
+            "personID": "4481",
+            "timestamp": "2022-05-30 15:58:53",
+            "start": "2020-10-15 23:08:56",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692136",
+            "personID": "4481",
+            "timestamp": "2022-05-30 15:58:53",
+            "start": "2020-10-15 23:08:59",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692141",
+            "personID": "4481",
+            "timestamp": "2022-05-30 15:58:53",
+            "start": "2020-10-15 23:09:02",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692180",
+            "personID": "4481",
+            "timestamp": "2022-05-30 15:58:53",
+            "start": "2020-10-15 23:09:08",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692180",
+            "personID": "4481",
+            "timestamp": "2022-05-30 15:58:53",
+            "start": "2020-10-15 23:09:11",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692187",
+            "personID": "4482",
+            "timestamp": "2022-05-30 15:58:53",
+            "start": "2020-10-15 23:09:13",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692192",
+            "personID": "4482",
+            "timestamp": "2022-05-30 15:58:53",
+            "start": "2020-10-15 23:09:20",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692115",
+            "personID": "4482",
+            "timestamp": "2022-07-25 11:21:23",
+            "start": "2020-10-15 23:08:46",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692119",
+            "personID": "4481",
+            "timestamp": "2022-07-25 11:21:23",
+            "start": "2020-10-15 23:08:47",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692124",
+            "personID": "4481",
+            "timestamp": "2022-07-25 11:21:23",
+            "start": "2020-10-15 23:08:51",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692129",
+            "personID": "4481",
+            "timestamp": "2022-07-25 11:21:23",
+            "start": "2020-10-15 23:08:56",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692136",
+            "personID": "4481",
+            "timestamp": "2022-07-25 11:21:23",
+            "start": "2020-10-15 23:08:59",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692141",
+            "personID": "4481",
+            "timestamp": "2022-07-25 11:21:23",
+            "start": "2020-10-15 23:09:02",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692150",
+            "personID": "4482",
+            "timestamp": "2022-07-25 11:21:23",
+            "start": "2020-10-15 23:09:03",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692154",
+            "personID": "4482",
+            "timestamp": "2022-07-25 11:21:23",
+            "start": "2020-10-15 23:09:03",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692160",
+            "personID": "4481",
+            "timestamp": "2022-07-25 11:21:23",
+            "start": "2020-10-15 23:09:03",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692164",
+            "personID": "4482",
+            "timestamp": "2022-07-25 11:21:23",
+            "start": "2020-10-15 23:09:05",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692169",
+            "personID": "4481",
+            "timestamp": "2022-07-25 11:21:23",
+            "start": "2020-10-15 23:09:07",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692176",
+            "personID": "4482",
+            "timestamp": "2022-07-25 11:21:23",
+            "start": "2020-10-15 23:09:10",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692180",
+            "personID": "4481",
+            "timestamp": "2022-07-25 11:21:23",
+            "start": "2020-10-15 23:09:11",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692187",
+            "personID": "4482",
+            "timestamp": "2022-07-25 11:21:23",
+            "start": "2020-10-15 23:09:13",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692192",
+            "personID": "4482",
+            "timestamp": "2022-07-25 11:21:23",
+            "start": "2020-10-15 23:09:15",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692115",
+            "personID": "4482",
+            "timestamp": "2022-11-11 14:28:47",
+            "start": "2020-10-15 23:08:46",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692119",
+            "personID": "4481",
+            "timestamp": "2022-11-11 14:28:47",
+            "start": "2020-10-15 23:08:47",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692136",
+            "personID": "4481",
+            "timestamp": "2022-11-11 14:28:47",
+            "start": "2020-10-15 23:08:59",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692141",
+            "personID": "4481",
+            "timestamp": "2022-11-11 14:28:47",
+            "start": "2020-10-15 23:09:02",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692169",
+            "personID": "4481",
+            "timestamp": "2022-11-11 14:28:47",
+            "start": "2020-10-15 23:09:07",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692124",
+            "personID": "4481",
+            "timestamp": "2023-04-27 10:51:34",
+            "start": "2020-10-15 23:08:51",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "692129",
+            "personID": "4481",
+            "timestamp": "2023-04-27 10:51:34",
+            "start": "2020-10-15 23:08:56",
+            "end": null,
+            "source": null
+        }
+    ]
+}

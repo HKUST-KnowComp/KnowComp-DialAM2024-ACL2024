@@ -1,0 +1,874 @@
+{
+    "nodes": [
+        {
+            "nodeID": "716714",
+            "text": "Anthony Costello : Children feel abandoned",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:04"
+        },
+        {
+            "nodeID": "716716",
+            "text": "children feel abandoned",
+            "type": "I",
+            "timestamp": "2021-06-10 19:29:05"
+        },
+        {
+            "nodeID": "716717",
+            "text": "Tuuli: Anthony Costello : Children feel abandoned",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:05"
+        },
+        {
+            "nodeID": "716718",
+            "text": "Anthony Costello : They have lost their education",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:06"
+        },
+        {
+            "nodeID": "716720",
+            "text": "children have lost their education",
+            "type": "I",
+            "timestamp": "2021-06-10 19:29:06"
+        },
+        {
+            "nodeID": "716721",
+            "text": "Tuuli: Anthony Costello : They have lost their education",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:07"
+        },
+        {
+            "nodeID": "716722",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:29:07",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "716723",
+            "text": "Tuuli: Anthony Costello : the figure is 110 days out of 190 they've had social isolation, mental health problems",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:07"
+        },
+        {
+            "nodeID": "716724",
+            "text": "Anthony Costello :  the figure is 110 days out of 190 they've had social isolation",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:08"
+        },
+        {
+            "nodeID": "716726",
+            "text": "the figure is 110 days out of 190 that children have had social isolation",
+            "type": "I",
+            "timestamp": "2021-06-10 19:29:08"
+        },
+        {
+            "nodeID": "716727",
+            "text": "Tuuli: Anthony Costello :  the figure is 110 days out of 190 they've had social isolation",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:09"
+        },
+        {
+            "nodeID": "716728",
+            "text": "Anthony Costello : mental health problems",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:09"
+        },
+        {
+            "nodeID": "716730",
+            "text": "children have mental health problems",
+            "type": "I",
+            "timestamp": "2021-06-10 19:29:10"
+        },
+        {
+            "nodeID": "716731",
+            "text": "Tuuli: Anthony Costello : mental health problems",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:10"
+        },
+        {
+            "nodeID": "716732",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:29:10",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "716733",
+            "text": "Anthony Costello : they've lost their exams",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:11"
+        },
+        {
+            "nodeID": "716735",
+            "text": "children have lost their exams",
+            "type": "I",
+            "timestamp": "2021-06-10 19:29:11"
+        },
+        {
+            "nodeID": "716736",
+            "text": "Tuuli: Anthony Costello : they've lost their exams",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:12"
+        },
+        {
+            "nodeID": "716740",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:29:12",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "716743",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:29:12",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "716747",
+            "text": "Anthony Costello : Many people have lost their University experience",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:12"
+        },
+        {
+            "nodeID": "716749",
+            "text": "many people have lost their University experience",
+            "type": "I",
+            "timestamp": "2021-06-10 19:29:13"
+        },
+        {
+            "nodeID": "716750",
+            "text": "Tuuli: Anthony Costello : Many people have lost their University experience",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:13"
+        },
+        {
+            "nodeID": "716751",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:29:13",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "716752",
+            "text": "Anthony Costello : their vocational training",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:14"
+        },
+        {
+            "nodeID": "716754",
+            "text": "many people have lost their vocational training",
+            "type": "I",
+            "timestamp": "2021-06-10 19:29:14"
+        },
+        {
+            "nodeID": "716755",
+            "text": "Tuuli: Anthony Costello : their vocational training",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:15"
+        },
+        {
+            "nodeID": "716756",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:29:15",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "716757",
+            "text": "Anthony Costello : This is a disaster",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:15"
+        },
+        {
+            "nodeID": "716759",
+            "text": "children losing their education is a disaster",
+            "type": "I",
+            "timestamp": "2021-06-10 19:29:16"
+        },
+        {
+            "nodeID": "716760",
+            "text": "Tuuli: Anthony Costello : This is a disaster",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:16"
+        },
+        {
+            "nodeID": "716761",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:29:16",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "716762",
+            "text": "Anthony Costello : James Heckman won his Nobel prize",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:17"
+        },
+        {
+            "nodeID": "716764",
+            "text": "James Heckman won his Nobel prize",
+            "type": "I",
+            "timestamp": "2021-06-10 19:29:17"
+        },
+        {
+            "nodeID": "716765",
+            "text": "Tuuli: Anthony Costello : James Heckman, the American economist, won his Nobel prize",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:18"
+        },
+        {
+            "nodeID": "716766",
+            "text": "Anthony Costello : James Heckman, the American economist",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:19"
+        },
+        {
+            "nodeID": "716768",
+            "text": "James Heckman is American economist",
+            "type": "I",
+            "timestamp": "2021-06-10 19:29:19"
+        },
+        {
+            "nodeID": "716769",
+            "text": "Tuuli: Anthony Costello : James Heckman, the American economist",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:19"
+        },
+        {
+            "nodeID": "716770",
+            "text": "Anthony Costello : he showed how each dollar or pound of investment gets a fantastic return the earlier you start, from pregnancy, early childhood development, primary schooling, secondary schooling",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:20"
+        },
+        {
+            "nodeID": "716772",
+            "text": "James Heckman showed how each dollar or pound of investment gets a fantastic return the earlier you start, from pregnancy, early childhood development, primary schooling, secondary schooling",
+            "type": "I",
+            "timestamp": "2021-06-10 19:29:21"
+        },
+        {
+            "nodeID": "716773",
+            "text": "Tuuli: Anthony Costello : he showed how each dollar or pound of investment gets a fantastic return the earlier you start, from pregnancy, early childhood development, primary schooling, secondary schooling",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:21"
+        },
+        {
+            "nodeID": "716775",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:29:21",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "716777",
+            "text": "Anthony Costello : We spend most per head, interestingly, in this country on tertiary education rather than all the others and vocational",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:22"
+        },
+        {
+            "nodeID": "716779",
+            "text": "we spend most per head, interestingly, in the UK on tertiary education rather than all the others and vocational",
+            "type": "I",
+            "timestamp": "2021-06-10 19:29:22"
+        },
+        {
+            "nodeID": "716780",
+            "text": "Tuuli: Anthony Costello : We spend most per head, interestingly, in this country on tertiary education rather than all the others and vocational",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:23"
+        },
+        {
+            "nodeID": "716781",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:29:23",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "716782",
+            "text": "Anthony Costello : that's a good thing as well",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:23"
+        },
+        {
+            "nodeID": "716784",
+            "text": "that the UK spends most per head on tertiary education rather than all the others and vocational is a good thing as well",
+            "type": "I",
+            "timestamp": "2021-06-10 19:29:24"
+        },
+        {
+            "nodeID": "716785",
+            "text": "Tuuli: Anthony Costello : that's a good thing as well",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:25"
+        },
+        {
+            "nodeID": "716787",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:29:25",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "716789",
+            "text": "Anthony Costello : Children are our future",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:26"
+        },
+        {
+            "nodeID": "716791",
+            "text": "children are our future",
+            "type": "I",
+            "timestamp": "2021-06-10 19:29:27"
+        },
+        {
+            "nodeID": "716792",
+            "text": "Tuuli: Anthony Costello : Children are our future",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:27"
+        },
+        {
+            "nodeID": "716793",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:29:27",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "716796",
+            "text": "Anthony Costello : we need children not just to be invested in through the education system but in all policies",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:29"
+        },
+        {
+            "nodeID": "716798",
+            "text": "we need children not just to be invested in through the education system but in all policies",
+            "type": "I",
+            "timestamp": "2021-06-10 19:29:29"
+        },
+        {
+            "nodeID": "716799",
+            "text": "Tuuli: Anthony Costello : we need children not just to be invested in through the education system but in all policies",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:31"
+        },
+        {
+            "nodeID": "716800",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:29:31",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "716803",
+            "text": "Anthony Costello : they're facing not only this pandemic",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:32"
+        },
+        {
+            "nodeID": "716805",
+            "text": "children are facing not only this pandemic",
+            "type": "I",
+            "timestamp": "2021-06-10 19:29:33"
+        },
+        {
+            "nodeID": "716806",
+            "text": "Tuuli: Anthony Costello : they're facing not only this pandemic",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:34"
+        },
+        {
+            "nodeID": "716807",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:29:34",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "716808",
+            "text": "Anthony Costello : which is a kind of tea party compared to the disaster of climate change that we're going to face",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:34"
+        },
+        {
+            "nodeID": "716810",
+            "text": "the COVID-19 pandemic is a kind of tea party compared to the disaster of climate change that we're going to face",
+            "type": "I",
+            "timestamp": "2021-06-10 19:29:35"
+        },
+        {
+            "nodeID": "716811",
+            "text": "Tuuli: Anthony Costello : which is a kind of tea party compared to the disaster of climate change that we're going to face",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:36"
+        },
+        {
+            "nodeID": "716812",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:29:36",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "716813",
+            "text": "Tuuli: Anthony Costello : they need to have investment in all kinds of things: Play areas, transport, food systems, agriculture, environment",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:36"
+        },
+        {
+            "nodeID": "716816",
+            "text": "Anthony Costello :  they need to have investment in all kinds of things: Play areas, transport, food systems, agriculture, environment, to reshape their lives for the future",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:37"
+        },
+        {
+            "nodeID": "716818",
+            "text": "children need to have investment in all kinds of things such as play areas, transport, food systems, agriculture, environment, to reshape their lives for the future",
+            "type": "I",
+            "timestamp": "2021-06-10 19:29:38"
+        },
+        {
+            "nodeID": "716819",
+            "text": "Tuuli: Anthony Costello :  they need to have investment in all kinds of things: Play areas, transport, food systems, agriculture, environment, to reshape their lives for the future",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:38"
+        },
+        {
+            "nodeID": "716820",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:29:38",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "716821",
+            "text": "Anthony Costello : give them an optimism to believe that they can really cope with what's going to be thrown at us from an unstable climate as well",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:39"
+        },
+        {
+            "nodeID": "716823",
+            "text": "children need to have investment in all kinds of things to give them an optimism to believe that they can really cope with what's going to be thrown at us from an unstable climate as well",
+            "type": "I",
+            "timestamp": "2021-06-10 19:29:39"
+        },
+        {
+            "nodeID": "716824",
+            "text": "Tuuli: Anthony Costello : give them an optimism to believe that they can really cope with what's going to be thrown at us from an unstable climate as well",
+            "type": "L",
+            "timestamp": "2021-06-10 19:29:40"
+        },
+        {
+            "nodeID": "716825",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:29:40",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "716830",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:29:40",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "716831",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:29:40",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "922228",
+            "fromID": "716714",
+            "toID": "716722",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922229",
+            "fromID": "716722",
+            "toID": "716718",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922234",
+            "fromID": "716724",
+            "toID": "716732",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922235",
+            "fromID": "716732",
+            "toID": "716728",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922244",
+            "fromID": "716718",
+            "toID": "716740",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922245",
+            "fromID": "716740",
+            "toID": "716733",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922250",
+            "fromID": "716714",
+            "toID": "716743",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922251",
+            "fromID": "716743",
+            "toID": "716724",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922260",
+            "fromID": "716733",
+            "toID": "716751",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922261",
+            "fromID": "716751",
+            "toID": "716747",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922264",
+            "fromID": "716747",
+            "toID": "716756",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922265",
+            "fromID": "716756",
+            "toID": "716752",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922268",
+            "fromID": "716752",
+            "toID": "716761",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922269",
+            "fromID": "716761",
+            "toID": "716757",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922278",
+            "fromID": "716762",
+            "toID": "716775",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922279",
+            "fromID": "716775",
+            "toID": "716770",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922284",
+            "fromID": "716770",
+            "toID": "716781",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922285",
+            "fromID": "716781",
+            "toID": "716777",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922290",
+            "fromID": "716777",
+            "toID": "716787",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922291",
+            "fromID": "716787",
+            "toID": "716782",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922296",
+            "fromID": "716782",
+            "toID": "716793",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922297",
+            "fromID": "716793",
+            "toID": "716789",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922304",
+            "fromID": "716789",
+            "toID": "716800",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922305",
+            "fromID": "716800",
+            "toID": "716796",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922312",
+            "fromID": "716796",
+            "toID": "716807",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922313",
+            "fromID": "716807",
+            "toID": "716803",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922316",
+            "fromID": "716803",
+            "toID": "716812",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922317",
+            "fromID": "716812",
+            "toID": "716808",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922324",
+            "fromID": "716808",
+            "toID": "716820",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922325",
+            "fromID": "716820",
+            "toID": "716816",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922328",
+            "fromID": "716816",
+            "toID": "716825",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922329",
+            "fromID": "716825",
+            "toID": "716821",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922338",
+            "fromID": "716757",
+            "toID": "716830",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922339",
+            "fromID": "716830",
+            "toID": "716766",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922340",
+            "fromID": "716766",
+            "toID": "716831",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "922341",
+            "fromID": "716831",
+            "toID": "716762",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "716714",
+            "personID": "4765",
+            "timestamp": "2021-06-10 19:29:40",
+            "start": "2020-10-15 22:50:02",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "716718",
+            "personID": "4765",
+            "timestamp": "2021-06-10 19:29:40",
+            "start": "2020-10-15 22:50:04",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "716724",
+            "personID": "4765",
+            "timestamp": "2021-06-10 19:29:40",
+            "start": "2020-10-15 22:50:08",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "716728",
+            "personID": "4765",
+            "timestamp": "2021-06-10 19:29:40",
+            "start": "2020-10-15 22:50:15",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "716733",
+            "personID": "4765",
+            "timestamp": "2021-06-10 19:29:40",
+            "start": "2020-10-15 22:50:17",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "716747",
+            "personID": "4765",
+            "timestamp": "2021-06-10 19:29:40",
+            "start": "2020-10-15 22:50:20",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "716752",
+            "personID": "4765",
+            "timestamp": "2021-06-10 19:29:40",
+            "start": "2020-10-15 22:50:25",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "716757",
+            "personID": "4765",
+            "timestamp": "2021-06-10 19:29:40",
+            "start": "2020-10-15 22:50:28",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "716762",
+            "personID": "4765",
+            "timestamp": "2021-06-10 19:29:40",
+            "start": "2020-10-15 22:50:30",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "716766",
+            "personID": "4765",
+            "timestamp": "2021-06-10 19:29:40",
+            "start": "2020-10-15 22:50:30",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "716770",
+            "personID": "4765",
+            "timestamp": "2021-06-10 19:29:40",
+            "start": "2020-10-15 22:50:36",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "716777",
+            "personID": "4765",
+            "timestamp": "2021-06-10 19:29:40",
+            "start": "2020-10-15 22:50:54",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "716782",
+            "personID": "4765",
+            "timestamp": "2021-06-10 19:29:40",
+            "start": "2020-10-15 22:51:07",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "716789",
+            "personID": "4765",
+            "timestamp": "2021-06-10 19:29:40",
+            "start": "2020-10-15 22:51:10",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "716796",
+            "personID": "4765",
+            "timestamp": "2021-06-10 19:29:40",
+            "start": "2020-10-15 22:51:13",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "716803",
+            "personID": "4765",
+            "timestamp": "2021-06-10 19:29:40",
+            "start": "2020-10-15 22:51:23",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "716808",
+            "personID": "4765",
+            "timestamp": "2021-06-10 19:29:40",
+            "start": "2020-10-15 22:51:27",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "716816",
+            "personID": "4765",
+            "timestamp": "2021-06-10 19:29:40",
+            "start": "2020-10-15 22:51:37",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "716821",
+            "personID": "4765",
+            "timestamp": "2021-06-10 19:29:40",
+            "start": "2020-10-15 22:51:53",
+            "end": null,
+            "source": null
+        }
+    ]
+}

@@ -1,0 +1,560 @@
+{
+    "nodes": [
+        {
+            "nodeID": "642463",
+            "text": "as a consequence of Brexit, a border poll is likely in the future",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:44"
+        },
+        {
+            "nodeID": "642464",
+            "text": "Fiona Bruce : as a consequence of Brexit, a border poll is likely in the future",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:45"
+        },
+        {
+            "nodeID": "642466",
+            "text": "as a consequence of Brexit, a border poll is likely in the future",
+            "type": "I",
+            "timestamp": "2021-01-28 20:50:45"
+        },
+        {
+            "nodeID": "642467",
+            "text": "Zlata: Fiona Bruce : as a consequence of Brexit, a border poll is likely in the future",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:46"
+        },
+        {
+            "nodeID": "642468",
+            "text": "Fiona Bruce : That’s what Liam is saying",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:46"
+        },
+        {
+            "nodeID": "642469",
+            "text": "as a consequence of Brexit, a border poll is likely in the future",
+            "type": "I",
+            "timestamp": "2021-01-28 20:50:46"
+        },
+        {
+            "nodeID": "642470",
+            "text": "Zlata: Fiona Bruce : That’s what Liam is saying",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:47"
+        },
+        {
+            "nodeID": "642471",
+            "text": "Liam Unknown : as a consequence of Brexit, a border poll is likely in the future",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:47"
+        },
+        {
+            "nodeID": "642472",
+            "text": "Zlata: Liam Unknown : Liam is saying that as a consequence of Brexit, a border poll is likely in the future",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:48"
+        },
+        {
+            "nodeID": "642475",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-28 20:50:48",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "642478",
+            "text": "Anand Menon : You have to accept the fact that the Brexit process led to a significant rethink of the UK union not just in Northern Ireland",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:48"
+        },
+        {
+            "nodeID": "642480",
+            "text": "you have to accept the fact that the Brexit process led to a significant rethink of the UK union not just in Northern Ireland",
+            "type": "I",
+            "timestamp": "2021-01-28 20:50:49"
+        },
+        {
+            "nodeID": "642481",
+            "text": "Zlata: Anand Menon : You have to accept the fact that the Brexit process led to a significant rethink of the UK union not just in Northern Ireland",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:49"
+        },
+        {
+            "nodeID": "642482",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-28 20:50:49",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "642483",
+            "text": "Anand Menon : you see the same process happening in Scotland",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:50"
+        },
+        {
+            "nodeID": "642485",
+            "text": "you see the same process of a rethink of the UK union  is happening in Scotland",
+            "type": "I",
+            "timestamp": "2021-01-28 20:50:50"
+        },
+        {
+            "nodeID": "642486",
+            "text": "Zlata: Anand Menon : you see the same process happening in Scotland",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:51"
+        },
+        {
+            "nodeID": "642487",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-28 20:50:51",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "642490",
+            "text": "Anand Menon : that just seems to be the reality at the moment",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:51"
+        },
+        {
+            "nodeID": "642492",
+            "text": "significant rethink of the UK union seems to be the reality at the moment",
+            "type": "I",
+            "timestamp": "2021-01-28 20:50:52"
+        },
+        {
+            "nodeID": "642494",
+            "text": "Zlata: Anand Menon : that just seems to be the reality at the moment",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:52"
+        },
+        {
+            "nodeID": "642495",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-28 20:50:52",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "642497",
+            "text": "Anand Menon : people should plan because we are living in an uncertain time where public opinion seems to be very volatile",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:53"
+        },
+        {
+            "nodeID": "642501",
+            "text": "people should plan because we are living in an uncertain time where public opinion seems to be very volatile",
+            "type": "I",
+            "timestamp": "2021-01-28 20:50:53"
+        },
+        {
+            "nodeID": "642503",
+            "text": "Zlata: Anand Menon : people should plan because we are living in an uncertain time where public opinion seems to be very volatile",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:54"
+        },
+        {
+            "nodeID": "642504",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-28 20:50:54",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "642506",
+            "text": "Anand Menon : it is to make the protocol work",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:54"
+        },
+        {
+            "nodeID": "642510",
+            "text": "for Anand Menon, the priority is to make the protocol Ireland and Northern Ireland work",
+            "type": "I",
+            "timestamp": "2021-01-28 20:50:55"
+        },
+        {
+            "nodeID": "642512",
+            "text": "Zlata: Anand Menon : it is to make the protocol work",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:55"
+        },
+        {
+            "nodeID": "642513",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-28 20:50:55",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "642516",
+            "text": "Anand Menon : We are where we are",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:56"
+        },
+        {
+            "nodeID": "642520",
+            "text": "we are where we are",
+            "type": "I",
+            "timestamp": "2021-01-28 20:50:56"
+        },
+        {
+            "nodeID": "642522",
+            "text": "Zlata: Anand Menon : We are where we are",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:57"
+        },
+        {
+            "nodeID": "642523",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-28 20:50:57",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "642529",
+            "text": "Anand Menon : We have a new settlement for Northern Ireland",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:57"
+        },
+        {
+            "nodeID": "642533",
+            "text": "we have a new settlement for Northern Ireland",
+            "type": "I",
+            "timestamp": "2021-01-28 20:50:58"
+        },
+        {
+            "nodeID": "642535",
+            "text": "Zlata: Anand Menon : We have a new settlement for Northern Ireland",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:58"
+        },
+        {
+            "nodeID": "642536",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-28 20:50:58",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "642541",
+            "text": "Anand Menon : it is legitimate to think about the future",
+            "type": "L",
+            "timestamp": "2021-01-28 20:50:59"
+        },
+        {
+            "nodeID": "642545",
+            "text": "it is legitimate to think about the future",
+            "type": "I",
+            "timestamp": "2021-01-28 20:50:59"
+        },
+        {
+            "nodeID": "642547",
+            "text": "Zlata: Anand Menon : it is legitimate to think about the future",
+            "type": "L",
+            "timestamp": "2021-01-28 20:51:00"
+        },
+        {
+            "nodeID": "642548",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-28 20:51:00",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "642556",
+            "text": "Anand Menon : I would hate it if because of that we lost sight of the present and didn’t take the opportunity to make that protocol work as effectively as it can",
+            "type": "L",
+            "timestamp": "2021-01-28 20:51:00"
+        },
+        {
+            "nodeID": "642560",
+            "text": "Anand Menon would hate it if because of thinking about the future we lost sight of the present and didn’t take the opportunity to make that protocol work as effectively as it can",
+            "type": "I",
+            "timestamp": "2021-01-28 20:51:01"
+        },
+        {
+            "nodeID": "642562",
+            "text": "Zlata: Anand Menon : I would hate it if because of that we lost sight of the present and didn’t take the opportunity to make that protocol work as effectively as it can",
+            "type": "L",
+            "timestamp": "2021-01-28 20:51:02"
+        },
+        {
+            "nodeID": "642563",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-28 20:51:02",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "642566",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-28 20:51:02",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "642570",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-01-28 20:51:02",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "829325",
+            "fromID": "642464",
+            "toID": "642475",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829326",
+            "fromID": "642475",
+            "toID": "642468",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829333",
+            "fromID": "642468",
+            "toID": "642482",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829334",
+            "fromID": "642482",
+            "toID": "642478",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829337",
+            "fromID": "642478",
+            "toID": "642487",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829338",
+            "fromID": "642487",
+            "toID": "642483",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829345",
+            "fromID": "642478",
+            "toID": "642495",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829346",
+            "fromID": "642495",
+            "toID": "642490",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829349",
+            "fromID": "642490",
+            "toID": "642504",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829350",
+            "fromID": "642504",
+            "toID": "642497",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829353",
+            "fromID": "642497",
+            "toID": "642513",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829354",
+            "fromID": "642513",
+            "toID": "642506",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829357",
+            "fromID": "642506",
+            "toID": "642523",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829358",
+            "fromID": "642523",
+            "toID": "642516",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829361",
+            "fromID": "642516",
+            "toID": "642536",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829362",
+            "fromID": "642536",
+            "toID": "642529",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829369",
+            "fromID": "642497",
+            "toID": "642548",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829370",
+            "fromID": "642548",
+            "toID": "642541",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829377",
+            "fromID": "642541",
+            "toID": "642563",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829378",
+            "fromID": "642563",
+            "toID": "642556",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829383",
+            "fromID": "642506",
+            "toID": "642566",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829384",
+            "fromID": "642566",
+            "toID": "642556",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829391",
+            "fromID": "642506",
+            "toID": "642570",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "829392",
+            "fromID": "642570",
+            "toID": "642529",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "642464",
+            "personID": "3812",
+            "timestamp": "2021-01-28 20:51:02",
+            "start": "2020-10-15 22:42:10",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "642468",
+            "personID": "3812",
+            "timestamp": "2021-01-28 20:51:02",
+            "start": "2020-10-15 22:42:14",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "642471",
+            "personID": "4293",
+            "timestamp": "2021-01-28 20:51:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "642478",
+            "personID": "4245",
+            "timestamp": "2021-01-28 20:51:02",
+            "start": "2020-10-15 22:42:16",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "642483",
+            "personID": "4245",
+            "timestamp": "2021-01-28 20:51:02",
+            "start": "2020-10-15 22:42:28",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "642490",
+            "personID": "4245",
+            "timestamp": "2021-01-28 20:51:02",
+            "start": "2020-10-15 22:42:34",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "642497",
+            "personID": "4245",
+            "timestamp": "2021-01-28 20:51:02",
+            "start": "2020-10-15 22:42:44",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "642506",
+            "personID": "4245",
+            "timestamp": "2021-01-28 20:51:02",
+            "start": "2020-10-15 22:42:56",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "642516",
+            "personID": "4245",
+            "timestamp": "2021-01-28 20:51:02",
+            "start": "2020-10-15 22:43:00",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "642529",
+            "personID": "4245",
+            "timestamp": "2021-01-28 20:51:02",
+            "start": "2020-10-15 22:43:02",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "642541",
+            "personID": "4245",
+            "timestamp": "2021-01-28 20:51:02",
+            "start": "2020-10-15 22:43:07",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "642556",
+            "personID": "4245",
+            "timestamp": "2021-01-28 20:51:02",
+            "start": "2020-10-15 22:43:12",
+            "end": null,
+            "source": null
+        }
+    ]
+}

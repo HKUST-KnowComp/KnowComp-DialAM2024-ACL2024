@@ -1,0 +1,376 @@
+{
+    "nodes": [
+        {
+            "nodeID": "542412",
+            "text": "Rina   : Was a policy decision regarding the emptying of hospital beds with the patients not being tested and the outrageous consequences on our elderly citizens a planned arrangement",
+            "type": "L",
+            "timestamp": "2020-06-04 20:43:08"
+        },
+        {
+            "nodeID": "542417",
+            "text": "a policy decision regarding the emptying of hospital beds with the patients not being tested and the outrageous consequences on our elderly citizens were or were not a planned arrangement",
+            "type": "I",
+            "timestamp": "2020-06-04 20:43:09"
+        },
+        {
+            "nodeID": "542419",
+            "text": "Camilla: Rina   : Was a policy decision regarding the emptying of hospital beds with the patients not being tested and the outrageous consequences on our elderly citizens a planned arrangement",
+            "type": "L",
+            "timestamp": "2020-06-04 20:43:09"
+        },
+        {
+            "nodeID": "542421",
+            "text": "Rina   : does this not highlight the lack of value and respect we place on the elderly",
+            "type": "L",
+            "timestamp": "2020-06-04 20:43:09"
+        },
+        {
+            "nodeID": "542425",
+            "text": "the policy decision regarding the emptying of hospital beds highlights the lack of value and respect we place on the elderly",
+            "type": "I",
+            "timestamp": "2020-06-04 20:43:09"
+        },
+        {
+            "nodeID": "542427",
+            "text": "Camilla: Rina   : does this not highlight the lack of value and respect we place on the elderly",
+            "type": "L",
+            "timestamp": "2020-06-04 20:43:09"
+        },
+        {
+            "nodeID": "542429",
+            "text": "Fiona Bruce : was it a planned arrangement allowing people back into care homes without being tested and does it highlight the lack of value and respect",
+            "type": "L",
+            "timestamp": "2020-06-04 20:43:09"
+        },
+        {
+            "nodeID": "542433",
+            "text": "was it or was it not a planned arrangement allowing people back into care homes without being tested and does it highlight the lack of value and respect",
+            "type": "I",
+            "timestamp": "2020-06-04 20:43:10"
+        },
+        {
+            "nodeID": "542435",
+            "text": "Camilla: Fiona Bruce : was it a planned arrangement allowing people back into care homes without being tested and does it highlight the lack of value and respect",
+            "type": "L",
+            "timestamp": "2020-06-04 20:43:10"
+        },
+        {
+            "nodeID": "542437",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-06-04 20:43:10",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "542441",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-06-04 20:43:10",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "542445",
+            "text": "Alex Massie :  The care homes situation I think is one of those areas where governments in all parts of the United Kingdom face a terrible set of choices",
+            "type": "L",
+            "timestamp": "2020-06-04 20:43:11"
+        },
+        {
+            "nodeID": "542449",
+            "text": "the care homes situation is one of those areas where governments in all parts of the United Kingdom face a terrible set of choices",
+            "type": "I",
+            "timestamp": "2020-06-04 20:43:11"
+        },
+        {
+            "nodeID": "542451",
+            "text": "Camilla: Alex Massie :  The care homes situation I think is one of those areas where governments in all parts of the United Kingdom face a terrible set of choices",
+            "type": "L",
+            "timestamp": "2020-06-04 20:43:11"
+        },
+        {
+            "nodeID": "542453",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-06-04 20:43:11",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "542459",
+            "text": "Alex Massie : In hindsight, as Nicola Sturgeon said this week, they would probably make some decisions differently",
+            "type": "L",
+            "timestamp": "2020-06-04 20:43:12"
+        },
+        {
+            "nodeID": "542461",
+            "text": "we would probably make some decisions differently regarding the care homes situations",
+            "type": "I",
+            "timestamp": "2020-06-04 20:43:12"
+        },
+        {
+            "nodeID": "542463",
+            "text": "Camilla: Alex Massie : In hindsight, as Nicola Sturgeon said this week, they would probably make some decisions differently",
+            "type": "L",
+            "timestamp": "2020-06-04 20:43:12"
+        },
+        {
+            "nodeID": "542467",
+            "text": "Nicola Sturgeon : we would probably make some decisions differently",
+            "type": "L",
+            "timestamp": "2020-06-04 20:43:12"
+        },
+        {
+            "nodeID": "542468",
+            "text": "Camilla: Nicola Sturgeon : in hindsight, as Nicola Sturgeon said this week, they would probably make some decisions differently",
+            "type": "L",
+            "timestamp": "2020-06-04 20:43:12"
+        },
+        {
+            "nodeID": "542473",
+            "text": "Alex Massie :  at the time when people were released from hospital into care homes, it was because they feared that the NHS and hospitals were going to be overwhelmed with COVID cases",
+            "type": "L",
+            "timestamp": "2020-06-04 20:43:13"
+        },
+        {
+            "nodeID": "542477",
+            "text": "at the time when people were released from hospitals into care homes, it was feared that the NHS and hospitals were going to be overwhelmed with COVID cases",
+            "type": "I",
+            "timestamp": "2020-06-04 20:43:13"
+        },
+        {
+            "nodeID": "542479",
+            "text": "Camilla: Alex Massie :  at the time when people were released from hospital into care homes, it was because they feared that the NHS and hospitals were going to be overwhelmed with COVID cases",
+            "type": "L",
+            "timestamp": "2020-06-04 20:43:13"
+        },
+        {
+            "nodeID": "542481",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-06-04 20:43:13",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "542490",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-06-04 20:43:14",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "542494",
+            "text": "Alex Massie : what do we do with people who are delayed discharge, bed blocking or whatever",
+            "type": "L",
+            "timestamp": "2020-06-04 20:43:14"
+        },
+        {
+            "nodeID": "542497",
+            "text": "with people who are delayed discharge, bed blocking or whatever we do xxx",
+            "type": "I",
+            "timestamp": "2020-06-04 20:43:15"
+        },
+        {
+            "nodeID": "542499",
+            "text": "Camilla: Alex Massie : what do we do with people who are delayed discharge, bed blocking or whatever",
+            "type": "L",
+            "timestamp": "2020-06-04 20:43:15"
+        },
+        {
+            "nodeID": "542501",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-06-04 20:43:15",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "542503",
+            "text": "Alex Massie : get them out, almost regardless of their circumstance",
+            "type": "L",
+            "timestamp": "2020-06-04 20:43:15"
+        },
+        {
+            "nodeID": "542507",
+            "text": "we get the people out who are delayed for discharge almost regardless of their circumstance",
+            "type": "I",
+            "timestamp": "2020-06-04 20:43:15"
+        },
+        {
+            "nodeID": "542509",
+            "text": "Camilla: Alex Massie : get them out, almost regardless of their circumstance",
+            "type": "L",
+            "timestamp": "2020-06-04 20:43:16"
+        },
+        {
+            "nodeID": "542512",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-06-04 20:43:16",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "709001",
+            "fromID": "542412",
+            "toID": "542437",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "709002",
+            "fromID": "542437",
+            "toID": "542421",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "709005",
+            "fromID": "542421",
+            "toID": "542441",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "709006",
+            "fromID": "542441",
+            "toID": "542429",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "709011",
+            "fromID": "542429",
+            "toID": "542453",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "709012",
+            "fromID": "542453",
+            "toID": "542445",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "709023",
+            "fromID": "542445",
+            "toID": "542481",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "709024",
+            "fromID": "542481",
+            "toID": "542459",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "709031",
+            "fromID": "542429",
+            "toID": "542490",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "709032",
+            "fromID": "542490",
+            "toID": "542473",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "709037",
+            "fromID": "542473",
+            "toID": "542501",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "709038",
+            "fromID": "542501",
+            "toID": "542494",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "709043",
+            "fromID": "542494",
+            "toID": "542512",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "709044",
+            "fromID": "542512",
+            "toID": "542503",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "542412",
+            "personID": "3907",
+            "timestamp": "2020-06-04 20:43:16",
+            "start": "2020-05-28 23:47:03",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "542421",
+            "personID": "3907",
+            "timestamp": "2020-06-04 20:43:16",
+            "start": "2020-05-28 23:47:19",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "542429",
+            "personID": "3812",
+            "timestamp": "2020-06-04 20:43:16",
+            "start": "2020-05-28 23:47:23",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "542445",
+            "personID": "3878",
+            "timestamp": "2020-06-04 20:43:16",
+            "start": "2020-05-28 23:47:33",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "542459",
+            "personID": "3878",
+            "timestamp": "2020-06-04 20:43:16",
+            "start": "2020-05-28 23:47:48",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "542467",
+            "personID": "3900",
+            "timestamp": "2020-06-04 20:43:16",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "542473",
+            "personID": "3878",
+            "timestamp": "2020-06-04 20:43:16",
+            "start": "2020-05-28 23:47:59",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "542494",
+            "personID": "3878",
+            "timestamp": "2020-06-04 20:43:16",
+            "start": "2020-05-28 23:48:18",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "542503",
+            "personID": "3878",
+            "timestamp": "2020-06-04 20:43:16",
+            "start": "2020-05-28 23:48:26",
+            "end": null,
+            "source": null
+        }
+    ]
+}

@@ -1,0 +1,760 @@
+{
+    "nodes": [
+        {
+            "nodeID": "99464",
+            "text": "Not at all",
+            "type": "I",
+            "timestamp": "2015-09-23 14:42:49"
+        },
+        {
+            "nodeID": "565910",
+            "text": "Fiona Bruce : You mean encourage young people in and older people out",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:27"
+        },
+        {
+            "nodeID": "565912",
+            "text": "Theo Paphitis means to encourage young people in and older people out",
+            "type": "I",
+            "timestamp": "2020-07-30 20:18:27"
+        },
+        {
+            "nodeID": "565913",
+            "text": "Wassiliki: Fiona Bruce : You mean encourage young people in and older people out",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:27"
+        },
+        {
+            "nodeID": "565914",
+            "text": "No",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:28"
+        },
+        {
+            "nodeID": "565915",
+            "text": "Theo Paphitis : not at all",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:28"
+        },
+        {
+            "nodeID": "565917",
+            "text": "Wassiliki: Theo Paphitis : not at all",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:29"
+        },
+        {
+            "nodeID": "565918",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-07-30 20:18:29",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "565921",
+            "text": "Theo Paphitis : I left school at 16",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:29"
+        },
+        {
+            "nodeID": "565923",
+            "text": "Theo Paphitis left school at 16",
+            "type": "I",
+            "timestamp": "2020-07-30 20:18:30"
+        },
+        {
+            "nodeID": "565924",
+            "text": "Wassiliki: Theo Paphitis : I left school at 16",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:30"
+        },
+        {
+            "nodeID": "565925",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-07-30 20:18:30",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "565926",
+            "text": "Wassiliki: Theo Paphitis : Very little qualifications, dyslexic, sent a hundred applications out and got, like, a hundred rejections",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:30"
+        },
+        {
+            "nodeID": "565927",
+            "text": "Wassiliki: Theo Paphitis :  my applications wouldn't have been good reading with my spelling",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:31"
+        },
+        {
+            "nodeID": "565928",
+            "text": "Theo Paphitis : Very little qualifications, dyslexic",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:31"
+        },
+        {
+            "nodeID": "565930",
+            "text": "Theo Paphitis had very little qualifications and was dyslexic",
+            "type": "I",
+            "timestamp": "2020-07-30 20:18:32"
+        },
+        {
+            "nodeID": "565931",
+            "text": "Wassiliki: Theo Paphitis : Very little qualifications, dyslexic",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:32"
+        },
+        {
+            "nodeID": "565932",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-07-30 20:18:32",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "565933",
+            "text": "Theo Paphitis : sent a hundred applications out and got, like, a hundred rejections",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:32"
+        },
+        {
+            "nodeID": "565935",
+            "text": "Theo Paphitis sent a hundred applications out and got a hundred rejections",
+            "type": "I",
+            "timestamp": "2020-07-30 20:18:33"
+        },
+        {
+            "nodeID": "565936",
+            "text": "Wassiliki: Theo Paphitis : sent a hundred applications out and got, like, a hundred rejections",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:33"
+        },
+        {
+            "nodeID": "565937",
+            "text": "Theo Paphitis : my applications wouldn't have been good reading with my spelling",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:34"
+        },
+        {
+            "nodeID": "565939",
+            "text": "Theo Paphitis' applications wouldn't have been good reading with my spelling",
+            "type": "I",
+            "timestamp": "2020-07-30 20:18:34"
+        },
+        {
+            "nodeID": "565940",
+            "text": "Wassiliki: Theo Paphitis : my applications wouldn't have been good reading with my spelling",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:34"
+        },
+        {
+            "nodeID": "565941",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-07-30 20:18:34",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "565944",
+            "text": "Theo Paphitis : I got a job",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:35"
+        },
+        {
+            "nodeID": "565946",
+            "text": "Theo Paphitis got a job",
+            "type": "I",
+            "timestamp": "2020-07-30 20:18:35"
+        },
+        {
+            "nodeID": "565947",
+            "text": "Wassiliki: Theo Paphitis : I got a job",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:36"
+        },
+        {
+            "nodeID": "565948",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-07-30 20:18:36",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "565949",
+            "text": "Wassiliki: Theo Paphitis : t the time the Government were giving allowances to businesses",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:36"
+        },
+        {
+            "nodeID": "565950",
+            "text": "Theo Paphitis : at the time the Government were giving allowances to businesses",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:36"
+        },
+        {
+            "nodeID": "565952",
+            "text": "at the time the Government were giving allowances to businesses",
+            "type": "I",
+            "timestamp": "2020-07-30 20:18:37"
+        },
+        {
+            "nodeID": "565953",
+            "text": "Wassiliki: Theo Paphitis : at the time the Government were giving allowances to businesses",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:37"
+        },
+        {
+            "nodeID": "565954",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-07-30 20:18:37",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "565957",
+            "text": "Theo Paphitis : it was about 15 hundred quid a year",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:38"
+        },
+        {
+            "nodeID": "565959",
+            "text": "the governments allowance was about 15 hundred quid a year",
+            "type": "I",
+            "timestamp": "2020-07-30 20:18:38"
+        },
+        {
+            "nodeID": "565960",
+            "text": "Wassiliki: Theo Paphitis : it was about 15 hundred quid a year",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:38"
+        },
+        {
+            "nodeID": "565961",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-07-30 20:18:38",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "565964",
+            "text": "Wassiliki: Theo Paphitis : it was a lot of money",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:39"
+        },
+        {
+            "nodeID": "565965",
+            "text": "Wassiliki: Theo Paphitis : t was a lot of money, to take on somebody of a certain age who hadn't had a job before",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:39"
+        },
+        {
+            "nodeID": "565966",
+            "text": "Theo Paphitis : it was a lot of money, to take on somebody of a certain age who hadn't had a job before",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:40"
+        },
+        {
+            "nodeID": "565968",
+            "text": "15 hundred quid a year was a lot of money, to take on somebody of a certain age who hadn't had a job before",
+            "type": "I",
+            "timestamp": "2020-07-30 20:18:40"
+        },
+        {
+            "nodeID": "565969",
+            "text": "Wassiliki: Theo Paphitis : it was a lot of money, to take on somebody of a certain age who hadn't had a job before",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:41"
+        },
+        {
+            "nodeID": "565970",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-07-30 20:18:41",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "565971",
+            "text": "Theo Paphitis : they took me on when they were not sure they should be spending 1,500 quid",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:41"
+        },
+        {
+            "nodeID": "565973",
+            "text": "they took Theo Paphitis on when they were not sure they should be spending 1,500 quid",
+            "type": "I",
+            "timestamp": "2020-07-30 20:18:41"
+        },
+        {
+            "nodeID": "565974",
+            "text": "Wassiliki: Theo Paphitis : they took me on when they were not sure they should be spending 1,500 quid",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:42"
+        },
+        {
+            "nodeID": "565975",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-07-30 20:18:42",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "565976",
+            "text": "Theo Paphitis : it was subsidised and that gave me my first job and opportunity and then I could move on from there",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:42"
+        },
+        {
+            "nodeID": "565978",
+            "text": "Theo Paphitis' first job was subsidised and that gave him his first job and opportunity and then he could move on from there",
+            "type": "I",
+            "timestamp": "2020-07-30 20:18:43"
+        },
+        {
+            "nodeID": "565979",
+            "text": "Wassiliki: Theo Paphitis : it was subsidised and that gave me my first job and opportunity and then I could move on from there",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:43"
+        },
+        {
+            "nodeID": "565980",
+            "text": "Theo Paphitis : We need initiatives like that",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:43"
+        },
+        {
+            "nodeID": "565982",
+            "text": "we need initiatives like allowances",
+            "type": "I",
+            "timestamp": "2020-07-30 20:18:44"
+        },
+        {
+            "nodeID": "565983",
+            "text": "Wassiliki: Theo Paphitis : We need initiatives like that",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:44"
+        },
+        {
+            "nodeID": "565984",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-07-30 20:18:44",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "565985",
+            "text": "Theo Paphitis : the measures that the Chancellor has put in, but it was required",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:45"
+        },
+        {
+            "nodeID": "565987",
+            "text": "the measures that the Chancellor has put in were required",
+            "type": "I",
+            "timestamp": "2020-07-30 20:18:45"
+        },
+        {
+            "nodeID": "565988",
+            "text": "Wassiliki: Theo Paphitis : the measures that the Chancellor has put in, but it was required",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:45"
+        },
+        {
+            "nodeID": "565989",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-07-30 20:18:45",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "565990",
+            "text": "Theo Paphitis : It had to be done very quickly",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:46"
+        },
+        {
+            "nodeID": "565992",
+            "text": "the measures had to be done very quickly",
+            "type": "I",
+            "timestamp": "2020-07-30 20:18:46"
+        },
+        {
+            "nodeID": "565993",
+            "text": "Wassiliki: Theo Paphitis : It had to be done very quickly",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:47"
+        },
+        {
+            "nodeID": "565994",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-07-30 20:18:47",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "565995",
+            "text": "Theo Paphitis : I am afraid some people went through the net",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:47"
+        },
+        {
+            "nodeID": "565997",
+            "text": "Theo Paphitis is afraid some people went through the net",
+            "type": "I",
+            "timestamp": "2020-07-30 20:18:47"
+        },
+        {
+            "nodeID": "565998",
+            "text": "Wassiliki: Theo Paphitis : I am afraid some people went through the net",
+            "type": "L",
+            "timestamp": "2020-07-30 20:18:48"
+        },
+        {
+            "nodeID": "566003",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-07-30 20:18:48",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "566005",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-07-30 20:18:48",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "566007",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-07-30 20:18:48",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "735458",
+            "fromID": "565918",
+            "toID": "565915",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "735459",
+            "fromID": "565910",
+            "toID": "565918",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "735466",
+            "fromID": "565915",
+            "toID": "565925",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "735467",
+            "fromID": "565925",
+            "toID": "565921",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "735470",
+            "fromID": "565921",
+            "toID": "565932",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "735471",
+            "fromID": "565932",
+            "toID": "565928",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "735476",
+            "fromID": "565933",
+            "toID": "565941",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "735477",
+            "fromID": "565941",
+            "toID": "565937",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "735484",
+            "fromID": "565937",
+            "toID": "565948",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "735485",
+            "fromID": "565948",
+            "toID": "565944",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "735488",
+            "fromID": "565944",
+            "toID": "565954",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "735489",
+            "fromID": "565954",
+            "toID": "565950",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "735496",
+            "fromID": "565950",
+            "toID": "565961",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "735497",
+            "fromID": "565961",
+            "toID": "565957",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "735504",
+            "fromID": "565957",
+            "toID": "565970",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "735505",
+            "fromID": "565970",
+            "toID": "565966",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "735508",
+            "fromID": "565966",
+            "toID": "565975",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "735509",
+            "fromID": "565975",
+            "toID": "565971",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "735514",
+            "fromID": "565976",
+            "toID": "565984",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "735515",
+            "fromID": "565984",
+            "toID": "565980",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "735518",
+            "fromID": "565980",
+            "toID": "565989",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "735519",
+            "fromID": "565989",
+            "toID": "565985",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "735522",
+            "fromID": "565985",
+            "toID": "565994",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "735523",
+            "fromID": "565994",
+            "toID": "565990",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "735534",
+            "fromID": "565990",
+            "toID": "566003",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "735535",
+            "fromID": "566003",
+            "toID": "565995",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "735538",
+            "fromID": "565928",
+            "toID": "566005",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "735539",
+            "fromID": "566005",
+            "toID": "565937",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "735542",
+            "fromID": "565971",
+            "toID": "566007",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "735543",
+            "fromID": "566007",
+            "toID": "565976",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "565910",
+            "personID": "3812",
+            "timestamp": "2020-07-30 20:18:48",
+            "start": "2020-06-25 23:17:08",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "565915",
+            "personID": "3948",
+            "timestamp": "2020-07-30 20:18:48",
+            "start": "2020-06-25 23:17:15",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "565921",
+            "personID": "3948",
+            "timestamp": "2020-07-30 20:18:48",
+            "start": "2020-06-25 23:17:18",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "565928",
+            "personID": "3948",
+            "timestamp": "2020-07-30 20:18:48",
+            "start": "2020-06-25 23:17:21",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "565933",
+            "personID": "3948",
+            "timestamp": "2020-07-30 20:18:48",
+            "start": "2020-06-25 23:17:24",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "565937",
+            "personID": "3948",
+            "timestamp": "2020-07-30 20:18:48",
+            "start": "2020-06-25 23:17:32",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "565944",
+            "personID": "3948",
+            "timestamp": "2020-07-30 20:18:48",
+            "start": "2020-06-25 23:17:42",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "565950",
+            "personID": "3948",
+            "timestamp": "2020-07-30 20:18:48",
+            "start": "2020-06-25 23:17:46",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "565957",
+            "personID": "3948",
+            "timestamp": "2020-07-30 20:18:48",
+            "start": "2020-06-25 23:17:53",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "565966",
+            "personID": "3948",
+            "timestamp": "2020-07-30 20:18:48",
+            "start": "2020-06-25 23:17:57",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "565971",
+            "personID": "3948",
+            "timestamp": "2020-07-30 20:18:48",
+            "start": "2020-06-25 23:18:07",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "565976",
+            "personID": "3948",
+            "timestamp": "2020-07-30 20:18:48",
+            "start": "2020-06-25 23:18:17",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "565980",
+            "personID": "3948",
+            "timestamp": "2020-07-30 20:18:48",
+            "start": "2020-06-25 23:18:27",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "565985",
+            "personID": "3948",
+            "timestamp": "2020-07-30 20:18:48",
+            "start": "2020-06-25 23:18:33",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "565990",
+            "personID": "3948",
+            "timestamp": "2020-07-30 20:18:48",
+            "start": "2020-06-25 23:18:40",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "565995",
+            "personID": "3948",
+            "timestamp": "2020-07-30 20:18:48",
+            "start": "2020-06-25 23:18:43",
+            "end": null,
+            "source": null
+        }
+    ]
+}

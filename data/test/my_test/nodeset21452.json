@@ -1,0 +1,954 @@
+{
+    "nodes": [
+        {
+            "nodeID": "718032",
+            "text": "Heather McGregor : Anybody involved in the business, for instance, of music festivals",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:13"
+        },
+        {
+            "nodeID": "718034",
+            "text": "anybody involved in the business of music festivals",
+            "type": "I",
+            "timestamp": "2021-06-10 19:53:14"
+        },
+        {
+            "nodeID": "718038",
+            "text": "Chris: Heather McGregor : Anybody involved in the business, for instance, of music festivals",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:15"
+        },
+        {
+            "nodeID": "718040",
+            "text": "Heather McGregor : or festivals of any kind",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:16"
+        },
+        {
+            "nodeID": "718043",
+            "text": "or festivals of any kind",
+            "type": "I",
+            "timestamp": "2021-06-10 19:53:17"
+        },
+        {
+            "nodeID": "718046",
+            "text": "Chris: Heather McGregor : or festivals of any kind",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:18"
+        },
+        {
+            "nodeID": "718048",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:53:18",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "718055",
+            "text": "Heather McGregor : there are still so many people who are not able to fully engage in the economy",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:19"
+        },
+        {
+            "nodeID": "718059",
+            "text": "there are still so many people who are not able to fully engage in the economy",
+            "type": "I",
+            "timestamp": "2021-06-10 19:53:20"
+        },
+        {
+            "nodeID": "718061",
+            "text": "Chris: Heather McGregor : there are still so many people who are not able to fully engage in the economy",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:21"
+        },
+        {
+            "nodeID": "718063",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:53:21",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "718066",
+            "text": "Heather McGregor : I don't think the virus is going away",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:22"
+        },
+        {
+            "nodeID": "718069",
+            "text": "Heather McGregor doesn't think the virus is going away",
+            "type": "I",
+            "timestamp": "2021-06-10 19:53:23"
+        },
+        {
+            "nodeID": "718072",
+            "text": "Chris: Heather McGregor : I don't think the virus is going away",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:24"
+        },
+        {
+            "nodeID": "718073",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:53:24",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "718075",
+            "text": "Heather McGregor : the question was what scientific advice do we listen to",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:25"
+        },
+        {
+            "nodeID": "718078",
+            "text": "what scientific advice do we listen to",
+            "type": "I",
+            "timestamp": "2021-06-10 19:53:26"
+        },
+        {
+            "nodeID": "718081",
+            "text": "Chris: Heather McGregor : the question was what scientific advice do we listen to",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:27"
+        },
+        {
+            "nodeID": "718083",
+            "text": "Heather McGregor : we should listen to all the scientific advice",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:28"
+        },
+        {
+            "nodeID": "718087",
+            "text": "we should listen to all the scientific advice",
+            "type": "I",
+            "timestamp": "2021-06-10 19:53:29"
+        },
+        {
+            "nodeID": "718090",
+            "text": "Chris: Heather McGregor : we should listen to all the scientific advice",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:30"
+        },
+        {
+            "nodeID": "718091",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:53:30",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "718093",
+            "text": "Heather McGregor : we have to find a way to let business operate",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:32"
+        },
+        {
+            "nodeID": "718101",
+            "text": "we have to find a way to let business operate",
+            "type": "I",
+            "timestamp": "2021-06-10 19:53:33"
+        },
+        {
+            "nodeID": "718104",
+            "text": "Chris: Heather McGregor : we have to find a way to let business operate",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:33"
+        },
+        {
+            "nodeID": "718106",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:53:33",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "718109",
+            "text": "the sooner we can do that, the sooner the tax take will increase",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:34"
+        },
+        {
+            "nodeID": "718114",
+            "text": "Chris: Heather McGregor : the sooner we can do that",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:34"
+        },
+        {
+            "nodeID": "718116",
+            "text": "Heather McGregor : the sooner we can do that",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:35"
+        },
+        {
+            "nodeID": "718120",
+            "text": "the sooner we can do find a way to let business operate",
+            "type": "I",
+            "timestamp": "2021-06-10 19:53:36"
+        },
+        {
+            "nodeID": "718122",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:53:36",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "718127",
+            "text": "Heather McGregor : the sooner the tax take will increase",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:37"
+        },
+        {
+            "nodeID": "718131",
+            "text": "the sooner the tax take will increase",
+            "type": "I",
+            "timestamp": "2021-06-10 19:53:37"
+        },
+        {
+            "nodeID": "718139",
+            "text": "Chris: Heather McGregor : the sooner the tax take will increase",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:38"
+        },
+        {
+            "nodeID": "718141",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:53:38",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "718146",
+            "text": "Chris: AudienceMember 20210610QT04 : what scientific advice do we listen to",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:38"
+        },
+        {
+            "nodeID": "718148",
+            "text": "AudienceMember 20210610QT04 : what scientific advice do we listen to",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:39"
+        },
+        {
+            "nodeID": "718154",
+            "text": "Heather McGregor : we will have more money for things like education that I think have much bigger long term implications",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:40"
+        },
+        {
+            "nodeID": "718158",
+            "text": "we will have more money for things like education that have much bigger long term implications",
+            "type": "I",
+            "timestamp": "2021-06-10 19:53:40"
+        },
+        {
+            "nodeID": "718160",
+            "text": "Chris: Heather McGregor : we will have more money for things like education that I think have much bigger long term implications",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:41"
+        },
+        {
+            "nodeID": "718161",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:53:41",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "718164",
+            "text": "Chris: Heather McGregor : you are not a scientist",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:41"
+        },
+        {
+            "nodeID": "718166",
+            "text": "Fiona Bruce : you are not a scientist",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:42"
+        },
+        {
+            "nodeID": "718170",
+            "text": "Heather McGregor is not a scientist",
+            "type": "I",
+            "timestamp": "2021-06-10 19:53:43"
+        },
+        {
+            "nodeID": "718173",
+            "text": "Chris: Fiona Bruce : you are not a scientist",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:43"
+        },
+        {
+            "nodeID": "718174",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:53:43",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "718176",
+            "text": "Heather McGregor : do you think restrictions should carry on after 21 June or be lifted then or possibly sooner",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:44"
+        },
+        {
+            "nodeID": "718180",
+            "text": "does Heather McGregor think restrictions should carry on after 21 June or be lifted then or possibly sooner",
+            "type": "I",
+            "timestamp": "2021-06-10 19:53:45"
+        },
+        {
+            "nodeID": "718183",
+            "text": "Chris: Heather McGregor : do you think restrictions should carry on after 21 June or be lifted then or possibly sooner",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:46"
+        },
+        {
+            "nodeID": "718184",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:53:46",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "718186",
+            "text": "Heather McGregor : I would like to see restrictions lifted sooner",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:47"
+        },
+        {
+            "nodeID": "718192",
+            "text": "Heather McGregor would like to see restrictions lifted sooner",
+            "type": "I",
+            "timestamp": "2021-06-10 19:53:48"
+        },
+        {
+            "nodeID": "718194",
+            "text": "Chris: Heather McGregor : I would like to see restrictions lifted sooner",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:49"
+        },
+        {
+            "nodeID": "718195",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:53:49",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "718199",
+            "text": "Heather McGregor : I would like to see us work out a way to live with it on a longer term basis",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:50"
+        },
+        {
+            "nodeID": "718203",
+            "text": "Heather McGregor would like to see us work out a way to live with it on a longer term basis",
+            "type": "I",
+            "timestamp": "2021-06-10 19:53:51"
+        },
+        {
+            "nodeID": "718204",
+            "text": "Chris: Heather McGregor : I would like to see us work out a way to live with it on a longer term basis",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:51"
+        },
+        {
+            "nodeID": "718205",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:53:51",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "718209",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:53:51",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "718214",
+            "text": "Heather McGregor : We are going to be living with this virus for a very long time",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:52"
+        },
+        {
+            "nodeID": "718218",
+            "text": "we are going to be living with this virus for a very long time",
+            "type": "I",
+            "timestamp": "2021-06-10 19:53:53"
+        },
+        {
+            "nodeID": "718220",
+            "text": "Chris: Heather McGregor : We are going to be living with this virus for a very long time",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:54"
+        },
+        {
+            "nodeID": "718221",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:53:54",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "718226",
+            "text": "Heather McGregor : What's going to happen on 21 June, there will be another date and another date",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:55"
+        },
+        {
+            "nodeID": "718230",
+            "text": "what's going to happen on 21 June there will be another date and another date",
+            "type": "I",
+            "timestamp": "2021-06-10 19:53:56"
+        },
+        {
+            "nodeID": "718232",
+            "text": "Chris: Heather McGregor : What's going to happen on 21 June, there will be another date and another date",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:57"
+        },
+        {
+            "nodeID": "718233",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:53:57",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "718238",
+            "text": "Heather McGregor : We need a permanent long-term solution",
+            "type": "L",
+            "timestamp": "2021-06-10 19:53:58"
+        },
+        {
+            "nodeID": "718242",
+            "text": "we need a permanent long-term solution",
+            "type": "I",
+            "timestamp": "2021-06-10 19:53:59"
+        },
+        {
+            "nodeID": "718244",
+            "text": "Chris: Heather McGregor : We need a permanent long-term solution",
+            "type": "L",
+            "timestamp": "2021-06-10 19:54:00"
+        },
+        {
+            "nodeID": "718245",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:54:00",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "718246",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:54:00",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "718260",
+            "text": "Heather McGregor : Business cannot live with this kind of knee-jerk reaction",
+            "type": "L",
+            "timestamp": "2021-06-10 19:54:00"
+        },
+        {
+            "nodeID": "718262",
+            "text": "business cannot live with this kind of knee-jerk reaction",
+            "type": "I",
+            "timestamp": "2021-06-10 19:54:01"
+        },
+        {
+            "nodeID": "718263",
+            "text": "Chris: Heather McGregor : Business cannot live with this kind of knee-jerk reaction",
+            "type": "L",
+            "timestamp": "2021-06-10 19:54:02"
+        },
+        {
+            "nodeID": "718264",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:54:02",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "718267",
+            "text": "Heather McGregor : The reaction to me is much too immediate and not really long term enough",
+            "type": "L",
+            "timestamp": "2021-06-10 19:54:02"
+        },
+        {
+            "nodeID": "718269",
+            "text": "the reaction to me is much too immediate and not really long term enough",
+            "type": "I",
+            "timestamp": "2021-06-10 19:54:03"
+        },
+        {
+            "nodeID": "718270",
+            "text": "Chris: Heather McGregor : The reaction to me is much too immediate and not really long term enough",
+            "type": "L",
+            "timestamp": "2021-06-10 19:54:03"
+        },
+        {
+            "nodeID": "718272",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:54:03",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "718275",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:54:03",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "718279",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:54:03",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "923681",
+            "fromID": "718032",
+            "toID": "718048",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923682",
+            "fromID": "718048",
+            "toID": "718040",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923689",
+            "fromID": "718040",
+            "toID": "718063",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923690",
+            "fromID": "718063",
+            "toID": "718055",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923693",
+            "fromID": "718055",
+            "toID": "718073",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923694",
+            "fromID": "718073",
+            "toID": "718066",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923697",
+            "fromID": "718075",
+            "toID": "718091",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923698",
+            "fromID": "718091",
+            "toID": "718083",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923703",
+            "fromID": "718083",
+            "toID": "718106",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923704",
+            "fromID": "718106",
+            "toID": "718093",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923709",
+            "fromID": "718093",
+            "toID": "718122",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923710",
+            "fromID": "718122",
+            "toID": "718116",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923716",
+            "fromID": "718116",
+            "toID": "718141",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923717",
+            "fromID": "718141",
+            "toID": "718127",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923730",
+            "fromID": "718127",
+            "toID": "718161",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923731",
+            "fromID": "718161",
+            "toID": "718154",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923734",
+            "fromID": "718154",
+            "toID": "718174",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923735",
+            "fromID": "718174",
+            "toID": "718166",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923738",
+            "fromID": "718166",
+            "toID": "718184",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923739",
+            "fromID": "718184",
+            "toID": "718176",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923742",
+            "fromID": "718176",
+            "toID": "718195",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923743",
+            "fromID": "718195",
+            "toID": "718186",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923750",
+            "fromID": "718186",
+            "toID": "718205",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923751",
+            "fromID": "718205",
+            "toID": "718199",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923756",
+            "fromID": "718066",
+            "toID": "718209",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923757",
+            "fromID": "718209",
+            "toID": "718199",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923764",
+            "fromID": "718199",
+            "toID": "718221",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923765",
+            "fromID": "718221",
+            "toID": "718214",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923768",
+            "fromID": "718214",
+            "toID": "718233",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923769",
+            "fromID": "718233",
+            "toID": "718226",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923772",
+            "fromID": "718226",
+            "toID": "718245",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923773",
+            "fromID": "718245",
+            "toID": "718238",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923774",
+            "fromID": "718066",
+            "toID": "718246",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923775",
+            "fromID": "718246",
+            "toID": "718214",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923782",
+            "fromID": "718238",
+            "toID": "718264",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923783",
+            "fromID": "718264",
+            "toID": "718260",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923792",
+            "fromID": "718260",
+            "toID": "718272",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923793",
+            "fromID": "718272",
+            "toID": "718267",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923799",
+            "fromID": "718116",
+            "toID": "718275",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923800",
+            "fromID": "718275",
+            "toID": "718154",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923807",
+            "fromID": "718214",
+            "toID": "718279",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923808",
+            "fromID": "718279",
+            "toID": "718238",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "718032",
+            "personID": "4766",
+            "timestamp": "2021-06-10 19:54:04",
+            "start": "2020-10-15 22:50:02",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "718040",
+            "personID": "4766",
+            "timestamp": "2021-06-10 19:54:04",
+            "start": "2020-10-15 22:50:08",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "718055",
+            "personID": "4766",
+            "timestamp": "2021-06-10 19:54:04",
+            "start": "2020-10-15 22:50:11",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "718066",
+            "personID": "4766",
+            "timestamp": "2021-06-10 19:54:04",
+            "start": "2020-10-15 22:50:19",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "718075",
+            "personID": "4766",
+            "timestamp": "2021-06-10 19:54:04",
+            "start": "2020-10-15 22:50:24",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "718083",
+            "personID": "4766",
+            "timestamp": "2021-06-10 19:54:04",
+            "start": "2020-10-15 22:50:33",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "718093",
+            "personID": "4766",
+            "timestamp": "2021-06-10 19:54:04",
+            "start": "2020-10-15 22:50:38",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "718116",
+            "personID": "4766",
+            "timestamp": "2021-06-10 19:54:04",
+            "start": "2020-10-15 22:50:43",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "718127",
+            "personID": "4766",
+            "timestamp": "2021-06-10 19:54:04",
+            "start": "2020-10-15 22:50:45",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "718148",
+            "personID": "4773",
+            "timestamp": "2021-06-10 19:54:04",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "718154",
+            "personID": "4766",
+            "timestamp": "2021-06-10 19:54:04",
+            "start": "2020-10-15 22:50:50",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "718166",
+            "personID": "3812",
+            "timestamp": "2021-06-10 19:54:04",
+            "start": "2020-10-15 22:51:03",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "718176",
+            "personID": "4766",
+            "timestamp": "2021-06-10 19:54:04",
+            "start": "2020-10-15 22:51:06",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "718186",
+            "personID": "4766",
+            "timestamp": "2021-06-10 19:54:04",
+            "start": "2020-10-15 22:51:19",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "718199",
+            "personID": "4766",
+            "timestamp": "2021-06-10 19:54:04",
+            "start": "2020-10-15 22:51:24",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "718214",
+            "personID": "4766",
+            "timestamp": "2021-06-10 19:54:04",
+            "start": "2020-10-15 22:51:32",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "718226",
+            "personID": "4766",
+            "timestamp": "2021-06-10 19:54:04",
+            "start": "2020-10-15 22:51:38",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "718238",
+            "personID": "4766",
+            "timestamp": "2021-06-10 19:54:04",
+            "start": "2020-10-15 22:51:46",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "718260",
+            "personID": "4766",
+            "timestamp": "2021-06-10 19:54:04",
+            "start": "2020-10-15 22:51:50",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "718267",
+            "personID": "4766",
+            "timestamp": "2021-06-10 19:54:04",
+            "start": "2020-10-15 22:51:56",
+            "end": null,
+            "source": null
+        }
+    ]
+}

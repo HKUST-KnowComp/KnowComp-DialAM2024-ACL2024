@@ -1,0 +1,356 @@
+{
+    "nodes": [
+        {
+            "nodeID": "767622",
+            "text": "Fiona Bruce : what about all the people who are saying they're trying to get a vaccine and they couldn't get one",
+            "type": "L",
+            "timestamp": "2021-10-28 21:11:13"
+        },
+        {
+            "nodeID": "767950",
+            "text": "Fiona Bruce : Just for the booster of course",
+            "type": "L",
+            "timestamp": "2021-10-28 21:12:55"
+        },
+        {
+            "nodeID": "799027",
+            "text": "xxx is what about all the people who are saying they're trying to get a vaccine and they couldn't get one",
+            "type": "I",
+            "timestamp": "2022-01-06 10:56:09"
+        },
+        {
+            "nodeID": "799028",
+            "text": "Ella: Fiona Bruce : what about all the people who are saying they're trying to get a vaccine and they couldn't get one",
+            "type": "L",
+            "timestamp": "2022-01-06 10:56:09"
+        },
+        {
+            "nodeID": "799029",
+            "text": "Ella: Fiona Bruce : they couldn't get one through their GP or on the NHS app",
+            "type": "L",
+            "timestamp": "2022-01-06 10:56:10"
+        },
+        {
+            "nodeID": "799030",
+            "text": "Fiona Bruce : they couldn't get one through their GP",
+            "type": "L",
+            "timestamp": "2022-01-06 10:56:10"
+        },
+        {
+            "nodeID": "799032",
+            "text": "people couldn't get a vaccine through their GP",
+            "type": "I",
+            "timestamp": "2022-01-06 10:56:11"
+        },
+        {
+            "nodeID": "799033",
+            "text": "Ella: Fiona Bruce : they couldn't get one through their GP",
+            "type": "L",
+            "timestamp": "2022-01-06 10:56:11"
+        },
+        {
+            "nodeID": "799034",
+            "text": "Fiona Bruce : on the NHS app",
+            "type": "L",
+            "timestamp": "2022-01-06 10:56:12"
+        },
+        {
+            "nodeID": "799036",
+            "text": "people couldn't get a vaccine on the NHS app",
+            "type": "I",
+            "timestamp": "2022-01-06 10:56:13"
+        },
+        {
+            "nodeID": "799037",
+            "text": "Ella: Fiona Bruce : on the NHS app",
+            "type": "L",
+            "timestamp": "2022-01-06 10:56:13"
+        },
+        {
+            "nodeID": "799044",
+            "text": "Fiona Bruce : yesterday, when I had a look to see if I could book one, it was saying only frontline healthcare workers",
+            "type": "L",
+            "timestamp": "2022-01-06 10:56:14"
+        },
+        {
+            "nodeID": "799046",
+            "text": "yesterday, it was saying only frontline healthcare workers could get a vaccine",
+            "type": "I",
+            "timestamp": "2022-01-06 10:56:14"
+        },
+        {
+            "nodeID": "799047",
+            "text": "Ella: Fiona Bruce : yesterday, when I had a look to see if I could book one, it was saying only frontline healthcare workers",
+            "type": "L",
+            "timestamp": "2022-01-06 10:56:15"
+        },
+        {
+            "nodeID": "799049",
+            "text": "Fiona Bruce : I had a look to see if I could book one",
+            "type": "L",
+            "timestamp": "2022-01-06 10:56:15"
+        },
+        {
+            "nodeID": "799051",
+            "text": "Fiona Bruce had a look to see if she could book a vaccine",
+            "type": "I",
+            "timestamp": "2022-01-06 10:56:16"
+        },
+        {
+            "nodeID": "799052",
+            "text": "Ella: Fiona Bruce : I had a look to see if I could book one",
+            "type": "L",
+            "timestamp": "2022-01-06 10:56:16"
+        },
+        {
+            "nodeID": "799054",
+            "text": "Fiona Bruce : That has changed, but just today",
+            "type": "L",
+            "timestamp": "2022-01-06 10:56:17"
+        },
+        {
+            "nodeID": "799056",
+            "text": "not being able to book a vaccine has changed, but just today",
+            "type": "I",
+            "timestamp": "2022-01-06 10:56:18"
+        },
+        {
+            "nodeID": "799057",
+            "text": "Ella: Fiona Bruce : That has changed, but just today",
+            "type": "L",
+            "timestamp": "2022-01-06 10:56:18"
+        },
+        {
+            "nodeID": "799059",
+            "text": "Andrew Bowie : That has changed today",
+            "type": "L",
+            "timestamp": "2022-01-06 10:56:19"
+        },
+        {
+            "nodeID": "799060",
+            "text": "Ella: Andrew Bowie : That has changed today",
+            "type": "L",
+            "timestamp": "2022-01-06 10:56:19"
+        },
+        {
+            "nodeID": "799064",
+            "text": "just for the booster of course",
+            "type": "I",
+            "timestamp": "2022-01-06 10:56:20"
+        },
+        {
+            "nodeID": "799065",
+            "text": "Ella: Fiona Bruce : Just for the booster of course",
+            "type": "L",
+            "timestamp": "2022-01-06 10:56:21"
+        },
+        {
+            "nodeID": "851919",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 15:28:50",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "851920",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 15:28:50",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "851924",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 15:28:51",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "851926",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 15:28:53",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "851928",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 15:28:54",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "851929",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 15:28:56",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "851932",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-13 15:28:57",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "1053395",
+            "fromID": "767622",
+            "toID": "851919",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1053396",
+            "fromID": "851919",
+            "toID": "799030",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1053397",
+            "fromID": "767622",
+            "toID": "851920",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1053398",
+            "fromID": "851920",
+            "toID": "799034",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1053405",
+            "fromID": "799034",
+            "toID": "851924",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1053406",
+            "fromID": "851924",
+            "toID": "799044",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1053409",
+            "fromID": "799044",
+            "toID": "851926",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1053410",
+            "fromID": "851926",
+            "toID": "799049",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1053413",
+            "fromID": "799049",
+            "toID": "851928",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1053414",
+            "fromID": "851928",
+            "toID": "799054",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1053415",
+            "fromID": "799054",
+            "toID": "851929",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1053416",
+            "fromID": "851929",
+            "toID": "799059",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1053421",
+            "fromID": "799059",
+            "toID": "851932",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1053422",
+            "fromID": "851932",
+            "toID": "767950",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "767622",
+            "personID": "3733",
+            "timestamp": "2022-01-13 15:28:57",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "799030",
+            "personID": "3733",
+            "timestamp": "2022-01-13 15:28:57",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "799034",
+            "personID": "3733",
+            "timestamp": "2022-01-13 15:28:57",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "799044",
+            "personID": "3733",
+            "timestamp": "2022-01-13 15:28:57",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "799049",
+            "personID": "3733",
+            "timestamp": "2022-01-13 15:28:57",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "799054",
+            "personID": "3733",
+            "timestamp": "2022-01-13 15:28:57",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "799059",
+            "personID": "3731",
+            "timestamp": "2022-01-13 15:28:57",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "767950",
+            "personID": "3733",
+            "timestamp": "2022-01-13 15:28:57",
+            "start": null,
+            "end": null,
+            "source": null
+        }
+    ]
+}

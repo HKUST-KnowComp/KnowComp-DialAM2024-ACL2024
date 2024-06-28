@@ -1,0 +1,662 @@
+{
+    "nodes": [
+        {
+            "nodeID": "590074",
+            "text": "Douglas Ross : The replacement is similar if you look at the level of support that individuals and employers have to put in in France, in Spain, in Germany is very similar",
+            "type": "L",
+            "timestamp": "2020-10-22 20:39:10"
+        },
+        {
+            "nodeID": "590078",
+            "text": "the replacement is similar if you look at the level of support that individuals and employers have to put in in France, in Spain and in Germany is it very similar",
+            "type": "I",
+            "timestamp": "2020-10-22 20:39:11"
+        },
+        {
+            "nodeID": "590080",
+            "text": "Camilla: Douglas Ross : The replacement is similar if you look at the level of support that individuals and employers have to put in in France, in Spain, in Germany is very similar",
+            "type": "L",
+            "timestamp": "2020-10-22 20:39:13"
+        },
+        {
+            "nodeID": "590086",
+            "text": "Douglas Ross : two-thirds the government are paying in the United Kingdom compared to other countries",
+            "type": "L",
+            "timestamp": "2020-10-22 20:39:15"
+        },
+        {
+            "nodeID": "590090",
+            "text": "two-thirds the government are paying in the United Kingdom compared to other countries",
+            "type": "I",
+            "timestamp": "2020-10-22 20:39:17"
+        },
+        {
+            "nodeID": "590099",
+            "text": "Camilla: Douglas Ross : two-thirds the government are paying in the United Kingdom compared to other countries",
+            "type": "L",
+            "timestamp": "2020-10-22 20:39:18"
+        },
+        {
+            "nodeID": "590101",
+            "text": "Douglas Ross : Ian is right, because young people are effectively the ones that could be affected by this",
+            "type": "L",
+            "timestamp": "2020-10-22 20:39:20"
+        },
+        {
+            "nodeID": "590104",
+            "text": "Douglas Ross agrees with Ian Wood because young people are effectively the ones that could be affected by the unemployment",
+            "type": "I",
+            "timestamp": "2020-10-22 20:39:22"
+        },
+        {
+            "nodeID": "590106",
+            "text": "Camilla: Douglas Ross : Ian is right, because young people are effectively the ones that could be affected by this",
+            "type": "L",
+            "timestamp": "2020-10-22 20:39:23"
+        },
+        {
+            "nodeID": "590136",
+            "text": "First of all their educatio",
+            "type": "L",
+            "timestamp": "2020-10-22 20:39:24"
+        },
+        {
+            "nodeID": "590139",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-10-22 20:39:32",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "590141",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-10-22 20:39:35",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "590142",
+            "text": "Douglas Ross : First of all their education",
+            "type": "L",
+            "timestamp": "2020-10-22 20:39:37"
+        },
+        {
+            "nodeID": "590144",
+            "text": "first of all young people's education",
+            "type": "I",
+            "timestamp": "2020-10-22 20:39:38"
+        },
+        {
+            "nodeID": "590145",
+            "text": "Camilla: Douglas Ross : First of all their education",
+            "type": "L",
+            "timestamp": "2020-10-22 20:39:40"
+        },
+        {
+            "nodeID": "590146",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-10-22 20:39:40",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "590147",
+            "text": "Douglas Ross : Many of them didn’t get to finish their school education",
+            "type": "L",
+            "timestamp": "2020-10-22 20:39:41"
+        },
+        {
+            "nodeID": "590149",
+            "text": "many of the young people didn’t get to finish their school education",
+            "type": "I",
+            "timestamp": "2020-10-22 20:39:42"
+        },
+        {
+            "nodeID": "590150",
+            "text": "Camilla: Douglas Ross : Many of them didn’t get to finish their school education",
+            "type": "L",
+            "timestamp": "2020-10-22 20:39:43"
+        },
+        {
+            "nodeID": "590152",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-10-22 20:39:43",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "590154",
+            "text": "Douglas Ross :  they didn’t get to sit exams",
+            "type": "L",
+            "timestamp": "2020-10-22 20:39:44"
+        },
+        {
+            "nodeID": "590156",
+            "text": "many of the young people didn’t get to sit exams",
+            "type": "I",
+            "timestamp": "2020-10-22 20:39:46"
+        },
+        {
+            "nodeID": "590157",
+            "text": "Camilla: Douglas Ross :  they didn’t get to sit exams",
+            "type": "L",
+            "timestamp": "2020-10-22 20:39:47"
+        },
+        {
+            "nodeID": "590158",
+            "text": "Douglas Ross : they went on to college and university",
+            "type": "L",
+            "timestamp": "2020-10-22 20:39:48"
+        },
+        {
+            "nodeID": "590160",
+            "text": "many of the young people went on to college and university",
+            "type": "I",
+            "timestamp": "2020-10-22 20:39:49"
+        },
+        {
+            "nodeID": "590161",
+            "text": "Camilla: Douglas Ross : they went on to college and university",
+            "type": "L",
+            "timestamp": "2020-10-22 20:39:50"
+        },
+        {
+            "nodeID": "590162",
+            "text": "Douglas Ross : in Scotland and other parts of the United Kingdom they had a terrible initial experience at university",
+            "type": "L",
+            "timestamp": "2020-10-22 20:39:52"
+        },
+        {
+            "nodeID": "590164",
+            "text": "in Scotland and other parts of the United Kingdom they had a terrible initial experience at university",
+            "type": "I",
+            "timestamp": "2020-10-22 20:39:53"
+        },
+        {
+            "nodeID": "590165",
+            "text": "Camilla: Douglas Ross : in Scotland and other parts of the United Kingdom they had a terrible initial experience at university",
+            "type": "L",
+            "timestamp": "2020-10-22 20:39:54"
+        },
+        {
+            "nodeID": "590166",
+            "text": "Camilla: Douglas Ross : now they are going to be paying for this for much of their lives",
+            "type": "L",
+            "timestamp": "2020-10-22 20:39:55"
+        },
+        {
+            "nodeID": "590167",
+            "text": "Douglas Ross : now they are going to be paying for this for much of their lives and the job market",
+            "type": "L",
+            "timestamp": "2020-10-22 20:39:56"
+        },
+        {
+            "nodeID": "590169",
+            "text": "now the young people are going to be paying for the failures in their education for much of their lives and in the job market",
+            "type": "I",
+            "timestamp": "2020-10-22 20:39:57"
+        },
+        {
+            "nodeID": "590170",
+            "text": "Camilla: Douglas Ross : now they are going to be paying for this for much of their lives and the job market",
+            "type": "L",
+            "timestamp": "2020-10-22 20:39:58"
+        },
+        {
+            "nodeID": "590172",
+            "text": "Douglas Ross : when we get through this health pandemic, the global response to the economic emergency that we’re all going to face is one that we have to treat extremely seriously",
+            "type": "L",
+            "timestamp": "2020-10-22 20:39:59"
+        },
+        {
+            "nodeID": "590174",
+            "text": "when we get through this health pandemic, the global response to the economic emergency that we’re all going to face is one that we have to treat extremely seriously",
+            "type": "I",
+            "timestamp": "2020-10-22 20:39:59"
+        },
+        {
+            "nodeID": "590175",
+            "text": "Camilla: Douglas Ross : when we get through this health pandemic, the global response to the economic emergency that we’re all going to face is one that we have to treat extremely seriously",
+            "type": "L",
+            "timestamp": "2020-10-22 20:40:00"
+        },
+        {
+            "nodeID": "590176",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-10-22 20:40:00",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "590178",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-10-22 20:40:00",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "590179",
+            "text": "Douglas Ross : I think it is young people we have to be thinking about",
+            "type": "L",
+            "timestamp": "2020-10-22 20:40:01"
+        },
+        {
+            "nodeID": "590181",
+            "text": "Douglas Ross thinks it is young people we have to be thinking about",
+            "type": "I",
+            "timestamp": "2020-10-22 20:40:02"
+        },
+        {
+            "nodeID": "590182",
+            "text": "Camilla: Douglas Ross : I think it is young people we have to be thinking about",
+            "type": "L",
+            "timestamp": "2020-10-22 20:40:03"
+        },
+        {
+            "nodeID": "590183",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-10-22 20:40:03",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "590184",
+            "text": "Douglas Ross : That’s why the UK government have introduced schemes to help young people into employment",
+            "type": "L",
+            "timestamp": "2020-10-22 20:40:04"
+        },
+        {
+            "nodeID": "590186",
+            "text": "the UK government have introduced schemes to help young people into employment",
+            "type": "I",
+            "timestamp": "2020-10-22 20:40:05"
+        },
+        {
+            "nodeID": "590187",
+            "text": "Camilla: Douglas Ross : That’s why the UK government have introduced schemes to help young people into employment",
+            "type": "L",
+            "timestamp": "2020-10-22 20:40:06"
+        },
+        {
+            "nodeID": "590189",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-10-22 20:40:06",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "590191",
+            "text": "Douglas Ross : as the chancellor has said and the prime minister has said, it is going to be impossible to save every single job",
+            "type": "L",
+            "timestamp": "2020-10-22 20:40:07"
+        },
+        {
+            "nodeID": "590192",
+            "text": "it is going to be impossible to save every single job",
+            "type": "I",
+            "timestamp": "2020-10-22 20:40:08"
+        },
+        {
+            "nodeID": "590193",
+            "text": "Camilla: Douglas Ross : as the chancellor has said and the prime minister has said, it is going to be impossible to save every single job",
+            "type": "L",
+            "timestamp": "2020-10-22 20:40:09"
+        },
+        {
+            "nodeID": "590194",
+            "text": "Boris Johnson : it is going to be impossible to save every single job",
+            "type": "L",
+            "timestamp": "2020-10-22 20:40:09"
+        },
+        {
+            "nodeID": "590195",
+            "text": "Camilla: Boris Johnson : as the chancellor has said and the prime minister has said, it is going to be impossible to save every single job",
+            "type": "L",
+            "timestamp": "2020-10-22 20:40:10"
+        },
+        {
+            "nodeID": "590196",
+            "text": "Rishi Sunak : it is going to be impossible to save every single job",
+            "type": "L",
+            "timestamp": "2020-10-22 20:40:11"
+        },
+        {
+            "nodeID": "590197",
+            "text": "Camilla: Rishi Sunak : as the chancellor has said and the prime minister has said, it is going to be impossible to save every single job",
+            "type": "L",
+            "timestamp": "2020-10-22 20:40:13"
+        },
+        {
+            "nodeID": "590201",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-10-22 20:40:13",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "590204",
+            "text": "Douglas Ross : we are putting in place tools to protect as many as possible, as we have done with the furlough scheme and the replacement scheme going forward",
+            "type": "L",
+            "timestamp": "2020-10-22 20:40:14"
+        },
+        {
+            "nodeID": "590207",
+            "text": "we are putting in place tools to protect as many as possible, as we have done with the furlough scheme and the replacement scheme going forward",
+            "type": "I",
+            "timestamp": "2020-10-22 20:40:15"
+        },
+        {
+            "nodeID": "590209",
+            "text": "Camilla: Douglas Ross : we are putting in place tools to protect as many as possible, as we have done with the furlough scheme and the replacement scheme going forward",
+            "type": "L",
+            "timestamp": "2020-10-22 20:40:17"
+        },
+        {
+            "nodeID": "590211",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-10-22 20:40:17",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "590212",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-10-22 20:40:17",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "767618",
+            "fromID": "590074",
+            "toID": "590139",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "767619",
+            "fromID": "590139",
+            "toID": "590086",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "767622",
+            "fromID": "590086",
+            "toID": "590141",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "767623",
+            "fromID": "590141",
+            "toID": "590101",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "767626",
+            "fromID": "590101",
+            "toID": "590146",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "767627",
+            "fromID": "590146",
+            "toID": "590142",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "767632",
+            "fromID": "590142",
+            "toID": "590152",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "767633",
+            "fromID": "590152",
+            "toID": "590147",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "767651",
+            "fromID": "590162",
+            "toID": "590176",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "767652",
+            "fromID": "590176",
+            "toID": "590167",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "767655",
+            "fromID": "590147",
+            "toID": "590176",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "767656",
+            "fromID": "590154",
+            "toID": "590176",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "767657",
+            "fromID": "590158",
+            "toID": "590176",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "767658",
+            "fromID": "590167",
+            "toID": "590178",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "767659",
+            "fromID": "590178",
+            "toID": "590172",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "767662",
+            "fromID": "590167",
+            "toID": "590183",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "767663",
+            "fromID": "590183",
+            "toID": "590179",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "767668",
+            "fromID": "590179",
+            "toID": "590189",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "767669",
+            "fromID": "590189",
+            "toID": "590184",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "767678",
+            "fromID": "590184",
+            "toID": "590201",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "767679",
+            "fromID": "590201",
+            "toID": "590191",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "767684",
+            "fromID": "590191",
+            "toID": "590211",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "767685",
+            "fromID": "590211",
+            "toID": "590204",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "767686",
+            "fromID": "590184",
+            "toID": "590212",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "767687",
+            "fromID": "590212",
+            "toID": "590204",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "590074",
+            "personID": "3882",
+            "timestamp": "2020-10-22 20:40:17",
+            "start": "2020-10-15 23:21:44",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "590086",
+            "personID": "3882",
+            "timestamp": "2020-10-22 20:40:17",
+            "start": "2020-10-15 23:22:00",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "590101",
+            "personID": "3882",
+            "timestamp": "2020-10-22 20:40:17",
+            "start": "2020-10-15 23:22:09",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "590142",
+            "personID": "3882",
+            "timestamp": "2020-10-22 20:40:17",
+            "start": "2020-10-15 23:22:18",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "590147",
+            "personID": "3882",
+            "timestamp": "2020-10-22 20:40:17",
+            "start": "2020-10-15 23:22:21",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "590154",
+            "personID": "3882",
+            "timestamp": "2020-10-22 20:40:17",
+            "start": "2020-10-15 23:22:27",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "590158",
+            "personID": "3882",
+            "timestamp": "2020-10-22 20:40:17",
+            "start": "2020-10-15 23:22:30",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "590162",
+            "personID": "3882",
+            "timestamp": "2020-10-22 20:40:17",
+            "start": "2020-10-15 23:22:35",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "590167",
+            "personID": "3882",
+            "timestamp": "2020-10-22 20:40:17",
+            "start": "2020-10-15 23:22:45",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "590172",
+            "personID": "3882",
+            "timestamp": "2020-10-22 20:40:17",
+            "start": "2020-10-15 23:22:54",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "590179",
+            "personID": "3882",
+            "timestamp": "2020-10-22 20:40:17",
+            "start": "2020-10-15 23:23:11",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "590184",
+            "personID": "3882",
+            "timestamp": "2020-10-22 20:40:17",
+            "start": "2020-10-15 23:23:17",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "590191",
+            "personID": "3882",
+            "timestamp": "2020-10-22 20:40:17",
+            "start": "2020-10-15 23:23:27",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "590194",
+            "personID": "3939",
+            "timestamp": "2020-10-22 20:40:17",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "590196",
+            "personID": "3996",
+            "timestamp": "2020-10-22 20:40:17",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "590204",
+            "personID": "3882",
+            "timestamp": "2020-10-22 20:40:17",
+            "start": "2020-10-15 23:23:39",
+            "end": null,
+            "source": null
+        }
+    ]
+}

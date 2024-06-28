@@ -1,0 +1,1106 @@
+{
+    "nodes": [
+        {
+            "nodeID": "592077",
+            "text": "Marie van-der-Zyl : Absolutely",
+            "type": "L",
+            "timestamp": "2020-11-05 19:28:54"
+        },
+        {
+            "nodeID": "593191",
+            "text": "Kyle: Bonnie Greer : Chris, that’s what they used to say, the folks, when they were desegregating a neighbourhood, oh, well, we have a black person here in our neighbourhood so we’re cool, we’re all right. That doesn’t wash anymore. Okay. You don’t judge people like that anymore. We look at human beings. Baroness Warsi has been on you…not you personally, but on the Conservative party, her party for years about this. This does not excuse or wash over the Labour party. I’m not doing that. But there is housework you need to be doing too, and putting people of colour in the cabinet does not erase that fact.",
+            "type": "L",
+            "timestamp": "2020-11-05 19:46:47"
+        },
+        {
+            "nodeID": "593192",
+            "text": "Bonnie Greer : Chris, that’s what they used to say, the folks, when they were desegregating a neighbourhood",
+            "type": "L",
+            "timestamp": "2020-11-05 19:46:47"
+        },
+        {
+            "nodeID": "593194",
+            "text": "the folks used to say x when they were desegregating a neighbourhood",
+            "type": "I",
+            "timestamp": "2020-11-05 19:46:47"
+        },
+        {
+            "nodeID": "593195",
+            "text": "Kyle: Bonnie Greer : Chris, that’s what they used to say, the folks, when they were desegregating a neighbourhood",
+            "type": "L",
+            "timestamp": "2020-11-05 19:46:48"
+        },
+        {
+            "nodeID": "593196",
+            "text": "Bonnie Greer : we have a black person here in our neighbourhood so we’re cool, we’re all right",
+            "type": "L",
+            "timestamp": "2020-11-05 19:46:48"
+        },
+        {
+            "nodeID": "593198",
+            "text": "the folks used to say we have a black person here in our neighbourhood so we’re cool and we’re all right when desegregating a neighbourhood",
+            "type": "I",
+            "timestamp": "2020-11-05 19:46:49"
+        },
+        {
+            "nodeID": "593199",
+            "text": "Kyle: Bonnie Greer : we have a black person here in our neighbourhood so we’re cool, we’re all right",
+            "type": "L",
+            "timestamp": "2020-11-05 19:46:49"
+        },
+        {
+            "nodeID": "593200",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 19:46:49",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "593203",
+            "text": "Bonnie Greer : That doesn’t wash anymore.",
+            "type": "L",
+            "timestamp": "2020-11-05 19:46:49"
+        },
+        {
+            "nodeID": "593205",
+            "text": "saying that we have a black person here in our neighbourhood so we're cool and we're alright when desegregating a neighbourhood doesn’t wash anymore",
+            "type": "I",
+            "timestamp": "2020-11-05 19:46:50"
+        },
+        {
+            "nodeID": "593206",
+            "text": "Kyle: Bonnie Greer : That doesn’t wash anymore.",
+            "type": "L",
+            "timestamp": "2020-11-05 19:46:50"
+        },
+        {
+            "nodeID": "593207",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 19:46:50",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "593210",
+            "text": "Bonnie Greer : You don’t judge people like that anymore",
+            "type": "L",
+            "timestamp": "2020-11-05 19:46:51"
+        },
+        {
+            "nodeID": "593212",
+            "text": "you don’t judge people like that anymore",
+            "type": "I",
+            "timestamp": "2020-11-05 19:46:51"
+        },
+        {
+            "nodeID": "593213",
+            "text": "Kyle: Bonnie Greer : You don’t judge people like that anymore",
+            "type": "L",
+            "timestamp": "2020-11-05 19:46:51"
+        },
+        {
+            "nodeID": "593214",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 19:46:51",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "593215",
+            "text": "Bonnie Greer : We look at human beings",
+            "type": "L",
+            "timestamp": "2020-11-05 19:46:52"
+        },
+        {
+            "nodeID": "593217",
+            "text": "we look at human beings",
+            "type": "I",
+            "timestamp": "2020-11-05 19:46:52"
+        },
+        {
+            "nodeID": "593218",
+            "text": "Kyle: Bonnie Greer : We look at human beings",
+            "type": "L",
+            "timestamp": "2020-11-05 19:46:53"
+        },
+        {
+            "nodeID": "593219",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 19:46:53",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "593222",
+            "text": "Bonnie Greer : Baroness Warsi has been on you…not you personally, but on the Conservative party, her party for years about this",
+            "type": "L",
+            "timestamp": "2020-11-05 19:46:53"
+        },
+        {
+            "nodeID": "593223",
+            "text": "Baroness Warsi has been on the Conservative party, her party for years about the judgement of black people",
+            "type": "I",
+            "timestamp": "2020-11-05 19:46:54"
+        },
+        {
+            "nodeID": "593224",
+            "text": "Kyle: Bonnie Greer : Baroness Warsi has been on you…not you personally, but on the Conservative party, her party for years about this",
+            "type": "L",
+            "timestamp": "2020-11-05 19:46:54"
+        },
+        {
+            "nodeID": "593225",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 19:46:54",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "593226",
+            "text": "Bonnie Greer : This does not excuse or wash over the Labour party",
+            "type": "L",
+            "timestamp": "2020-11-05 19:46:54"
+        },
+        {
+            "nodeID": "593228",
+            "text": "Baroness Warsi being on the Conservative party for years about the judgeent of black people does not excuse or wash over the Labour party",
+            "type": "I",
+            "timestamp": "2020-11-05 19:46:55"
+        },
+        {
+            "nodeID": "593229",
+            "text": "Kyle: Bonnie Greer : This does not excuse or wash over the Labour party",
+            "type": "L",
+            "timestamp": "2020-11-05 19:46:55"
+        },
+        {
+            "nodeID": "593230",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 19:46:55",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "593234",
+            "text": "Bonnie Greer : I’m not doing that",
+            "type": "L",
+            "timestamp": "2020-11-05 19:46:56"
+        },
+        {
+            "nodeID": "593236",
+            "text": "Bonnie Greer is not excusing or washing over the labour party",
+            "type": "I",
+            "timestamp": "2020-11-05 19:46:56"
+        },
+        {
+            "nodeID": "593237",
+            "text": "Kyle: Bonnie Greer : I’m not doing that",
+            "type": "L",
+            "timestamp": "2020-11-05 19:46:57"
+        },
+        {
+            "nodeID": "593238",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 19:46:57",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "593241",
+            "text": "Bonnie Greer : there is housework you need to be doing too",
+            "type": "L",
+            "timestamp": "2020-11-05 19:46:57"
+        },
+        {
+            "nodeID": "593243",
+            "text": "there is housework the Tories need to be doing too in regards to the judgement of black people",
+            "type": "I",
+            "timestamp": "2020-11-05 19:46:57"
+        },
+        {
+            "nodeID": "593244",
+            "text": "Kyle: Bonnie Greer : there is housework you need to be doing too",
+            "type": "L",
+            "timestamp": "2020-11-05 19:46:58"
+        },
+        {
+            "nodeID": "593245",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 19:46:58",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "593246",
+            "text": "Bonnie Greer : putting people of colour in the cabinet does not erase that fact",
+            "type": "L",
+            "timestamp": "2020-11-05 19:46:58"
+        },
+        {
+            "nodeID": "593248",
+            "text": "putting people of colour in the cabinet does not erase that there is housework the Tories need to be doing in regards to the judgement of black people",
+            "type": "I",
+            "timestamp": "2020-11-05 19:46:59"
+        },
+        {
+            "nodeID": "593249",
+            "text": "Kyle: Bonnie Greer : putting people of colour in the cabinet does not erase that fact",
+            "type": "L",
+            "timestamp": "2020-11-05 19:46:59"
+        },
+        {
+            "nodeID": "593250",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 19:46:59",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "593252",
+            "text": "Fiona Bruce : we must bring Anthony in",
+            "type": "L",
+            "timestamp": "2020-11-05 19:46:59"
+        },
+        {
+            "nodeID": "593254",
+            "text": "we must bring Anthony in",
+            "type": "I",
+            "timestamp": "2020-11-05 19:47:00"
+        },
+        {
+            "nodeID": "593255",
+            "text": "Kyle: Fiona Bruce : we must bring Anthony in",
+            "type": "L",
+            "timestamp": "2020-11-05 19:47:00"
+        },
+        {
+            "nodeID": "593256",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 19:47:00",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "593257",
+            "text": "Kyle: Marie van-der-Zyl : Absolutely",
+            "type": "L",
+            "timestamp": "2020-11-05 19:47:01"
+        },
+        {
+            "nodeID": "593258",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 19:47:01",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "593260",
+            "text": "Marie van-der-Zyl : the Tories do need to acknowledge there is a problem with Islamophobia in the Tory party",
+            "type": "L",
+            "timestamp": "2020-11-05 19:47:02"
+        },
+        {
+            "nodeID": "593262",
+            "text": "the Tories do need to acknowledge there is a problem with Islamophobia in the Tory party",
+            "type": "I",
+            "timestamp": "2020-11-05 19:47:02"
+        },
+        {
+            "nodeID": "593263",
+            "text": "Kyle: Marie van-der-Zyl : the Tories do need to acknowledge there is a problem with Islamophobia in the Tory party",
+            "type": "L",
+            "timestamp": "2020-11-05 19:47:03"
+        },
+        {
+            "nodeID": "593264",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 19:47:03",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "593265",
+            "text": "Marie van-der-Zyl :  they do acknowledge they need to do something about it",
+            "type": "L",
+            "timestamp": "2020-11-05 19:47:03"
+        },
+        {
+            "nodeID": "593267",
+            "text": "they do acknowledge they need to do something about the Islamaphobia in the Tory party",
+            "type": "I",
+            "timestamp": "2020-11-05 19:47:04"
+        },
+        {
+            "nodeID": "593268",
+            "text": "Kyle: Marie van-der-Zyl :  they do acknowledge they need to do something about it",
+            "type": "L",
+            "timestamp": "2020-11-05 19:47:04"
+        },
+        {
+            "nodeID": "593269",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 19:47:04",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "593272",
+            "text": "Marie van-der-Zyl : The Board of Deputies did input into the Singh report",
+            "type": "L",
+            "timestamp": "2020-11-05 19:47:04"
+        },
+        {
+            "nodeID": "593274",
+            "text": "the Board of Deputies did input into the Singh report",
+            "type": "I",
+            "timestamp": "2020-11-05 19:47:05"
+        },
+        {
+            "nodeID": "593275",
+            "text": "Kyle: Marie van-der-Zyl : The Board of Deputies did input into the Singh report",
+            "type": "L",
+            "timestamp": "2020-11-05 19:47:05"
+        },
+        {
+            "nodeID": "593276",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 19:47:05",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "593277",
+            "text": "Marie van-der-Zyl : you’ve got to look at scale here",
+            "type": "L",
+            "timestamp": "2020-11-05 19:47:06"
+        },
+        {
+            "nodeID": "593279",
+            "text": "you’ve got to look at scale here",
+            "type": "I",
+            "timestamp": "2020-11-05 19:47:06"
+        },
+        {
+            "nodeID": "593280",
+            "text": "Kyle: Marie van-der-Zyl : you’ve got to look at scale here",
+            "type": "L",
+            "timestamp": "2020-11-05 19:47:07"
+        },
+        {
+            "nodeID": "593281",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 19:47:07",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "593282",
+            "text": "Marie van-der-Zyl : The BNP have also been investigated by the EHRC",
+            "type": "L",
+            "timestamp": "2020-11-05 19:47:07"
+        },
+        {
+            "nodeID": "593284",
+            "text": "the BNP have also been investigated by the EHRC",
+            "type": "I",
+            "timestamp": "2020-11-05 19:47:07"
+        },
+        {
+            "nodeID": "593285",
+            "text": "Kyle: Marie van-der-Zyl : The BNP have also been investigated by the EHRC",
+            "type": "L",
+            "timestamp": "2020-11-05 19:47:08"
+        },
+        {
+            "nodeID": "593286",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 19:47:08",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "593287",
+            "text": "Marie van-der-Zyl : so many people in the Labour party have been investigated",
+            "type": "L",
+            "timestamp": "2020-11-05 19:47:08"
+        },
+        {
+            "nodeID": "593289",
+            "text": "so many people in the Labour party have been investigated by the EHRC",
+            "type": "I",
+            "timestamp": "2020-11-05 19:47:09"
+        },
+        {
+            "nodeID": "593290",
+            "text": "Kyle: Marie van-der-Zyl : so many people in the Labour party have been investigated",
+            "type": "L",
+            "timestamp": "2020-11-05 19:47:09"
+        },
+        {
+            "nodeID": "593291",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 19:47:09",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "593292",
+            "text": "You’re not seeing from the Conservative party MPs fleeing from the party",
+            "type": "L",
+            "timestamp": "2020-11-05 19:47:09"
+        },
+        {
+            "nodeID": "593293",
+            "text": "Marie van-der-Zyl : You’re not seeing from the Conservative party MPs fleeing from the party",
+            "type": "L",
+            "timestamp": "2020-11-05 19:47:10"
+        },
+        {
+            "nodeID": "593295",
+            "text": "you’re not seeing from the Conservative party MPs fleeing from the party",
+            "type": "I",
+            "timestamp": "2020-11-05 19:47:10"
+        },
+        {
+            "nodeID": "593296",
+            "text": "Kyle: Marie van-der-Zyl : You’re not seeing from the Conservative party MPs fleeing from the party",
+            "type": "L",
+            "timestamp": "2020-11-05 19:47:11"
+        },
+        {
+            "nodeID": "593297",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 19:47:11",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "593298",
+            "text": "Marie van-der-Zyl : like Luciana Berger, a pregnant woman at the Labour party conference",
+            "type": "L",
+            "timestamp": "2020-11-05 19:47:11"
+        },
+        {
+            "nodeID": "593300",
+            "text": "Luciana Berger was a pregnant woman at the Labour party conference who had to flee her party",
+            "type": "I",
+            "timestamp": "2020-11-05 19:47:11"
+        },
+        {
+            "nodeID": "593301",
+            "text": "Kyle: Marie van-der-Zyl : like Luciana Berger, a pregnant woman at the Labour party conference",
+            "type": "L",
+            "timestamp": "2020-11-05 19:47:12"
+        },
+        {
+            "nodeID": "593302",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 19:47:12",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "593305",
+            "text": "Marie van-der-Zyl : She even had to have security",
+            "type": "L",
+            "timestamp": "2020-11-05 19:47:12"
+        },
+        {
+            "nodeID": "593307",
+            "text": "Luciana Berger even had to have security",
+            "type": "I",
+            "timestamp": "2020-11-05 19:47:13"
+        },
+        {
+            "nodeID": "593308",
+            "text": "Kyle: Marie van-der-Zyl : She even had to have security",
+            "type": "L",
+            "timestamp": "2020-11-05 19:47:13"
+        },
+        {
+            "nodeID": "593309",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 19:47:13",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "593312",
+            "text": "she had to flee the party after 55 years",
+            "type": "L",
+            "timestamp": "2020-11-05 19:47:14"
+        },
+        {
+            "nodeID": "593313",
+            "text": "Marie van-der-Zyl : she had to flee the party after 55 years",
+            "type": "L",
+            "timestamp": "2020-11-05 19:47:14"
+        },
+        {
+            "nodeID": "593315",
+            "text": "Luciana Berger had to flee the Labour party after 55 years",
+            "type": "I",
+            "timestamp": "2020-11-05 19:47:15"
+        },
+        {
+            "nodeID": "593316",
+            "text": "Kyle: Marie van-der-Zyl : she had to flee the party after 55 years",
+            "type": "L",
+            "timestamp": "2020-11-05 19:47:15"
+        },
+        {
+            "nodeID": "593318",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 19:47:15",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "593320",
+            "text": "Marie van-der-Zyl : you’re not seeing the same level of scale",
+            "type": "L",
+            "timestamp": "2020-11-05 19:47:16"
+        },
+        {
+            "nodeID": "593322",
+            "text": "Bonnie Greer is not seeing the same level of scale",
+            "type": "I",
+            "timestamp": "2020-11-05 19:47:16"
+        },
+        {
+            "nodeID": "593323",
+            "text": "Kyle: Marie van-der-Zyl : you’re not seeing the same level of scale",
+            "type": "L",
+            "timestamp": "2020-11-05 19:47:16"
+        },
+        {
+            "nodeID": "593325",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 19:47:16",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "593327",
+            "text": "Marie van-der-Zyl : there are problems that have to be addressed in the Conservative party",
+            "type": "L",
+            "timestamp": "2020-11-05 19:47:17"
+        },
+        {
+            "nodeID": "593328",
+            "text": "Kyle: Marie van-der-Zyl : there are problems that have to be addressed in the Conservative party",
+            "type": "L",
+            "timestamp": "2020-11-05 19:47:17"
+        },
+        {
+            "nodeID": "593329",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-11-05 19:47:17",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "771149",
+            "fromID": "593192",
+            "toID": "593200",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771150",
+            "fromID": "593200",
+            "toID": "593196",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771157",
+            "fromID": "593196",
+            "toID": "593207",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771158",
+            "fromID": "593207",
+            "toID": "593203",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771165",
+            "fromID": "593203",
+            "toID": "593214",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771166",
+            "fromID": "593214",
+            "toID": "593210",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771169",
+            "fromID": "593210",
+            "toID": "593219",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771170",
+            "fromID": "593219",
+            "toID": "593215",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771175",
+            "fromID": "593215",
+            "toID": "593225",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771176",
+            "fromID": "593225",
+            "toID": "593222",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771179",
+            "fromID": "593222",
+            "toID": "593230",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771180",
+            "fromID": "593230",
+            "toID": "593226",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771189",
+            "fromID": "593226",
+            "toID": "593238",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771190",
+            "fromID": "593238",
+            "toID": "593234",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771197",
+            "fromID": "593234",
+            "toID": "593245",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771198",
+            "fromID": "593245",
+            "toID": "593241",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771201",
+            "fromID": "593241",
+            "toID": "593250",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771202",
+            "fromID": "593250",
+            "toID": "593246",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771207",
+            "fromID": "593246",
+            "toID": "593256",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771208",
+            "fromID": "593256",
+            "toID": "593252",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771209",
+            "fromID": "593252",
+            "toID": "593258",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771210",
+            "fromID": "593258",
+            "toID": "592077",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771215",
+            "fromID": "592077",
+            "toID": "593264",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771216",
+            "fromID": "593264",
+            "toID": "593260",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771219",
+            "fromID": "593260",
+            "toID": "593269",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771220",
+            "fromID": "593269",
+            "toID": "593265",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771227",
+            "fromID": "593265",
+            "toID": "593276",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771228",
+            "fromID": "593276",
+            "toID": "593272",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771231",
+            "fromID": "593272",
+            "toID": "593281",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771232",
+            "fromID": "593281",
+            "toID": "593277",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771235",
+            "fromID": "593277",
+            "toID": "593286",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771236",
+            "fromID": "593286",
+            "toID": "593282",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771239",
+            "fromID": "593282",
+            "toID": "593291",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771240",
+            "fromID": "593291",
+            "toID": "593287",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771243",
+            "fromID": "593287",
+            "toID": "593297",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771244",
+            "fromID": "593297",
+            "toID": "593293",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771247",
+            "fromID": "593293",
+            "toID": "593302",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771248",
+            "fromID": "593302",
+            "toID": "593298",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771255",
+            "fromID": "593298",
+            "toID": "593309",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771256",
+            "fromID": "593309",
+            "toID": "593305",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771265",
+            "fromID": "593298",
+            "toID": "593318",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771266",
+            "fromID": "593318",
+            "toID": "593313",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771273",
+            "fromID": "593277",
+            "toID": "593325",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771274",
+            "fromID": "593325",
+            "toID": "593320",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771277",
+            "fromID": "593320",
+            "toID": "593329",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "771278",
+            "fromID": "593329",
+            "toID": "593327",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "592077",
+            "personID": "4078",
+            "timestamp": "2020-11-05 19:29:07",
+            "start": "2020-10-15 22:11:27",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "593192",
+            "personID": "4080",
+            "timestamp": "2020-11-05 19:47:17",
+            "start": "2020-10-15 22:05:41",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "593196",
+            "personID": "4080",
+            "timestamp": "2020-11-05 19:47:17",
+            "start": "2020-10-15 22:05:49",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "593203",
+            "personID": "4080",
+            "timestamp": "2020-11-05 19:47:17",
+            "start": "2020-10-15 22:05:53",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "593210",
+            "personID": "4080",
+            "timestamp": "2020-11-05 19:47:17",
+            "start": "2020-10-15 22:05:56",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "593215",
+            "personID": "4080",
+            "timestamp": "2020-11-05 19:47:17",
+            "start": "2020-10-15 22:05:59",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "593222",
+            "personID": "4080",
+            "timestamp": "2020-11-05 19:47:17",
+            "start": "2020-10-15 22:06:04",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "593226",
+            "personID": "4080",
+            "timestamp": "2020-11-05 19:47:17",
+            "start": "2020-10-15 22:06:10",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "593234",
+            "personID": "4080",
+            "timestamp": "2020-11-05 19:47:17",
+            "start": "2020-10-15 22:06:12",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "593241",
+            "personID": "4080",
+            "timestamp": "2020-11-05 19:47:17",
+            "start": "2020-10-15 22:06:15",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "593246",
+            "personID": "4080",
+            "timestamp": "2020-11-05 19:47:17",
+            "start": "2020-10-15 22:06:20",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "593252",
+            "personID": "3812",
+            "timestamp": "2020-11-05 19:47:17",
+            "start": "2020-10-15 22:06:24",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "592077",
+            "personID": "4078",
+            "timestamp": "2020-11-05 19:47:17",
+            "start": "2020-10-15 22:06:26",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "593260",
+            "personID": "4078",
+            "timestamp": "2020-11-05 19:47:17",
+            "start": "2020-10-15 22:06:29",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "593265",
+            "personID": "4078",
+            "timestamp": "2020-11-05 19:47:17",
+            "start": "2020-10-15 22:06:35",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "593272",
+            "personID": "4078",
+            "timestamp": "2020-11-05 19:47:17",
+            "start": "2020-10-15 22:06:39",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "593277",
+            "personID": "4078",
+            "timestamp": "2020-11-05 19:47:17",
+            "start": "2020-10-15 22:06:43",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "593282",
+            "personID": "4078",
+            "timestamp": "2020-11-05 19:47:17",
+            "start": "2020-10-15 22:06:46",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "593287",
+            "personID": "4078",
+            "timestamp": "2020-11-05 19:47:17",
+            "start": "2020-10-15 22:06:50",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "593293",
+            "personID": "4078",
+            "timestamp": "2020-11-05 19:47:17",
+            "start": "2020-10-15 22:06:55",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "593298",
+            "personID": "4078",
+            "timestamp": "2020-11-05 19:47:17",
+            "start": "2020-10-15 22:07:00",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "593305",
+            "personID": "4078",
+            "timestamp": "2020-11-05 19:47:17",
+            "start": "2020-10-15 22:07:03",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "593313",
+            "personID": "4078",
+            "timestamp": "2020-11-05 19:47:17",
+            "start": "2020-10-15 22:07:05",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "593320",
+            "personID": "4078",
+            "timestamp": "2020-11-05 19:47:17",
+            "start": "2020-10-15 22:07:09",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "593327",
+            "personID": "4078",
+            "timestamp": "2020-11-05 19:47:17",
+            "start": "2020-10-15 22:07:15",
+            "end": null,
+            "source": null
+        }
+    ]
+}

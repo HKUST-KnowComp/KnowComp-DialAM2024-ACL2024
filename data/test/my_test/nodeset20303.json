@@ -1,0 +1,770 @@
+{
+    "nodes": [
+        {
+            "nodeID": "655929",
+            "text": "Fiona Bruce : The variant is present in 35 other countries not on the list",
+            "type": "L",
+            "timestamp": "2021-02-18 19:16:51"
+        },
+        {
+            "nodeID": "655931",
+            "text": "the variant is present in 35 other countries not on the list",
+            "type": "I",
+            "timestamp": "2021-02-18 19:16:51"
+        },
+        {
+            "nodeID": "655932",
+            "text": "Steffi: Fiona Bruce : The variant is present in 35 other countries not on the list",
+            "type": "L",
+            "timestamp": "2021-02-18 19:16:52"
+        },
+        {
+            "nodeID": "655933",
+            "text": "Stephen Fitzpatrick : Which variant in are we going to protect against all future variants we don't know about",
+            "type": "L",
+            "timestamp": "2021-02-18 19:16:52"
+        },
+        {
+            "nodeID": "655935",
+            "text": "the variant in we are going to protect against all future variants we don't know about is xxx",
+            "type": "I",
+            "timestamp": "2021-02-18 19:16:53"
+        },
+        {
+            "nodeID": "655936",
+            "text": "Steffi: Stephen Fitzpatrick : Which variant in are we going to protect against all future variants we don't know about",
+            "type": "L",
+            "timestamp": "2021-02-18 19:16:53"
+        },
+        {
+            "nodeID": "655937",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 19:16:53",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "655938",
+            "text": "Stephen Fitzpatrick : we have to start to balance the interests of public health with private freedoms and all of the other aspects of our lives",
+            "type": "L",
+            "timestamp": "2021-02-18 19:16:53"
+        },
+        {
+            "nodeID": "655940",
+            "text": "we have to start to balance the interests of public health with private freedoms and all of the other aspects of our lives",
+            "type": "I",
+            "timestamp": "2021-02-18 19:16:54"
+        },
+        {
+            "nodeID": "655941",
+            "text": "Steffi: Stephen Fitzpatrick : we have to start to balance the interests of public health with private freedoms and all of the other aspects of our lives",
+            "type": "L",
+            "timestamp": "2021-02-18 19:16:54"
+        },
+        {
+            "nodeID": "655942",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 19:16:54",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "655943",
+            "text": "Stephen Fitzpatrick : there are many other threats to our livelihoods and to our lives than Covid-19",
+            "type": "L",
+            "timestamp": "2021-02-18 19:16:55"
+        },
+        {
+            "nodeID": "655945",
+            "text": "there are many other threats to our livelihoods and to our lives than Covid-19",
+            "type": "I",
+            "timestamp": "2021-02-18 19:16:55"
+        },
+        {
+            "nodeID": "655946",
+            "text": "Steffi: Stephen Fitzpatrick : there are many other threats to our livelihoods and to our lives than Covid-19",
+            "type": "L",
+            "timestamp": "2021-02-18 19:16:56"
+        },
+        {
+            "nodeID": "655947",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 19:16:56",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "655948",
+            "text": "Stephen Fitzpatrick : I see only a one-dimensional approach to this",
+            "type": "L",
+            "timestamp": "2021-02-18 19:16:56"
+        },
+        {
+            "nodeID": "655950",
+            "text": "Stephen Fitzpatrick sees only a one-dimensional approach to this",
+            "type": "I",
+            "timestamp": "2021-02-18 19:16:57"
+        },
+        {
+            "nodeID": "655951",
+            "text": "Steffi: Stephen Fitzpatrick : I see only a one-dimensional approach to this",
+            "type": "L",
+            "timestamp": "2021-02-18 19:16:57"
+        },
+        {
+            "nodeID": "655952",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 19:16:57",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "655953",
+            "text": "Audience Member : As an island nation we had the opportunity to learn",
+            "type": "L",
+            "timestamp": "2021-02-18 19:16:57"
+        },
+        {
+            "nodeID": "655955",
+            "text": "as an island nation we had the opportunity to learn",
+            "type": "I",
+            "timestamp": "2021-02-18 19:16:58"
+        },
+        {
+            "nodeID": "655956",
+            "text": "Steffi: Audience Member : As an island nation we had the opportunity to learn",
+            "type": "L",
+            "timestamp": "2021-02-18 19:16:58"
+        },
+        {
+            "nodeID": "655957",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 19:16:58",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "655958",
+            "text": "Audience Member : we were slightly ahead of the curve",
+            "type": "L",
+            "timestamp": "2021-02-18 19:16:59"
+        },
+        {
+            "nodeID": "655960",
+            "text": "we were slightly ahead of the curve",
+            "type": "I",
+            "timestamp": "2021-02-18 19:16:59"
+        },
+        {
+            "nodeID": "655961",
+            "text": "Steffi: Audience Member : we were slightly ahead of the curve",
+            "type": "L",
+            "timestamp": "2021-02-18 19:17:00"
+        },
+        {
+            "nodeID": "655962",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 19:17:00",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "655963",
+            "text": "Audience Member : we can't have learned from New Zealand and Australia",
+            "type": "L",
+            "timestamp": "2021-02-18 19:17:00"
+        },
+        {
+            "nodeID": "655966",
+            "text": "we can't have learned from New Zealand and Australia",
+            "type": "I",
+            "timestamp": "2021-02-18 19:17:01"
+        },
+        {
+            "nodeID": "655969",
+            "text": "Steffi: Audience Member : we can't have learned from New Zealand and Australia",
+            "type": "L",
+            "timestamp": "2021-02-18 19:17:01"
+        },
+        {
+            "nodeID": "655970",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 19:17:01",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "655972",
+            "text": "Audience Member : They managed to close their entire country borders, in between states",
+            "type": "L",
+            "timestamp": "2021-02-18 19:17:02"
+        },
+        {
+            "nodeID": "655975",
+            "text": "New Zealand and Australia managed to close their entire country borders, in between states",
+            "type": "I",
+            "timestamp": "2021-02-18 19:17:02"
+        },
+        {
+            "nodeID": "655978",
+            "text": "Steffi: Audience Member : They managed to close their entire country borders, in between states",
+            "type": "L",
+            "timestamp": "2021-02-18 19:17:03"
+        },
+        {
+            "nodeID": "655979",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 19:17:03",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "655981",
+            "text": "Audience Member : We have done nothing about it",
+            "type": "L",
+            "timestamp": "2021-02-18 19:17:03"
+        },
+        {
+            "nodeID": "655984",
+            "text": "we have done nothing about closing the county borders",
+            "type": "I",
+            "timestamp": "2021-02-18 19:17:04"
+        },
+        {
+            "nodeID": "655987",
+            "text": "Steffi: Audience Member : We have done nothing about it",
+            "type": "L",
+            "timestamp": "2021-02-18 19:17:04"
+        },
+        {
+            "nodeID": "655988",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 19:17:04",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "655991",
+            "text": "Audience Member : we've had the worse death rate in Europe",
+            "type": "L",
+            "timestamp": "2021-02-18 19:17:05"
+        },
+        {
+            "nodeID": "655994",
+            "text": "we've had the worse death rate in Europe",
+            "type": "I",
+            "timestamp": "2021-02-18 19:17:05"
+        },
+        {
+            "nodeID": "655997",
+            "text": "Steffi: Audience Member : we've had the worse death rate in Europe",
+            "type": "L",
+            "timestamp": "2021-02-18 19:17:06"
+        },
+        {
+            "nodeID": "655998",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 19:17:06",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "656001",
+            "text": "Audience Member : It's an absolute scandal",
+            "type": "L",
+            "timestamp": "2021-02-18 19:17:06"
+        },
+        {
+            "nodeID": "656004",
+            "text": "it's an absolute scandal that we have done nothing about closing the county borders althhough we've had the worse death rate in Europe",
+            "type": "I",
+            "timestamp": "2021-02-18 19:17:07"
+        },
+        {
+            "nodeID": "656007",
+            "text": "Steffi: Audience Member : It's an absolute scandal",
+            "type": "L",
+            "timestamp": "2021-02-18 19:17:07"
+        },
+        {
+            "nodeID": "656008",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 19:17:07",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "656011",
+            "text": "Audience Member : This should have been at the outset, close the borders, stop the virus coming in and contain it",
+            "type": "L",
+            "timestamp": "2021-02-18 19:17:08"
+        },
+        {
+            "nodeID": "656014",
+            "text": "this should have been at the outset, close the borders, stop the virus coming in and contain it",
+            "type": "I",
+            "timestamp": "2021-02-18 19:17:08"
+        },
+        {
+            "nodeID": "656019",
+            "text": "Steffi: Audience Member : This should have been at the outset, close the borders, stop the virus coming in and contain it",
+            "type": "L",
+            "timestamp": "2021-02-18 19:17:08"
+        },
+        {
+            "nodeID": "656020",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 19:17:08",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "656023",
+            "text": "Audience Member : Instead we've had almost a year's worth now of open/close, start/stop, lockdown and various restrictions",
+            "type": "L",
+            "timestamp": "2021-02-18 19:17:09"
+        },
+        {
+            "nodeID": "656026",
+            "text": "instead we've had almost a year's worth now of open/close, start/stop, lockdown and various restrictions",
+            "type": "I",
+            "timestamp": "2021-02-18 19:17:09"
+        },
+        {
+            "nodeID": "656031",
+            "text": "Steffi: Audience Member : Instead we've had almost a year's worth now of open/close, start/stop, lockdown and various restrictions",
+            "type": "L",
+            "timestamp": "2021-02-18 19:17:10"
+        },
+        {
+            "nodeID": "656032",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 19:17:10",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "656037",
+            "text": "Audience Member : It is too slow, too little, and too late",
+            "type": "L",
+            "timestamp": "2021-02-18 19:17:10"
+        },
+        {
+            "nodeID": "656039",
+            "text": "almost a year's worth now of open/close, start/stop, lockdown and various restrictions is too slow, too little, and too late",
+            "type": "I",
+            "timestamp": "2021-02-18 19:17:11"
+        },
+        {
+            "nodeID": "656041",
+            "text": "Steffi: Audience Member : It is too slow, too little, and too late",
+            "type": "L",
+            "timestamp": "2021-02-18 19:17:11"
+        },
+        {
+            "nodeID": "656042",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 19:17:11",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "656047",
+            "text": "Audience Member : It is still a botched job",
+            "type": "L",
+            "timestamp": "2021-02-18 19:17:12"
+        },
+        {
+            "nodeID": "656050",
+            "text": "it is still a botched job",
+            "type": "I",
+            "timestamp": "2021-02-18 19:17:12"
+        },
+        {
+            "nodeID": "656053",
+            "text": "Steffi: Audience Member : It is still a botched job",
+            "type": "L",
+            "timestamp": "2021-02-18 19:17:12"
+        },
+        {
+            "nodeID": "656054",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 19:17:12",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "656056",
+            "text": "Audience Member : now we're going to create a border between England and Scotland, never mind with Ireland",
+            "type": "L",
+            "timestamp": "2021-02-18 19:17:13"
+        },
+        {
+            "nodeID": "656060",
+            "text": "now we're going to create a border between England and Scotland, never mind with Ireland",
+            "type": "I",
+            "timestamp": "2021-02-18 19:17:14"
+        },
+        {
+            "nodeID": "656063",
+            "text": "Steffi: Audience Member : now we're going to create a border between England and Scotland, never mind with Ireland",
+            "type": "L",
+            "timestamp": "2021-02-18 19:17:15"
+        },
+        {
+            "nodeID": "656064",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 19:17:15",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "847794",
+            "fromID": "655929",
+            "toID": "655937",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "847795",
+            "fromID": "655937",
+            "toID": "655933",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "847798",
+            "fromID": "655933",
+            "toID": "655942",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "847799",
+            "fromID": "655942",
+            "toID": "655938",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "847802",
+            "fromID": "655938",
+            "toID": "655947",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "847803",
+            "fromID": "655947",
+            "toID": "655943",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "847806",
+            "fromID": "655943",
+            "toID": "655952",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "847807",
+            "fromID": "655952",
+            "toID": "655948",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "847810",
+            "fromID": "655948",
+            "toID": "655957",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "847811",
+            "fromID": "655957",
+            "toID": "655953",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "847814",
+            "fromID": "655953",
+            "toID": "655962",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "847815",
+            "fromID": "655962",
+            "toID": "655958",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "847818",
+            "fromID": "655958",
+            "toID": "655970",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "847819",
+            "fromID": "655970",
+            "toID": "655963",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "847822",
+            "fromID": "655963",
+            "toID": "655979",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "847823",
+            "fromID": "655979",
+            "toID": "655972",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "847826",
+            "fromID": "655972",
+            "toID": "655988",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "847827",
+            "fromID": "655988",
+            "toID": "655981",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "847830",
+            "fromID": "655981",
+            "toID": "655998",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "847831",
+            "fromID": "655998",
+            "toID": "655991",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "847834",
+            "fromID": "655981",
+            "toID": "656008",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "847835",
+            "fromID": "656008",
+            "toID": "656001",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "847838",
+            "fromID": "656001",
+            "toID": "656020",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "847839",
+            "fromID": "656020",
+            "toID": "656011",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "847842",
+            "fromID": "656011",
+            "toID": "656032",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "847843",
+            "fromID": "656032",
+            "toID": "656023",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "847850",
+            "fromID": "656023",
+            "toID": "656042",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "847851",
+            "fromID": "656042",
+            "toID": "656037",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "847858",
+            "fromID": "656037",
+            "toID": "656054",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "847859",
+            "fromID": "656054",
+            "toID": "656047",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "847862",
+            "fromID": "656047",
+            "toID": "656064",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "847863",
+            "fromID": "656064",
+            "toID": "656056",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "655929",
+            "personID": "3812",
+            "timestamp": "2021-02-18 19:17:15",
+            "start": "2020-10-15 22:03:16",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "655933",
+            "personID": "4318",
+            "timestamp": "2021-02-18 19:17:15",
+            "start": "2020-10-15 22:03:22",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "655938",
+            "personID": "4318",
+            "timestamp": "2021-02-18 19:17:15",
+            "start": "2020-10-15 22:03:33",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "655943",
+            "personID": "4318",
+            "timestamp": "2021-02-18 19:17:15",
+            "start": "2020-10-15 22:03:43",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "655948",
+            "personID": "4318",
+            "timestamp": "2021-02-18 19:17:15",
+            "start": "2020-10-15 22:03:48",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "655953",
+            "personID": "4273",
+            "timestamp": "2021-02-18 19:17:15",
+            "start": "2020-10-15 22:03:50",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "655958",
+            "personID": "4273",
+            "timestamp": "2021-02-18 19:17:15",
+            "start": "2020-10-15 22:03:55",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "655963",
+            "personID": "4273",
+            "timestamp": "2021-02-18 19:17:15",
+            "start": "2020-10-15 22:03:59",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "655972",
+            "personID": "4273",
+            "timestamp": "2021-02-18 19:17:15",
+            "start": "2020-10-15 22:04:04",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "655981",
+            "personID": "4273",
+            "timestamp": "2021-02-18 19:17:15",
+            "start": "2020-10-15 22:04:11",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "655991",
+            "personID": "4273",
+            "timestamp": "2021-02-18 19:17:15",
+            "start": "2020-10-15 22:04:15",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "656001",
+            "personID": "4273",
+            "timestamp": "2021-02-18 19:17:15",
+            "start": "2020-10-15 22:04:19",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "656011",
+            "personID": "4273",
+            "timestamp": "2021-02-18 19:17:15",
+            "start": "2020-10-15 22:04:21",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "656023",
+            "personID": "4273",
+            "timestamp": "2021-02-18 19:17:15",
+            "start": "2020-10-15 22:04:31",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "656037",
+            "personID": "4273",
+            "timestamp": "2021-02-18 19:17:15",
+            "start": "2020-10-15 22:04:42",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "656047",
+            "personID": "4273",
+            "timestamp": "2021-02-18 19:17:15",
+            "start": "2020-10-15 22:04:46",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "656056",
+            "personID": "4273",
+            "timestamp": "2021-02-18 19:17:15",
+            "start": "2020-10-15 22:04:49",
+            "end": null,
+            "source": null
+        }
+    ]
+}

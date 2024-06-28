@@ -1,0 +1,994 @@
+{
+    "nodes": [
+        {
+            "nodeID": "833969",
+            "text": "Gillian Keegan : Get the evidence and the data and these are the tough decisions that government had to make",
+            "type": "L",
+            "timestamp": "2022-01-07 12:25:34"
+        },
+        {
+            "nodeID": "833971",
+            "text": "get the evidence and the data and these are the tough decisions that government had to make",
+            "type": "I",
+            "timestamp": "2022-01-07 12:25:35"
+        },
+        {
+            "nodeID": "833972",
+            "text": "Anna: Gillian Keegan : Get the evidence and the data and these are the tough decisions that government had to make",
+            "type": "L",
+            "timestamp": "2022-01-07 12:25:36"
+        },
+        {
+            "nodeID": "833973",
+            "text": "Gillian Keegan : We've had to make them all along",
+            "type": "L",
+            "timestamp": "2022-01-07 12:25:37"
+        },
+        {
+            "nodeID": "833975",
+            "text": "we've had to make the decisions all along",
+            "type": "I",
+            "timestamp": "2022-01-07 12:25:37"
+        },
+        {
+            "nodeID": "833976",
+            "text": "Anna: Gillian Keegan : We've had to make them all along",
+            "type": "L",
+            "timestamp": "2022-01-07 12:25:38"
+        },
+        {
+            "nodeID": "833977",
+            "text": "Gillian Keegan : There is a lot of people who want to go slower and a lot of people who want to go faster",
+            "type": "L",
+            "timestamp": "2022-01-07 12:25:39"
+        },
+        {
+            "nodeID": "833979",
+            "text": "there is a lot of people who want to go slower and a lot of people who want to go faster",
+            "type": "I",
+            "timestamp": "2022-01-07 12:25:39"
+        },
+        {
+            "nodeID": "833980",
+            "text": "Anna: Gillian Keegan : There is a lot of people who want to go slower and a lot of people who want to go faster",
+            "type": "L",
+            "timestamp": "2022-01-07 12:25:40"
+        },
+        {
+            "nodeID": "833981",
+            "text": "Gillian Keegan : The impact on business is devastating",
+            "type": "L",
+            "timestamp": "2022-01-07 12:25:41"
+        },
+        {
+            "nodeID": "833983",
+            "text": "the impact on business is devastating",
+            "type": "I",
+            "timestamp": "2022-01-07 12:25:41"
+        },
+        {
+            "nodeID": "833984",
+            "text": "Anna: Gillian Keegan : The impact on business is devastating",
+            "type": "L",
+            "timestamp": "2022-01-07 12:25:42"
+        },
+        {
+            "nodeID": "833985",
+            "text": "Gillian Keegan : the impact on events and the summer events is devastating",
+            "type": "L",
+            "timestamp": "2022-01-07 12:25:43"
+        },
+        {
+            "nodeID": "833987",
+            "text": "the impact on events and the summer events is devastating",
+            "type": "I",
+            "timestamp": "2022-01-07 12:25:44"
+        },
+        {
+            "nodeID": "833988",
+            "text": "Anna: Gillian Keegan : the impact on events and the summer events is devastating",
+            "type": "L",
+            "timestamp": "2022-01-07 12:25:44"
+        },
+        {
+            "nodeID": "833989",
+            "text": "Gillian Keegan : There is nothing easy about these decisions",
+            "type": "L",
+            "timestamp": "2022-01-07 12:25:45"
+        },
+        {
+            "nodeID": "833991",
+            "text": "there is nothing easy about these decisions",
+            "type": "I",
+            "timestamp": "2022-01-07 12:25:46"
+        },
+        {
+            "nodeID": "833992",
+            "text": "Anna: Gillian Keegan : There is nothing easy about these decisions",
+            "type": "L",
+            "timestamp": "2022-01-07 12:25:46"
+        },
+        {
+            "nodeID": "833993",
+            "text": "Gillian Keegan : I haven't seen the data",
+            "type": "L",
+            "timestamp": "2022-01-07 12:25:47"
+        },
+        {
+            "nodeID": "833995",
+            "text": "Gillian Keegan hasn't seen the data",
+            "type": "I",
+            "timestamp": "2022-01-07 12:25:48"
+        },
+        {
+            "nodeID": "833996",
+            "text": "Anna: Gillian Keegan : I haven't seen the data",
+            "type": "L",
+            "timestamp": "2022-01-07 12:25:49"
+        },
+        {
+            "nodeID": "833997",
+            "text": "Gillian Keegan : The Government is getting the data",
+            "type": "L",
+            "timestamp": "2022-01-07 12:25:49"
+        },
+        {
+            "nodeID": "833999",
+            "text": "the Government is getting the data",
+            "type": "I",
+            "timestamp": "2022-01-07 12:25:50"
+        },
+        {
+            "nodeID": "834000",
+            "text": "Anna: Gillian Keegan : The Government is getting the data",
+            "type": "L",
+            "timestamp": "2022-01-07 12:25:51"
+        },
+        {
+            "nodeID": "834001",
+            "text": "Gillian Keegan :  Clearly, we have the furlough in place until September",
+            "type": "L",
+            "timestamp": "2022-01-07 12:25:51"
+        },
+        {
+            "nodeID": "834003",
+            "text": "clearly, we have the furlough in place until September",
+            "type": "I",
+            "timestamp": "2022-01-07 12:25:52"
+        },
+        {
+            "nodeID": "834004",
+            "text": "Anna: Gillian Keegan :  Clearly, we have the furlough in place until September",
+            "type": "L",
+            "timestamp": "2022-01-07 12:25:53"
+        },
+        {
+            "nodeID": "834005",
+            "text": "Gillian Keegan : We've done this before, right, we know what the pieces are",
+            "type": "L",
+            "timestamp": "2022-01-07 12:25:54"
+        },
+        {
+            "nodeID": "834007",
+            "text": "we've done this before, right, we know what the pieces are",
+            "type": "I",
+            "timestamp": "2022-01-07 12:25:54"
+        },
+        {
+            "nodeID": "834008",
+            "text": "Anna: Gillian Keegan : We've done this before, right, we know what the pieces are",
+            "type": "L",
+            "timestamp": "2022-01-07 12:25:55"
+        },
+        {
+            "nodeID": "834009",
+            "text": "Gillian Keegan :  In terms of local lockdowns, what we've basically said we're doing surge testing and we're opening longer",
+            "type": "L",
+            "timestamp": "2022-01-07 12:25:55"
+        },
+        {
+            "nodeID": "834011",
+            "text": "in terms of local lockdowns, what we've basically said we're doing surge testing and we're opening longer",
+            "type": "I",
+            "timestamp": "2022-01-07 12:25:56"
+        },
+        {
+            "nodeID": "834012",
+            "text": "Anna: Gillian Keegan :  In terms of local lockdowns, what we've basically said we're doing surge testing and we're opening longer",
+            "type": "L",
+            "timestamp": "2022-01-07 12:25:57"
+        },
+        {
+            "nodeID": "834013",
+            "text": "Gillian Keegan : We've got buses, pop-up vaccination centres",
+            "type": "L",
+            "timestamp": "2022-01-07 12:25:58"
+        },
+        {
+            "nodeID": "834015",
+            "text": "we've got buses, pop-up vaccination centres",
+            "type": "I",
+            "timestamp": "2022-01-07 12:25:58"
+        },
+        {
+            "nodeID": "834016",
+            "text": "Anna: Gillian Keegan : We've got buses, pop-up vaccination centres",
+            "type": "L",
+            "timestamp": "2022-01-07 12:25:59"
+        },
+        {
+            "nodeID": "834017",
+            "text": "Gillian Keegan : We're trying to get more people vaccinated",
+            "type": "L",
+            "timestamp": "2022-01-07 12:26:00"
+        },
+        {
+            "nodeID": "834019",
+            "text": "we're trying to get more people vaccinated",
+            "type": "I",
+            "timestamp": "2022-01-07 12:26:00"
+        },
+        {
+            "nodeID": "834020",
+            "text": "Anna: Gillian Keegan : We're trying to get more people vaccinated",
+            "type": "L",
+            "timestamp": "2022-01-07 12:26:01"
+        },
+        {
+            "nodeID": "834021",
+            "text": "Gillian Keegan : People are coming forward",
+            "type": "L",
+            "timestamp": "2022-01-07 12:26:02"
+        },
+        {
+            "nodeID": "834023",
+            "text": "people are coming forward",
+            "type": "I",
+            "timestamp": "2022-01-07 12:26:03"
+        },
+        {
+            "nodeID": "834024",
+            "text": "Anna: Gillian Keegan : People are coming forward",
+            "type": "L",
+            "timestamp": "2022-01-07 12:26:03"
+        },
+        {
+            "nodeID": "834025",
+            "text": "Fiona Bruce : Not surge vaccines",
+            "type": "L",
+            "timestamp": "2022-01-07 12:26:04"
+        },
+        {
+            "nodeID": "834027",
+            "text": "not surge vaccines",
+            "type": "I",
+            "timestamp": "2022-01-07 12:26:04"
+        },
+        {
+            "nodeID": "834028",
+            "text": "Anna: Fiona Bruce : Not surge vaccines",
+            "type": "L",
+            "timestamp": "2022-01-07 12:26:05"
+        },
+        {
+            "nodeID": "834029",
+            "text": "Gillian Keegan : We have followed JCVI and we have been bang on",
+            "type": "L",
+            "timestamp": "2022-01-07 12:26:06"
+        },
+        {
+            "nodeID": "834031",
+            "text": "we have followed the Joint Committee on Vaccination and Immunisation and we have been bang on",
+            "type": "I",
+            "timestamp": "2022-01-07 12:26:07"
+        },
+        {
+            "nodeID": "834032",
+            "text": "Anna: Gillian Keegan : We have followed JCVI and we have been bang on",
+            "type": "L",
+            "timestamp": "2022-01-07 12:26:08"
+        },
+        {
+            "nodeID": "834033",
+            "text": "Gillian Keegan : and if you look at where we are, we're vaccinating under-25s",
+            "type": "L",
+            "timestamp": "2022-01-07 12:26:08"
+        },
+        {
+            "nodeID": "834035",
+            "text": "and if you look at where we are, we're vaccinating under-25s",
+            "type": "I",
+            "timestamp": "2022-01-07 12:26:09"
+        },
+        {
+            "nodeID": "834036",
+            "text": "Anna: Gillian Keegan : and if you look at where we are, we're vaccinating under-25s",
+            "type": "L",
+            "timestamp": "2022-01-07 12:26:10"
+        },
+        {
+            "nodeID": "834037",
+            "text": "Lucy Powell : But the impact of COVID on people in Bolton and Greater Manchester and Lancashire who have gone through waves of this now",
+            "type": "L",
+            "timestamp": "2022-01-07 12:26:11"
+        },
+        {
+            "nodeID": "834039",
+            "text": "but the impact of COVID on people in Bolton and Greater Manchester and Lancashire who have gone through waves of this now",
+            "type": "I",
+            "timestamp": "2022-01-07 12:26:13"
+        },
+        {
+            "nodeID": "834040",
+            "text": "Anna: Lucy Powell : But the impact of COVID on people in Bolton and Greater Manchester and Lancashire who have gone through waves of this now",
+            "type": "L",
+            "timestamp": "2022-01-07 12:26:15"
+        },
+        {
+            "nodeID": "834041",
+            "text": "Gillian Keegan :  I understand, Lucy",
+            "type": "L",
+            "timestamp": "2022-01-07 12:26:16"
+        },
+        {
+            "nodeID": "834042",
+            "text": "Anna: Gillian Keegan :  I understand, Lucy",
+            "type": "L",
+            "timestamp": "2022-01-07 12:26:18"
+        },
+        {
+            "nodeID": "834043",
+            "text": "Lucy Powell :  It is greater than for those who live in the far west",
+            "type": "L",
+            "timestamp": "2022-01-07 12:26:20"
+        },
+        {
+            "nodeID": "834045",
+            "text": "the impact is greater than for those who live in the far west",
+            "type": "I",
+            "timestamp": "2022-01-07 12:26:21"
+        },
+        {
+            "nodeID": "834046",
+            "text": "Anna: Lucy Powell :  It is greater than for those who live in the far west",
+            "type": "L",
+            "timestamp": "2022-01-07 12:26:23"
+        },
+        {
+            "nodeID": "834047",
+            "text": "Gillian Keegan :  We listen to the scientists",
+            "type": "L",
+            "timestamp": "2022-01-07 12:26:25"
+        },
+        {
+            "nodeID": "834049",
+            "text": "we listen to the scientists",
+            "type": "I",
+            "timestamp": "2022-01-07 12:26:27"
+        },
+        {
+            "nodeID": "834050",
+            "text": "Anna: Gillian Keegan :  We listen to the scientists",
+            "type": "L",
+            "timestamp": "2022-01-07 12:26:28"
+        },
+        {
+            "nodeID": "834051",
+            "text": "Lucy Powell : You don't always listen to the scientists",
+            "type": "L",
+            "timestamp": "2022-01-07 12:26:30"
+        },
+        {
+            "nodeID": "834053",
+            "text": "you don't always listen to the scientists",
+            "type": "I",
+            "timestamp": "2022-01-07 12:26:31"
+        },
+        {
+            "nodeID": "834054",
+            "text": "Anna: Lucy Powell : You don't always listen to the scientists",
+            "type": "L",
+            "timestamp": "2022-01-07 12:26:33"
+        },
+        {
+            "nodeID": "870911",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 18:49:01",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "870914",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 18:49:01",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "870915",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 18:49:01",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "870916",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 18:49:01",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "870919",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 18:49:01",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "870923",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 18:49:01",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "870925",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 18:49:02",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "870926",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 18:49:02",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "870927",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 18:49:02",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "870928",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 18:49:02",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "870929",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 18:49:02",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "870930",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 18:49:02",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "870931",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 18:49:02",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "870932",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 18:49:02",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "870933",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 18:49:02",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "870934",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 18:49:02",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "870935",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 18:49:02",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "870936",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 18:49:02",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "870937",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 18:49:02",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "870939",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 18:49:02",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "870942",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2022-01-14 18:49:02",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "1090245",
+            "fromID": "834047",
+            "toID": "870911",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090246",
+            "fromID": "870911",
+            "toID": "834051",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090251",
+            "fromID": "833969",
+            "toID": "870914",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090252",
+            "fromID": "870914",
+            "toID": "833973",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090253",
+            "fromID": "833973",
+            "toID": "870915",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090254",
+            "fromID": "870915",
+            "toID": "833977",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090255",
+            "fromID": "833977",
+            "toID": "870916",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090256",
+            "fromID": "870916",
+            "toID": "833981",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090261",
+            "fromID": "833981",
+            "toID": "870919",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090262",
+            "fromID": "870919",
+            "toID": "833985",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090269",
+            "fromID": "833969",
+            "toID": "870923",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090270",
+            "fromID": "870923",
+            "toID": "833989",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090273",
+            "fromID": "833989",
+            "toID": "870925",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090274",
+            "fromID": "870925",
+            "toID": "833993",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090275",
+            "fromID": "833993",
+            "toID": "870926",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090276",
+            "fromID": "870926",
+            "toID": "833997",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090277",
+            "fromID": "833997",
+            "toID": "870927",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090278",
+            "fromID": "870927",
+            "toID": "834001",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090279",
+            "fromID": "834001",
+            "toID": "870928",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090280",
+            "fromID": "870928",
+            "toID": "834005",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090281",
+            "fromID": "834005",
+            "toID": "870929",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090282",
+            "fromID": "870929",
+            "toID": "834009",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090283",
+            "fromID": "834009",
+            "toID": "870930",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090284",
+            "fromID": "870930",
+            "toID": "834013",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090285",
+            "fromID": "834013",
+            "toID": "870931",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090286",
+            "fromID": "870931",
+            "toID": "834017",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090287",
+            "fromID": "834017",
+            "toID": "870932",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090288",
+            "fromID": "870932",
+            "toID": "834021",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090289",
+            "fromID": "834021",
+            "toID": "870933",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090290",
+            "fromID": "870933",
+            "toID": "834025",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090291",
+            "fromID": "834025",
+            "toID": "870934",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090292",
+            "fromID": "870934",
+            "toID": "834029",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090293",
+            "fromID": "834029",
+            "toID": "870935",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090294",
+            "fromID": "870935",
+            "toID": "834033",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090295",
+            "fromID": "834033",
+            "toID": "870936",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090296",
+            "fromID": "870936",
+            "toID": "834037",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090297",
+            "fromID": "834037",
+            "toID": "870937",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090298",
+            "fromID": "870937",
+            "toID": "834041",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090301",
+            "fromID": "834037",
+            "toID": "870939",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090302",
+            "fromID": "870939",
+            "toID": "834043",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090307",
+            "fromID": "834043",
+            "toID": "870942",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "1090308",
+            "fromID": "870942",
+            "toID": "834047",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "833969",
+            "personID": "3732",
+            "timestamp": "2022-01-14 18:49:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "833973",
+            "personID": "3732",
+            "timestamp": "2022-01-14 18:49:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "833977",
+            "personID": "3732",
+            "timestamp": "2022-01-14 18:49:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "833981",
+            "personID": "3732",
+            "timestamp": "2022-01-14 18:49:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "833985",
+            "personID": "3732",
+            "timestamp": "2022-01-14 18:49:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "833989",
+            "personID": "3732",
+            "timestamp": "2022-01-14 18:49:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "833993",
+            "personID": "3732",
+            "timestamp": "2022-01-14 18:49:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "833997",
+            "personID": "3732",
+            "timestamp": "2022-01-14 18:49:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "834001",
+            "personID": "3732",
+            "timestamp": "2022-01-14 18:49:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "834005",
+            "personID": "3732",
+            "timestamp": "2022-01-14 18:49:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "834009",
+            "personID": "3732",
+            "timestamp": "2022-01-14 18:49:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "834013",
+            "personID": "3732",
+            "timestamp": "2022-01-14 18:49:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "834017",
+            "personID": "3732",
+            "timestamp": "2022-01-14 18:49:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "834021",
+            "personID": "3732",
+            "timestamp": "2022-01-14 18:49:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "834025",
+            "personID": "3730",
+            "timestamp": "2022-01-14 18:49:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "834029",
+            "personID": "3732",
+            "timestamp": "2022-01-14 18:49:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "834033",
+            "personID": "3732",
+            "timestamp": "2022-01-14 18:49:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "834037",
+            "personID": "3734",
+            "timestamp": "2022-01-14 18:49:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "834041",
+            "personID": "3732",
+            "timestamp": "2022-01-14 18:49:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "834043",
+            "personID": "3734",
+            "timestamp": "2022-01-14 18:49:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "834047",
+            "personID": "3732",
+            "timestamp": "2022-01-14 18:49:02",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "834051",
+            "personID": "3734",
+            "timestamp": "2022-01-14 18:49:02",
+            "start": null,
+            "end": null,
+            "source": null
+        }
+    ]
+}

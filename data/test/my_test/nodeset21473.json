@@ -1,0 +1,616 @@
+{
+    "nodes": [
+        {
+            "nodeID": "719757",
+            "text": "She is a black woman and she gets tremendous abuse, no doubt on social media",
+            "type": "L",
+            "timestamp": "2021-06-10 20:35:34"
+        },
+        {
+            "nodeID": "719758",
+            "text": "Manos: Anthony Costello : She is a black woman",
+            "type": "L",
+            "timestamp": "2021-06-10 20:35:35"
+        },
+        {
+            "nodeID": "719759",
+            "text": "Anthony Costello : She is a black woman and she gets tremendous abuse, no doubt on social media",
+            "type": "L",
+            "timestamp": "2021-06-10 20:35:35"
+        },
+        {
+            "nodeID": "719761",
+            "text": "Naomi Osaka is a black woman and she gets tremendous abuse, no doubt on social media",
+            "type": "I",
+            "timestamp": "2021-06-10 20:35:36"
+        },
+        {
+            "nodeID": "719762",
+            "text": "Manos: Anthony Costello : She is a black woman and she gets tremendous abuse, no doubt on social media",
+            "type": "L",
+            "timestamp": "2021-06-10 20:35:36"
+        },
+        {
+            "nodeID": "719765",
+            "text": "Anthony Costello : Women get far more abuse than men in social media and black people",
+            "type": "L",
+            "timestamp": "2021-06-10 20:35:37"
+        },
+        {
+            "nodeID": "719768",
+            "text": "women get far more abuse than men in social media and black people",
+            "type": "I",
+            "timestamp": "2021-06-10 20:35:37"
+        },
+        {
+            "nodeID": "719770",
+            "text": "Manos: Anthony Costello : Women get far more abuse than men in social media and black people",
+            "type": "L",
+            "timestamp": "2021-06-10 20:35:38"
+        },
+        {
+            "nodeID": "719772",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 20:35:38",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "719775",
+            "text": "Manos: Anthony Costello : Diane Abbott who breaks all records for being abused on social media",
+            "type": "L",
+            "timestamp": "2021-06-10 20:35:38"
+        },
+        {
+            "nodeID": "719778",
+            "text": "Anthony Costello : Diane Abbott who breaks all records for being abused on social media",
+            "type": "L",
+            "timestamp": "2021-06-10 20:35:39"
+        },
+        {
+            "nodeID": "719781",
+            "text": "Diane Abbott breaks all records for being abused on social media",
+            "type": "I",
+            "timestamp": "2021-06-10 20:35:39"
+        },
+        {
+            "nodeID": "719784",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 20:35:40",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "719788",
+            "text": "Anthony Costello : How much has that contributed to her mental health state",
+            "type": "L",
+            "timestamp": "2021-06-10 20:35:40"
+        },
+        {
+            "nodeID": "719791",
+            "text": "social media abuse has much contributed to Naomi Osaka's mental health state",
+            "type": "I",
+            "timestamp": "2021-06-10 20:35:41"
+        },
+        {
+            "nodeID": "719793",
+            "text": "Manos: Anthony Costello : How much has that contributed to her mental health state",
+            "type": "L",
+            "timestamp": "2021-06-10 20:35:42"
+        },
+        {
+            "nodeID": "719796",
+            "text": "Anthony Costello : she doesn't want to do it",
+            "type": "L",
+            "timestamp": "2021-06-10 20:35:43"
+        },
+        {
+            "nodeID": "719799",
+            "text": "Naomi Osaka doesn't want to do it",
+            "type": "I",
+            "timestamp": "2021-06-10 20:35:44"
+        },
+        {
+            "nodeID": "719801",
+            "text": "Manos: Anthony Costello : she doesn't want to do it",
+            "type": "L",
+            "timestamp": "2021-06-10 20:35:45"
+        },
+        {
+            "nodeID": "719803",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 20:35:45",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "719807",
+            "text": "Anthony Costello : She's a tennis player",
+            "type": "L",
+            "timestamp": "2021-06-10 20:35:46"
+        },
+        {
+            "nodeID": "719810",
+            "text": "Naomi Osaka is a tennis player",
+            "type": "I",
+            "timestamp": "2021-06-10 20:35:47"
+        },
+        {
+            "nodeID": "719822",
+            "text": "Manos: Anthony Costello : She's a tennis player",
+            "type": "L",
+            "timestamp": "2021-06-10 20:35:48"
+        },
+        {
+            "nodeID": "719824",
+            "text": "Anthony Costello : Let's enjoy her tennis",
+            "type": "L",
+            "timestamp": "2021-06-10 20:35:49"
+        },
+        {
+            "nodeID": "719828",
+            "text": "let's enjoy Naomi Osaka's tennis",
+            "type": "I",
+            "timestamp": "2021-06-10 20:35:50"
+        },
+        {
+            "nodeID": "719830",
+            "text": "Manos: Anthony Costello : Let's enjoy her tennis",
+            "type": "L",
+            "timestamp": "2021-06-10 20:35:51"
+        },
+        {
+            "nodeID": "719835",
+            "text": "Talk to the coach afterwards",
+            "type": "L",
+            "timestamp": "2021-06-10 20:35:53"
+        },
+        {
+            "nodeID": "719838",
+            "text": "Anthony Costello : Talk to the coach afterwards",
+            "type": "L",
+            "timestamp": "2021-06-10 20:35:54"
+        },
+        {
+            "nodeID": "719841",
+            "text": "let's talk to the coach after the tennis match",
+            "type": "I",
+            "timestamp": "2021-06-10 20:35:55"
+        },
+        {
+            "nodeID": "719844",
+            "text": "Manos: Anthony Costello : Talk to the coach afterwards",
+            "type": "L",
+            "timestamp": "2021-06-10 20:35:56"
+        },
+        {
+            "nodeID": "719846",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 20:35:56",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "719849",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 20:35:56",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "719851",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 20:35:56",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "719852",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 20:35:56",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "719855",
+            "text": "AUDIENCE MEMBER : Why has the eviction ban with tenants on rent arrears finished when the full restrictions have not been lifted and people have been unable to return to work",
+            "type": "L",
+            "timestamp": "2021-06-10 20:35:58"
+        },
+        {
+            "nodeID": "719858",
+            "text": "because xxx the eviction ban with tenants on rent arrears has finished when the full restrictions have not been lifted and people have been unable to return to work",
+            "type": "I",
+            "timestamp": "2021-06-10 20:35:59"
+        },
+        {
+            "nodeID": "719863",
+            "text": "Manos: AUDIENCE MEMBER : Why has the eviction ban with tenants on rent arrears finished when the full restrictions have not been lifted and people have been unable to return to work",
+            "type": "L",
+            "timestamp": "2021-06-10 20:36:00"
+        },
+        {
+            "nodeID": "719866",
+            "text": "Fiona Bruce : in England the coronavirus eviction ban came to an end on Monday",
+            "type": "L",
+            "timestamp": "2021-06-10 20:36:01"
+        },
+        {
+            "nodeID": "719869",
+            "text": "in England the coronavirus eviction ban came to an end on Monday",
+            "type": "I",
+            "timestamp": "2021-06-10 20:36:02"
+        },
+        {
+            "nodeID": "719872",
+            "text": "Manos: Fiona Bruce : in England the coronavirus eviction ban came to an end on Monday",
+            "type": "L",
+            "timestamp": "2021-06-10 20:36:04"
+        },
+        {
+            "nodeID": "719875",
+            "text": "Manos: Fiona Bruce : We have been talking about 21 June but we don't know if restrictions will be fully lifted then or not",
+            "type": "L",
+            "timestamp": "2021-06-10 20:36:05"
+        },
+        {
+            "nodeID": "719877",
+            "text": "Fiona Bruce : We have been talking about 21 June",
+            "type": "L",
+            "timestamp": "2021-06-10 20:36:06"
+        },
+        {
+            "nodeID": "719883",
+            "text": "we have been talking about 21 June",
+            "type": "I",
+            "timestamp": "2021-06-10 20:36:07"
+        },
+        {
+            "nodeID": "719886",
+            "text": "Manos: Fiona Bruce : We have been talking about 21 June",
+            "type": "L",
+            "timestamp": "2021-06-10 20:36:09"
+        },
+        {
+            "nodeID": "719888",
+            "text": "Fiona Bruce : we don't know if restrictions will be fully lifted then or not",
+            "type": "L",
+            "timestamp": "2021-06-10 20:36:10"
+        },
+        {
+            "nodeID": "719894",
+            "text": "we don't know if restrictions will be fully lifted on 21 June or not",
+            "type": "I",
+            "timestamp": "2021-06-10 20:36:11"
+        },
+        {
+            "nodeID": "719898",
+            "text": "Manos: Fiona Bruce : we don't know if restrictions will be fully lifted then or not",
+            "type": "L",
+            "timestamp": "2021-06-10 20:36:13"
+        },
+        {
+            "nodeID": "719900",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 20:36:13",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "719905",
+            "text": "Manos: Fiona Bruce : Why has it",
+            "type": "L",
+            "timestamp": "2021-06-10 20:36:14"
+        },
+        {
+            "nodeID": "719908",
+            "text": "Manos: Fiona Bruce : Why has this eviction ban finished",
+            "type": "L",
+            "timestamp": "2021-06-10 20:36:15"
+        },
+        {
+            "nodeID": "719911",
+            "text": "Fiona Bruce : Why has this eviction ban finished",
+            "type": "L",
+            "timestamp": "2021-06-10 20:36:16"
+        },
+        {
+            "nodeID": "719916",
+            "text": "because xxx this eviction ban finished has finished",
+            "type": "I",
+            "timestamp": "2021-06-10 20:36:17"
+        },
+        {
+            "nodeID": "719921",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 20:36:19",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "719924",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 20:36:19",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "719926",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 20:36:19",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "719927",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 20:36:19",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "925292",
+            "fromID": "719759",
+            "toID": "719772",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "925293",
+            "fromID": "719772",
+            "toID": "719765",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "925300",
+            "fromID": "719765",
+            "toID": "719784",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "925301",
+            "fromID": "719784",
+            "toID": "719778",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "925310",
+            "fromID": "719788",
+            "toID": "719803",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "925311",
+            "fromID": "719803",
+            "toID": "719796",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "925322",
+            "fromID": "719807",
+            "toID": "719846",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "925323",
+            "fromID": "719846",
+            "toID": "719824",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "925328",
+            "fromID": "719824",
+            "toID": "719849",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "925329",
+            "fromID": "719849",
+            "toID": "719838",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "925332",
+            "fromID": "719796",
+            "toID": "719851",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "925333",
+            "fromID": "719851",
+            "toID": "719807",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "925334",
+            "fromID": "719778",
+            "toID": "719852",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "925335",
+            "fromID": "719852",
+            "toID": "719788",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "925346",
+            "fromID": "719877",
+            "toID": "719900",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "925347",
+            "fromID": "719900",
+            "toID": "719888",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "925354",
+            "fromID": "719855",
+            "toID": "719921",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "925355",
+            "fromID": "719921",
+            "toID": "719911",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "925360",
+            "fromID": "719855",
+            "toID": "719924",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "925361",
+            "fromID": "719924",
+            "toID": "719866",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "925364",
+            "fromID": "719866",
+            "toID": "719926",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "925365",
+            "fromID": "719926",
+            "toID": "719877",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "925366",
+            "fromID": "719838",
+            "toID": "719927",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "925367",
+            "fromID": "719927",
+            "toID": "719855",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "719759",
+            "personID": "4765",
+            "timestamp": "2021-06-10 20:36:19",
+            "start": "2020-10-15 22:50:03",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "719765",
+            "personID": "4765",
+            "timestamp": "2021-06-10 20:36:19",
+            "start": "2020-10-15 22:50:11",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "719778",
+            "personID": "4765",
+            "timestamp": "2021-06-10 20:36:19",
+            "start": "2020-10-15 22:50:19",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "719788",
+            "personID": "4765",
+            "timestamp": "2021-06-10 20:36:19",
+            "start": "2020-10-15 22:50:26",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "719796",
+            "personID": "4765",
+            "timestamp": "2021-06-10 20:36:19",
+            "start": "2020-10-15 22:50:33",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "719807",
+            "personID": "4765",
+            "timestamp": "2021-06-10 20:36:19",
+            "start": "2020-10-15 22:50:36",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "719824",
+            "personID": "4765",
+            "timestamp": "2021-06-10 20:36:19",
+            "start": "2020-10-15 22:50:38",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "719838",
+            "personID": "4765",
+            "timestamp": "2021-06-10 20:36:19",
+            "start": "2020-10-15 22:50:40",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "719855",
+            "personID": "4273",
+            "timestamp": "2021-06-10 20:36:19",
+            "start": "2020-10-15 22:50:52",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "719866",
+            "personID": "3812",
+            "timestamp": "2021-06-10 20:36:19",
+            "start": "2020-10-15 22:51:10",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "719877",
+            "personID": "3812",
+            "timestamp": "2021-06-10 20:36:19",
+            "start": "2020-10-15 22:51:17",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "719888",
+            "personID": "3812",
+            "timestamp": "2021-06-10 20:36:19",
+            "start": "2020-10-15 22:51:21",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "719911",
+            "personID": "3812",
+            "timestamp": "2021-06-10 20:36:19",
+            "start": "2020-10-15 22:51:28",
+            "end": null,
+            "source": null
+        }
+    ]
+}

@@ -1,0 +1,816 @@
+{
+    "nodes": [
+        {
+            "nodeID": "510959",
+            "text": "Claire Cooper : Even if some children do get back to school before the end of the summer term, their experience is more likely to be about social distancing and hygiene rather than anything of any educational value",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:42"
+        },
+        {
+            "nodeID": "510961",
+            "text": "even if some children do get back to school before the end of the summer term, their experience is more likely to be about social distancing and hygiene rather than anything of any educational value",
+            "type": "I",
+            "timestamp": "2020-05-28 19:08:42"
+        },
+        {
+            "nodeID": "510962",
+            "text": "Nicole: Claire Cooper : Even if some children do get back to school before the end of the summer term, their experience is more likely to be about social distancing and hygiene rather than anything of any educational value",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:43"
+        },
+        {
+            "nodeID": "510963",
+            "text": "Claire Cooper : What can the panel suggest for a whole generation of school children who are now missing nearly half an academic year and face months of distrust about social distancing and social contact and the face of further disruption",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:43"
+        },
+        {
+            "nodeID": "510965",
+            "text": "xxx is what the panel can suggest for a whole generation of school children who are now missing nearly half an academic year and face months of distrust about social distancing and social contact and the face of further disruption",
+            "type": "I",
+            "timestamp": "2020-05-28 19:08:43"
+        },
+        {
+            "nodeID": "510966",
+            "text": "Nicole: Claire Cooper : What can the panel suggest for a whole generation of school children who are now missing nearly half an academic year and face months of distrust about social distancing and social contact and the face of further disruption",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:43"
+        },
+        {
+            "nodeID": "510967",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 19:08:43",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "510968",
+            "text": "Fiona Bruce : There's obviously some schools are going to go back on 1st June",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:43"
+        },
+        {
+            "nodeID": "510970",
+            "text": "there's obviously some schools are going to go back on 1st June",
+            "type": "I",
+            "timestamp": "2020-05-28 19:08:44"
+        },
+        {
+            "nodeID": "510971",
+            "text": "Nicole: Fiona Bruce : There's obviously some schools are going to go back on 1st June",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:44"
+        },
+        {
+            "nodeID": "510972",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 19:08:44",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "510973",
+            "text": "Fiona Bruce : Some are not",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:44"
+        },
+        {
+            "nodeID": "510975",
+            "text": "some schools are not going to go back on the 1st June",
+            "type": "I",
+            "timestamp": "2020-05-28 19:08:44"
+        },
+        {
+            "nodeID": "510976",
+            "text": "Nicole: Fiona Bruce : Some are not",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:44"
+        },
+        {
+            "nodeID": "510977",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 19:08:45",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "510980",
+            "text": "Fiona Bruce : What's happening where you are",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:45"
+        },
+        {
+            "nodeID": "510982",
+            "text": "xxx is happening with schools where Andy Burnham is",
+            "type": "I",
+            "timestamp": "2020-05-28 19:08:45"
+        },
+        {
+            "nodeID": "510983",
+            "text": "Nicole: Fiona Bruce : What's happening where you are",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:45"
+        },
+        {
+            "nodeID": "510984",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 19:08:46",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "510985",
+            "text": "Andy Burnham : It is a mixed picture",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:46"
+        },
+        {
+            "nodeID": "510987",
+            "text": "it is a mixed picture",
+            "type": "I",
+            "timestamp": "2020-05-28 19:08:46"
+        },
+        {
+            "nodeID": "510988",
+            "text": "Nicole: Andy Burnham : It is a mixed picture",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:46"
+        },
+        {
+            "nodeID": "510989",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 19:08:46",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "510992",
+            "text": "Andy Burnham : some are going back",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:47"
+        },
+        {
+            "nodeID": "510994",
+            "text": "some schools are going back",
+            "type": "I",
+            "timestamp": "2020-05-28 19:08:47"
+        },
+        {
+            "nodeID": "510995",
+            "text": "Nicole: Andy Burnham : some are going back",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:47"
+        },
+        {
+            "nodeID": "510996",
+            "text": "Andy Burnham : Some have said they would rather take their time to get the right arrangements in place",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:47"
+        },
+        {
+            "nodeID": "510998",
+            "text": "some schools have said they would rather take their time to get the right arrangements in place",
+            "type": "I",
+            "timestamp": "2020-05-28 19:08:47"
+        },
+        {
+            "nodeID": "510999",
+            "text": "Nicole: Andy Burnham : Some have said they would rather take their time to get the right arrangements in place",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:48"
+        },
+        {
+            "nodeID": "511000",
+            "text": "Andy Burnham : we want to get the kids back in school if we can as quickly as possible",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:48"
+        },
+        {
+            "nodeID": "511002",
+            "text": "we want to get the kids back in school if we can as quickly as possible",
+            "type": "I",
+            "timestamp": "2020-05-28 19:08:48"
+        },
+        {
+            "nodeID": "511003",
+            "text": "Nicole: Andy Burnham : we want to get the kids back in school if we can as quickly as possible",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:48"
+        },
+        {
+            "nodeID": "511004",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 19:08:48",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "511005",
+            "text": "Andy Burnham : it's got to be done as safely as possible",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:48"
+        },
+        {
+            "nodeID": "511007",
+            "text": "getting the kids back in school has got to be done as safely as possible",
+            "type": "I",
+            "timestamp": "2020-05-28 19:08:49"
+        },
+        {
+            "nodeID": "511008",
+            "text": "Nicole: Andy Burnham : it's got to be done as safely as possible",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:49"
+        },
+        {
+            "nodeID": "511009",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 19:08:49",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "511010",
+            "text": "Andy Burnham : The key thing is here schools haven't closed",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:49"
+        },
+        {
+            "nodeID": "511012",
+            "text": "the key thing is here schools haven't closed",
+            "type": "I",
+            "timestamp": "2020-05-28 19:08:49"
+        },
+        {
+            "nodeID": "511013",
+            "text": "Nicole: Andy Burnham : The key thing is here schools haven't closed",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:50"
+        },
+        {
+            "nodeID": "511014",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 19:08:50",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "511015",
+            "text": "Andy Burnham : It is not as if they have not been doing anything over recent weeks",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:50"
+        },
+        {
+            "nodeID": "511017",
+            "text": "it is not as if the schools have not been doing anything over recent weeks",
+            "type": "I",
+            "timestamp": "2020-05-28 19:08:50"
+        },
+        {
+            "nodeID": "511018",
+            "text": "Nicole: Andy Burnham : It is not as if they have not been doing anything over recent weeks",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:50"
+        },
+        {
+            "nodeID": "511019",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 19:08:50",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "511022",
+            "text": "Andy Burnham : Of course they have been looking after children of key workers",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:51"
+        },
+        {
+            "nodeID": "511024",
+            "text": "of course the schools have been looking after children of key workers",
+            "type": "I",
+            "timestamp": "2020-05-28 19:08:51"
+        },
+        {
+            "nodeID": "511025",
+            "text": "Nicole: Andy Burnham : Of course they have been looking after children of key workers",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:51"
+        },
+        {
+            "nodeID": "511026",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 19:08:51",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "511029",
+            "text": "Andy Burnham : teachers are feeling a bit stressed from the teacher-bashing they have seen this week",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:52"
+        },
+        {
+            "nodeID": "511031",
+            "text": "teachers are feeling a bit stressed from the teacher-bashing they have seen this week",
+            "type": "I",
+            "timestamp": "2020-05-28 19:08:52"
+        },
+        {
+            "nodeID": "511032",
+            "text": "Nicole: Andy Burnham : teachers are feeling a bit stressed from the teacher-bashing they have seen this week",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:52"
+        },
+        {
+            "nodeID": "511033",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 19:08:52",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "511034",
+            "text": "Andy Burnham : we need to sort of de-escalate this row a little bit",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:52"
+        },
+        {
+            "nodeID": "511036",
+            "text": "we need to sort of de-escalate this row a little bit",
+            "type": "I",
+            "timestamp": "2020-05-28 19:08:53"
+        },
+        {
+            "nodeID": "511037",
+            "text": "Nicole: Andy Burnham : we need to sort of de-escalate this row a little bit",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:53"
+        },
+        {
+            "nodeID": "511038",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 19:08:53",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "511041",
+            "text": "Andy Burnham : The problem is the government dropped a date on people of 1st June, without any real consultation",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:53"
+        },
+        {
+            "nodeID": "511043",
+            "text": "the problem is the government dropped a date on people of 1st June, without any real consultation",
+            "type": "I",
+            "timestamp": "2020-05-28 19:08:54"
+        },
+        {
+            "nodeID": "511044",
+            "text": "Nicole: Andy Burnham : The problem is the government dropped a date on people of 1st June, without any real consultation",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:54"
+        },
+        {
+            "nodeID": "511045",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 19:08:54",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "511046",
+            "text": "Andy Burnham : the way to resolve this is to say to head teachers in consultation with councils \"Try to get back by 1st June but as soon as you feel is safe as possible\"",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:54"
+        },
+        {
+            "nodeID": "511048",
+            "text": "the way to resolve this is to say to head teachers in consultation with councils \"Try to get back by 1st June but as soon as you feel is safe as possible\"",
+            "type": "I",
+            "timestamp": "2020-05-28 19:08:54"
+        },
+        {
+            "nodeID": "511049",
+            "text": "Nicole: Andy Burnham : the way to resolve this is to say to head teachers in consultation with councils \"Try to get back by 1st June but as soon as you feel is safe as possible\"",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:55"
+        },
+        {
+            "nodeID": "511050",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 19:08:55",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "511051",
+            "text": "Andy Burnham : That feels to me to be the right resolution from where we are today",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:55"
+        },
+        {
+            "nodeID": "511053",
+            "text": "that feels to Andy Burnham to be the right resolution from where we are today",
+            "type": "I",
+            "timestamp": "2020-05-28 19:08:55"
+        },
+        {
+            "nodeID": "511054",
+            "text": "Nicole: Andy Burnham : That feels to me to be the right resolution from where we are today",
+            "type": "L",
+            "timestamp": "2020-05-28 19:08:55"
+        },
+        {
+            "nodeID": "511055",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 19:08:55",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "511056",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 19:08:56",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "511058",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 19:08:56",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "665958",
+            "fromID": "510959",
+            "toID": "510967",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "665959",
+            "fromID": "510967",
+            "toID": "510963",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "665962",
+            "fromID": "510963",
+            "toID": "510972",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "665963",
+            "fromID": "510972",
+            "toID": "510968",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "665966",
+            "fromID": "510968",
+            "toID": "510977",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "665967",
+            "fromID": "510977",
+            "toID": "510973",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "665974",
+            "fromID": "510973",
+            "toID": "510984",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "665975",
+            "fromID": "510984",
+            "toID": "510980",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "665978",
+            "fromID": "510980",
+            "toID": "510989",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "665979",
+            "fromID": "510989",
+            "toID": "510985",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "665990",
+            "fromID": "510996",
+            "toID": "511004",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "665991",
+            "fromID": "511004",
+            "toID": "511000",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "665994",
+            "fromID": "511000",
+            "toID": "511009",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "665995",
+            "fromID": "511009",
+            "toID": "511005",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "665998",
+            "fromID": "511005",
+            "toID": "511014",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "665999",
+            "fromID": "511014",
+            "toID": "511010",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "666002",
+            "fromID": "511010",
+            "toID": "511019",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "666003",
+            "fromID": "511019",
+            "toID": "511015",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "666010",
+            "fromID": "511015",
+            "toID": "511026",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "666011",
+            "fromID": "511026",
+            "toID": "511022",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "666018",
+            "fromID": "511022",
+            "toID": "511033",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "666019",
+            "fromID": "511033",
+            "toID": "511029",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "666022",
+            "fromID": "511029",
+            "toID": "511038",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "666023",
+            "fromID": "511038",
+            "toID": "511034",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "666030",
+            "fromID": "511034",
+            "toID": "511045",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "666031",
+            "fromID": "511045",
+            "toID": "511041",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "666034",
+            "fromID": "511041",
+            "toID": "511050",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "666035",
+            "fromID": "511050",
+            "toID": "511046",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "666038",
+            "fromID": "511046",
+            "toID": "511055",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "666039",
+            "fromID": "511055",
+            "toID": "511051",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "666040",
+            "fromID": "510985",
+            "toID": "511056",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "666041",
+            "fromID": "511056",
+            "toID": "510992",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "666045",
+            "fromID": "510985",
+            "toID": "511058",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "666046",
+            "fromID": "511058",
+            "toID": "510996",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "510959",
+            "personID": "3866",
+            "timestamp": "2020-05-28 19:08:56",
+            "start": "2020-05-21 22:51:28",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "510963",
+            "personID": "3866",
+            "timestamp": "2020-05-28 19:08:56",
+            "start": "2020-05-21 22:51:53",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "510968",
+            "personID": "3812",
+            "timestamp": "2020-05-28 19:08:56",
+            "start": "2020-05-21 22:52:01",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "510973",
+            "personID": "3812",
+            "timestamp": "2020-05-28 19:08:56",
+            "start": "2020-05-21 22:52:03",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "510980",
+            "personID": "3812",
+            "timestamp": "2020-05-28 19:08:56",
+            "start": "2020-05-21 22:52:05",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "510985",
+            "personID": "3862",
+            "timestamp": "2020-05-28 19:08:56",
+            "start": "2020-05-21 22:52:07",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "510992",
+            "personID": "3862",
+            "timestamp": "2020-05-28 19:08:56",
+            "start": "2020-05-21 22:52:09",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "510996",
+            "personID": "3862",
+            "timestamp": "2020-05-28 19:08:56",
+            "start": "2020-05-21 22:52:11",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511000",
+            "personID": "3862",
+            "timestamp": "2020-05-28 19:08:56",
+            "start": "2020-05-21 22:52:17",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511005",
+            "personID": "3862",
+            "timestamp": "2020-05-28 19:08:56",
+            "start": "2020-05-21 22:52:22",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511010",
+            "personID": "3862",
+            "timestamp": "2020-05-28 19:08:56",
+            "start": "2020-05-21 22:52:25",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511015",
+            "personID": "3862",
+            "timestamp": "2020-05-28 19:08:56",
+            "start": "2020-05-21 22:52:28",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511022",
+            "personID": "3862",
+            "timestamp": "2020-05-28 19:08:56",
+            "start": "2020-05-21 22:52:33",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511029",
+            "personID": "3862",
+            "timestamp": "2020-05-28 19:08:56",
+            "start": "2020-05-21 22:52:39",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511034",
+            "personID": "3862",
+            "timestamp": "2020-05-28 19:08:56",
+            "start": "2020-05-21 22:52:43",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511041",
+            "personID": "3862",
+            "timestamp": "2020-05-28 19:08:56",
+            "start": "2020-05-21 22:52:47",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511046",
+            "personID": "3862",
+            "timestamp": "2020-05-28 19:08:56",
+            "start": "2020-05-21 22:52:57",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "511051",
+            "personID": "3862",
+            "timestamp": "2020-05-28 19:08:56",
+            "start": "2020-05-21 22:53:13",
+            "end": null,
+            "source": null
+        }
+    ]
+}

@@ -1,0 +1,528 @@
+{
+    "nodes": [
+        {
+            "nodeID": "693440",
+            "text": "Matt: Fiona Bruce : But how much do you think it would?",
+            "type": "L",
+            "timestamp": "2021-04-29 20:50:41"
+        },
+        {
+            "nodeID": "693447",
+            "text": "Fiona Bruce : how much do you think it would?",
+            "type": "L",
+            "timestamp": "2021-04-29 20:50:43"
+        },
+        {
+            "nodeID": "693453",
+            "text": "it would be xxx much",
+            "type": "I",
+            "timestamp": "2021-04-29 20:50:44"
+        },
+        {
+            "nodeID": "693457",
+            "text": "Matt: Fiona Bruce : how much do you think it would?",
+            "type": "L",
+            "timestamp": "2021-04-29 20:50:46"
+        },
+        {
+            "nodeID": "693460",
+            "text": "Keith Brown : Probably about £137 million",
+            "type": "L",
+            "timestamp": "2021-04-29 20:50:47"
+        },
+        {
+            "nodeID": "693468",
+            "text": "probably about £137 million",
+            "type": "I",
+            "timestamp": "2021-04-29 20:50:49"
+        },
+        {
+            "nodeID": "693472",
+            "text": "Matt: Keith Brown : Probably about £137 million",
+            "type": "L",
+            "timestamp": "2021-04-29 20:50:50"
+        },
+        {
+            "nodeID": "693473",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 20:50:50",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "693482",
+            "text": "Fiona Bruce : Where's that going to come from?",
+            "type": "L",
+            "timestamp": "2021-04-29 20:50:52"
+        },
+        {
+            "nodeID": "693488",
+            "text": "£137 million is going to come from xxx",
+            "type": "I",
+            "timestamp": "2021-04-29 20:50:53"
+        },
+        {
+            "nodeID": "693492",
+            "text": "Matt: Fiona Bruce : Where's that going to come from?",
+            "type": "L",
+            "timestamp": "2021-04-29 20:50:54"
+        },
+        {
+            "nodeID": "693493",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 20:50:54",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "693496",
+            "text": "Keith Brown : That's going to come from the budget that we have",
+            "type": "L",
+            "timestamp": "2021-04-29 20:50:56"
+        },
+        {
+            "nodeID": "693505",
+            "text": "£137 million is going to come from the budget that we have",
+            "type": "I",
+            "timestamp": "2021-04-29 20:50:58"
+        },
+        {
+            "nodeID": "693509",
+            "text": "Matt: Keith Brown : That's going to come from the budget that we have",
+            "type": "L",
+            "timestamp": "2021-04-29 20:50:59"
+        },
+        {
+            "nodeID": "693510",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 20:50:59",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "693518",
+            "text": "Keith Brown : Willie mentioned before that the basis for drawing up budgets in the Scottish government is a central…an optimistic, if you like, and a less optimistic estimate",
+            "type": "L",
+            "timestamp": "2021-04-29 20:51:01"
+        },
+        {
+            "nodeID": "693525",
+            "text": "the basis for drawing up budgets in the Scottish government is a central…an optimistic, if you like, and a less optimistic estimate",
+            "type": "I",
+            "timestamp": "2021-04-29 20:51:03"
+        },
+        {
+            "nodeID": "693529",
+            "text": "Matt: Keith Brown : Willie mentioned before that the basis for drawing up budgets in the Scottish government is a central…an optimistic, if you like, and a less optimistic estimate",
+            "type": "L",
+            "timestamp": "2021-04-29 20:51:05"
+        },
+        {
+            "nodeID": "693531",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 20:51:05",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "693533",
+            "text": "Willie Rennie : the basis for drawing up budgets in the Scottish government is a central…an optimistic, if you like, and a less optimistic estimate",
+            "type": "L",
+            "timestamp": "2021-04-29 20:51:07"
+        },
+        {
+            "nodeID": "693537",
+            "text": "Matt: Willie Rennie : Willie mentioned before that the basis for drawing up budgets in the Scottish government is a central…an optimistic, if you like, and a less optimistic estimate",
+            "type": "L",
+            "timestamp": "2021-04-29 20:51:08"
+        },
+        {
+            "nodeID": "693547",
+            "text": "Keith Brown : We've taken the central estimate, as Willie appears to have done, to calculate",
+            "type": "L",
+            "timestamp": "2021-04-29 20:51:10"
+        },
+        {
+            "nodeID": "693559",
+            "text": "we've taken the central estimate, as Willie appears to have done, to calculate",
+            "type": "I",
+            "timestamp": "2021-04-29 20:51:12"
+        },
+        {
+            "nodeID": "693566",
+            "text": "Matt: Keith Brown : We've taken the central estimate, as Willie appears to have done, to calculate",
+            "type": "L",
+            "timestamp": "2021-04-29 20:51:14"
+        },
+        {
+            "nodeID": "693567",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 20:51:14",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "693572",
+            "text": "Keith Brown : the money that's going to come in from Scottish taxpayers giving money to the UK Exchequer and the money we get back",
+            "type": "L",
+            "timestamp": "2021-04-29 20:51:15"
+        },
+        {
+            "nodeID": "693577",
+            "text": "the money that's going to come in from Scottish taxpayers giving money to the UK Exchequer and the money we get back",
+            "type": "I",
+            "timestamp": "2021-04-29 20:51:17"
+        },
+        {
+            "nodeID": "693584",
+            "text": "Matt: Keith Brown : the money that's going to come in from Scottish taxpayers giving money to the UK Exchequer and the money we get back",
+            "type": "L",
+            "timestamp": "2021-04-29 20:51:18"
+        },
+        {
+            "nodeID": "693588",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 20:51:18",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "693592",
+            "text": "Keith Brown : from the Scottish taxation system which is both more progressive and less onerous than the UK system",
+            "type": "L",
+            "timestamp": "2021-04-29 20:51:20"
+        },
+        {
+            "nodeID": "693597",
+            "text": "from the Scottish taxation system which is both more progressive and less onerous than the UK system",
+            "type": "I",
+            "timestamp": "2021-04-29 20:51:21"
+        },
+        {
+            "nodeID": "693613",
+            "text": "Matt: Keith Brown : from the Scottish taxation system which is both more progressive and less onerous than the UK system",
+            "type": "L",
+            "timestamp": "2021-04-29 20:51:23"
+        },
+        {
+            "nodeID": "693615",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 20:51:23",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "693621",
+            "text": "Douglas Ross : he said that his is the only costed his manifesto",
+            "type": "L",
+            "timestamp": "2021-04-29 20:51:25"
+        },
+        {
+            "nodeID": "693634",
+            "text": "the conservative manifesto is the only costed manifesto",
+            "type": "I",
+            "timestamp": "2021-04-29 20:51:27"
+        },
+        {
+            "nodeID": "693639",
+            "text": "Matt: Douglas Ross : he said that his is the only costed his manifesto",
+            "type": "L",
+            "timestamp": "2021-04-29 20:51:29"
+        },
+        {
+            "nodeID": "693647",
+            "text": "Douglas Ross : the conservative manifesto is the only costed manifesto",
+            "type": "L",
+            "timestamp": "2021-04-29 20:51:31"
+        },
+        {
+            "nodeID": "693653",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 20:51:34",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "693675",
+            "text": "Keith Brown : he couldn't answer the question where the £600 million of cuts in the NHS was going to come from",
+            "type": "L",
+            "timestamp": "2021-04-29 20:51:35"
+        },
+        {
+            "nodeID": "693680",
+            "text": "he couldn't answer the question where the £600 million of cuts in the NHS was going to come from",
+            "type": "I",
+            "timestamp": "2021-04-29 20:51:38"
+        },
+        {
+            "nodeID": "693686",
+            "text": "Matt: Keith Brown : he couldn't answer the question where the £600 million of cuts in the NHS was going to come from",
+            "type": "L",
+            "timestamp": "2021-04-29 20:51:40"
+        },
+        {
+            "nodeID": "693687",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 20:51:40",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "895628",
+            "fromID": "693447",
+            "toID": "693473",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895629",
+            "fromID": "693473",
+            "toID": "693460",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895636",
+            "fromID": "693460",
+            "toID": "693493",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895637",
+            "fromID": "693493",
+            "toID": "693482",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895640",
+            "fromID": "693482",
+            "toID": "693510",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895641",
+            "fromID": "693510",
+            "toID": "693496",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895646",
+            "fromID": "693496",
+            "toID": "693531",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895647",
+            "fromID": "693531",
+            "toID": "693518",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895654",
+            "fromID": "693518",
+            "toID": "693567",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895655",
+            "fromID": "693567",
+            "toID": "693547",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895660",
+            "fromID": "693496",
+            "toID": "693588",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895661",
+            "fromID": "693588",
+            "toID": "693572",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895668",
+            "fromID": "693518",
+            "toID": "693615",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895669",
+            "fromID": "693615",
+            "toID": "693592",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895676",
+            "fromID": "693592",
+            "toID": "693653",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895677",
+            "fromID": "693653",
+            "toID": "693621",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895680",
+            "fromID": "693621",
+            "toID": "693687",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895681",
+            "fromID": "693687",
+            "toID": "693675",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "693447",
+            "personID": "3812",
+            "timestamp": "2021-04-29 20:51:40",
+            "start": "2020-10-15 23:33:20",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "693460",
+            "personID": "4482",
+            "timestamp": "2021-04-29 20:51:40",
+            "start": "2020-10-15 23:33:21",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "693482",
+            "personID": "3812",
+            "timestamp": "2021-04-29 20:51:40",
+            "start": "2020-10-15 23:33:23",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "693496",
+            "personID": "4482",
+            "timestamp": "2021-04-29 20:51:40",
+            "start": "2020-10-15 23:33:24",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "693518",
+            "personID": "4482",
+            "timestamp": "2021-04-29 20:51:40",
+            "start": "2020-10-15 23:33:26",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "693533",
+            "personID": "4517",
+            "timestamp": "2021-04-29 20:51:40",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "693547",
+            "personID": "4482",
+            "timestamp": "2021-04-29 20:51:40",
+            "start": "2020-10-15 23:33:33",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "693572",
+            "personID": "4482",
+            "timestamp": "2021-04-29 20:51:40",
+            "start": "2020-10-15 23:33:39",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "693592",
+            "personID": "4482",
+            "timestamp": "2021-04-29 20:51:40",
+            "start": "2020-10-15 23:33:44",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "693621",
+            "personID": "3882",
+            "timestamp": "2021-04-29 20:51:40",
+            "start": "2020-10-15 23:33:49",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "693647",
+            "personID": "3882",
+            "timestamp": "2021-04-29 20:51:40",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "693675",
+            "personID": "4482",
+            "timestamp": "2021-04-29 20:51:40",
+            "start": "2020-10-15 23:33:53",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "693447",
+            "personID": "3812",
+            "timestamp": "2022-11-11 14:28:47",
+            "start": "2020-10-15 23:33:20",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "693496",
+            "personID": "4482",
+            "timestamp": "2022-11-11 14:28:47",
+            "start": "2020-10-15 23:33:24",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "693547",
+            "personID": "4482",
+            "timestamp": "2022-11-11 14:28:47",
+            "start": "2020-10-15 23:33:33",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "693621",
+            "personID": "3882",
+            "timestamp": "2022-11-11 14:28:47",
+            "start": "2020-10-15 23:33:49",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "693675",
+            "personID": "4482",
+            "timestamp": "2022-11-11 14:28:47",
+            "start": "2020-10-15 23:33:53",
+            "end": null,
+            "source": null
+        }
+    ]
+}

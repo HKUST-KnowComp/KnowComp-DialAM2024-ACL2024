@@ -1,0 +1,1020 @@
+{
+    "nodes": [
+        {
+            "nodeID": "717894",
+            "text": "Jenni Murray :  like the entire population, or most of the population, who are neither economists or scientists, I am completely confused",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:22"
+        },
+        {
+            "nodeID": "717896",
+            "text": "like the entire population, or most of the population, who are neither economists or scientists, Jenni Murray is completely confused",
+            "type": "I",
+            "timestamp": "2021-06-10 19:49:23"
+        },
+        {
+            "nodeID": "717897",
+            "text": "Steffi: Jenni Murray :  like the entire population, or most of the population, who are neither economists or scientists, I am completely confused",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:23"
+        },
+        {
+            "nodeID": "717898",
+            "text": "Jenni Murray : I'm 71 years old",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:24"
+        },
+        {
+            "nodeID": "717900",
+            "text": "Jenni Muray is 71 years old",
+            "type": "I",
+            "timestamp": "2021-06-10 19:49:24"
+        },
+        {
+            "nodeID": "717901",
+            "text": "Steffi: Jenni Murray : I'm 71 years old",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:25"
+        },
+        {
+            "nodeID": "717902",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:49:25",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "717903",
+            "text": "I would really love everything to open up again",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:26"
+        },
+        {
+            "nodeID": "717904",
+            "text": "Jenni Murray : I want to be able to go inside a restaurant",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:26"
+        },
+        {
+            "nodeID": "717906",
+            "text": "Jenni Murray wants to be able to go inside a restaurant",
+            "type": "I",
+            "timestamp": "2021-06-10 19:49:27"
+        },
+        {
+            "nodeID": "717907",
+            "text": "Steffi: Jenni Murray : I want to be able to go inside a restaurant",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:27"
+        },
+        {
+            "nodeID": "717908",
+            "text": "Jenni Murray : I would really love everything to open up again",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:28"
+        },
+        {
+            "nodeID": "717910",
+            "text": "Jenni Murray would really love everything to open up again",
+            "type": "I",
+            "timestamp": "2021-06-10 19:49:28"
+        },
+        {
+            "nodeID": "717911",
+            "text": "Steffi: Jenni Murray : I would really love everything to open up again",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:29"
+        },
+        {
+            "nodeID": "717912",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:49:29",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "717913",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:49:29",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "717916",
+            "text": "Jenni Murray : it is sunny now",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:30"
+        },
+        {
+            "nodeID": "717918",
+            "text": "it is sunny now",
+            "type": "I",
+            "timestamp": "2021-06-10 19:49:30"
+        },
+        {
+            "nodeID": "717919",
+            "text": "Steffi: Jenni Murray : it is sunny now",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:31"
+        },
+        {
+            "nodeID": "717920",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:49:31",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "717921",
+            "text": "Jenni Murray : when it is rainy and cold I would love to go inside a restaurant with my family and friends",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:31"
+        },
+        {
+            "nodeID": "717923",
+            "text": "when it is rainy and cold Jenni Murray would love to go inside a restaurant with my family and friends",
+            "type": "I",
+            "timestamp": "2021-06-10 19:49:32"
+        },
+        {
+            "nodeID": "717924",
+            "text": "Steffi: Jenni Murray : when it is rainy and cold I would love to go inside a restaurant with my family and friends",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:33"
+        },
+        {
+            "nodeID": "717926",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:49:33",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "717928",
+            "text": "Jenni Murray : Life to go back to normal",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:33"
+        },
+        {
+            "nodeID": "717930",
+            "text": "Jenni Murray would love life to go back to normal",
+            "type": "I",
+            "timestamp": "2021-06-10 19:49:34"
+        },
+        {
+            "nodeID": "717931",
+            "text": "Steffi: Jenni Murray : Life to go back to normal",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:34"
+        },
+        {
+            "nodeID": "717932",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:49:34",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "717933",
+            "text": "Jenni Murray : Have a good life for so long as I may have left",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:35"
+        },
+        {
+            "nodeID": "717935",
+            "text": "Jenni Murray would love to have a good life for so long as she may have left",
+            "type": "I",
+            "timestamp": "2021-06-10 19:49:35"
+        },
+        {
+            "nodeID": "717936",
+            "text": "Steffi: Jenni Murray : Have a good life for so long as I may have left",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:36"
+        },
+        {
+            "nodeID": "717937",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:49:36",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "717938",
+            "text": "Steffi: Jenni Murray : I don't know",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:36"
+        },
+        {
+            "nodeID": "717939",
+            "text": "Jenni Murray :  I was watching Newsnight the other night and they were discussing the 21st as it -- and one scientist, just like you, so no, no, we can't open up",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:37"
+        },
+        {
+            "nodeID": "717940",
+            "text": "we can't open up",
+            "type": "I",
+            "timestamp": "2021-06-10 19:49:37"
+        },
+        {
+            "nodeID": "717941",
+            "text": "Steffi: Jenni Murray :  I was watching Newsnight the other night and they were discussing the 21st as it -- and one scientist, just like you, so no, no, we can't open up",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:38"
+        },
+        {
+            "nodeID": "717943",
+            "text": "Scientist Unknown : we can't open up",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:38"
+        },
+        {
+            "nodeID": "717944",
+            "text": "Steffi: Scientist Unknown : Jenni Murray was watching Newsnight the other night and they were discussing the 21st as it -- and one scientist, just like you, so no, no, we can't open up",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:39"
+        },
+        {
+            "nodeID": "717946",
+            "text": "Jenni Murray : We must keep this virus down",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:39"
+        },
+        {
+            "nodeID": "717947",
+            "text": "we must keep this virus down",
+            "type": "I",
+            "timestamp": "2021-06-10 19:49:40"
+        },
+        {
+            "nodeID": "717948",
+            "text": "Steffi: Jenni Murray : We must keep this virus down",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:40"
+        },
+        {
+            "nodeID": "717950",
+            "text": "Scientist Unknown : we must keep this virus down",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:41"
+        },
+        {
+            "nodeID": "717951",
+            "text": "Steffi: Scientist Unknown : We must keep this virus down",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:41"
+        },
+        {
+            "nodeID": "717953",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:49:41",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "717954",
+            "text": "Steffi: Scientist Unknown : We mustn't let it spread again",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:42"
+        },
+        {
+            "nodeID": "717955",
+            "text": "Jenni Murray : We mustn't let it spread again",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:42"
+        },
+        {
+            "nodeID": "717956",
+            "text": "we mustn't let it spread again",
+            "type": "I",
+            "timestamp": "2021-06-10 19:49:43"
+        },
+        {
+            "nodeID": "717957",
+            "text": "Steffi: Jenni Murray : We mustn't let it spread again",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:43"
+        },
+        {
+            "nodeID": "717959",
+            "text": "Scientist Unknown : we mustn't let it spread again",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:44"
+        },
+        {
+            "nodeID": "717961",
+            "text": "Jenni Murray : And the other one said: No, it will be fine",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:45"
+        },
+        {
+            "nodeID": "717962",
+            "text": "it will be fine",
+            "type": "I",
+            "timestamp": "2021-06-10 19:49:45"
+        },
+        {
+            "nodeID": "717963",
+            "text": "Steffi: Jenni Murray : And the other one said: No, it will be fine",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:46"
+        },
+        {
+            "nodeID": "717965",
+            "text": "Scientist2 Unknown : it will be fine",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:46"
+        },
+        {
+            "nodeID": "717966",
+            "text": "Steffi: Scientist2 Unknown : it will be fine",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:47"
+        },
+        {
+            "nodeID": "717968",
+            "text": "Jenni Murray : We'll be okay",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:47"
+        },
+        {
+            "nodeID": "717969",
+            "text": "we'll be okay",
+            "type": "I",
+            "timestamp": "2021-06-10 19:49:48"
+        },
+        {
+            "nodeID": "717970",
+            "text": "Steffi: Jenni Murray : We'll be okay",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:48"
+        },
+        {
+            "nodeID": "717971",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:49:48",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "717973",
+            "text": "Scientist2 Unknown : we'll be okay",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:49"
+        },
+        {
+            "nodeID": "717974",
+            "text": "Steffi: Scientist2 Unknown : we'll be okay",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:49"
+        },
+        {
+            "nodeID": "717979",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:49:49",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "717984",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:49:49",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "717986",
+            "text": "Jenni Murray : we had lots of vaccinations",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:50"
+        },
+        {
+            "nodeID": "717988",
+            "text": "we had lots of vaccinations",
+            "type": "I",
+            "timestamp": "2021-06-10 19:49:50"
+        },
+        {
+            "nodeID": "717989",
+            "text": "Steffi: Jenni Murray : we had lots of vaccinations",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:51"
+        },
+        {
+            "nodeID": "717990",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:49:51",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "717991",
+            "text": "Jenni Murray : I'm double vaccinated",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:52"
+        },
+        {
+            "nodeID": "717993",
+            "text": "Jenni Murray is double vaccinated",
+            "type": "I",
+            "timestamp": "2021-06-10 19:49:52"
+        },
+        {
+            "nodeID": "717994",
+            "text": "Steffi: Jenni Murray : I'm double vaccinated",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:53"
+        },
+        {
+            "nodeID": "717995",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:49:53",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "717996",
+            "text": "Jenni Murray :  I keep getting tested regularly",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:53"
+        },
+        {
+            "nodeID": "717998",
+            "text": "Jenni Murray keeps getting tested regularly",
+            "type": "I",
+            "timestamp": "2021-06-10 19:49:54"
+        },
+        {
+            "nodeID": "717999",
+            "text": "Steffi: Jenni Murray :  I keep getting tested regularly",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:54"
+        },
+        {
+            "nodeID": "718000",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:49:54",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "718001",
+            "text": "Jenni Murray : I'm still scared",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:55"
+        },
+        {
+            "nodeID": "718003",
+            "text": "Jenni Murray is still scared",
+            "type": "I",
+            "timestamp": "2021-06-10 19:49:56"
+        },
+        {
+            "nodeID": "718004",
+            "text": "Steffi: Jenni Murray : I'm still scared",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:56"
+        },
+        {
+            "nodeID": "718005",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:49:56",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "718006",
+            "text": "Jenni Murray : I'm scared of getting it",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:57"
+        },
+        {
+            "nodeID": "718008",
+            "text": "Jenni Murray is scared of getting the corona virus",
+            "type": "I",
+            "timestamp": "2021-06-10 19:49:58"
+        },
+        {
+            "nodeID": "718009",
+            "text": "Steffi: Jenni Murray : I'm scared of getting it",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:58"
+        },
+        {
+            "nodeID": "718010",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:49:58",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "718013",
+            "text": "Jenni Murray : My age group is kind of the most at-risk one",
+            "type": "L",
+            "timestamp": "2021-06-10 19:49:59"
+        },
+        {
+            "nodeID": "718015",
+            "text": "Jenni Murray's age group is kind of the most at-risk one",
+            "type": "I",
+            "timestamp": "2021-06-10 19:50:00"
+        },
+        {
+            "nodeID": "718016",
+            "text": "Steffi: Jenni Murray : My age group is kind of the most at-risk one",
+            "type": "L",
+            "timestamp": "2021-06-10 19:50:01"
+        },
+        {
+            "nodeID": "718017",
+            "text": "Jenni Murray : you just frighten me by saying how little protection I have with my double vaccine",
+            "type": "L",
+            "timestamp": "2021-06-10 19:50:01"
+        },
+        {
+            "nodeID": "718019",
+            "text": "Jenni Murray feels frightend by getting said how little protection she has with her double vaccine",
+            "type": "I",
+            "timestamp": "2021-06-10 19:50:02"
+        },
+        {
+            "nodeID": "718020",
+            "text": "Steffi: Jenni Murray : you just frighten me by saying how little protection I have with my double vaccine",
+            "type": "L",
+            "timestamp": "2021-06-10 19:50:03"
+        },
+        {
+            "nodeID": "718021",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:50:03",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "718023",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:50:03",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "718030",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-10 19:50:03",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "923419",
+            "fromID": "717894",
+            "toID": "717902",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923420",
+            "fromID": "717902",
+            "toID": "717898",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923425",
+            "fromID": "717912",
+            "toID": "717908",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923426",
+            "fromID": "717898",
+            "toID": "717912",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923427",
+            "fromID": "717908",
+            "toID": "717913",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923428",
+            "fromID": "717913",
+            "toID": "717904",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923435",
+            "fromID": "717904",
+            "toID": "717920",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923436",
+            "fromID": "717920",
+            "toID": "717916",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923441",
+            "fromID": "717904",
+            "toID": "717926",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923442",
+            "fromID": "717926",
+            "toID": "717921",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923447",
+            "fromID": "717921",
+            "toID": "717932",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923448",
+            "fromID": "717932",
+            "toID": "717928",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923451",
+            "fromID": "717928",
+            "toID": "717937",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923452",
+            "fromID": "717937",
+            "toID": "717933",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923461",
+            "fromID": "717939",
+            "toID": "717953",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923462",
+            "fromID": "717953",
+            "toID": "717946",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923471",
+            "fromID": "717961",
+            "toID": "717971",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923472",
+            "fromID": "717971",
+            "toID": "717968",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923483",
+            "fromID": "717939",
+            "toID": "717979",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923484",
+            "fromID": "717979",
+            "toID": "717961",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923493",
+            "fromID": "717939",
+            "toID": "717984",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923494",
+            "fromID": "717984",
+            "toID": "717955",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923499",
+            "fromID": "717968",
+            "toID": "717990",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923500",
+            "fromID": "717990",
+            "toID": "717986",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923503",
+            "fromID": "717986",
+            "toID": "717995",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923504",
+            "fromID": "717995",
+            "toID": "717991",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923507",
+            "fromID": "717991",
+            "toID": "718000",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923508",
+            "fromID": "718000",
+            "toID": "717996",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923511",
+            "fromID": "717996",
+            "toID": "718005",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923512",
+            "fromID": "718005",
+            "toID": "718001",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923515",
+            "fromID": "718001",
+            "toID": "718010",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923516",
+            "fromID": "718010",
+            "toID": "718006",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923525",
+            "fromID": "718013",
+            "toID": "718021",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923526",
+            "fromID": "718021",
+            "toID": "718017",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923530",
+            "fromID": "718006",
+            "toID": "718023",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923531",
+            "fromID": "718023",
+            "toID": "718017",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923544",
+            "fromID": "717908",
+            "toID": "718030",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "923545",
+            "fromID": "718030",
+            "toID": "717939",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "717894",
+            "personID": "4767",
+            "timestamp": "2021-06-10 19:50:03",
+            "start": "2020-10-15 23:11:15",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "717898",
+            "personID": "4767",
+            "timestamp": "2021-06-10 19:50:03",
+            "start": "2020-10-15 23:11:28",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "717904",
+            "personID": "4767",
+            "timestamp": "2021-06-10 19:50:03",
+            "start": "2020-10-15 23:11:34",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "717908",
+            "personID": "4767",
+            "timestamp": "2021-06-10 19:50:03",
+            "start": "2020-10-15 23:11:29",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "717916",
+            "personID": "4767",
+            "timestamp": "2021-06-10 19:50:03",
+            "start": "2020-10-15 23:11:40",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "717921",
+            "personID": "4767",
+            "timestamp": "2021-06-10 19:50:03",
+            "start": "2020-10-15 23:11:42",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "717928",
+            "personID": "4767",
+            "timestamp": "2021-06-10 19:50:03",
+            "start": "2020-10-15 23:11:51",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "717933",
+            "personID": "4767",
+            "timestamp": "2021-06-10 19:50:03",
+            "start": "2020-10-15 23:11:54",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "717939",
+            "personID": "4767",
+            "timestamp": "2021-06-10 19:50:03",
+            "start": "2020-10-15 23:12:00",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "717943",
+            "personID": "4805",
+            "timestamp": "2021-06-10 19:50:03",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "717946",
+            "personID": "4767",
+            "timestamp": "2021-06-10 19:50:03",
+            "start": "2020-10-15 23:12:15",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "717950",
+            "personID": "4805",
+            "timestamp": "2021-06-10 19:50:03",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "717955",
+            "personID": "4767",
+            "timestamp": "2021-06-10 19:50:03",
+            "start": "2020-10-15 23:12:18",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "717959",
+            "personID": "4805",
+            "timestamp": "2021-06-10 19:50:03",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "717961",
+            "personID": "4767",
+            "timestamp": "2021-06-10 19:50:03",
+            "start": "2020-10-15 23:12:21",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "717965",
+            "personID": "4806",
+            "timestamp": "2021-06-10 19:50:03",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "717968",
+            "personID": "4767",
+            "timestamp": "2021-06-10 19:50:03",
+            "start": "2020-10-15 23:12:26",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "717973",
+            "personID": "4806",
+            "timestamp": "2021-06-10 19:50:03",
+            "start": null,
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "717986",
+            "personID": "4767",
+            "timestamp": "2021-06-10 19:50:03",
+            "start": "2020-10-15 23:12:28",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "717991",
+            "personID": "4767",
+            "timestamp": "2021-06-10 19:50:03",
+            "start": "2020-10-15 23:12:31",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "717996",
+            "personID": "4767",
+            "timestamp": "2021-06-10 19:50:03",
+            "start": "2020-10-15 23:12:34",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "718001",
+            "personID": "4767",
+            "timestamp": "2021-06-10 19:50:03",
+            "start": "2020-10-15 23:12:38",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "718006",
+            "personID": "4767",
+            "timestamp": "2021-06-10 19:50:03",
+            "start": "2020-10-15 23:12:39",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "718013",
+            "personID": "4767",
+            "timestamp": "2021-06-10 19:50:03",
+            "start": "2020-10-15 23:12:42",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "718017",
+            "personID": "4767",
+            "timestamp": "2021-06-10 19:50:03",
+            "start": "2020-10-15 23:12:47",
+            "end": null,
+            "source": null
+        }
+    ]
+}

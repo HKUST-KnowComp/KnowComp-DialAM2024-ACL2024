@@ -1,0 +1,762 @@
+{
+    "nodes": [
+        {
+            "nodeID": "725709",
+            "text": "Mark Harper : Trade is a two-way thing",
+            "type": "L",
+            "timestamp": "2021-06-24 20:31:45"
+        },
+        {
+            "nodeID": "725711",
+            "text": "trade is a two-way thing",
+            "type": "I",
+            "timestamp": "2021-06-24 20:31:45"
+        },
+        {
+            "nodeID": "725712",
+            "text": "Calum: Mark Harper : Trade is a two-way thing",
+            "type": "L",
+            "timestamp": "2021-06-24 20:31:46"
+        },
+        {
+            "nodeID": "725713",
+            "text": "Mark Harper : Good trade deals are about a win-win for both sides",
+            "type": "L",
+            "timestamp": "2021-06-24 20:31:46"
+        },
+        {
+            "nodeID": "725715",
+            "text": "good trade deals are about a win-win for both sides",
+            "type": "I",
+            "timestamp": "2021-06-24 20:31:47"
+        },
+        {
+            "nodeID": "725716",
+            "text": "Calum: Mark Harper : Good trade deals are about a win-win for both sides",
+            "type": "L",
+            "timestamp": "2021-06-24 20:31:48"
+        },
+        {
+            "nodeID": "725717",
+            "text": "Mark Harper : This will be a precedent, I hope",
+            "type": "L",
+            "timestamp": "2021-06-24 20:31:49"
+        },
+        {
+            "nodeID": "725719",
+            "text": "Mark Harper hopes trade deals with the US will be a precedent",
+            "type": "I",
+            "timestamp": "2021-06-24 20:31:49"
+        },
+        {
+            "nodeID": "725720",
+            "text": "Calum: Mark Harper : This will be a precedent, I hope",
+            "type": "L",
+            "timestamp": "2021-06-24 20:31:50"
+        },
+        {
+            "nodeID": "725721",
+            "text": "Mark Harper : to get up into that trans-Pacific deal which will open up big opportunities for British farmers",
+            "type": "L",
+            "timestamp": "2021-06-24 20:31:50"
+        },
+        {
+            "nodeID": "725723",
+            "text": "trade deals with the US may get the UK into a trans-Pacific deal which will open up big opportunities for British farmers",
+            "type": "I",
+            "timestamp": "2021-06-24 20:31:51"
+        },
+        {
+            "nodeID": "725724",
+            "text": "Calum: Mark Harper : to get up into that trans-Pacific deal which will open up big opportunities for British farmers",
+            "type": "L",
+            "timestamp": "2021-06-24 20:31:51"
+        },
+        {
+            "nodeID": "725725",
+            "text": "Ian Blackford : You're talking about industrial farming with worst animal treatment",
+            "type": "L",
+            "timestamp": "2021-06-24 20:31:52"
+        },
+        {
+            "nodeID": "725727",
+            "text": "Mark Harper is talking about a deal involving industrial farming with worst animal treatment",
+            "type": "I",
+            "timestamp": "2021-06-24 20:31:53"
+        },
+        {
+            "nodeID": "725728",
+            "text": "Calum: Ian Blackford : You're talking about industrial farming with worst animal treatment",
+            "type": "L",
+            "timestamp": "2021-06-24 20:31:53"
+        },
+        {
+            "nodeID": "725729",
+            "text": "Mark Harper : Big opportunities for our farmers",
+            "type": "L",
+            "timestamp": "2021-06-24 20:31:54"
+        },
+        {
+            "nodeID": "725731",
+            "text": "the US trade deal has big opportunities for UK farmers",
+            "type": "I",
+            "timestamp": "2021-06-24 20:31:55"
+        },
+        {
+            "nodeID": "725732",
+            "text": "Calum: Mark Harper : Big opportunities for our farmers",
+            "type": "L",
+            "timestamp": "2021-06-24 20:31:55"
+        },
+        {
+            "nodeID": "725733",
+            "text": "Mark Harper : Australia is a country, you know, we share a head of state",
+            "type": "L",
+            "timestamp": "2021-06-24 20:31:56"
+        },
+        {
+            "nodeID": "725735",
+            "text": "Australia is a country with which the UK share a head of state",
+            "type": "I",
+            "timestamp": "2021-06-24 20:31:56"
+        },
+        {
+            "nodeID": "725736",
+            "text": "Calum: Mark Harper : Australia is a country, you know, we share a head of state",
+            "type": "L",
+            "timestamp": "2021-06-24 20:31:57"
+        },
+        {
+            "nodeID": "725737",
+            "text": "Mark Harper : they're our mates",
+            "type": "L",
+            "timestamp": "2021-06-24 20:31:58"
+        },
+        {
+            "nodeID": "725739",
+            "text": "Australia are the UK's mates",
+            "type": "I",
+            "timestamp": "2021-06-24 20:31:58"
+        },
+        {
+            "nodeID": "725740",
+            "text": "Calum: Mark Harper : they're our mates",
+            "type": "L",
+            "timestamp": "2021-06-24 20:31:59"
+        },
+        {
+            "nodeID": "725741",
+            "text": "Mark Harper : we have very close security relationship",
+            "type": "L",
+            "timestamp": "2021-06-24 20:31:59"
+        },
+        {
+            "nodeID": "725743",
+            "text": "the UK have a very close security relationship with Australia",
+            "type": "I",
+            "timestamp": "2021-06-24 20:32:00"
+        },
+        {
+            "nodeID": "725744",
+            "text": "Calum: Mark Harper : we have very close security relationship",
+            "type": "L",
+            "timestamp": "2021-06-24 20:32:00"
+        },
+        {
+            "nodeID": "725745",
+            "text": "Fiona Bruce : Very far geographically",
+            "type": "L",
+            "timestamp": "2021-06-24 20:32:01"
+        },
+        {
+            "nodeID": "725747",
+            "text": "Australia is very far geographically from the UK",
+            "type": "I",
+            "timestamp": "2021-06-24 20:32:02"
+        },
+        {
+            "nodeID": "725748",
+            "text": "Calum: Fiona Bruce : Very far geographically",
+            "type": "L",
+            "timestamp": "2021-06-24 20:32:03"
+        },
+        {
+            "nodeID": "725749",
+            "text": "Mark Harper : you can't do a trade deal with Australia",
+            "type": "L",
+            "timestamp": "2021-06-24 20:32:04"
+        },
+        {
+            "nodeID": "725751",
+            "text": "you can not do a trade deal with Australia",
+            "type": "I",
+            "timestamp": "2021-06-24 20:32:04"
+        },
+        {
+            "nodeID": "725752",
+            "text": "Calum: Mark Harper : you can't do a trade deal with Australia",
+            "type": "L",
+            "timestamp": "2021-06-24 20:32:05"
+        },
+        {
+            "nodeID": "725753",
+            "text": "Mark Harper : you can't do a trade deal with anyone",
+            "type": "L",
+            "timestamp": "2021-06-24 20:32:05"
+        },
+        {
+            "nodeID": "725755",
+            "text": "you can not do a trade deal with anyone",
+            "type": "I",
+            "timestamp": "2021-06-24 20:32:06"
+        },
+        {
+            "nodeID": "725756",
+            "text": "Calum: Mark Harper : you can't do a trade deal with anyone",
+            "type": "L",
+            "timestamp": "2021-06-24 20:32:07"
+        },
+        {
+            "nodeID": "725757",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 20:32:07",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "725760",
+            "text": "Ian Blackford : I'll tell a crofter and farmer that had to sell up we have a common head of state",
+            "type": "L",
+            "timestamp": "2021-06-24 20:32:08"
+        },
+        {
+            "nodeID": "725762",
+            "text": "Ian Blackford will tell a crofter and farmer that they had to sell because we have a common head of state",
+            "type": "I",
+            "timestamp": "2021-06-24 20:32:09"
+        },
+        {
+            "nodeID": "725763",
+            "text": "Calum: Ian Blackford : I'll tell a crofter and farmer that had to sell up we have a common head of state",
+            "type": "L",
+            "timestamp": "2021-06-24 20:32:10"
+        },
+        {
+            "nodeID": "725764",
+            "text": "Ian Blackford : Will give them comfort",
+            "type": "L",
+            "timestamp": "2021-06-24 20:32:10"
+        },
+        {
+            "nodeID": "725766",
+            "text": "sharing a head of state will give crofters and farmers comfort",
+            "type": "I",
+            "timestamp": "2021-06-24 20:32:11"
+        },
+        {
+            "nodeID": "725767",
+            "text": "Calum: Ian Blackford : Will give them comfort",
+            "type": "L",
+            "timestamp": "2021-06-24 20:32:12"
+        },
+        {
+            "nodeID": "725768",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 20:32:12",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "725769",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 20:32:12",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "725770",
+            "text": "Rosemary Squire : I'm not an expert on this",
+            "type": "L",
+            "timestamp": "2021-06-24 20:32:12"
+        },
+        {
+            "nodeID": "725772",
+            "text": "Calum: Rosemary Squire : I'm not an expert on this",
+            "type": "L",
+            "timestamp": "2021-06-24 20:32:13"
+        },
+        {
+            "nodeID": "725773",
+            "text": "Rosemary Squire is not an expert on trade deals",
+            "type": "I",
+            "timestamp": "2021-06-24 20:32:14"
+        },
+        {
+            "nodeID": "725774",
+            "text": "Rosemary Squire : I sit on the UK Trade and Business Commission which is a cross-party initiative to bring together experts to discuss the impact of Brexit",
+            "type": "L",
+            "timestamp": "2021-06-24 20:32:15"
+        },
+        {
+            "nodeID": "725776",
+            "text": "Rosemary Squire sits on the UK Trade and Business Commission which is a cross-party initiative to bring together experts to discuss the impact of Brexit",
+            "type": "I",
+            "timestamp": "2021-06-24 20:32:16"
+        },
+        {
+            "nodeID": "725777",
+            "text": "Calum: Rosemary Squire : I sit on the UK Trade and Business Commission which is a cross-party initiative to bring together experts to discuss the impact of Brexit",
+            "type": "L",
+            "timestamp": "2021-06-24 20:32:17"
+        },
+        {
+            "nodeID": "725778",
+            "text": "Rosemary Squire : Agriculture and importing are something at the top of the agenda",
+            "type": "L",
+            "timestamp": "2021-06-24 20:32:17"
+        },
+        {
+            "nodeID": "725780",
+            "text": "Agriculture and importing are something at the top of the UK Trade and Business Commission's agenda",
+            "type": "I",
+            "timestamp": "2021-06-24 20:32:18"
+        },
+        {
+            "nodeID": "725781",
+            "text": "Calum: Rosemary Squire : Agriculture and importing are something at the top of the agenda",
+            "type": "L",
+            "timestamp": "2021-06-24 20:32:18"
+        },
+        {
+            "nodeID": "725782",
+            "text": "Calum: Rosemary Squire : Just as a layperson it seems clearly counterintuitive",
+            "type": "L",
+            "timestamp": "2021-06-24 20:32:19"
+        },
+        {
+            "nodeID": "725783",
+            "text": "Rosemary Squire : a government that has a green agenda",
+            "type": "L",
+            "timestamp": "2021-06-24 20:32:19"
+        },
+        {
+            "nodeID": "725785",
+            "text": "the UK government has a green agenda",
+            "type": "I",
+            "timestamp": "2021-06-24 20:32:20"
+        },
+        {
+            "nodeID": "725786",
+            "text": "Calum: Rosemary Squire : a government that has a green agenda",
+            "type": "L",
+            "timestamp": "2021-06-24 20:32:20"
+        },
+        {
+            "nodeID": "725787",
+            "text": "Rosemary Squire : we are going to be trying to ship food from the other side of the world",
+            "type": "L",
+            "timestamp": "2021-06-24 20:32:21"
+        },
+        {
+            "nodeID": "725789",
+            "text": "we are going to be trying to ship food from the other side of the world",
+            "type": "I",
+            "timestamp": "2021-06-24 20:32:21"
+        },
+        {
+            "nodeID": "725790",
+            "text": "Calum: Rosemary Squire : we are going to be trying to ship food from the other side of the world",
+            "type": "L",
+            "timestamp": "2021-06-24 20:32:22"
+        },
+        {
+            "nodeID": "725791",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 20:32:22",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "725794",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 20:32:22",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "725795",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 20:32:22",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "725798",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 20:32:22",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "725801",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 20:32:22",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "725804",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 20:32:22",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "725805",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 20:32:22",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "725806",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 20:32:22",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "725811",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 20:32:22",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "725812",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 20:32:22",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "725817",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 20:32:22",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "725818",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 20:32:22",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "725819",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 20:32:22",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "725820",
+            "text": "Rosemary Squire : it seems clearly counterintuitive",
+            "type": "L",
+            "timestamp": "2021-06-24 20:32:23"
+        },
+        {
+            "nodeID": "725822",
+            "text": "the trade deal seems clearly counterintuitive",
+            "type": "I",
+            "timestamp": "2021-06-24 20:32:24"
+        },
+        {
+            "nodeID": "725823",
+            "text": "Calum: Rosemary Squire : it seems clearly counterintuitive",
+            "type": "L",
+            "timestamp": "2021-06-24 20:32:24"
+        },
+        {
+            "nodeID": "725824",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 20:32:24",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "725825",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 20:32:24",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "725826",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-06-24 20:32:24",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "931395",
+            "fromID": "725749",
+            "toID": "725757",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931396",
+            "fromID": "725757",
+            "toID": "725753",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931405",
+            "fromID": "725768",
+            "toID": "725760",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931406",
+            "fromID": "725753",
+            "toID": "725768",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931407",
+            "fromID": "725769",
+            "toID": "725764",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931408",
+            "fromID": "725760",
+            "toID": "725769",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931419",
+            "fromID": "725709",
+            "toID": "725791",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931420",
+            "fromID": "725791",
+            "toID": "725713",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931425",
+            "fromID": "725794",
+            "toID": "725717",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931426",
+            "fromID": "725713",
+            "toID": "725794",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931427",
+            "fromID": "725717",
+            "toID": "725795",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931428",
+            "fromID": "725795",
+            "toID": "725721",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931433",
+            "fromID": "725721",
+            "toID": "725798",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931434",
+            "fromID": "725798",
+            "toID": "725725",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931439",
+            "fromID": "725721",
+            "toID": "725801",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931440",
+            "fromID": "725801",
+            "toID": "725729",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931445",
+            "fromID": "725729",
+            "toID": "725804",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931446",
+            "fromID": "725804",
+            "toID": "725733",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931447",
+            "fromID": "725733",
+            "toID": "725805",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931448",
+            "fromID": "725805",
+            "toID": "725737",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931449",
+            "fromID": "725737",
+            "toID": "725806",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931450",
+            "fromID": "725806",
+            "toID": "725741",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931459",
+            "fromID": "725741",
+            "toID": "725811",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931460",
+            "fromID": "725811",
+            "toID": "725745",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931461",
+            "fromID": "725745",
+            "toID": "725812",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931462",
+            "fromID": "725812",
+            "toID": "725749",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931471",
+            "fromID": "725764",
+            "toID": "725817",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931472",
+            "fromID": "725817",
+            "toID": "725770",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931473",
+            "fromID": "725770",
+            "toID": "725818",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931474",
+            "fromID": "725818",
+            "toID": "725774",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931475",
+            "fromID": "725774",
+            "toID": "725819",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931476",
+            "fromID": "725819",
+            "toID": "725778",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931479",
+            "fromID": "725778",
+            "toID": "725824",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931480",
+            "fromID": "725824",
+            "toID": "725820",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931481",
+            "fromID": "725820",
+            "toID": "725825",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931482",
+            "fromID": "725825",
+            "toID": "725783",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931483",
+            "fromID": "725820",
+            "toID": "725826",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "931484",
+            "fromID": "725826",
+            "toID": "725787",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "725745",
+            "personID": "3812",
+            "timestamp": "2021-06-24 20:32:24",
+            "start": "2020-10-15 23:38:48",
+            "end": null,
+            "source": null
+        }
+    ]
+}

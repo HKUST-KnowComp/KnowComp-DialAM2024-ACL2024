@@ -1,0 +1,490 @@
+{
+    "nodes": [
+        {
+            "nodeID": "693329",
+            "text": "Douglas Ross : you think your manifesto is fully costed",
+            "type": "L",
+            "timestamp": "2021-04-29 20:48:54"
+        },
+        {
+            "nodeID": "693331",
+            "text": "Keith Brown thinks his manifesto is fully costed",
+            "type": "I",
+            "timestamp": "2021-04-29 20:48:55"
+        },
+        {
+            "nodeID": "693332",
+            "text": "Abbie: Douglas Ross : you think your manifesto is fully costed",
+            "type": "L",
+            "timestamp": "2021-04-29 20:48:55"
+        },
+        {
+            "nodeID": "693333",
+            "text": "Douglas Ross : It's going to cost more than double the current Scottish budget",
+            "type": "L",
+            "timestamp": "2021-04-29 20:48:56"
+        },
+        {
+            "nodeID": "693335",
+            "text": "Keith Brown's manifesto is going to cost more than double the current Scottish budget",
+            "type": "I",
+            "timestamp": "2021-04-29 20:48:57"
+        },
+        {
+            "nodeID": "693336",
+            "text": "Abbie: Douglas Ross : It's going to cost more than double the current Scottish budget",
+            "type": "L",
+            "timestamp": "2021-04-29 20:48:57"
+        },
+        {
+            "nodeID": "693337",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 20:48:57",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "693338",
+            "text": "Keith Brown : That's just a nonsense",
+            "type": "L",
+            "timestamp": "2021-04-29 20:48:58"
+        },
+        {
+            "nodeID": "693340",
+            "text": "Keith Brown's manifesto costing more than double the Scottish budget is just a nonsense",
+            "type": "I",
+            "timestamp": "2021-04-29 20:48:58"
+        },
+        {
+            "nodeID": "693341",
+            "text": "Abbie: Keith Brown : That's just a nonsense",
+            "type": "L",
+            "timestamp": "2021-04-29 20:48:59"
+        },
+        {
+            "nodeID": "693342",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 20:48:59",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "693345",
+            "text": "Douglas Ross : that's typical fancy economics from the SNP",
+            "type": "L",
+            "timestamp": "2021-04-29 20:48:59"
+        },
+        {
+            "nodeID": "693347",
+            "text": "that's typical fancy economics from the SNP",
+            "type": "I",
+            "timestamp": "2021-04-29 20:49:00"
+        },
+        {
+            "nodeID": "693348",
+            "text": "Abbie: Douglas Ross : that's typical fancy economics from the SNP",
+            "type": "L",
+            "timestamp": "2021-04-29 20:49:01"
+        },
+        {
+            "nodeID": "693349",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 20:49:01",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "693350",
+            "text": "Douglas Ross : in terms of our plans, it's focused on recovery, it's focused on investing, it's focused on supporting the NHS",
+            "type": "L",
+            "timestamp": "2021-04-29 20:49:01"
+        },
+        {
+            "nodeID": "693352",
+            "text": "in terms of our plans, it's focused on recovery, it's focused on investing, it's focused on supporting the NHS",
+            "type": "I",
+            "timestamp": "2021-04-29 20:49:02"
+        },
+        {
+            "nodeID": "693353",
+            "text": "Abbie: Douglas Ross : in terms of our plans, it's focused on recovery, it's focused on investing, it's focused on supporting the NHS",
+            "type": "L",
+            "timestamp": "2021-04-29 20:49:02"
+        },
+        {
+            "nodeID": "693354",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 20:49:02",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "693355",
+            "text": "Douglas Ross : IFS say the Scottish Conservative plans are the most generous for the NHS out of all the parties in this election",
+            "type": "L",
+            "timestamp": "2021-04-29 20:49:03"
+        },
+        {
+            "nodeID": "693357",
+            "text": "IFS say the Scottish Conservative plans are the most generous for the NHS out of all the parties in this election",
+            "type": "I",
+            "timestamp": "2021-04-29 20:49:03"
+        },
+        {
+            "nodeID": "693358",
+            "text": "Abbie: Douglas Ross : IFS say the Scottish Conservative plans are the most generous for the NHS out of all the parties in this election",
+            "type": "L",
+            "timestamp": "2021-04-29 20:49:04"
+        },
+        {
+            "nodeID": "693359",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 20:49:04",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "693362",
+            "text": "Fiona Bruce : where are you going to get the money from",
+            "type": "L",
+            "timestamp": "2021-04-29 20:49:04"
+        },
+        {
+            "nodeID": "693364",
+            "text": "the Scottish Conservatives are going to get the money from xxx",
+            "type": "I",
+            "timestamp": "2021-04-29 20:49:05"
+        },
+        {
+            "nodeID": "693365",
+            "text": "Abbie: Fiona Bruce : where are you going to get the money from",
+            "type": "L",
+            "timestamp": "2021-04-29 20:49:05"
+        },
+        {
+            "nodeID": "693366",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 20:49:06",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "693367",
+            "text": "Douglas Ross : there's £4.8 billion of unallocated capital spend in the Scottish government at the moment",
+            "type": "L",
+            "timestamp": "2021-04-29 20:49:06"
+        },
+        {
+            "nodeID": "693369",
+            "text": "there's £4.8 billion of unallocated capital spend in the Scottish government at the moment",
+            "type": "I",
+            "timestamp": "2021-04-29 20:49:07"
+        },
+        {
+            "nodeID": "693370",
+            "text": "Abbie: Douglas Ross : there's £4.8 billion of unallocated capital spend in the Scottish government at the moment",
+            "type": "L",
+            "timestamp": "2021-04-29 20:49:07"
+        },
+        {
+            "nodeID": "693371",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 20:49:07",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "693373",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 20:49:07",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "693375",
+            "text": "Douglas Ross : We need to get that money out",
+            "type": "L",
+            "timestamp": "2021-04-29 20:49:08"
+        },
+        {
+            "nodeID": "693377",
+            "text": "we need to get that £4.8 billion of unallocated capital spend out",
+            "type": "I",
+            "timestamp": "2021-04-29 20:49:08"
+        },
+        {
+            "nodeID": "693378",
+            "text": "Abbie: Douglas Ross : We need to get that money out",
+            "type": "L",
+            "timestamp": "2021-04-29 20:49:09"
+        },
+        {
+            "nodeID": "693379",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 20:49:09",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "693382",
+            "text": "Abbie: Douglas Ross : so that drives our infrastructure growth right across the country, be it full fibre broadband, be it, you know, investing in more house building, the most ambitious social housing building programme since devolution that the Scottish Conservatives are putting forward",
+            "type": "L",
+            "timestamp": "2021-04-29 20:49:10"
+        },
+        {
+            "nodeID": "693383",
+            "text": "Douglas Ross : that drives our infrastructure growth right across the country, be it full fibre broadband, be it, you know, investing in more house building, the most ambitious social housing building programme since devolution that the Scottish Conservatives are putting forward",
+            "type": "L",
+            "timestamp": "2021-04-29 20:49:10"
+        },
+        {
+            "nodeID": "693385",
+            "text": "that money drives our infrastructure growth right across the country, be it full fibre broadband, be it, you know, investing in more house building, the most ambitious social housing building programme since devolution that the Scottish Conservatives are putting forward",
+            "type": "I",
+            "timestamp": "2021-04-29 20:49:11"
+        },
+        {
+            "nodeID": "693386",
+            "text": "Abbie: Douglas Ross : that drives our infrastructure growth right across the country, be it full fibre broadband, be it, you know, investing in more house building, the most ambitious social housing building programme since devolution that the Scottish Conservatives are putting forward",
+            "type": "L",
+            "timestamp": "2021-04-29 20:49:11"
+        },
+        {
+            "nodeID": "693387",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-04-29 20:49:11",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "895378",
+            "fromID": "693329",
+            "toID": "693337",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895379",
+            "fromID": "693337",
+            "toID": "693333",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895382",
+            "fromID": "693333",
+            "toID": "693342",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895383",
+            "fromID": "693342",
+            "toID": "693338",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895390",
+            "fromID": "693338",
+            "toID": "693349",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895391",
+            "fromID": "693349",
+            "toID": "693345",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895394",
+            "fromID": "693345",
+            "toID": "693354",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895395",
+            "fromID": "693354",
+            "toID": "693350",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895398",
+            "fromID": "693350",
+            "toID": "693359",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895399",
+            "fromID": "693359",
+            "toID": "693355",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895406",
+            "fromID": "693355",
+            "toID": "693366",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895407",
+            "fromID": "693366",
+            "toID": "693362",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895410",
+            "fromID": "693362",
+            "toID": "693371",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895411",
+            "fromID": "693371",
+            "toID": "693367",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895414",
+            "fromID": "693333",
+            "toID": "693373",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895415",
+            "fromID": "693373",
+            "toID": "693345",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895420",
+            "fromID": "693367",
+            "toID": "693379",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895421",
+            "fromID": "693379",
+            "toID": "693375",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895428",
+            "fromID": "693375",
+            "toID": "693387",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "895429",
+            "fromID": "693387",
+            "toID": "693383",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "693329",
+            "personID": "3882",
+            "timestamp": "2021-04-29 20:49:12",
+            "start": "2020-10-15 23:30:14",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "693333",
+            "personID": "3882",
+            "timestamp": "2021-04-29 20:49:12",
+            "start": "2020-10-15 23:30:17",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "693338",
+            "personID": "4482",
+            "timestamp": "2021-04-29 20:49:12",
+            "start": "2020-10-15 23:30:20",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "693345",
+            "personID": "3882",
+            "timestamp": "2021-04-29 20:49:12",
+            "start": "2020-10-15 23:30:20",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "693350",
+            "personID": "3882",
+            "timestamp": "2021-04-29 20:49:12",
+            "start": "2020-10-15 23:30:24",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "693355",
+            "personID": "3882",
+            "timestamp": "2021-04-29 20:49:12",
+            "start": "2020-10-15 23:30:32",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "693362",
+            "personID": "3812",
+            "timestamp": "2021-04-29 20:49:12",
+            "start": "2020-10-15 23:30:34",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "693367",
+            "personID": "3882",
+            "timestamp": "2021-04-29 20:49:12",
+            "start": "2020-10-15 23:30:39",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "693375",
+            "personID": "3882",
+            "timestamp": "2021-04-29 20:49:12",
+            "start": "2020-10-15 23:30:49",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "693383",
+            "personID": "3882",
+            "timestamp": "2021-04-29 20:49:12",
+            "start": "2020-10-15 23:30:52",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "693329",
+            "personID": "3882",
+            "timestamp": "2022-11-11 14:28:47",
+            "start": "2020-10-15 23:30:14",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "693383",
+            "personID": "3882",
+            "timestamp": "2022-11-11 14:28:47",
+            "start": "2020-10-15 23:30:52",
+            "end": null,
+            "source": null
+        }
+    ]
+}

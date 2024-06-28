@@ -1,0 +1,500 @@
+{
+    "nodes": [
+        {
+            "nodeID": "569613",
+            "text": "James Cleverly : this is a scheme that we had already put in place",
+            "type": "L",
+            "timestamp": "2020-09-02 19:13:48"
+        },
+        {
+            "nodeID": "569615",
+            "text": "funding school meal vouchers throughout the holidays is a scheme that we had already put in place",
+            "type": "I",
+            "timestamp": "2020-09-02 19:13:48"
+        },
+        {
+            "nodeID": "569616",
+            "text": "Louise: James Cleverly : this is a scheme that we had already put in place",
+            "type": "L",
+            "timestamp": "2020-09-02 19:13:48"
+        },
+        {
+            "nodeID": "569617",
+            "text": "James Cleverly : we’re talking about extending an existing scheme",
+            "type": "L",
+            "timestamp": "2020-09-02 19:13:49"
+        },
+        {
+            "nodeID": "569619",
+            "text": "we’re talking about extending an existing scheme",
+            "type": "I",
+            "timestamp": "2020-09-02 19:13:49"
+        },
+        {
+            "nodeID": "569620",
+            "text": "Louise: James Cleverly : we’re talking about extending an existing scheme",
+            "type": "L",
+            "timestamp": "2020-09-02 19:13:50"
+        },
+        {
+            "nodeID": "569621",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:13:50",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "569624",
+            "text": "James Cleverly : the unprecedented circumstances that we find ourselves in has meant that the government have put forward a range of support packages at a scale that we have never seen before in British politics",
+            "type": "L",
+            "timestamp": "2020-09-02 19:13:50"
+        },
+        {
+            "nodeID": "569626",
+            "text": "the unprecedented circumstances that we find ourselves in has meant that the government have put forward a range of support packages at a scale that we have never seen before in British politics",
+            "type": "I",
+            "timestamp": "2020-09-02 19:13:50"
+        },
+        {
+            "nodeID": "569627",
+            "text": "Louise: James Cleverly : the unprecedented circumstances that we find ourselves in has meant that the government have put forward a range of support packages at a scale that we have never seen before in British politics",
+            "type": "L",
+            "timestamp": "2020-09-02 19:13:51"
+        },
+        {
+            "nodeID": "569629",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:13:51",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "569631",
+            "text": "James Cleverly : we are absolutely determined to make sure that families can put food on their table",
+            "type": "L",
+            "timestamp": "2020-09-02 19:13:51"
+        },
+        {
+            "nodeID": "569633",
+            "text": "we are absolutely determined to make sure that families can put food on their table",
+            "type": "I",
+            "timestamp": "2020-09-02 19:13:52"
+        },
+        {
+            "nodeID": "569634",
+            "text": "Louise: James Cleverly : we are absolutely determined to make sure that families can put food on their table",
+            "type": "L",
+            "timestamp": "2020-09-02 19:13:52"
+        },
+        {
+            "nodeID": "569635",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:13:52",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "569636",
+            "text": "Louise: James Cleverly :  that’s why we’re supported people who are furloughed at the moment",
+            "type": "L",
+            "timestamp": "2020-09-02 19:13:52"
+        },
+        {
+            "nodeID": "569637",
+            "text": "James Cleverly : we’re supported people who are furloughed at the moment",
+            "type": "L",
+            "timestamp": "2020-09-02 19:13:53"
+        },
+        {
+            "nodeID": "569639",
+            "text": "we’re supported people who are furloughed at the moment",
+            "type": "I",
+            "timestamp": "2020-09-02 19:13:53"
+        },
+        {
+            "nodeID": "569640",
+            "text": "Louise: James Cleverly : we’re supported people who are furloughed at the moment",
+            "type": "L",
+            "timestamp": "2020-09-02 19:13:54"
+        },
+        {
+            "nodeID": "569642",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:13:54",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "569644",
+            "text": "James Cleverly : We are working so hard to get through these unbelievably difficult sets of circumstances",
+            "type": "L",
+            "timestamp": "2020-09-02 19:13:54"
+        },
+        {
+            "nodeID": "569646",
+            "text": "we are working hard to get through these unbelievably difficult sets of circumstances",
+            "type": "I",
+            "timestamp": "2020-09-02 19:13:54"
+        },
+        {
+            "nodeID": "569647",
+            "text": "Louise: James Cleverly : We are working so hard to get through these unbelievably difficult sets of circumstances",
+            "type": "L",
+            "timestamp": "2020-09-02 19:13:55"
+        },
+        {
+            "nodeID": "569648",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:13:55",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "569649",
+            "text": "James Cleverly : we’re trying to balance the competing financial and social pressures",
+            "type": "L",
+            "timestamp": "2020-09-02 19:13:55"
+        },
+        {
+            "nodeID": "569651",
+            "text": "we’re trying to balance the competing financial and social pressures",
+            "type": "I",
+            "timestamp": "2020-09-02 19:13:55"
+        },
+        {
+            "nodeID": "569652",
+            "text": "Louise: James Cleverly : we’re trying to balance the competing financial and social pressures",
+            "type": "L",
+            "timestamp": "2020-09-02 19:13:56"
+        },
+        {
+            "nodeID": "569653",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:13:56",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "569656",
+            "text": "James Cleverly : when someone shines a light on a particular issue and we look again at it and we make the decision that this is something that we can extend and should extend through the summer",
+            "type": "L",
+            "timestamp": "2020-09-02 19:13:56"
+        },
+        {
+            "nodeID": "569658",
+            "text": "when someone shines a light on a particular issue and we look again at it and we make the decision that this is something that we can extend and should extend through the summer",
+            "type": "I",
+            "timestamp": "2020-09-02 19:13:57"
+        },
+        {
+            "nodeID": "569659",
+            "text": "Louise: James Cleverly : when someone shines a light on a particular issue and we look again at it and we make the decision that this is something that we can extend and should extend through the summer",
+            "type": "L",
+            "timestamp": "2020-09-02 19:13:57"
+        },
+        {
+            "nodeID": "569660",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:13:57",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "569661",
+            "text": "James Cleverly : I’m very very grateful that Marcus did that",
+            "type": "L",
+            "timestamp": "2020-09-02 19:13:57"
+        },
+        {
+            "nodeID": "569663",
+            "text": "Jame Cleverly is very grateful that Marcus Rashford shone a light on the issue of continuing the school meal vouchers scheme throughout the summer",
+            "type": "I",
+            "timestamp": "2020-09-02 19:13:58"
+        },
+        {
+            "nodeID": "569664",
+            "text": "Louise: James Cleverly : I’m very very grateful that Marcus did that",
+            "type": "L",
+            "timestamp": "2020-09-02 19:13:58"
+        },
+        {
+            "nodeID": "569666",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:13:58",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "569668",
+            "text": "James Cleverly : I’m very grateful we listened",
+            "type": "L",
+            "timestamp": "2020-09-02 19:13:59"
+        },
+        {
+            "nodeID": "569670",
+            "text": "James Cleverley is very grateful they listened to Marcus Rashford shinning a light on the issue of continuing the school meal vouchers scheme throughout the summer",
+            "type": "I",
+            "timestamp": "2020-09-02 19:13:59"
+        },
+        {
+            "nodeID": "569671",
+            "text": "Louise: James Cleverly : I’m very grateful we listened",
+            "type": "L",
+            "timestamp": "2020-09-02 19:13:59"
+        },
+        {
+            "nodeID": "569673",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:13:59",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "569675",
+            "text": "James Cleverly :  I’m very grateful that we responded",
+            "type": "L",
+            "timestamp": "2020-09-02 19:14:00"
+        },
+        {
+            "nodeID": "569677",
+            "text": "James Cleverly is very grateful that they responded to Marcus Rashford shinning a light on the issue of continuing the school meal vouchers scheme throughout the summer",
+            "type": "I",
+            "timestamp": "2020-09-02 19:14:00"
+        },
+        {
+            "nodeID": "569678",
+            "text": "Louise: James Cleverly :  I’m very grateful that we responded",
+            "type": "L",
+            "timestamp": "2020-09-02 19:14:00"
+        },
+        {
+            "nodeID": "569680",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-09-02 19:14:00",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "739756",
+            "fromID": "569613",
+            "toID": "569621",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739757",
+            "fromID": "569621",
+            "toID": "569617",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739766",
+            "fromID": "569617",
+            "toID": "569629",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739767",
+            "fromID": "569629",
+            "toID": "569624",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739772",
+            "fromID": "569624",
+            "toID": "569635",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739773",
+            "fromID": "569635",
+            "toID": "569631",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739778",
+            "fromID": "569631",
+            "toID": "569642",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739779",
+            "fromID": "569642",
+            "toID": "569637",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739784",
+            "fromID": "569637",
+            "toID": "569648",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739785",
+            "fromID": "569648",
+            "toID": "569644",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739788",
+            "fromID": "569644",
+            "toID": "569653",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739789",
+            "fromID": "569653",
+            "toID": "569649",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739796",
+            "fromID": "569649",
+            "toID": "569660",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739797",
+            "fromID": "569660",
+            "toID": "569656",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739802",
+            "fromID": "569656",
+            "toID": "569666",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739803",
+            "fromID": "569666",
+            "toID": "569661",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739810",
+            "fromID": "569661",
+            "toID": "569673",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739811",
+            "fromID": "569673",
+            "toID": "569668",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739818",
+            "fromID": "569668",
+            "toID": "569680",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "739819",
+            "fromID": "569680",
+            "toID": "569675",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "569613",
+            "personID": "4004",
+            "timestamp": "2020-09-02 19:14:01",
+            "start": "2020-06-25 22:59:41",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569617",
+            "personID": "4004",
+            "timestamp": "2020-09-02 19:14:01",
+            "start": "2020-06-25 22:59:45",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569624",
+            "personID": "4004",
+            "timestamp": "2020-09-02 19:14:01",
+            "start": "2020-06-25 22:59:54",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569631",
+            "personID": "4004",
+            "timestamp": "2020-09-02 19:14:01",
+            "start": "2020-06-25 23:00:07",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569637",
+            "personID": "4004",
+            "timestamp": "2020-09-02 19:14:01",
+            "start": "2020-06-25 23:00:14",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569644",
+            "personID": "4004",
+            "timestamp": "2020-09-02 19:14:01",
+            "start": "2020-06-25 23:00:19",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569649",
+            "personID": "4004",
+            "timestamp": "2020-09-02 19:14:01",
+            "start": "2020-06-25 23:00:26",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569656",
+            "personID": "4004",
+            "timestamp": "2020-09-02 19:14:01",
+            "start": "2020-06-25 23:00:40",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569661",
+            "personID": "4004",
+            "timestamp": "2020-09-02 19:14:01",
+            "start": "2020-06-25 23:00:45",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569668",
+            "personID": "4004",
+            "timestamp": "2020-09-02 19:14:01",
+            "start": "2020-06-25 23:00:47",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "569675",
+            "personID": "4004",
+            "timestamp": "2020-09-02 19:14:01",
+            "start": "2020-06-25 23:00:50",
+            "end": null,
+            "source": null
+        }
+    ]
+}

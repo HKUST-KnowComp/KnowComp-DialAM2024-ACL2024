@@ -1,0 +1,1002 @@
+{
+    "nodes": [
+        {
+            "nodeID": "500222",
+            "text": "calum: Fiona Bruce : What's your view",
+            "type": "L",
+            "timestamp": "2020-05-14 20:56:15"
+        },
+        {
+            "nodeID": "709270",
+            "text": "Fiona Bruce : what's your view",
+            "type": "L",
+            "timestamp": "2021-05-21 13:17:17"
+        },
+        {
+            "nodeID": "714331",
+            "text": "Fiona Bruce : you asked this question",
+            "type": "L",
+            "timestamp": "2021-05-27 20:11:47"
+        },
+        {
+            "nodeID": "714337",
+            "text": "Fatima Bhula asked the question",
+            "type": "I",
+            "timestamp": "2021-05-27 20:11:48"
+        },
+        {
+            "nodeID": "714340",
+            "text": "Calum: Fiona Bruce : you asked this question",
+            "type": "L",
+            "timestamp": "2021-05-27 20:11:49"
+        },
+        {
+            "nodeID": "714342",
+            "text": "Calum: Fatima Bhula : what's your view",
+            "type": "L",
+            "timestamp": "2021-05-27 20:11:50"
+        },
+        {
+            "nodeID": "714345",
+            "text": "Fatima Bhula : the actual trains are being run by numerous companies with different ways of running and different innovations",
+            "type": "L",
+            "timestamp": "2021-05-27 20:11:51"
+        },
+        {
+            "nodeID": "714349",
+            "text": "the actual trains are being run by numerous companies with different ways of running and different innovations",
+            "type": "I",
+            "timestamp": "2021-05-27 20:11:53"
+        },
+        {
+            "nodeID": "714351",
+            "text": "Calum: Fatima Bhula : the actual trains are being run by numerous companies with different ways of running and different innovations",
+            "type": "L",
+            "timestamp": "2021-05-27 20:11:54"
+        },
+        {
+            "nodeID": "714356",
+            "text": "Fatima Bhula : I'm not really optimistic at all",
+            "type": "L",
+            "timestamp": "2021-05-27 20:11:55"
+        },
+        {
+            "nodeID": "714360",
+            "text": "Fatima Bhula is not really optimistic at all",
+            "type": "I",
+            "timestamp": "2021-05-27 20:11:56"
+        },
+        {
+            "nodeID": "714362",
+            "text": "Calum: Fatima Bhula : I'm not really optimistic at all",
+            "type": "L",
+            "timestamp": "2021-05-27 20:11:57"
+        },
+        {
+            "nodeID": "714363",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:11:57",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "714368",
+            "text": "Fatima Bhula : I'm in the north",
+            "type": "L",
+            "timestamp": "2021-05-27 20:11:58"
+        },
+        {
+            "nodeID": "714373",
+            "text": "Fatima Bhula is in the north of England",
+            "type": "I",
+            "timestamp": "2021-05-27 20:11:59"
+        },
+        {
+            "nodeID": "714378",
+            "text": "Calum: Fatima Bhula : I'm in the north",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:00"
+        },
+        {
+            "nodeID": "714379",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:12:00",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "714382",
+            "text": "Fatima Bhula : we had the Northern Rail fiasco for years and years",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:02"
+        },
+        {
+            "nodeID": "714385",
+            "text": "the north of England had the Northern Rail fiasco for years and years",
+            "type": "I",
+            "timestamp": "2021-05-27 20:12:03"
+        },
+        {
+            "nodeID": "714388",
+            "text": "Calum: Fatima Bhula : we had the Northern Rail fiasco for years and years",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:04"
+        },
+        {
+            "nodeID": "714391",
+            "text": "Fatima Bhula : Pre-pandemic I used to travel all over the country, hundreds of miles a week using many different operators and it was just a nightmare",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:05"
+        },
+        {
+            "nodeID": "714394",
+            "text": "pre-pandemic Fatima Bhula used to travel all over the country hundreds of miles a week using many different operators and it was just a nightmare",
+            "type": "I",
+            "timestamp": "2021-05-27 20:12:06"
+        },
+        {
+            "nodeID": "714398",
+            "text": "Calum: Fatima Bhula : Pre-pandemic I used to travel all over the country, hundreds of miles a week using many different operators and it was just a nightmare",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:07"
+        },
+        {
+            "nodeID": "714401",
+            "text": "Fatima Bhula : I don't see it getting any better whilst so ever we've got different companies",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:08"
+        },
+        {
+            "nodeID": "714404",
+            "text": "Fatima Bhula does not see rail services getting any better whilst so ever we've got different companies",
+            "type": "I",
+            "timestamp": "2021-05-27 20:12:09"
+        },
+        {
+            "nodeID": "714408",
+            "text": "Calum: Fatima Bhula : I don't see it getting any better whilst so ever we've got different companies",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:10"
+        },
+        {
+            "nodeID": "714411",
+            "text": "Fatima Bhula : public ownership is the only way",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:10"
+        },
+        {
+            "nodeID": "714414",
+            "text": "public ownership of rail services is the only way",
+            "type": "I",
+            "timestamp": "2021-05-27 20:12:11"
+        },
+        {
+            "nodeID": "714417",
+            "text": "Calum: Fatima Bhula : public ownership is the only way",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:12"
+        },
+        {
+            "nodeID": "714419",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:12:12",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "714423",
+            "text": "Christina Unknown : I live in the North East",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:13"
+        },
+        {
+            "nodeID": "714426",
+            "text": "Christina Unknown lives in the north east of England",
+            "type": "I",
+            "timestamp": "2021-05-27 20:12:14"
+        },
+        {
+            "nodeID": "714431",
+            "text": "Calum: Christina Unknown : I live in the North East",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:14"
+        },
+        {
+            "nodeID": "714432",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:12:14",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "714435",
+            "text": "Calum: Christina Unknown : one of the things that we noticed is that there was tremendous service offered by GNER",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:15"
+        },
+        {
+            "nodeID": "714436",
+            "text": "Christina Unknown : there was tremendous service offered by GNER",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:16"
+        },
+        {
+            "nodeID": "714439",
+            "text": "there was tremendous service offered by Great North Eastern Railway in the north east of England",
+            "type": "I",
+            "timestamp": "2021-05-27 20:12:17"
+        },
+        {
+            "nodeID": "714446",
+            "text": "Calum: Christina Unknown : there was tremendous service offered by GNER",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:17"
+        },
+        {
+            "nodeID": "714448",
+            "text": "Christina Unknown : when it came to reallocating the franchise the franchise was taken away from them",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:18"
+        },
+        {
+            "nodeID": "714450",
+            "text": "when it came to reallocating the rail franchise the franchise was taken away from Great North Eastern Railway",
+            "type": "I",
+            "timestamp": "2021-05-27 20:12:19"
+        },
+        {
+            "nodeID": "714457",
+            "text": "Calum: Christina Unknown : when it came to reallocating the franchise the franchise was taken away from them",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:20"
+        },
+        {
+            "nodeID": "714458",
+            "text": "Christina Unknown : the customer satisfaction was very high",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:20"
+        },
+        {
+            "nodeID": "714460",
+            "text": "the customer satisfaction for the Great North Eastern Railway was very high",
+            "type": "I",
+            "timestamp": "2021-05-27 20:12:21"
+        },
+        {
+            "nodeID": "714461",
+            "text": "Calum: Christina Unknown : the customer satisfaction was very high",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:22"
+        },
+        {
+            "nodeID": "714462",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:12:22",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "714463",
+            "text": "Christina Unknown : since then it's just been worse and worse and worse",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:22"
+        },
+        {
+            "nodeID": "714465",
+            "text": "since the rail franchise was taken from Great North Eastern Railway the service has just been worse and worse and worse",
+            "type": "I",
+            "timestamp": "2021-05-27 20:12:23"
+        },
+        {
+            "nodeID": "714466",
+            "text": "Calum: Christina Unknown : since then it's just been worse and worse and worse",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:24"
+        },
+        {
+            "nodeID": "714467",
+            "text": "Christina Unknown : the government makes money out of franchises",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:25"
+        },
+        {
+            "nodeID": "714469",
+            "text": "the UK Government makes money out of franchises",
+            "type": "I",
+            "timestamp": "2021-05-27 20:12:25"
+        },
+        {
+            "nodeID": "714470",
+            "text": "Calum: Christina Unknown : the government makes money out of franchises",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:26"
+        },
+        {
+            "nodeID": "714471",
+            "text": "Christina Unknown : when they accept a bidder they shouldn't just be looking at the highest offer",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:27"
+        },
+        {
+            "nodeID": "714473",
+            "text": "when the UK Government accept a bidder they shouldn't just be looking at the highest offer",
+            "type": "I",
+            "timestamp": "2021-05-27 20:12:28"
+        },
+        {
+            "nodeID": "714474",
+            "text": "Calum: Christina Unknown : when they accept a bidder they shouldn't just be looking at the highest offer",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:28"
+        },
+        {
+            "nodeID": "714475",
+            "text": "Christina Unknown : they should actually be looking at how the previous franchisee has handled things",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:29"
+        },
+        {
+            "nodeID": "714477",
+            "text": "the UK Government should actually be looking at how the previous franchisee has handled things",
+            "type": "I",
+            "timestamp": "2021-05-27 20:12:29"
+        },
+        {
+            "nodeID": "714478",
+            "text": "Calum: Christina Unknown : they should actually be looking at how the previous franchisee has handled things",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:30"
+        },
+        {
+            "nodeID": "714479",
+            "text": "Christina Unknown : in the case of GNER",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:31"
+        },
+        {
+            "nodeID": "714481",
+            "text": "in the case of Great North Eastern Railway they did a really good job",
+            "type": "I",
+            "timestamp": "2021-05-27 20:12:32"
+        },
+        {
+            "nodeID": "714482",
+            "text": "Calum: Christina Unknown : in the case of GNER",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:32"
+        },
+        {
+            "nodeID": "714483",
+            "text": "Christina Unknown : you have somebody who's doing a really good job, they should be automatically in prime position for a renewal of that franchise",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:33"
+        },
+        {
+            "nodeID": "714485",
+            "text": "when you have somebody who's doing a really good job they should be automatically in prime position for a renewal of that franchise",
+            "type": "I",
+            "timestamp": "2021-05-27 20:12:33"
+        },
+        {
+            "nodeID": "714486",
+            "text": "Calum: Christina Unknown : you have somebody who's doing a really good job, they should be automatically in prime position for a renewal of that franchise",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:34"
+        },
+        {
+            "nodeID": "714487",
+            "text": "Christina Unknown : Unless there is some reason why they've failed or they don't want to do it",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:34"
+        },
+        {
+            "nodeID": "714489",
+            "text": "the franchise should not be renewed if there is some reason why the company failed or they don't want to do it",
+            "type": "I",
+            "timestamp": "2021-05-27 20:12:35"
+        },
+        {
+            "nodeID": "714490",
+            "text": "Calum: Christina Unknown : Unless there is some reason why they've failed or they don't want to do it",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:35"
+        },
+        {
+            "nodeID": "714491",
+            "text": "Christina Unknown : you wouldn't need to nationalise",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:36"
+        },
+        {
+            "nodeID": "714493",
+            "text": "you wouldn't need to nationalise the rail service",
+            "type": "I",
+            "timestamp": "2021-05-27 20:12:36"
+        },
+        {
+            "nodeID": "714494",
+            "text": "Calum: Christina Unknown : you wouldn't need to nationalise",
+            "type": "L",
+            "timestamp": "2021-05-27 20:12:37"
+        },
+        {
+            "nodeID": "714495",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:12:37",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "714496",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:12:37",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "714497",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:12:37",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "714498",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:12:37",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "714500",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:12:37",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "714503",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:12:37",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "714504",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:12:37",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "714505",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:12:37",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "714506",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:12:37",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "714507",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:12:37",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "714509",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:12:37",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "714510",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:12:37",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "714513",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:12:37",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "714514",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:12:37",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "714517",
+            "text": "Fatima Bhula's view is xxx",
+            "type": "I",
+            "timestamp": "2021-05-27 20:12:38"
+        },
+        {
+            "nodeID": "714519",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:12:39",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "714520",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 20:12:39",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "919946",
+            "fromID": "714345",
+            "toID": "714363",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919947",
+            "fromID": "714363",
+            "toID": "714356",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919954",
+            "fromID": "714356",
+            "toID": "714379",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919955",
+            "fromID": "714379",
+            "toID": "714368",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919966",
+            "fromID": "714368",
+            "toID": "714419",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919967",
+            "fromID": "714419",
+            "toID": "714382",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919974",
+            "fromID": "714411",
+            "toID": "714432",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919975",
+            "fromID": "714432",
+            "toID": "714423",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919982",
+            "fromID": "714423",
+            "toID": "714462",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "919983",
+            "fromID": "714462",
+            "toID": "714436",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "920000",
+            "fromID": "714356",
+            "toID": "714495",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "920001",
+            "fromID": "714495",
+            "toID": "714401",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "920002",
+            "fromID": "714391",
+            "toID": "714496",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "920003",
+            "fromID": "714496",
+            "toID": "714411",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "920004",
+            "fromID": "714382",
+            "toID": "714497",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "920005",
+            "fromID": "714497",
+            "toID": "714411",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "920006",
+            "fromID": "714401",
+            "toID": "714498",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "920007",
+            "fromID": "714498",
+            "toID": "714411",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "920010",
+            "fromID": "714483",
+            "toID": "714500",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "920011",
+            "fromID": "714500",
+            "toID": "714491",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "920019",
+            "fromID": "714463",
+            "toID": "714503",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "920020",
+            "fromID": "714503",
+            "toID": "714467",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "920021",
+            "fromID": "714436",
+            "toID": "714504",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "920022",
+            "fromID": "714504",
+            "toID": "714471",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "920023",
+            "fromID": "714448",
+            "toID": "714505",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "920024",
+            "fromID": "714505",
+            "toID": "714471",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "920025",
+            "fromID": "714458",
+            "toID": "714506",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "920026",
+            "fromID": "714506",
+            "toID": "714471",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "920027",
+            "fromID": "714463",
+            "toID": "714507",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "920028",
+            "fromID": "714507",
+            "toID": "714471",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "920031",
+            "fromID": "714471",
+            "toID": "714509",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "920032",
+            "fromID": "714509",
+            "toID": "714475",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "920033",
+            "fromID": "714436",
+            "toID": "714510",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "920034",
+            "fromID": "714510",
+            "toID": "714479",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "920039",
+            "fromID": "714479",
+            "toID": "714513",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "920040",
+            "fromID": "714513",
+            "toID": "714483",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "920041",
+            "fromID": "714483",
+            "toID": "714514",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "920042",
+            "fromID": "714514",
+            "toID": "714487",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "920049",
+            "fromID": "714331",
+            "toID": "714519",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "920050",
+            "fromID": "714519",
+            "toID": "709270",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "920051",
+            "fromID": "709270",
+            "toID": "714520",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "920052",
+            "fromID": "714520",
+            "toID": "714345",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "709270",
+            "personID": "3812",
+            "timestamp": "2021-05-21 13:17:35",
+            "start": "2020-10-15 23:44:19",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "714331",
+            "personID": "3812",
+            "timestamp": "2021-05-27 20:12:39",
+            "start": "2020-10-15 23:22:44",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "714345",
+            "personID": "4756",
+            "timestamp": "2021-05-27 20:12:39",
+            "start": "2020-10-15 23:22:49",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "714356",
+            "personID": "4756",
+            "timestamp": "2021-05-27 20:12:39",
+            "start": "2020-10-15 23:22:56",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "714368",
+            "personID": "4756",
+            "timestamp": "2021-05-27 20:12:39",
+            "start": "2020-10-15 23:22:58",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "714382",
+            "personID": "4756",
+            "timestamp": "2021-05-27 20:12:39",
+            "start": "2020-10-15 23:23:00",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "714391",
+            "personID": "4756",
+            "timestamp": "2021-05-27 20:12:39",
+            "start": "2020-10-15 23:23:07",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "714401",
+            "personID": "4756",
+            "timestamp": "2021-05-27 20:12:39",
+            "start": "2020-10-15 23:23:14",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "714411",
+            "personID": "4756",
+            "timestamp": "2021-05-27 20:12:39",
+            "start": "2020-10-15 23:23:18",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "714423",
+            "personID": "4761",
+            "timestamp": "2021-05-27 20:12:39",
+            "start": "2020-10-15 23:23:22",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "714436",
+            "personID": "4761",
+            "timestamp": "2021-05-27 20:12:39",
+            "start": "2020-10-15 23:23:28",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "714448",
+            "personID": "4761",
+            "timestamp": "2021-05-27 20:12:39",
+            "start": "2020-10-15 23:23:33",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "714458",
+            "personID": "4761",
+            "timestamp": "2021-05-27 20:12:39",
+            "start": "2020-10-15 23:23:40",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "714463",
+            "personID": "4761",
+            "timestamp": "2021-05-27 20:12:39",
+            "start": "2020-10-15 23:23:44",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "714467",
+            "personID": "4761",
+            "timestamp": "2021-05-27 20:12:39",
+            "start": "2020-10-15 23:23:49",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "714471",
+            "personID": "4761",
+            "timestamp": "2021-05-27 20:12:39",
+            "start": "2020-10-15 23:23:55",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "714475",
+            "personID": "4761",
+            "timestamp": "2021-05-27 20:12:39",
+            "start": "2020-10-15 23:24:02",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "714479",
+            "personID": "4761",
+            "timestamp": "2021-05-27 20:12:39",
+            "start": "2020-10-15 23:24:07",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "714483",
+            "personID": "4761",
+            "timestamp": "2021-05-27 20:12:39",
+            "start": "2020-10-15 23:24:16",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "714487",
+            "personID": "4761",
+            "timestamp": "2021-05-27 20:12:39",
+            "start": "2020-10-15 23:24:24",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "714491",
+            "personID": "4761",
+            "timestamp": "2021-05-27 20:12:39",
+            "start": "2020-10-15 23:24:32",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "709270",
+            "personID": "3812",
+            "timestamp": "2021-05-27 20:12:39",
+            "start": "2020-10-15 23:22:45",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "709270",
+            "personID": "3733",
+            "timestamp": "2022-01-13 15:29:51",
+            "start": null,
+            "end": null,
+            "source": null
+        }
+    ]
+}

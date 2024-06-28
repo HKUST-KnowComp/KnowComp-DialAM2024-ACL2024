@@ -1,0 +1,618 @@
+{
+    "nodes": [
+        {
+            "nodeID": "712834",
+            "text": "Tuuli: Richard Walker : One in ten people are employed in travel and tourism in this business",
+            "type": "L",
+            "timestamp": "2021-05-27 19:45:40"
+        },
+        {
+            "nodeID": "712835",
+            "text": "Richard Walker : One in ten people are employed in travel and tourism in this business and in this country",
+            "type": "L",
+            "timestamp": "2021-05-27 19:45:41"
+        },
+        {
+            "nodeID": "712837",
+            "text": "one in ten people are employed in travel and tourism business and in the UK",
+            "type": "I",
+            "timestamp": "2021-05-27 19:45:41"
+        },
+        {
+            "nodeID": "712838",
+            "text": "Tuuli: Richard Walker : One in ten people are employed in travel and tourism in this business and in this country",
+            "type": "L",
+            "timestamp": "2021-05-27 19:45:42"
+        },
+        {
+            "nodeID": "712839",
+            "text": "Richard Walker : it's their livelihoods that's at stake",
+            "type": "L",
+            "timestamp": "2021-05-27 19:45:42"
+        },
+        {
+            "nodeID": "712841",
+            "text": "it's the livelihoods of the people employed in travel and tourism business that's at stake",
+            "type": "I",
+            "timestamp": "2021-05-27 19:45:43"
+        },
+        {
+            "nodeID": "712842",
+            "text": "Tuuli: Richard Walker : it's their livelihoods that's at stake",
+            "type": "L",
+            "timestamp": "2021-05-27 19:45:43"
+        },
+        {
+            "nodeID": "712843",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 19:45:43",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "712844",
+            "text": "Tuuli: Richard Walker : indeed the wider economy",
+            "type": "L",
+            "timestamp": "2021-05-27 19:45:44"
+        },
+        {
+            "nodeID": "712845",
+            "text": "Richard Walker : the wider economy",
+            "type": "L",
+            "timestamp": "2021-05-27 19:45:45"
+        },
+        {
+            "nodeID": "712847",
+            "text": "it's the wider economy that's at stake",
+            "type": "I",
+            "timestamp": "2021-05-27 19:45:46"
+        },
+        {
+            "nodeID": "712848",
+            "text": "Tuuli: Richard Walker : the wider economy",
+            "type": "L",
+            "timestamp": "2021-05-27 19:45:46"
+        },
+        {
+            "nodeID": "712849",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 19:45:46",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "712852",
+            "text": "Richard Walker : we wiped off something like £150 billion last year off our economy",
+            "type": "L",
+            "timestamp": "2021-05-27 19:45:47"
+        },
+        {
+            "nodeID": "712854",
+            "text": "we wiped off something like £150 billion last year off of the UK's economy",
+            "type": "I",
+            "timestamp": "2021-05-27 19:45:47"
+        },
+        {
+            "nodeID": "712855",
+            "text": "Tuuli: Richard Walker : we wiped off something like £150 billion last year off our economy",
+            "type": "L",
+            "timestamp": "2021-05-27 19:45:48"
+        },
+        {
+            "nodeID": "712856",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 19:45:48",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "712857",
+            "text": "Richard Walker : the shut down in travel",
+            "type": "L",
+            "timestamp": "2021-05-27 19:45:48"
+        },
+        {
+            "nodeID": "712859",
+            "text": "travel was shut down",
+            "type": "I",
+            "timestamp": "2021-05-27 19:45:49"
+        },
+        {
+            "nodeID": "712860",
+            "text": "Tuuli: Richard Walker : the shut down in travel",
+            "type": "L",
+            "timestamp": "2021-05-27 19:45:49"
+        },
+        {
+            "nodeID": "712862",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 19:45:49",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "712866",
+            "text": "Richard Walker : the wellness and mental health of that well-earned holiday in the sun a week abroad, which is something to aspire to",
+            "type": "L",
+            "timestamp": "2021-05-27 19:45:50"
+        },
+        {
+            "nodeID": "712868",
+            "text": "the wellness and mental health of that well-earned holiday in the sun, a week abroad, is something to aspire to",
+            "type": "I",
+            "timestamp": "2021-05-27 19:45:50"
+        },
+        {
+            "nodeID": "712869",
+            "text": "Tuuli: Richard Walker : the wellness and mental health of that well-earned holiday in the sun, albeit not in Greenland, a week abroad, which is something to aspire to",
+            "type": "L",
+            "timestamp": "2021-05-27 19:45:51"
+        },
+        {
+            "nodeID": "712870",
+            "text": "Richard Walker : albeit not in Greenland",
+            "type": "L",
+            "timestamp": "2021-05-27 19:45:51"
+        },
+        {
+            "nodeID": "712872",
+            "text": "albeit not in Greenland",
+            "type": "I",
+            "timestamp": "2021-05-27 19:45:52"
+        },
+        {
+            "nodeID": "712873",
+            "text": "Tuuli: Richard Walker : albeit not in Greenland",
+            "type": "L",
+            "timestamp": "2021-05-27 19:45:52"
+        },
+        {
+            "nodeID": "712874",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 19:45:52",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "712875",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 19:45:52",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "712876",
+            "text": "Richard Walker : it's a bit irrelevant anyway",
+            "type": "L",
+            "timestamp": "2021-05-27 19:45:53"
+        },
+        {
+            "nodeID": "712878",
+            "text": "it's a bit irrelevant anyway",
+            "type": "I",
+            "timestamp": "2021-05-27 19:45:53"
+        },
+        {
+            "nodeID": "712879",
+            "text": "Tuuli: Richard Walker : it's a bit irrelevant anyway",
+            "type": "L",
+            "timestamp": "2021-05-27 19:45:54"
+        },
+        {
+            "nodeID": "712880",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 19:45:54",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "712881",
+            "text": "Richard Walker : we cannot hermetically seal our borders",
+            "type": "L",
+            "timestamp": "2021-05-27 19:45:54"
+        },
+        {
+            "nodeID": "712883",
+            "text": "we cannot hermetically seal our borders",
+            "type": "I",
+            "timestamp": "2021-05-27 19:45:55"
+        },
+        {
+            "nodeID": "712884",
+            "text": "Tuuli: Richard Walker : we cannot hermetically seal our borders",
+            "type": "L",
+            "timestamp": "2021-05-27 19:45:55"
+        },
+        {
+            "nodeID": "712885",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 19:45:55",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "712888",
+            "text": "Richard Walker : people in and out of airports has dropped 95 per cent",
+            "type": "L",
+            "timestamp": "2021-05-27 19:45:56"
+        },
+        {
+            "nodeID": "712890",
+            "text": "people in and out of airports has dropped 95 per cent",
+            "type": "I",
+            "timestamp": "2021-05-27 19:45:56"
+        },
+        {
+            "nodeID": "712891",
+            "text": "Tuuli: Richard Walker : people in and out of airports has dropped 95 per cent",
+            "type": "L",
+            "timestamp": "2021-05-27 19:45:57"
+        },
+        {
+            "nodeID": "712892",
+            "text": "Richard Walker : there's 10,000 trucks a day coming over our land borders to pay for things like the clothes we wear, the food we eat, and indeed all the vaccines that we're getting jabbed with",
+            "type": "L",
+            "timestamp": "2021-05-27 19:45:57"
+        },
+        {
+            "nodeID": "712894",
+            "text": "there's 10,000 trucks a day coming over the UK's land borders to pay for things like the clothes we wear, the food we eat, and indeed all the vaccines that we're getting jabbed with",
+            "type": "I",
+            "timestamp": "2021-05-27 19:45:58"
+        },
+        {
+            "nodeID": "712895",
+            "text": "Tuuli: Richard Walker : there's 10,000 trucks a day coming over our land borders to pay for things like the clothes we wear, the food we eat, and indeed all the vaccines that we're getting jabbed with",
+            "type": "L",
+            "timestamp": "2021-05-27 19:45:58"
+        },
+        {
+            "nodeID": "712896",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 19:45:58",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "712898",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 19:45:58",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "712900",
+            "text": "Richard Walker : we kind of need to face reality here",
+            "type": "L",
+            "timestamp": "2021-05-27 19:45:59"
+        },
+        {
+            "nodeID": "712902",
+            "text": "we kind of need to face reality here",
+            "type": "I",
+            "timestamp": "2021-05-27 19:45:59"
+        },
+        {
+            "nodeID": "712903",
+            "text": "Tuuli: Richard Walker : we kind of need to face reality here",
+            "type": "L",
+            "timestamp": "2021-05-27 19:46:00"
+        },
+        {
+            "nodeID": "712904",
+            "text": "Richard Walker : understand that we cannot make ourselves completely COVID secure and safe for everyone and just seal up the country",
+            "type": "L",
+            "timestamp": "2021-05-27 19:46:00"
+        },
+        {
+            "nodeID": "712906",
+            "text": "we need to understand that we cannot make the UK completely COVID secure and safe for everyone and just seal up the country",
+            "type": "I",
+            "timestamp": "2021-05-27 19:46:01"
+        },
+        {
+            "nodeID": "712907",
+            "text": "Tuuli: Richard Walker : understand that we cannot make ourselves completely COVID secure and safe for everyone and just seal up the country",
+            "type": "L",
+            "timestamp": "2021-05-27 19:46:01"
+        },
+        {
+            "nodeID": "712909",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 19:46:01",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "712912",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 19:46:01",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "712913",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-05-27 19:46:01",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "918390",
+            "fromID": "712835",
+            "toID": "712843",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "918391",
+            "fromID": "712843",
+            "toID": "712839",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "918394",
+            "fromID": "712839",
+            "toID": "712849",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "918395",
+            "fromID": "712849",
+            "toID": "712845",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "918402",
+            "fromID": "712845",
+            "toID": "712856",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "918403",
+            "fromID": "712856",
+            "toID": "712852",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "918408",
+            "fromID": "712852",
+            "toID": "712862",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "918409",
+            "fromID": "712862",
+            "toID": "712857",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "918420",
+            "fromID": "712857",
+            "toID": "712874",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "918421",
+            "fromID": "712874",
+            "toID": "712866",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "918422",
+            "fromID": "712866",
+            "toID": "712875",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "918423",
+            "fromID": "712875",
+            "toID": "712870",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "918426",
+            "fromID": "712870",
+            "toID": "712880",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "918427",
+            "fromID": "712880",
+            "toID": "712876",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "918430",
+            "fromID": "712876",
+            "toID": "712885",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "918431",
+            "fromID": "712885",
+            "toID": "712881",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "918440",
+            "fromID": "712881",
+            "toID": "712896",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "918441",
+            "fromID": "712896",
+            "toID": "712888",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "918444",
+            "fromID": "712881",
+            "toID": "712898",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "918445",
+            "fromID": "712898",
+            "toID": "712892",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "918454",
+            "fromID": "712881",
+            "toID": "712909",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "918455",
+            "fromID": "712909",
+            "toID": "712904",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "918460",
+            "fromID": "712892",
+            "toID": "712912",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "918461",
+            "fromID": "712912",
+            "toID": "712904",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "918462",
+            "fromID": "712900",
+            "toID": "712913",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "918463",
+            "fromID": "712913",
+            "toID": "712904",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "712835",
+            "personID": "4716",
+            "timestamp": "2021-05-27 19:46:02",
+            "start": "2020-10-15 23:02:00",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "712839",
+            "personID": "4716",
+            "timestamp": "2021-05-27 19:46:02",
+            "start": "2020-10-15 23:02:09",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "712845",
+            "personID": "4716",
+            "timestamp": "2021-05-27 19:46:02",
+            "start": "2020-10-15 23:02:14",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "712852",
+            "personID": "4716",
+            "timestamp": "2021-05-27 19:46:02",
+            "start": "2020-10-15 23:02:17",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "712857",
+            "personID": "4716",
+            "timestamp": "2021-05-27 19:46:02",
+            "start": "2020-10-15 23:02:25",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "712866",
+            "personID": "4716",
+            "timestamp": "2021-05-27 19:46:02",
+            "start": "2020-10-15 23:02:29",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "712870",
+            "personID": "4716",
+            "timestamp": "2021-05-27 19:46:02",
+            "start": "2020-10-15 23:02:36",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "712876",
+            "personID": "4716",
+            "timestamp": "2021-05-27 19:46:02",
+            "start": "2020-10-15 23:02:48",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "712881",
+            "personID": "4716",
+            "timestamp": "2021-05-27 19:46:02",
+            "start": "2020-10-15 23:02:52",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "712888",
+            "personID": "4716",
+            "timestamp": "2021-05-27 19:46:02",
+            "start": "2020-10-15 23:02:57",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "712892",
+            "personID": "4716",
+            "timestamp": "2021-05-27 19:46:02",
+            "start": "2020-10-15 23:03:03",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "712900",
+            "personID": "4716",
+            "timestamp": "2021-05-27 19:46:02",
+            "start": "2020-10-15 23:03:24",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "712904",
+            "personID": "4716",
+            "timestamp": "2021-05-27 19:46:02",
+            "start": "2020-10-15 23:03:28",
+            "end": null,
+            "source": null
+        }
+    ]
+}

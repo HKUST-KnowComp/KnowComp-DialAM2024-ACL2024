@@ -1,0 +1,1132 @@
+{
+    "nodes": [
+        {
+            "nodeID": "512829",
+            "text": "Ella: Chris Philp : We will be funding as we normally too",
+            "type": "L",
+            "timestamp": "2020-05-28 20:30:54"
+        },
+        {
+            "nodeID": "512830",
+            "text": "Chris Philp : We will be funding as we normally do",
+            "type": "L",
+            "timestamp": "2020-05-28 20:30:54"
+        },
+        {
+            "nodeID": "512832",
+            "text": "we will be funding as we normally do",
+            "type": "I",
+            "timestamp": "2020-05-28 20:30:54"
+        },
+        {
+            "nodeID": "512833",
+            "text": "Ella: Chris Philp : We will be funding as we normally do",
+            "type": "L",
+            "timestamp": "2020-05-28 20:30:54"
+        },
+        {
+            "nodeID": "512834",
+            "text": "Chris Philp : There will be different arrangements for voting",
+            "type": "L",
+            "timestamp": "2020-05-28 20:30:54"
+        },
+        {
+            "nodeID": "512836",
+            "text": "there will be different arrangements for voting",
+            "type": "I",
+            "timestamp": "2020-05-28 20:30:55"
+        },
+        {
+            "nodeID": "512837",
+            "text": "Ella: Chris Philp : There will be different arrangements for voting",
+            "type": "L",
+            "timestamp": "2020-05-28 20:30:55"
+        },
+        {
+            "nodeID": "512838",
+            "text": "Chris Philp : It will not be business as usual",
+            "type": "L",
+            "timestamp": "2020-05-28 20:30:55"
+        },
+        {
+            "nodeID": "512840",
+            "text": "it will not be business as usual",
+            "type": "I",
+            "timestamp": "2020-05-28 20:30:55"
+        },
+        {
+            "nodeID": "512841",
+            "text": "Ella: Chris Philp : It will not be business as usual",
+            "type": "L",
+            "timestamp": "2020-05-28 20:30:55"
+        },
+        {
+            "nodeID": "512842",
+            "text": "Chris Philp : MPs will be doing their job",
+            "type": "L",
+            "timestamp": "2020-05-28 20:30:56"
+        },
+        {
+            "nodeID": "512844",
+            "text": "MPs will be doing their job",
+            "type": "I",
+            "timestamp": "2020-05-28 20:30:56"
+        },
+        {
+            "nodeID": "512845",
+            "text": "Ella: Chris Philp : MPs will be doing their job",
+            "type": "L",
+            "timestamp": "2020-05-28 20:30:56"
+        },
+        {
+            "nodeID": "512846",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:30:56",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512847",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:30:56",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512848",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:30:56",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512851",
+            "text": "Camilla Tominey : Claire was talking about her question of well being of children",
+            "type": "L",
+            "timestamp": "2020-05-28 20:30:57"
+        },
+        {
+            "nodeID": "512852",
+            "text": "Claire Cooper was talking about her question of well being of children",
+            "type": "I",
+            "timestamp": "2020-05-28 20:30:57"
+        },
+        {
+            "nodeID": "512853",
+            "text": "Ella: Camilla Tominey : Claire was talking about her question of well being of children",
+            "type": "L",
+            "timestamp": "2020-05-28 20:30:57"
+        },
+        {
+            "nodeID": "512854",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:30:57",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512855",
+            "text": "Ella: Camilla Tominey : the sense of it will be different when they go back",
+            "type": "L",
+            "timestamp": "2020-05-28 20:30:57"
+        },
+        {
+            "nodeID": "512856",
+            "text": "Camilla Tominey : it will be different when they go back",
+            "type": "L",
+            "timestamp": "2020-05-28 20:30:58"
+        },
+        {
+            "nodeID": "512858",
+            "text": "it will be different when children go back to school",
+            "type": "I",
+            "timestamp": "2020-05-28 20:30:58"
+        },
+        {
+            "nodeID": "512859",
+            "text": "Ella: Camilla Tominey : it will be different when they go back",
+            "type": "L",
+            "timestamp": "2020-05-28 20:30:58"
+        },
+        {
+            "nodeID": "512860",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:30:58",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512863",
+            "text": "Camilla Tominey : they will be social distancing",
+            "type": "L",
+            "timestamp": "2020-05-28 20:30:59"
+        },
+        {
+            "nodeID": "512865",
+            "text": "children will be social distancing at school",
+            "type": "I",
+            "timestamp": "2020-05-28 20:30:59"
+        },
+        {
+            "nodeID": "512866",
+            "text": "Ella: Camilla Tominey : they will be social distancing",
+            "type": "L",
+            "timestamp": "2020-05-28 20:30:59"
+        },
+        {
+            "nodeID": "512868",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:30:59",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512870",
+            "text": "Camilla Tominey : I don't know how the curriculum might match up to what it might have been if we were not in this situation",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:00"
+        },
+        {
+            "nodeID": "512872",
+            "text": "Camilla Tominey doesn't know how the curriculum for schools might match up to what it might have been if we were not in this situation",
+            "type": "I",
+            "timestamp": "2020-05-28 20:31:00"
+        },
+        {
+            "nodeID": "512873",
+            "text": "Ella: Camilla Tominey : I don't know how the curriculum might match up to what it might have been if we were not in this situation",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:00"
+        },
+        {
+            "nodeID": "512874",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:31:00",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512875",
+            "text": "Camilla Tominey : children miss their friends",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:00"
+        },
+        {
+            "nodeID": "512877",
+            "text": "children miss their friends",
+            "type": "I",
+            "timestamp": "2020-05-28 20:31:01"
+        },
+        {
+            "nodeID": "512878",
+            "text": "Ella: Camilla Tominey : children miss their friends",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:01"
+        },
+        {
+            "nodeID": "512879",
+            "text": "Camilla Tominey : miss that social interaction",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:01"
+        },
+        {
+            "nodeID": "512881",
+            "text": "children miss that social interaction",
+            "type": "I",
+            "timestamp": "2020-05-28 20:31:01"
+        },
+        {
+            "nodeID": "512882",
+            "text": "Ella: Camilla Tominey : miss that social interaction",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:01"
+        },
+        {
+            "nodeID": "512883",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:31:01",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512887",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:31:02",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512889",
+            "text": "Ella: Camilla Tominey : For children that have been all right at home and are in safe and loving homes",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:02"
+        },
+        {
+            "nodeID": "512890",
+            "text": "Ella: Camilla Tominey : they have been okay",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:02"
+        },
+        {
+            "nodeID": "512891",
+            "text": "Ella: Camilla Tominey : maybe they can last until September",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:02"
+        },
+        {
+            "nodeID": "512892",
+            "text": "Ella: Camilla Tominey : with not too much damage",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:03"
+        },
+        {
+            "nodeID": "512893",
+            "text": "Camilla Tominey : maybe they can last until September with not too much damage",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:03"
+        },
+        {
+            "nodeID": "512895",
+            "text": "maybe these children in safe and loving homes can last until September with not too much damage",
+            "type": "I",
+            "timestamp": "2020-05-28 20:31:03"
+        },
+        {
+            "nodeID": "512896",
+            "text": "Ella: Camilla Tominey : maybe they can last until September with not too much damage",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:03"
+        },
+        {
+            "nodeID": "512897",
+            "text": "Camilla Tominey : the government expected 20% attendance levels at schools throughout lockdown",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:03"
+        },
+        {
+            "nodeID": "512899",
+            "text": "the government expected 20% attendance levels at schools throughout lockdown",
+            "type": "I",
+            "timestamp": "2020-05-28 20:31:04"
+        },
+        {
+            "nodeID": "512900",
+            "text": "Ella: Camilla Tominey : the government expected 20% attendance levels at schools throughout lockdown",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:04"
+        },
+        {
+            "nodeID": "512901",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:31:04",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512902",
+            "text": "Camilla Tominey : They hoped that all vulnerable children and a lot of children of key workers would attend",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:04"
+        },
+        {
+            "nodeID": "512904",
+            "text": "the government hoped that all vulnerable children and a lot of children of key workers would attend",
+            "type": "I",
+            "timestamp": "2020-05-28 20:31:04"
+        },
+        {
+            "nodeID": "512905",
+            "text": "Ella: Camilla Tominey : They hoped that all vulnerable children and a lot of children of key workers would attend",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:04"
+        },
+        {
+            "nodeID": "512906",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:31:05",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512907",
+            "text": "Camilla Tominey : what happened is less than 2% of children attended",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:05"
+        },
+        {
+            "nodeID": "512909",
+            "text": "less than 2% of children attended",
+            "type": "I",
+            "timestamp": "2020-05-28 20:31:05"
+        },
+        {
+            "nodeID": "512910",
+            "text": "Ella: Camilla Tominey : what happened is less than 2% of children attended",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:05"
+        },
+        {
+            "nodeID": "512911",
+            "text": "Camilla Tominey : I am quite involved with the charity association for the children of alcoholics",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:05"
+        },
+        {
+            "nodeID": "512913",
+            "text": "Camilla Tominey is quite involved with the charity association for the children of alcoholics",
+            "type": "I",
+            "timestamp": "2020-05-28 20:31:06"
+        },
+        {
+            "nodeID": "512914",
+            "text": "Ella: Camilla Tominey : I am quite involved with the charity association for the children of alcoholics",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:06"
+        },
+        {
+            "nodeID": "512915",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:31:06",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512916",
+            "text": "Camilla Tominey : Their calls are going through the roof",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:06"
+        },
+        {
+            "nodeID": "512918",
+            "text": "calls for the charity association for children of alcoholics are going through the roof",
+            "type": "I",
+            "timestamp": "2020-05-28 20:31:06"
+        },
+        {
+            "nodeID": "512919",
+            "text": "Ella: Camilla Tominey : Their calls are going through the roof",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:06"
+        },
+        {
+            "nodeID": "512920",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:31:07",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512923",
+            "text": "Camilla Tominey : I did a show with [Unknown] the other day",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:07"
+        },
+        {
+            "nodeID": "512925",
+            "text": "I did a show with [Unknown] the other day",
+            "type": "I",
+            "timestamp": "2020-05-28 20:31:07"
+        },
+        {
+            "nodeID": "512926",
+            "text": "Ella: Camilla Tominey : I did a show with [Unknown] the other day",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:07"
+        },
+        {
+            "nodeID": "512927",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:31:08",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512928",
+            "text": "Camilla Tominey : She was saying childline had been inundated",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:08"
+        },
+        {
+            "nodeID": "512930",
+            "text": "she was saying childline had been inundated",
+            "type": "I",
+            "timestamp": "2020-05-28 20:31:08"
+        },
+        {
+            "nodeID": "512931",
+            "text": "Ella: Camilla Tominey : She was saying childline had been inundated",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:08"
+        },
+        {
+            "nodeID": "512932",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:31:08",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512935",
+            "text": "Camilla Tominey : We have to weigh up the risk here",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:09"
+        },
+        {
+            "nodeID": "512937",
+            "text": "we have to weigh up the risk here",
+            "type": "I",
+            "timestamp": "2020-05-28 20:31:09"
+        },
+        {
+            "nodeID": "512938",
+            "text": "Ella: Camilla Tominey : We have to weigh up the risk here",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:09"
+        },
+        {
+            "nodeID": "512940",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:31:09",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512942",
+            "text": "Camilla Tominey : there is a risk to children of perhaps contracting COVID-19 and spreading it to vulnerable adults",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:10"
+        },
+        {
+            "nodeID": "512944",
+            "text": "there is a risk to children of perhaps contracting COVID-19 and spreading it to vulnerable adults",
+            "type": "I",
+            "timestamp": "2020-05-28 20:31:10"
+        },
+        {
+            "nodeID": "512945",
+            "text": "Ella: Camilla Tominey : there is a risk to children of perhaps contracting COVID-19 and spreading it to vulnerable adults",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:10"
+        },
+        {
+            "nodeID": "512946",
+            "text": "Camilla Tominey : that's not something we want",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:10"
+        },
+        {
+            "nodeID": "512948",
+            "text": "risking the spread of COVID-19 is not something we want",
+            "type": "I",
+            "timestamp": "2020-05-28 20:31:10"
+        },
+        {
+            "nodeID": "512949",
+            "text": "Ella: Camilla Tominey : that's not something we want",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:11"
+        },
+        {
+            "nodeID": "512951",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:31:11",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512953",
+            "text": "Camilla Tominey : what's the risk for vulnerable children for remaining in homes where they may be facing abuse or other problems",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:11"
+        },
+        {
+            "nodeID": "512955",
+            "text": "what's the risk for vulnerable children for remaining in homes where they may be facing abuse or other problems",
+            "type": "I",
+            "timestamp": "2020-05-28 20:31:12"
+        },
+        {
+            "nodeID": "512956",
+            "text": "Ella: Camilla Tominey : what's the risk for vulnerable children for remaining in homes where they may be facing abuse or other problems",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:12"
+        },
+        {
+            "nodeID": "512958",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:31:12",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512960",
+            "text": "Ella: Camilla Tominey : greatly affect their well being, much, much more",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:12"
+        },
+        {
+            "nodeID": "512961",
+            "text": "Camilla Tominey : greatly affect their well being, much, much more frankly than being socially distanced in a class room",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:12"
+        },
+        {
+            "nodeID": "512963",
+            "text": "vulnerable children remaining at home greatly affect their well being, much, much more frankly than being socially distanced in a class room",
+            "type": "I",
+            "timestamp": "2020-05-28 20:31:13"
+        },
+        {
+            "nodeID": "512964",
+            "text": "Ella: Camilla Tominey : greatly affect their well being, much, much more frankly than being socially distanced in a class room",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:13"
+        },
+        {
+            "nodeID": "512965",
+            "text": "Ella: Claire Cooper : Claire Cooper was talking about her question of well being of children",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:13"
+        },
+        {
+            "nodeID": "512969",
+            "text": "Camilla Tominey : children that have been all right at home and are in safe and loving homes, they have been okay",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:13"
+        },
+        {
+            "nodeID": "512971",
+            "text": "children that have been all right at home and are in safe and loving homes, they have been okay",
+            "type": "I",
+            "timestamp": "2020-05-28 20:31:14"
+        },
+        {
+            "nodeID": "512972",
+            "text": "Ella: Camilla Tominey : children that have been all right at home and are in safe and loving homes, they have been okay",
+            "type": "L",
+            "timestamp": "2020-05-28 20:31:14"
+        },
+        {
+            "nodeID": "512974",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:31:14",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512975",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:31:14",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512980",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:31:15",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "512983",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2020-05-28 20:31:16",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "668200",
+            "fromID": "512830",
+            "toID": "512846",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668201",
+            "fromID": "512846",
+            "toID": "512842",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668202",
+            "fromID": "512834",
+            "toID": "512847",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668203",
+            "fromID": "512847",
+            "toID": "512838",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668204",
+            "fromID": "512830",
+            "toID": "512848",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668205",
+            "fromID": "512848",
+            "toID": "512834",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668212",
+            "fromID": "512842",
+            "toID": "512854",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668213",
+            "fromID": "512854",
+            "toID": "512851",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668216",
+            "fromID": "512851",
+            "toID": "512860",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668217",
+            "fromID": "512860",
+            "toID": "512856",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668226",
+            "fromID": "512856",
+            "toID": "512868",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668227",
+            "fromID": "512868",
+            "toID": "512863",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668232",
+            "fromID": "512863",
+            "toID": "512874",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668233",
+            "fromID": "512874",
+            "toID": "512870",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668238",
+            "fromID": "512875",
+            "toID": "512883",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668239",
+            "fromID": "512883",
+            "toID": "512879",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668246",
+            "fromID": "512851",
+            "toID": "512887",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668247",
+            "fromID": "512887",
+            "toID": "512875",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668254",
+            "fromID": "512893",
+            "toID": "512901",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668255",
+            "fromID": "512901",
+            "toID": "512897",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668258",
+            "fromID": "512897",
+            "toID": "512906",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668259",
+            "fromID": "512906",
+            "toID": "512902",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668264",
+            "fromID": "512907",
+            "toID": "512915",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668265",
+            "fromID": "512915",
+            "toID": "512911",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668268",
+            "fromID": "512911",
+            "toID": "512920",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668269",
+            "fromID": "512920",
+            "toID": "512916",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668276",
+            "fromID": "512916",
+            "toID": "512927",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668277",
+            "fromID": "512927",
+            "toID": "512923",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668280",
+            "fromID": "512923",
+            "toID": "512932",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668281",
+            "fromID": "512932",
+            "toID": "512928",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668291",
+            "fromID": "512916",
+            "toID": "512940",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668292",
+            "fromID": "512940",
+            "toID": "512935",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668293",
+            "fromID": "512928",
+            "toID": "512940",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668299",
+            "fromID": "512940",
+            "toID": "512942",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668304",
+            "fromID": "512942",
+            "toID": "512951",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668305",
+            "fromID": "512951",
+            "toID": "512946",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668312",
+            "fromID": "512935",
+            "toID": "512958",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668313",
+            "fromID": "512958",
+            "toID": "512953",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668328",
+            "fromID": "512879",
+            "toID": "512974",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668329",
+            "fromID": "512974",
+            "toID": "512969",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668330",
+            "fromID": "512969",
+            "toID": "512975",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668331",
+            "fromID": "512975",
+            "toID": "512893",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668340",
+            "fromID": "512902",
+            "toID": "512980",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668341",
+            "fromID": "512980",
+            "toID": "512907",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668346",
+            "fromID": "512953",
+            "toID": "512983",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "668347",
+            "fromID": "512983",
+            "toID": "512961",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "512830",
+            "personID": "3861",
+            "timestamp": "2020-05-28 20:31:16",
+            "start": "2020-05-21 23:05:55",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512834",
+            "personID": "3861",
+            "timestamp": "2020-05-28 20:31:16",
+            "start": "2020-05-21 23:05:58",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512838",
+            "personID": "3861",
+            "timestamp": "2020-05-28 20:31:16",
+            "start": "2020-05-21 23:06:01",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512842",
+            "personID": "3861",
+            "timestamp": "2020-05-28 20:31:16",
+            "start": "2020-05-21 23:06:03",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512851",
+            "personID": "3865",
+            "timestamp": "2020-05-28 20:31:16",
+            "start": "2020-05-21 23:06:05",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512856",
+            "personID": "3865",
+            "timestamp": "2020-05-28 20:31:16",
+            "start": "2020-05-21 23:06:09",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512863",
+            "personID": "3865",
+            "timestamp": "2020-05-28 20:31:16",
+            "start": "2020-05-21 23:06:11",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512870",
+            "personID": "3865",
+            "timestamp": "2020-05-28 20:31:16",
+            "start": "2020-05-21 23:06:14",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512875",
+            "personID": "3865",
+            "timestamp": "2020-05-28 20:31:16",
+            "start": "2020-05-21 23:06:20",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512879",
+            "personID": "3865",
+            "timestamp": "2020-05-28 20:31:16",
+            "start": "2020-05-21 23:06:21",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512893",
+            "personID": "3865",
+            "timestamp": "2020-05-28 20:31:16",
+            "start": "2020-05-21 23:06:29",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512897",
+            "personID": "3865",
+            "timestamp": "2020-05-28 20:31:16",
+            "start": "2020-05-21 23:06:36",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512902",
+            "personID": "3865",
+            "timestamp": "2020-05-28 20:31:16",
+            "start": "2020-05-21 23:06:41",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512907",
+            "personID": "3865",
+            "timestamp": "2020-05-28 20:31:16",
+            "start": "2020-05-21 23:06:44",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512911",
+            "personID": "3865",
+            "timestamp": "2020-05-28 20:31:16",
+            "start": "2020-05-21 23:06:46",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512916",
+            "personID": "3865",
+            "timestamp": "2020-05-28 20:31:16",
+            "start": "2020-05-21 23:06:54",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512923",
+            "personID": "3865",
+            "timestamp": "2020-05-28 20:31:16",
+            "start": "2020-05-21 23:06:58",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512928",
+            "personID": "3865",
+            "timestamp": "2020-05-28 20:31:16",
+            "start": "2020-05-21 23:07:02",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512935",
+            "personID": "3865",
+            "timestamp": "2020-05-28 20:31:16",
+            "start": "2020-05-21 23:07:07",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512942",
+            "personID": "3865",
+            "timestamp": "2020-05-28 20:31:16",
+            "start": "2020-05-21 23:07:11",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512946",
+            "personID": "3865",
+            "timestamp": "2020-05-28 20:31:16",
+            "start": "2020-05-21 23:07:21",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512953",
+            "personID": "3865",
+            "timestamp": "2020-05-28 20:31:16",
+            "start": "2020-05-21 23:07:25",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512961",
+            "personID": "3865",
+            "timestamp": "2020-05-28 20:31:16",
+            "start": "2020-05-21 23:07:36",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "512969",
+            "personID": "3865",
+            "timestamp": "2020-05-28 20:31:16",
+            "start": "2020-05-21 23:06:25",
+            "end": null,
+            "source": null
+        }
+    ]
+}

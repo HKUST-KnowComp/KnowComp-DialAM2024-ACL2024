@@ -1,0 +1,380 @@
+{
+    "nodes": [
+        {
+            "nodeID": "659343",
+            "text": "Jeane Freeman : today in the Scottish Parliament the major exporters in food and drink said Brexit was a disaster",
+            "type": "L",
+            "timestamp": "2021-02-18 20:53:08"
+        },
+        {
+            "nodeID": "659345",
+            "text": "today in the Scottish Parliament the major exporters in food and drink said Brexit was a disaster",
+            "type": "I",
+            "timestamp": "2021-02-18 20:53:09"
+        },
+        {
+            "nodeID": "659346",
+            "text": "Zlata: Jeane Freeman : today in the Scottish Parliament the major exporters in food and drink said Brexit was a disaster",
+            "type": "L",
+            "timestamp": "2021-02-18 20:53:09"
+        },
+        {
+            "nodeID": "659347",
+            "text": "Zlata: Jeane Freeman : it was making trade really difficult and for some of our young entrepreneurial countries that don't want to send a whole lorry load but want to send part of a lorry load",
+            "type": "L",
+            "timestamp": "2021-02-18 20:53:10"
+        },
+        {
+            "nodeID": "659348",
+            "text": "Jeane Freeman : it was making trade really difficult",
+            "type": "L",
+            "timestamp": "2021-02-18 20:53:10"
+        },
+        {
+            "nodeID": "659350",
+            "text": "Brexit was making trade really difficult",
+            "type": "I",
+            "timestamp": "2021-02-18 20:53:11"
+        },
+        {
+            "nodeID": "659351",
+            "text": "Zlata: Jeane Freeman : it was making trade really difficult",
+            "type": "L",
+            "timestamp": "2021-02-18 20:53:11"
+        },
+        {
+            "nodeID": "659352",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:53:11",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "659353",
+            "text": "Zlata: Jeane Freeman :  for some of our young entrepreneurial countries that don't want to send a whole lorry load but want to send part of a lorry load",
+            "type": "L",
+            "timestamp": "2021-02-18 20:53:11"
+        },
+        {
+            "nodeID": "659354",
+            "text": "Zlata: Jeane Freeman :  for some of our young entrepreneurial countries that don't want to send a whole lorry load but want to send part of a lorry load, it is not financially viable for them to do that because of the bureaucracy that comes as a consequence of the deal that Boris Johnson signed",
+            "type": "L",
+            "timestamp": "2021-02-18 20:53:12"
+        },
+        {
+            "nodeID": "659355",
+            "text": "Jeane Freeman : for some of our young entrepreneurial countries that don't want to send a whole lorry load but want to send part of a lorry load, it is not financially viable for them to do that",
+            "type": "L",
+            "timestamp": "2021-02-18 20:53:12"
+        },
+        {
+            "nodeID": "659357",
+            "text": "for some of our young entrepreneurial countries that don't want to send a whole lorry load but want to send part of a lorry load, it is not financially viable for them to do that",
+            "type": "I",
+            "timestamp": "2021-02-18 20:53:13"
+        },
+        {
+            "nodeID": "659358",
+            "text": "Zlata: Jeane Freeman : for some of our young entrepreneurial countries that don't want to send a whole lorry load but want to send part of a lorry load, it is not financially viable for them to do that",
+            "type": "L",
+            "timestamp": "2021-02-18 20:53:13"
+        },
+        {
+            "nodeID": "659359",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:53:13",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "659360",
+            "text": "Jeane Freeman : the bureaucracy that comes as a consequence of the deal that Boris Johnson signed",
+            "type": "L",
+            "timestamp": "2021-02-18 20:53:14"
+        },
+        {
+            "nodeID": "659362",
+            "text": "the bureaucracy comes as a consequence of the deal that Boris Johnson signed",
+            "type": "I",
+            "timestamp": "2021-02-18 20:53:14"
+        },
+        {
+            "nodeID": "659363",
+            "text": "Zlata: Jeane Freeman : the bureaucracy that comes as a consequence of the deal that Boris Johnson signed",
+            "type": "L",
+            "timestamp": "2021-02-18 20:53:15"
+        },
+        {
+            "nodeID": "659365",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:53:15",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "659367",
+            "text": "Jeane Freeman : There's no way around it",
+            "type": "L",
+            "timestamp": "2021-02-18 20:53:15"
+        },
+        {
+            "nodeID": "659369",
+            "text": "there's no way around deal that Boris Johnson signed",
+            "type": "I",
+            "timestamp": "2021-02-18 20:53:15"
+        },
+        {
+            "nodeID": "659370",
+            "text": "Zlata: Jeane Freeman : There's no way around it",
+            "type": "L",
+            "timestamp": "2021-02-18 20:53:16"
+        },
+        {
+            "nodeID": "659371",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:53:16",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "659372",
+            "text": "You can't spin",
+            "type": "L",
+            "timestamp": "2021-02-18 20:53:16"
+        },
+        {
+            "nodeID": "659373",
+            "text": "Jeane Freeman : You can't spin it any other way",
+            "type": "L",
+            "timestamp": "2021-02-18 20:53:17"
+        },
+        {
+            "nodeID": "659375",
+            "text": "you can't spin the situation caused by the deal that Boris Johnson signed any other way",
+            "type": "I",
+            "timestamp": "2021-02-18 20:53:17"
+        },
+        {
+            "nodeID": "659376",
+            "text": "Zlata: Jeane Freeman : You can't spin it any other way",
+            "type": "L",
+            "timestamp": "2021-02-18 20:53:18"
+        },
+        {
+            "nodeID": "659377",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:53:18",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "659380",
+            "text": "Jeane Freeman : It is because of the deal that was signed, the fact that we're outside of a major trading partner is going to wreak havoc on our economy",
+            "type": "L",
+            "timestamp": "2021-02-18 20:53:18"
+        },
+        {
+            "nodeID": "659382",
+            "text": "it is because of the deal that was signed, the fact that we're outside of a major trading partner is going to wreak havoc on our economy",
+            "type": "I",
+            "timestamp": "2021-02-18 20:53:19"
+        },
+        {
+            "nodeID": "659383",
+            "text": "Zlata: Jeane Freeman : It is because of the deal that was signed, the fact that we're outside of a major trading partner is going to wreak havoc on our economy",
+            "type": "L",
+            "timestamp": "2021-02-18 20:53:19"
+        },
+        {
+            "nodeID": "659384",
+            "text": "Jeane Freeman : you want to deny the people of Scotland to deny whether or not they want to be an independent country",
+            "type": "L",
+            "timestamp": "2021-02-18 20:53:19"
+        },
+        {
+            "nodeID": "659386",
+            "text": "Michael Forsyth wants the people of Scotland to deny whether or not they want to be an independent country",
+            "type": "I",
+            "timestamp": "2021-02-18 20:53:20"
+        },
+        {
+            "nodeID": "659387",
+            "text": "Zlata: Jeane Freeman : you want to deny the people of Scotland to deny whether or not they want to be an independent country",
+            "type": "L",
+            "timestamp": "2021-02-18 20:53:20"
+        },
+        {
+            "nodeID": "659388",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:53:20",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        },
+        {
+            "nodeID": "659393",
+            "text": "Default Transition",
+            "type": "TA",
+            "timestamp": "2021-02-18 20:53:20",
+            "scheme": "Default Transition",
+            "schemeID": "82"
+        }
+    ],
+    "edges": [
+        {
+            "edgeID": "851169",
+            "fromID": "659343",
+            "toID": "659352",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "851170",
+            "fromID": "659352",
+            "toID": "659348",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "851173",
+            "fromID": "659348",
+            "toID": "659359",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "851174",
+            "fromID": "659359",
+            "toID": "659355",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "851179",
+            "fromID": "659355",
+            "toID": "659365",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "851180",
+            "fromID": "659365",
+            "toID": "659360",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "851185",
+            "fromID": "659360",
+            "toID": "659371",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "851186",
+            "fromID": "659371",
+            "toID": "659367",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "851189",
+            "fromID": "659367",
+            "toID": "659377",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "851190",
+            "fromID": "659377",
+            "toID": "659373",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "851199",
+            "fromID": "659380",
+            "toID": "659388",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "851200",
+            "fromID": "659388",
+            "toID": "659384",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "851209",
+            "fromID": "659367",
+            "toID": "659393",
+            "formEdgeID": null
+        },
+        {
+            "edgeID": "851210",
+            "fromID": "659393",
+            "toID": "659380",
+            "formEdgeID": null
+        }
+    ],
+    "locutions": [
+        {
+            "nodeID": "659343",
+            "personID": "4316",
+            "timestamp": "2021-02-18 20:53:20",
+            "start": "2020-10-15 22:45:39",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "659348",
+            "personID": "4316",
+            "timestamp": "2021-02-18 20:53:20",
+            "start": "2020-10-15 22:45:49",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "659355",
+            "personID": "4316",
+            "timestamp": "2021-02-18 20:53:20",
+            "start": "2020-10-15 22:45:53",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "659360",
+            "personID": "4316",
+            "timestamp": "2021-02-18 20:53:20",
+            "start": "2020-10-15 22:46:12",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "659367",
+            "personID": "4316",
+            "timestamp": "2021-02-18 20:53:20",
+            "start": "2020-10-15 22:46:20",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "659373",
+            "personID": "4316",
+            "timestamp": "2021-02-18 20:53:20",
+            "start": "2020-10-15 22:46:23",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "659380",
+            "personID": "4316",
+            "timestamp": "2021-02-18 20:53:20",
+            "start": "2020-10-15 22:46:26",
+            "end": null,
+            "source": null
+        },
+        {
+            "nodeID": "659384",
+            "personID": "4316",
+            "timestamp": "2021-02-18 20:53:20",
+            "start": "2020-10-15 22:46:41",
+            "end": null,
+            "source": null
+        }
+    ]
+}
