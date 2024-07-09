@@ -35,13 +35,13 @@ RELATION_P2 = ["RA","CA","MA"]
 RELATION_TEXT = ["Default Inference","Default Conflict","Default Rephrase"]
 YA_RELATION = ['Asserting','Restating','Arguing','Pure Questioning','Default Illocuting','Disagreeing','Agreeing','Assertive Questioning','Rhetorical Questioning','Challenging','Analysing','None']
 
-def main(ckpt_dir,phase=1,phase_test_dir=None,phase_res_dir=None):
+def main(ckpt_dir,step=1,step_test_dir=None,step_res_dir=None):
     # time1 = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     # print(f"{time1}: start generating results with ckpt {ckpt_dir}")
     gen_batch_size = 256
     ckpt_start_time = time.perf_counter()
     num_labels = 2
-    if phase == 2:
+    if step == 2:
         num_labels = 3
     if "deberta" in ckpt_dir:
         model = AutoModelForSequenceClassification.from_pretrained(ckpt_dir,num_labels=num_labels,device_map="cuda")
@@ -51,10 +51,10 @@ def main(ckpt_dir,phase=1,phase_test_dir=None,phase_res_dir=None):
     
     test_res_dir = os.path.join(ckpt_dir,"pred_results")
     test_dir = "./dataset/test/my_test/"
-    if phase_test_dir:
-        test_dir = phase_test_dir
-    if phase_res_dir:
-        test_res_dir = phase_res_dir
+    if step_test_dir:
+        test_dir = step_test_dir
+    if step_res_dir:
+        test_res_dir = step_res_dir
     if not os.path.exists(test_res_dir):
         os.makedirs(test_res_dir)
         
@@ -88,7 +88,7 @@ def main(ckpt_dir,phase=1,phase_test_dir=None,phase_res_dir=None):
         tmp_batch = []
         tmp_node_batch = []
 
-        if phase == 1:
+        if step == 1:
             for i in range(len(inodes)):
                 for j in range(len(inodes)):
                     a = inodes[i]
@@ -133,7 +133,7 @@ def main(ckpt_dir,phase=1,phase_test_dir=None,phase_res_dir=None):
                     data["nodes"].append(new_node)
                     data["edges"].extend([new_edge_in,new_edge_out])    
         
-        elif phase == 2:
+        elif step == 2:
             new_nodes = []
             for a in data["nodes"]:
                 if not a["type"] == "HAVING RELATION":
@@ -185,17 +185,13 @@ def main(ckpt_dir,phase=1,phase_test_dir=None,phase_res_dir=None):
 
 if __name__=="__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--model_dir",type=str,default=None)
-    parser.add_argument("--phase",type=int,default=1)
-    parser.add_argument("--phase_data",type=str,default=None)
-    parser.add_argument("--phase_res",type=str,default=None)
+    parser.add_argument("--model_path",type=str,default=None)
+    parser.add_argument("--step",type=int,default=1)  
+    parser.add_argument("--step_data",type=str,default=None) # path of the data to be predicted 
+    parser.add_argument("--step_res",type=str,default=None) # path for saving the result file
 
     args = parser.parse_args()
-    os.environ["CUDA_VISIBLE_DEVICES"]="0"
-    # for ckpt_dir in os.listdir(args.model_dir):
-        # for ckpt_dir in [f"checkpoint-{x}" for x in [485]]:
-    ckpt_dir = "./output/relation_models_p2/mnli-robert5e-6"
-    ckpt_dir = args.model_dir
-        # main(os.path.join(args.model_dir,ckpt_dir),args.phase,args.phase_data)
-    main(ckpt_dir,args.phase,args.phase_data,args.phase_res) 
-# 
+    os.environ["CUDA_VISIBLE_DEVICES"]="2"
+
+    ckpt_dir = args.model_path
+    main(ckpt_dir,args.step,args.step_data,args.step_res) 

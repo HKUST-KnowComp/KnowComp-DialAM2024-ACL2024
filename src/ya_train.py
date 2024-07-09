@@ -1,10 +1,8 @@
 import json
 import argparse
 import os
-os.environ["CUDA_VISIBLE_DEVICES"]="2,3"
 
 from transformers import TrainingArguments, Trainer, DebertaV2ForSequenceClassification, DebertaTokenizer, AutoModelForSequenceClassification,AutoTokenizer
-from myDataset import RelationDataset
 from datasets import load_dataset
 from metrics import compute_metrics
 

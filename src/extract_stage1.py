@@ -31,7 +31,7 @@ def get_relation_tuples(used_nodes,edges,node_maps):
         res.append({"head":inbounds,"relation":node,"tail":outbounds})
     return res
 
-def get_new_data(data_path):
+def get_new_data(data_path,neg=1):
     with open(data_path,"r",encoding="utf-8") as f:
         data = f.read()
         data = json.loads(data)
@@ -65,7 +65,8 @@ def get_new_data(data_path):
                 return False
         return True
     
-    for i in range(int(len(res_RA+res_MA+res_CA)*1)):
+    neg_num = int(len(res_RA+res_MA+res_CA)*neg)
+    for i in range(neg_num):
         while True:
             new_idx_1 = random.randint(0,len(nodes)-1)
             new_idx_2 = random.randint(0,len(nodes)-1)
@@ -115,13 +116,14 @@ if __name__=="__main__":
     parser.add_argument("--data_dir",type=str,default="./data/train/my_train")
     parser.add_argument("--data_path",type=str,default="./data/train/train_data/nodeset17918.json")
     parser.add_argument("--save_dir",type=str,default="./data/train/inode_relation_data_p1/")
-    parser.add_argument("--eval_rate",type=float,default=0.05)
+    parser.add_argument("--eval_rate",type=float,default=0.05) # the proportion of eval data 
     parser.add_argument("--seed",type=int,default=42)
-    parser.add_argument("--neg_sample",type=int,default=5000)
+    parser.add_argument("--step",type=int,default=1)
+    parser.add_argument("--neg",type=float,default=2) # the num of added neg samples : the num of original training samples
     args = parser.parse_args()
     new_ra,new_ca,new_ma,new_no = [],[],[],[]
     if not args.data_dir:
-        tmp_data = get_new_data(args.data_path)
+        tmp_data = get_new_data(args.data_path,neg=args.neg)
         new_ra += tmp_data[0]
         new_ca += tmp_data[1]
         new_ma += tmp_data[2]
@@ -129,7 +131,7 @@ if __name__=="__main__":
     else:
         datafiles = os.listdir(args.data_dir)
         for subdata in datafiles:
-            tmp_data = get_new_data(os.path.join(args.data_dir,subdata))
+            tmp_data = get_new_data(os.path.join(args.data_dir,subdata),neg=args.neg)
             new_ra += tmp_data[0]
             new_ca += tmp_data[1]
             new_ma += tmp_data[2]
@@ -153,21 +155,18 @@ if __name__=="__main__":
     
     eval_data = new_ra[:ra_eval_num] + new_ca[:ca_eval_num] + new_ma[:ma_eval_num] + new_no[:no_eval_num]
     train_data = new_ra[ra_eval_num:] + new_ca[ca_eval_num:] + new_ma[ma_eval_num:] + new_no[no_eval_num:]
-    # eval_data = new_ra[:ra_eval_num] + new_ca[:ca_eval_num] + new_ma[:ma_eval_num]
-    # train_data = new_ra[ra_eval_num:] + new_ca[ca_eval_num:] + new_ma[ma_eval_num:]
     
     random.shuffle(eval_data)
     random.shuffle(train_data)
     
-    # count = 0
-    # for tpl in new_data:
-    #     if len(tpl["head"]) > 1:
-    #         count += 1
 
-    # print(f"num of multiple inbound nodes:{count}, total tuples num:{len(new_data)}")
-
-    
-    with open(os.path.join(args.save_dir,"train.json"),"w",encoding="utf-8") as saved_f:
-        json.dump({"data":process_phase_1(train_data)},saved_f,ensure_ascii=False,indent=4)
-    with open(os.path.join(args.save_dir,"eval.json"),"w",encoding="utf-8") as saved_f:
-        json.dump({"data":process_phase_1(eval_data)},saved_f,ensure_ascii=False,indent=4)
+    if args.step == 1:
+        with open(os.path.join(args.save_dir,"train.json"),"w",encoding="utf-8") as saved_f:
+            json.dump({"data":process_phase_1(train_data)},saved_f,ensure_ascii=False,indent=4)
+        with open(os.path.join(args.save_dir,"eval.json"),"w",encoding="utf-8") as saved_f:
+            json.dump({"data":process_phase_1(eval_data)},saved_f,ensure_ascii=False,indent=4)
+    else:
+        with open(os.path.join(args.save_dir,"train.json"),"w",encoding="utf-8") as saved_f:
+            json.dump({"data":process_phase_2(train_data)},saved_f,ensure_ascii=False,indent=4)
+        with open(os.path.join(args.save_dir,"eval.json"),"w",encoding="utf-8") as saved_f:
+            json.dump({"data":process_phase_2(eval_data)},saved_f,ensure_ascii=False,indent=4)

@@ -1,12 +1,13 @@
 import json
 import itertools
 import os
+import argparse
 from sklearn.metrics import precision_recall_fscore_support
 
-def main(file):                        
-    file1 = open(f'./eval/Evaluation_Data/{file}', 'r') # golden data
+def main(file,pred_dir,gold_dir):                        
+    file1 = open(os.path.join(gold_dir,file), 'r') # golden data
     truth = json.load(file1)["AIF"]
-    file2 = open(f"./test_{file}","r") # my predicted data
+    file2 = open(os.path.join(pred_dir,file),"r") # my predicted data
     preds = json.load(file2)
 
     proposition_dict = {}
@@ -171,10 +172,14 @@ def main(file):
     return {"General":precision_recall_fscore_support(y_true, y_pred, average='macro',zero_division=0),"Focused":precision_recall_fscore_support(focused_true, focused_pred, average='macro',zero_division=0)}
 
 if __name__=="__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--pred_data_dir",type=str)
+    parser.add_argument("--gold_data_dir",type=str)
+    args = parser.parse_args()
+    
     scores = {"g_precision":0,"g_recall":0,"g_fscore":0,"f_precision":0,"f_recall":0,"f_fscore":0,"cnt":0}
-    for file in os.listdir("./eval/Evaluation_Data"):
-    # for file in ["nodeset18321.json"]:
-        res = main(file)
+    for file in os.listdir(args.pred_data_dir):
+        res = main(file,args.pred_data_dir,args.gold_data_dir)
         scores["g_precision"] += res["General"][0]
         scores["g_recall"] += res["General"][1]
         scores["g_fscore"] += res["General"][2]
